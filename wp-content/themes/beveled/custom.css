@@ -1,0 +1,226 @@
+/*
+WOO CUSTOM STYLESHEET
+---------------------
+
+Instructions:
+
+Add your custom styles in this file instead of style.css so it
+is easier to update the theme. Simply copy an existing style
+from style.css to this file, and modify it to your liking. */
+
+/* GENERAL */
+
+p { font-size: 17px; line-height: 1.5em; margin-bottom: 1.5em; color: #222; }
+h1 { font-size:42px; line-height:1.1em; margin-bottom:0.8em; margin-top:1em; }
+h2 { font-size:36px; line-height:1.1em; margin-bottom:0.8em; margin-top:1em; }
+h3 { font-size:28px; line-height:1.1em; margin-bottom:0.8em; margin-top:1em; }
+h4 { font-size:24px; line-height:1.1em; margin-bottom:0.8em; margin-top:1em; }
+h5 { font-size:20px; line-height:1.1em; margin-bottom:0.8em; margin-top:1em; }
+
+/* HEADER */
+
+#header { padding:1em 0 0.7em; }
+#navigation { margin-top: 0.2em; }
+.nav a {font-weight: normal;}
+.hareru { clear: both; }
+
+/* HOMEPAGE */
+
+.home .description { font-size:62px; padding-top:0px; line-height:1em;}
+
+.hometop { background-image:url('http://cdn.textfugu.com/images/homepage.png'); background-repeat:no-repeat; background-position: bottom center; height:580px; margin-bottom: 40px;}
+.homebg { background-color:#ccc; height:580px; background: -webkit-gradient(linear, left top, right bottom, from(#f4f4f4), to(#ffffff)); background: -moz-linear-gradient(top,  #f4f4f4,  #ffffff); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f4f4', endColorstr='#ffffff');}
+.headerh1 { padding:0;margin:0;line-height:1;text-align:center;font-size:50px; }
+.headerh4 { padding:0;margin:0;margin-top:8px;color:#333;line-height:1; text-align:center; font-size:20px; }
+.homebutton { margin-top:330px; }
+.homebox { background-color:#fff; padding-top:20px; padding-bottom:20px; margin-top:20px;}
+.homebox h2 { padding:0; margin:0; line-height:1; text-align:center; }
+.homecopy { background-color:#f9f9f9; padding:30px; margin-bottom:20px; }
+.homecopy h3 { margin-bottom:10px; }
+.homecopy p { color:#333; font-size:17px; }
+
+/* LESSONS MENU */
+
+.lessonmenu { font-size:17px; }
+ul.lessonmenu li { margin-bottom: 12px; }
+.pn {padding:3px 5px; background-color:#fff; border: 1px solid #eee;}
+.pk {padding:3px 5px; background-color:#fad6f7; border: 1px solid #e8beee;}
+.pp {padding:3px 5px; background-color:#e9ffec; border: 1px solid #beeec9;}
+.pw {padding:3px 5px; background-color:#fffde5; border: 1px solid #eee8be;}
+.pr {padding:3px 5px; background-color:#d6f7ff; border: 1px solid #b2dbe7;}
+.pv {padding:3px 5px; background-color:#eadbff; border: 1px solid #dacaf0;}
+a.pn:visited {padding:3px 5px; background-color:#ddd; border-color:#ccc; }
+a.pk:visited {padding:3px 5px; background-color:#ddd; border-color:#ccc; }
+a.pp:visited {padding:3px 5px; background-color:#ddd; border-color:#ccc; }
+a.pw:visited {padding:3px 5px; background-color:#ddd; border-color:#ccc; }
+a.pr:visited {padding:3px 5px; background-color:#ddd; border-color:#ccc; }
+a.pv:visited {padding:3px 5px; background-color:#ddd; border-color:#ccc; }
+.notmember { opacity:0.5; }
+div.notmember a  { text-decoration: none; }
+div.notmember:hover a { cursor: default; color:#52A8E8; }
+
+/* PRICING PAGE */
+
+.pricing { max-width:800px; margin: 0 auto; }
+.pricing a:hover { text-decoration: none; }
+.pricing h1 { font-size:70px; text-align:center; line-height:1em; margin-top:0px; padding-top:0px; padding-bottom:0px; margin-bottom:10px;}
+.pricing h4 { text-align:center; font-size: 20px; padding-top:0px; }
+.monthly { width:280px; height:280px; float:left; background-color:#daffd1; border-radius:50%; -moz-border-radius:50%; -webkit-border-radius:50%; border: 5px solid #d4feca; }
+.monthly p { font-size: 16px; line-height: 1.4em; }
+.monthly:hover { border-color:#96f280; text-decoration:none; }
+.lifetime { width:280px; height:280px; float:right; background-color:#daffd1; border-radius:50%; -moz-border-radius:50%; -webkit-border-radius:50%; border: 5px solid #b5f9a5; }
+.lifetime:hover { border-color:#96f280;}
+.lifetime p { font-size: 15px; }
+.monthly h2 { position:relative; text-align:center; top:40px; }
+.lifetime h2 { position:relative; text-align:center; top:40px; }
+.monthly p, .lifetime p { position:relative; text-align:center; top:30px; }
+.pricingfaqtop { background-color:#fff; margin-top:30px;}
+.pricingfaqtop h2 { text-align:center; padding: 30px 0; margin-bottom:0; line-height:1;}
+.pricingfaqbottom { background-color:#fafafa; padding:30px; margin-bottom:20px; }
+.pricingfaqbottom p { color:#333; }
+
+/* DASHBOARD */
+
+ul.feed_list { margin-bottom:10px; font-size: 17px; }
+li.feed_list { list-style-type:disc; margin-left:20px; }
+.dashsection { padding:20px; background-color:#fff; border: 3px solid #eee; margin-bottom:20px; }
+.dashsection h3 { padding:0; margin-top:0; }
+.specialness { }
+.specialness .freebie { margin-bottom:20px; }
+.specialness .freebie img { float:left; }
+.specialness .freebie h3 { margin-left: 470px; padding-top:10px; margin-top:0; }
+.specialness .freebie p { margin-left: 470px; }
+
+/* LESSON */
+
+.post { padding:20px 20px; }
+#main.lesson { max-width: 800px; }
+.lesson {  }
+.lesson p { font-size:27px; line-height:1.5em; margin-bottom:1.5em; }
+.lesson img {  }
+.lesson h1 { font-size:48px; padding-bottom:0; margin-bottom:0; margin-top:0; padding-top:0; }
+.lesson h2 { font-size:36px; padding-bottom:0; margin-bottom:0; }
+.lesson h3 { font-size:32px; padding-bottom:0; padding-top:0; }
+.lesson h4 { font-size:22px; padding-top: 10px; padding-bottom:30px; line-height: 1.1em; }
+.lesson p { font-size:17px; line-height:28px; margin-bottom:28px; }
+.lesson ul li, .lesson ol li { font-size:17px; line-height:28px; margin-bottom:5px; }
+.credit { font-size:14px; text-align:right; margin-top:-30px; margin-bottom:28px; }
+.entry { font-family: sans-serif, "Meiryo", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Osaka", "MS PGothic", 'ＭＳ Ｐゴシック'; }
+
+/* KANJI SINGLE */
+
+.kanji { }
+.kanji h1 { font-size:200px; text-align:center; color:#222; line-height: 200px; font-weight: bold; font-family: Meiryo, sans-serif; margin: 20px 0 5px; }
+.kanji h1:hover { font-family: "Hiragino Mincho Pro","ヒラギノ明朝 Pro W6", "ヒラギノ角ゴ Pro W3", "メイリオ", "Osaka", "MS PGothic", 'ＭＳ Ｐゴシック'; cursor:default; }
+.kanji h2 { font-size: 32px; margin: 40px 0 20px; line-height: 32px; letter-spacing:normal; font-weight:600; background-color:#222; padding:20px 0px 20px 15px; color:#fff; }
+.kanji h3 {	font-family: Meiryo, serif, georgia; margin: 30px 0 30px 0; line-height: 1; font-size:24px; font-weight:500; }
+.kanji h4 { font-size: 22px; margin: 0 0 40px; line-height: 1.5; letter-spacing: normal; text-align:center; }
+.kanji p {  }
+.kanji blockquote { background: url(images/blockquote.png) no-repeat 0 12px; padding: 10px 20px 10px 50px; color: #2f2f2f; }
+.kanji blockquote p { font-style: italic; }
+.kanji ul { margin-bottom: 0px; padding: 0 0 0 10px; font-size:17px; margin-top:-10px; }
+.kanji ul li{ list-style-type: none; }
+.kanji ul ul{ margin: 0; }
+.kanji ul ul li { list-style-type: circle; }
+.kanji ol li { list-style-type: decimal; }
+.kanji ol ol { margin: 0; }
+.kanji ol ol li { list-style-type: lower-latin; }
+.kanji ol { padding: 0 0 0 30px; }
+
+.akanji { background-color:#e7ffe8; }
+.aradical { background-color:#d2f4ff; }
+.areading { background-color:#fffc9d; }
+.important { text-transform:uppercase; }
+
+/* RADICAL SINGLE */
+
+.radical {  }
+.radical h1 { font-size:200px; color:#fff; text-align:center; line-height: 200px; font-weight: bold; font-family: Meiryo, sans-serif; width: 200px; margin: 20px auto; height: 200px; padding: 20px; background-color:#00a8fc; border-radius:10px; }
+.radical img { width:200px; height:200px; margin:0 auto 10px auto; padding:20px; background-color:#00a8fc; border-radius:10px; }
+.radical h2 { font-size: 32px; margin: 40px 0 20px; line-height: 32px; letter-spacing:normal;	font-weight:600; }
+.radical h3 { font-family: Meiryo, serif, georgia; margin: 10px 0 30px 0; line-height: 1; font-size:24px; font-weight:500; }
+.radical h4 { font-size: 22px; margin: 0 0 20px; line-height: 1.5; letter-spacing: normal; text-align:center; }
+.radical p { }
+.radical blockquote { background: url(images/blockquote.png) no-repeat 0 12px; padding: 10px 20px 10px 50px; color: #2f2f2f; }
+.radical blockquote p { font-style: italic; }
+.radical ul { margin-bottom: 24px; margin-top: -20px; padding: 0 0 0 10px; }
+.radical ul li{ list-style-type: none; }
+.radical ul ul{ margin: 0; }
+.radical ul ul li { list-style-type: circle; }
+.radical ol li { list-style-type: decimal; }
+.radical ol ol { margin: 0; }
+.radical ol ol li { list-style-type: lower-latin; }
+a.radicaltwip { font-size: 17px; background-color: #1D6AE8; color:#fff; padding: 4px 6px; }
+a.radicaltwip img { height:17px; width:17px; margin:0; }
+a.radicaltwip:hover { text-decoration:none; }
+/* .radicaltop img a:hover { background-color:#4084f4; } */
+
+/* KANJI MENU */
+
+.kanjimenu { font-family: Meiryo, sans-serif; text-shadow: none; font-weight:normal; margin-top:30px; font-size:17px; }
+.kanjikanji a {  }
+.kanjivocab a {  }
+.kanjiradicals { line-height: 40px; }
+.kanjiradicals a { background-color:#00a8fc; font-size:17px; padding: 4px 6px; color:#fff; font-weight:bold; }
+.kanjiradicals a:hover { background-color:#0097e3; text-decoration:none; }
+.kanjiradicals a img { width:17px; height:17px; vertical-align:middle; margin-top:-5px; }
+.kanjikanji { line-height: 40px; }
+.kanjikanji a { background-color:#df0094; font-size:17px; padding: 4px 6px; color:#fff; font-weight:bold; }
+.kanjikanji a:hover { background-color:#ba007b; text-decoration:none; }
+.kanjiradicals .level, .kanjikanji .level { float:left; width: 120px; }
+.kanjiradicals .levelitems, .kanjikanji .levelitems { margin-left: 120px; max-width: 700px; }
+
+/* BOOTSTRAP EDITS */
+
+.btn-xl { height:40px; font-size:30px; line-height:36px; padding: 8px 18px; border-width:2px;/* -moz-box-shadow: 0 0 5px #fff; -webkit-box-shadow: 0 0 5px #fff; box-shadow: 0px 0px 20px #bbb; */ }
+
+
+/*Kanji & Radical & Vocab Menu*/
+
+.radicals a { background-color:#00a8fc; padding:3px 8px; float:left; margin:0 0 2px 2px; font-size:20px; line-height:30px; height:30px; width:30px; text-align:center; font-weight:bold; color:#fff; border-radius:2px; -webkit-border-radius:2px; -moz-border-radius:2px;}
+.radicals img { margin:4px auto 10px auto; height:20px; width:20px; }
+/* .kanji a { background-color:#df0094; padding:3px 8px; float:left; margin:0 0 2px 2px; font-size:20px; line-height:30px; height:30px; width:30px; text-align:center; font-weight:bold; color:#fff; border-radius:2px; -webkit-border-radius:2px; -moz-border-radius:2px; } */
+.vocabulary a { background-color:#a300f5; padding:3px 8px; float:left; margin:0 0 2px 2px; font-size:20px; line-height:30px; height:30px; text-align:center; font-weight:bold; color:#fff; border-radius:2px; -webkit-border-radius:2px; -moz-border-radius:2px; }
+.radicals a:hover, .kanji a:hover, .vocabulary a:hover { text-shadow: 1px 1px #444; }
+
+
+/* RESPONSIVE */
+
+@media only screen and (max-width: 768px) {
+ 	.hometop { background:none !important; height: 300px;}
+  .homebg { height: 300px; }
+  .homebutton { margin-top: 50px; }
+  .btn-xl { height:40px; font-size:20px; line-height:36px; padding: 8px 18px; border-width:2px;/* -moz-box-shadow: 0 0 5px #fff; -webkit-box-shadow: 0 0 5px #fff; box-shadow: 0px 0px 20px #bbb; */ }
+	.pricing h1 { font-size:40px; text-align:center; line-height:1em; margin-top:0px; padding-top:0px; padding-bottom:0px; margin-bottom:10px;}
+	.pricing h4 { text-align:center; font-size: 18px; padding-top:0px; line-height:1.2em; }
+	.monthly { width:100%; height:200px; float:none; background-color:#daffd1; border-radius:0%; -moz-border-radius:0%; -webkit-border-radius:0%; border: 5px solid #d4feca; margin: 0 auto 20px auto; }
+	.lifetime { width:100%; height:200px; float:none; background-color:#daffd1; border-radius:0%; -moz-border-radius:0%; -webkit-border-radius:0%; border: 5px solid #b5f9a5; }
+	.monthly h2, .lifetime h2 { position:relative; text-align:center; top:0; margin-top:20px; }
+	.monthly p, .lifetime p { position:relative; text-align:center; top:0; margin-top:0px; }
+	.pricingfaqtop { background-color:#fff; margin-top:20px;}
+	.specialness .freebie { margin-bottom:20px; }
+	.specialness .freebie img { display:none !important; }
+	.specialness .freebie h3 { margin-left: 0px; padding-top:0; margin-top:0; }
+	.specialness .freebie p { margin-left: 0px; }
+
+  .sale-inside {
+    width:90%;
+  }
+
+}
+
+/* BBPRESS */
+
+#bbpress-forums { }
+#bbpress-forums li {  }
+#bbpress-forums .bbp-forum-content p { line-height:1.2em; }
+.wp_themeSkin iframe { background-color:#fff; }
+#bbpress-forums img { vertical-align:top; }
+#bbpress-forums div.bbp-topic-author a.bbp-author-name, #bbpress-forums div.bbp-reply-author a.bbp-author-name { margin:10px 12px; }
+#bbpress-forums fieldset.bbp-form { background-color:#fff; }
+.bbp-footer { margin-bottom:0; }
+.bbp-forum-freshness a { font-size: 14px; line-height: 1.1em; }
+#bbpress-forums .bbp-forum-content p { font-style:normal; margin:5px 0 0; font-size: 14px;}
+.bbp-forum-info a { font-weight: bold; }
+.bbp-topic-voice-count { font-size: 14px; padding-top:20px;}
+.bbp-topic-reply-count { font-size: 14px; padding-top:20px;}

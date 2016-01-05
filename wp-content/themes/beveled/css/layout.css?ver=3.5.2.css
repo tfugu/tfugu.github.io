@@ -1,0 +1,273 @@
+/*
+The styles in this stylesheet only apply to resolutions 768px and up
+
+CALCULATING DIMENSIONS:
+----------------------
+The layout is fluid. The sote wrapper (.col-full) has a fixed pixel max-width.
+All subsequent dimensions are calculated based on that fixed pixel width, using the formula: target / context = result
+Credit - http://www.alistapart.com/articles/fluidgrids/
+
+-----
+INDEX
+-----
+
+1. Top Navigation
+2. Main navigation dropdown menus
+3. Containers & Columns
+4. Footer widgets
+
+*/
+/*----------------------*/
+/*----------------------*/
+body {
+  padding: 0 20px;
+}
+@media only screen and (min-width: 980px) {
+  #content .slider-container .flex-direction-nav {
+    display: block;
+  }
+  #content .slider-container .flex-direction-nav .prev {
+    left: -33px;
+    bottom: 55%;
+  }
+  #content .slider-container .flex-direction-nav .next {
+    right: -33px;
+    bottom: 55%;
+  }
+}
+@media only screen and (min-width: 940px) {
+  #content.single-portfolio .type-portfolio {
+    float: right;
+    width: 225px;
+  }
+  #content.single-portfolio .single-portfolio-image {
+    margin: 0 0 1em;
+    padding: 4px;
+    border: 1px solid #e4e4e4;
+    background: #fdfdfd;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    display: inline-block;
+  }
+  #content.single-portfolio .single-portfolio-image img {
+    max-width: 100%;
+    float: left;
+  }
+  #content .portfolio-item {
+    margin: 5px 0.6% !important;
+  }
+}
+@media only screen and (min-width: 768px) {
+  #header #logo,
+  #header hgroup {
+    margin: 5px 0;
+  }
+  #content .portfolio-item {
+    margin: 1em 0 1em 14%;
+  }
+  /* 1. TOP NAVIGATION */
+  #top {
+    background: #000;
+    margin: 0 -20px;
+  }
+  #top #top-nav {
+    display: block;
+  }
+  #top .nav a {
+    color: #ddd;
+    padding: 8px 10px;
+    line-height: 1.4;
+    text-decoration: none;
+    text-shadow: none;
+  }
+  #top .nav a:hover {
+    background: #222;
+  }
+  #top .nav a.sf-with-ul {
+    padding-right: 20px;
+  }
+  #top .nav li {
+    position: relative;
+  }
+  #top .nav li.current_page_item a,
+  #top .nav li.current_page_parent a,
+  #top .nav li.current-menu-ancestor a,
+  #top .nav li.current-cat a,
+  #top .nav li.li.current-menu-item a,
+  #top .nav li.sfHover a {
+    background: #222;
+  }
+  #top .nav li ul {
+    background: #222;
+    margin: 0;
+    padding: 0px;
+    width: 180px;
+    border: none;
+    z-index: 999;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1);
+    -webkit-border-bottom-left-radius: 4px;
+    -webkit-border-bottom-right-radius: 4px;
+    -moz-border-radius-bottomleft: 4px;
+    -moz-border-radius-bottomright: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    position: absolute;
+  }
+  #top .nav li ul:last-child a {
+    -webkit-border-bottom-left-radius: 4px;
+    -webkit-border-bottom-right-radius: 4px;
+    -moz-border-radius-bottomleft: 4px;
+    -moz-border-radius-bottomright: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+  }
+  #top .nav li ul li a {
+    padding: 8px 10px;
+    width: 160px;
+    color: #ddd;
+    background: none;
+    font-size: 0.9em;
+  }
+  #top .nav li ul li a:hover {
+    background: black;
+  }
+  #top .nav li ul li a.sf-with-ul {
+    padding-right: 10px;
+  }
+  #top .nav li ul li ul {
+    margin: -31px 0 0 180px;
+  }
+  /* 2. MAIN NAVIGATION DROPDOWN MENUS */
+  #navigation {
+    float: right;
+  }
+  #navigation .nav li a {
+    border-width: 0 1px;
+    border-style: solid;
+  }
+  #navigation .nav li:first-child a {
+    border-left: none;
+  }
+  #navigation .nav li:last-child a {
+    border-right: none;
+  }
+  #navigation .nav li ul {
+    margin: 0 0 0 -1px;
+    padding: 10px 15px;
+    position: absolute;
+    width: 180px;
+    border-width: 1px;
+    border-style: solid;
+    z-index: 999;
+  }
+  #navigation .nav li ul .sf-sub-indicator {
+    background: url(../images/arrow-superfish-right.png) no-repeat;
+    top: 38%;
+  }
+  #navigation .nav li ul li a {
+    padding: 8px 0px;
+    width: 180px;
+    background: none;
+    font-size: 0.9em;
+    border: none;
+  }
+  #navigation .nav li ul li a:hover {
+    text-decoration: underline;
+    background: none;
+  }
+  #navigation .nav li ul li a.sf-with-ul {
+    padding-right: 0;
+  }
+  #navigation .nav li ul li.current_page_item a,
+  #navigation .nav li ul li.current_page_parent a,
+  #navigation .nav li ul li.current-menu-ancestor a,
+  #navigation .nav li ul li.current-cat a,
+  #navigation .nav li ul li.li.current-menu-item a,
+  #navigation .nav li ul li.sfHover a {
+    background: none;
+  }
+  #navigation .nav li ul ul {
+    margin: -37px 0 0 180px;
+  }
+  /* 3. CONTAINERS & COLUMNS */
+  #main.fullwidth,
+  .layout-full #main,
+  .col-full {
+    max-width: 900px;
+    margin: 0 auto;
+    width: 100%;
+  }
+  #main {
+    width: 65.62%;
+    /* 630 / 960 = 0.6562 */
+  }
+  #sidebar {
+    margin-top: 0;
+    width: 31.25%;
+    /* 300 / 960 = 0.3125 */
+  }
+  .entry img {
+    max-width: 100%;
+  }
+  .layout-full .entry img {
+    max-width: 100%;
+  }
+  .layout-right-content #main {
+    float: right;
+  }
+  .layout-right-content #sidebar {
+    float: left;
+  }
+  #portfolio-gallery .port-tags {
+    position: absolute;
+    top: 0.8em;
+    right: 0;
+  }
+  .layout-full #main {
+    width: 100%;
+  }
+  .col-left {
+    float: left;
+  }
+  .col-right {
+    float: right;
+  }
+  /* 4. FOOTER WIDGETS */
+  #footer-widgets .block {
+    margin-right: 2.08%;
+    /* 20 / 960 = 0.0208 */
+    float: left;
+  }
+  #footer-widgets.col-1 .block {
+    width: 100%;
+    float: none;
+  }
+  #footer-widgets.col-1 .footer-widget-1 {
+    margin-right: 0;
+  }
+  #footer-widgets.col-2 .block {
+    width: 48.96%;
+    /* 470 / 960 = 0.4896 */
+  }
+  #footer-widgets.col-2 .footer-widget-2 {
+    margin-right: 0;
+  }
+  #footer-widgets.col-3 .block {
+    width: 31.86%;
+    /* 306 / 960 = 0.3186 */
+  }
+  #footer-widgets.col-3 .footer-widget-3 {
+    margin-right: 0;
+  }
+  #footer-widgets.col-4 .block {
+    width: 23.44%;
+    /* 225 / 960 = 0.2344 */
+  }
+  #footer-widgets.col-4 .footer-widget-4 {
+    margin-right: 0;
+  }
+}

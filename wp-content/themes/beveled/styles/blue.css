@@ -1,0 +1,530 @@
+/* Blue Style */
+/* Imports */
+/*-------------------------------------------------------------------------------------------*/
+/* 1. SETUP */
+/*-------------------------------------------------------------------------------------------*/
+/* 1.1 Defaults */
+body {
+  color: #3c4851;
+  background: url(blue/bg-body.png) repeat;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #262e34;
+}
+hr {
+  background-color: #d6dfe5;
+}
+input, textarea {
+  border-color: #bdccd5 #d6dfe5 #d6dfe5 #bdccd5;
+  color: #555555;
+}
+/* 1.2 Hyperlinks */
+a {
+  color: #52a8e8;
+}
+a:hover {
+  color: #3086c6;
+}
+/*-------------------------------------------------------------------------------------------*/
+/* 2. SITE STRUCTURE & APPEARANCE */
+/*-------------------------------------------------------------------------------------------*/
+/* 2.1 Containers & Columns */
+#content-wrap {
+  border-bottom: 1px solid #b7c7d1;
+}
+#footer-wrap {
+  background: url(blue/bg-footer.png) repeat;
+  border-bottom: 1px solid #b7c7d1;
+  border-top: 1px solid #ffffff;
+}
+/* 2.2 Navigation */
+.nav a {
+  border-color: transparent #c6d3db transparent #ffffff;
+  color: #677c8c;
+  text-shadow: 0 1px 0 #ffffff;
+}
+.nav a:hover {
+  color: #1b2125;
+}
+.nav li.current_page_item a,
+.nav li.current_page_parent a,
+.nav li.current-menu-ancestor a,
+.nav li.current-cat a,
+.nav li.li.current-menu-item a,
+.nav li.sfHover a {
+  color: #1b2125;
+}
+/* Optional Styling */
+#navigation {
+  border: 1px solid #c6d3db;
+  background: #ffffff;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f5f5f5));
+  background: -webkit-linear-gradient(#ffffff, #f5f5f5);
+  background: -moz-linear-gradient(center top, #ffffff 0%, #f5f5f5 100%);
+  background: -moz-gradient(center top, #ffffff 0%, #f5f5f5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#ffffff,endColorstr=#f5f5f5);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#ffffff, endColorstr=#f5f5f5)";
+}
+/* 2.2.1 Drop-down menus */
+#navigation .nav li ul {
+  background: #fdfdfd;
+  border-color: #c6d3db;
+}
+#navigation .nav li ul a {
+  color: #677c8c;
+}
+/* 2.3 Header */
+#header-wrap {
+  border-bottom: 1px solid #b7c7d1;
+  border-top: 3px solid #232729;
+}
+#header .site-title a, #header .site-description a {
+  color: #111416;
+}
+#header .site-description {
+  color: #52626e;
+}
+/* 2.4 Content */
+#content {
+  /* 2.4.1 Featured */
+
+  /* 2.4.4 Portfolio Gallery */
+
+}
+#content #intro {
+  border-bottom: 1px solid #d6dfe5;
+  box-shadow: 0 1px 0 0 #ffffff;
+  -webkit-box-shadow: 0 1px 0 0 #ffffff;
+  -moz-box-shadow: 0 1px 0 0 #ffffff;
+  -o-box-shadow: 0 1px 0 0 #ffffff;
+}
+#content #intro p {
+  color: #52626e;
+}
+#content .slider-container {
+  border-bottom: 1px solid #d6dfe5;
+  box-shadow: 0 1px 0 0 #ffffff;
+  -webkit-box-shadow: 0 1px 0 0 #ffffff;
+  -moz-box-shadow: 0 1px 0 0 #ffffff;
+  -o-box-shadow: 0 1px 0 0 #ffffff;
+}
+#content .slider-container .flex-control-nav li a {
+  background: none repeat scroll 0 0 #919191;
+}
+#content .slider-container .flex-control-nav li a:hover, #content .slider-container .flex-control-nav li a.active {
+  background: #222222;
+}
+#content #portfolio-gallery .port-tags a {
+  background: #288dda;
+  background: -webkit-gradient(linear, left top, left bottom, from(#288dda), to(#1e71b0));
+  background: -webkit-linear-gradient(#288dda, #1e71b0);
+  background: -moz-linear-gradient(center top, #288dda 0%, #1e71b0 100%);
+  background: -moz-gradient(center top, #288dda 0%, #1e71b0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#288dda,endColorstr=#1e71b0);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#288dda, endColorstr=#1e71b0)";
+  background: #a8b0b5;
+  background: -webkit-gradient(linear, left top, left bottom, from(#a8b0b5), to(#8c969d));
+  background: -webkit-linear-gradient(#a8b0b5, #8c969d);
+  background: -moz-linear-gradient(center top, #a8b0b5 0%, #8c969d 100%);
+  background: -moz-gradient(center top, #a8b0b5 0%, #8c969d 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#a8b0b5,endColorstr=#8c969d);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#a8b0b5, endColorstr=#8c969d)";
+  border: 1px solid #5d7d92;
+  color: #fff;
+}
+#content #portfolio-gallery .port-tags a.current {
+  background: #288dda;
+  background: -webkit-gradient(linear, left top, left bottom, from(#288dda), to(#1e71b0));
+  background: -webkit-linear-gradient(#288dda, #1e71b0);
+  background: -moz-linear-gradient(center top, #288dda 0%, #1e71b0 100%);
+  background: -moz-gradient(center top, #288dda 0%, #1e71b0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#288dda,endColorstr=#1e71b0);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#288dda, endColorstr=#1e71b0)";
+}
+/* 2.6 Footer */
+#footer {
+  color: #52626e;
+}
+#footer p {
+  color: #677c8c;
+}
+#footer-widgets {
+  border-bottom: 1px solid #b7c7d1;
+  box-shadow: 0 1px 0 0 #ffffff;
+  -webkit-box-shadow: 0 1px 0 0 #ffffff;
+  -moz-box-shadow: 0 1px 0 0 #ffffff;
+  -o-box-shadow: 0 1px 0 0 #ffffff;
+}
+/* 2.7 Breadcrumbs */
+#breadcrumbs {
+  border-bottom: 1px solid #d6dfe5;
+  box-shadow: 0 1px 0 0 #ffffff;
+  -webkit-box-shadow: 0 1px 0 0 #ffffff;
+  -moz-box-shadow: 0 1px 0 0 #ffffff;
+  -o-box-shadow: 0 1px 0 0 #ffffff;
+}
+/*-------------------------------------------------------------------------------------------*/
+/* 3. POSTS */
+/*-------------------------------------------------------------------------------------------*/
+.archive_header {
+  border-bottom: #d6dfe5 1px solid;
+  box-shadow: 0 1px 0 0 #ffffff;
+  -webkit-box-shadow: 0 1px 0 0 #ffffff;
+  -moz-box-shadow: 0 1px 0 0 #ffffff;
+  -o-box-shadow: 0 1px 0 0 #ffffff;
+}
+.type-post, .type-page, .portfolio {
+  background: #fdfdfd;
+  border: 1px solid #d6dfe5;
+}
+.type-post header h1 a:link,
+.type-page header h1 a:link,
+.portfolio header h1 a:link,
+.type-post header h1 a:visited,
+.type-page header h1 a:visited,
+.portfolio header h1 a:visited {
+  color: #3b3b3b;
+}
+.type-post .post-meta li.post-comments a,
+.type-page .post-meta li.post-comments a,
+.portfolio .post-meta li.post-comments a,
+.type-post .post-meta li.post-date a,
+.type-page .post-meta li.post-date a,
+.portfolio .post-meta li.post-date a {
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+  background: #a8b0b5;
+  background: -webkit-gradient(linear, left top, left bottom, from(#a8b0b5), to(#8c969d));
+  background: -webkit-linear-gradient(#a8b0b5, #8c969d);
+  background: -moz-linear-gradient(center top, #a8b0b5 0%, #8c969d 100%);
+  background: -moz-gradient(center top, #a8b0b5 0%, #8c969d 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#a8b0b5,endColorstr=#8c969d);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#a8b0b5, endColorstr=#8c969d)";
+  box-shadow: inset 0 0px 0px 1px rgba(255, 255, 255, 0.5);
+  -webkit-box-shadow: inset 0 0px 0px 1px rgba(255, 255, 255, 0.5);
+  -moz-box-shadow: inset 0 0px 0px 1px rgba(255, 255, 255, 0.5);
+  -o-box-shadow: inset 0 0px 0px 1px rgba(255, 255, 255, 0.5);
+  border: 1px solid #5d7d92;
+  color: #fff;
+}
+.type-post .post-meta li.post-comments a, .type-page .post-meta li.post-comments a, .portfolio .post-meta li.post-comments a {
+  background: #288dda;
+  background: -webkit-gradient(linear, left top, left bottom, from(#288dda), to(#1e71b0));
+  background: -webkit-linear-gradient(#288dda, #1e71b0);
+  background: -moz-linear-gradient(center top, #288dda 0%, #1e71b0 100%);
+  background: -moz-gradient(center top, #288dda 0%, #1e71b0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#288dda,endColorstr=#1e71b0);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#288dda, endColorstr=#1e71b0)";
+}
+.type-post header .post-meta, .type-page header .post-meta, .portfolio header .post-meta {
+  color: #a2a2a2;
+}
+.type-post header .post-meta a, .type-page header .post-meta a, .portfolio header .post-meta a {
+  color: #a2a2a2;
+}
+/* 3.3 Pagination / WP-Pagenavi / Woo-Pagination */
+.nav-entries a {
+  color: #3c4851;
+}
+.woo-pagination .page-numbers {
+  color: #677c8c;
+  border: 1px solid #c6d3db;
+  background: #ffffff;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f5f5f5));
+  background: -webkit-linear-gradient(#ffffff, #f5f5f5);
+  background: -moz-linear-gradient(center top, #ffffff 0%, #f5f5f5 100%);
+  background: -moz-gradient(center top, #ffffff 0%, #f5f5f5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#ffffff,endColorstr=#f5f5f5);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#ffffff, endColorstr=#f5f5f5)";
+}
+.woo-pagination .page-numbers:hover {
+  border-color: #b7c7d1;
+  color: #3c4851;
+}
+.woo-pagination .page-numbers.current {
+  background: #52626e;
+  border-color: #3c4851;
+  color: #fff;
+  text-shadow: 0px 1px 0px #000000;
+}
+/* 3.4 Single Post Author */
+#post-author {
+  background: #fdfdfd;
+  border: 1px solid #d6dfe5;
+}
+/* 3.6 Connect */
+#connect {
+  background: #fdfdfd;
+  border: 1px solid #d6dfe5;
+}
+#connect .related-posts {
+  border-left: 1px solid #d6dfe5;
+}
+/*-------------------------------------------------------------------------------------------*/
+/* 4. WIDGETS */
+/*-------------------------------------------------------------------------------------------*/
+/* 4.1 Generic Widgets */
+.widget {
+  margin-bottom: 2em;
+  font-family: "Droid Sans", sans-serif;
+}
+.widget h3 {
+  font-family: "Droid Sans", sans-serif;
+  font-size: 1.4em;
+  letter-spacing: -1px;
+  margin: 0 0 1em 0;
+  padding: 0;
+  color: #3c4851;
+  text-transform: uppercase;
+}
+.widget p {
+  margin-bottom: 1em;
+}
+.widget ul {
+  clear: both;
+  padding-left: 10px;
+  list-style-position: inside;
+  list-style-type: disc;
+}
+.widget ul li a {
+  padding: 0 0 0 5px;
+  line-height: 1.9;
+  text-decoration: none;
+}
+.widget ul li a:hover {
+  text-decoration: underline;
+}
+.widget ul ul {
+  padding: 0 0 0 15px;
+  border-top: 0;
+}
+/* 4.2 Specific Widgets */
+/* SEARCH FORM */
+.searchform {
+  background: #fff;
+}
+.searchform input.s {
+  color: #555555;
+}
+.searchform input.button {
+  border-color: #bdccd5 #d6dfe5 #d6dfe5 #bdccd5;
+}
+/* CALENDAR */
+#wp-calendar th, #wp-calendar td {
+  background: #e4e4e4;
+}
+#wp-calendar td {
+  color: #52626e;
+}
+/* TWITTER */
+.widget_woo_twitter .back {
+  padding: 10px;
+  background: #fafafa;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  border: 1px solid #d6dfe5;
+}
+.widget_woo_twitter h3 {
+  border-bottom: 0;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 15px;
+}
+.widget_woo_twitter ul {
+  background: #fff;
+  padding-left: 0;
+  border: 1px solid #d6dfe5;
+}
+.widget_woo_twitter ul li {
+  border-bottom: 1px solid #d6dfe5;
+  padding: 15px;
+  list-style: none;
+}
+.widget_woo_twitter ul li:last-child {
+  border: none;
+}
+.widget_woo_twitter ul li a {
+  padding: 0;
+}
+.widget_woo_twitter ul li .time {
+  color: #a2a2a2;
+}
+.widget_woo_twitter ul li .content {
+  font-size: 1.2em;
+  font-family: "Droid Serif", serif;
+}
+.widget_woo_twitter p {
+  padding: 10px 0 0 5px;
+  font-weight: bold;
+  color: #6f6f6f;
+}
+.widget_woo_twitter p a {
+  color: #222222;
+}
+/* WOOTABS */
+#tabs ul.wooTabs li {
+  background: #ffffff;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f5f5f5));
+  background: -webkit-linear-gradient(#ffffff, #f5f5f5);
+  background: -moz-linear-gradient(center top, #ffffff 0%, #f5f5f5 100%);
+  background: -moz-gradient(center top, #ffffff 0%, #f5f5f5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#ffffff,endColorstr=#f5f5f5);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#ffffff, endColorstr=#f5f5f5)";
+}
+#tabs ul.wooTabs li a {
+  color: #6f6f6f;
+  border: 1px solid #d6dfe5;
+  border-left: 0;
+}
+#tabs ul.wooTabs li a.selected, #tabs ul.wooTabs li a:hover {
+  background: #fff;
+  border-width: 1px 1px 0 0;
+}
+#tabs ul.wooTabs li:first-child a {
+  border-width: 1px 1px 0 1px;
+  border-left: 1px solid #d6dfe5;
+}
+#tabs .inside {
+  background: #fff;
+  border: 1px solid #d6dfe5;
+}
+#tabs .inside #tab-tags a {
+  background: #f0f0f0;
+}
+#tabs .inside #tab-tags a:hover {
+  background: #e4e4e4;
+}
+#tabs .inside li {
+  border-bottom: 1px solid #d6dfe5;
+}
+#tabs .inside li a {
+  color: #555555;
+}
+#tabs .inside li span.meta {
+  color: #a2a2a2;
+}
+#tabs .inside li img.avatar, #tabs .inside li img.thumbnail {
+  border: 1px solid #d6dfe5;
+  background: #fff;
+}
+#tabs .inside li img.avatar:hover, #tabs .inside li img.thumbnail:hover {
+  border-color: #b7c7d1;
+}
+/*-------------------------------------------------------------------------------------------*/
+/* 5. COMMENTS */
+/*-------------------------------------------------------------------------------------------*/
+/* 5.1 Comments */
+#comments {
+  border-top: 1px solid #d6dfe5;
+}
+#comments .comment.thread-even {
+  background: #fdfdfd;
+  border-bottom: 1px solid #d6dfe5;
+}
+#comments .comment.bypostauthor {
+  background: #fef7d2;
+  border-bottom: 1px solid #efe3ae;
+}
+#comments .comment .avatar img {
+  border: 1px solid #d6dfe5;
+  background: #fff;
+}
+#comments .comment .reply a {
+  background: #f8f8f8;
+  border-color: #c0ced7;
+  color: #3c4851 !important;
+}
+#comments .comment .reply a:hover {
+  background: #d6dfe5;
+}
+#comments ul.children li {
+  border-top: 1px solid #d6dfe5;
+}
+/* 5.2 Comments Form */
+#respond label {
+  color: #52626e;
+}
+#respond #commentform input.txt, #respond #commentform textarea {
+  border-color: #bdccd5 #d6dfe5 #d6dfe5 #bdccd5;
+  color: #555555;
+  background: #fdfdfd;
+}
+/*-------------------------------------------------------------------------------------------*/
+/* 6. PAGE TEMPLATES */
+/*-------------------------------------------------------------------------------------------*/
+/* 6.1 Timeline Page Template */
+#archives .archives_list {
+  border-left: 1px solid #d6dfe5;
+}
+#archives .archives_list .date {
+  color: #6f6f6f;
+}
+#archives .archives_list .comments a {
+  color: #7b7b7b;
+}
+h3.archive_year {
+  color: #555555;
+}
+/* 6.3 Image Gallery */
+.image-gallery-item img {
+  border: 1px solid #e4e4e4;
+  background: #fdfdfd;
+}
+.image-gallery-item img:hover {
+  border: 1px solid #cacaca;
+}
+/*-------------------------------------------------------------------------------------------*/
+/* 7. MISC */
+/*-------------------------------------------------------------------------------------------*/
+/* 7.1 Buttons */
+a.button,
+a.comment-reply-link,
+#commentform #submit,
+.submit,
+input[type=submit],
+input.button,
+button.button {
+  border: 1px solid #004c93;
+  border-bottom-color: #003b82;
+  color: white !important;
+  background: #288dda;
+  background: -webkit-gradient(linear, left top, left bottom, from(#288dda), to(#1e71b0));
+  background: -webkit-linear-gradient(#288dda, #1e71b0);
+  background: -moz-linear-gradient(center top, #288dda 0%, #1e71b0 100%);
+  background: -moz-gradient(center top, #288dda 0%, #1e71b0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#288dda,endColorstr=#1e71b0);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#288dda, endColorstr=#1e71b0)";
+  box-shadow: inset 0 0px 0px 1px rgba(255, 255, 255, 0.5);
+  -webkit-box-shadow: inset 0 0px 0px 1px rgba(255, 255, 255, 0.5);
+  -moz-box-shadow: inset 0 0px 0px 1px rgba(255, 255, 255, 0.5);
+  -o-box-shadow: inset 0 0px 0px 1px rgba(255, 255, 255, 0.5);
+}
+a.button:hover,
+a.comment-reply-link:hover,
+#commentform #submit:hover,
+.submit:hover,
+input[type=submit]:hover,
+input.button:hover,
+button.button:hover {
+  background: #399eeb;
+  background: -webkit-gradient(linear, left top, left bottom, from(#399eeb), to(#0d609f));
+  background: -webkit-linear-gradient(#399eeb, #0d609f);
+  background: -moz-linear-gradient(center top, #399eeb 0%, #0d609f 100%);
+  background: -moz-gradient(center top, #399eeb 0%, #0d609f 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#399eeb,endColorstr=#0d609f);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#399eeb, endColorstr=#0d609f)";
+}
+a.button:active,
+a.comment-reply-link:active,
+#commentform #submit:active,
+.submit:active,
+input[type=submit]:active,
+input.button:active,
+button.button:active {
+  border-color: #002a71;
+}
