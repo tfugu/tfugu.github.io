@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Te-Form, Too</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Te-Form, Too Comments Feed" href="http://tfugu.github.io/season-3/te-form-too/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Te-Form Verbs, Please' href='../te-form-verbs-please/index.html' />
+<link rel='next' title='Table Of Contents' href='http://tfugu.github.io/table-of-contents/' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-3888 page-child parent-pageid-3108 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-3888 page type-page status-publish hentry">
+
+	                <h1>Te-Form, Too</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1>Te-Form, Too</h1>
+<h4>&#8220;Victory belongs to the most persevering.&#8221; <span style="color: #808080;">- Napoleon<br />
+</span></h4>
+<p><img class="alignright size-full wp-image-3896" title="too" src="../../wp-content/uploads/2010/04/too.png" alt="" width="253" height="480" /></p>
+<p>Maybe you&#8217;re tired of te-form, but there&#8217;s still a little bit left to go. There are umpteen (that means a lot) of ways to use te-form, but this chapter will conclude the most useful ones. The others? Well, you won&#8217;t run into them as much, so you can worry about them later. In this chapter, we&#8217;ll be going over:</p>
+<ul>
+<li><span style="color: #008000;"><strong>て</strong></span>みる → &#8220;To try to do something.&#8221;</li>
+<li><span style="color: #008000;"><strong>て</strong></span>もいい → &#8220;It&#8217;s okay/fine if you do something.&#8221;</li>
+<li>Negative te-form</li>
+</ul>
+<p>These are three pretty simple things that will get you a long ways. All three of them are pretty easy to use, too, though the hard part is remembering which one is which (as I&#8217;m sure you&#8217;ve run into from time to time already).</p>
+<p>Before we move on, though, I do want you to think a little bit about the quote that begins this section:</p>
+<blockquote><p><em>&#8220;Victory belongs to the most persevering.&#8221;</em></p></blockquote>
+<p>Way to go Napoleon. For me personally, this rings very true. I&#8217;m not smart (I have developed a great common sense, I think, though), but I <em>do</em> work really really hard. People I graduated college with were definitely <em>way</em> smarter than I was, not to mention they had &#8220;real&#8221; majors, like science, math, politics, etc. Me? I graduated with a degree in Japanese studies, which, to be honest, is pretty useless. Everyone in my major graduated to go teach English in Japan, which you definitely don&#8217;t need a Japanese studies major to do (not saying that&#8217;s a bad thing, seems like a lot of fun). On top of that, most of my friends got better grades than me (I wasn&#8217;t terrible, but I&#8217;d shoot for a 3.0 and usually got it. That&#8217;s a B average for those of you who don&#8217;t know). The thing is, a lot of my friends, who had better majors, and better grades&#8230; still don&#8217;t have jobs now. I&#8217;m not ragging on them, or anything, but I&#8217;m just trying to point something out. You got it: <em>&#8220;Victory belongs to the most persevering.&#8221;</em></p>
+<p>It&#8217;s not because they&#8217;re not smart. Hardly. It&#8217;s because they lack the hard-headed perseverance that I had to do what I wanted to do. They&#8217;re waiting for someone else to give them a job that they apply for, and instead I just created my own job. I&#8217;m not bragging, I&#8217;m just telling you that you need to do the same with your Japanese studies. Although I&#8217;m giving you as much as I can, there&#8217;s still a lot you need to give yourself. There&#8217;s a lot you have to work through on your own (things like vocabulary&#8230; remembering which grammar point is which&#8230; etc). You have to be stubborn and persevering, otherwise nothing will end up happening. It&#8217;s not how smart you are (TextFugu is written for a younger me&#8230; who wasn&#8217;t all that smart), it&#8217;s how hard you work and how much you put into it. Remember, <em>&#8220;Victory belongs to the most persevering (and not necessarily the smartest).&#8221;</em></p>
+<h1>てみる → To Try To Do Something #</h1>
+<p>There is one slightly confusing thing about 〜てみる that you should know right off the bat. The みる here <em>is not</em> the 見る (みる) that means &#8220;to see.&#8221; It sounds the same but is totally different. This みる is never written with kanji (another reason to learn kanji), and that should be one of the main ways for you to tell the difference. Don&#8217;t forget, this みる <em>does not</em> use kanji.</p>
+<p>〜てみる means &#8220;to try to do _______,&#8221; with the &#8220;blank&#8221; being the verb. For example:</p>
+<blockquote><p>食べて<span style="color: #008000;">みる</span> （たべてみる）<br />
+<span style="color: #008000;">Try</span> to eat</p>
+<p>見て<span style="color: #008000;">みる</span> （みてみる）<br />
+<span style="color: #008000;">Try</span> to see (*notice the difference between みる and 見る!)</p>
+<p>読んで<span style="color: #008000;">みる</span> （よんでみる）<br />
+<span style="color: #008000;">Try</span> to read</p></blockquote>
+<p>Now, just like any other verb, you can make this past tense, negative, and negative past tense as well. All the conjugations are just like the familiar verb you&#8217;ve come to know and love, 見る (this is &#8220;to see,&#8221; because it uses kanji!). The word &#8220;to try&#8221; is a verb, so it works just like all the other verbs you&#8217;ve learned. For example:</p>
+<blockquote><p>食べて<strong>みた</strong> （たべてみた）<br />
+<strong>Tried</strong> to eat</p>
+<p>見て<strong>みなかった</strong> （みてみなかった）<br />
+<strong>Didn&#8217;t try</strong> to see</p>
+<p>読んで<strong>みない</strong> （よんでみない）<br />
+<strong>Will not try</strong> to read</p></blockquote>
+<p>And if you want to be formal about it, you can even change these to ます form and do みます instead of みる (with the regular rules applying to みました, みません, and みませんでした as well). Let&#8217;s try this out, see if you can figure out the answers here. Translate from Japanese to English and English to Japanese. Use a piece of paper and write your answers down before looking &#8211; rewrite them if you don&#8217;t get it right!</p>
+<blockquote><p>すしを食べてみました　<a style="display:none;" id="ddetlink998193944" href="javascript:expand(document.getElementById('ddet998193944'))">Answer →</a>
+<div class="ddet_div" id="ddet998193944"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet998193944'));expand(document.getElementById('ddetlink998193944'))</script></p>
+<ul>
+<li>I tried to eat sushi </div></li>
+</ul>
+<p>東京に行ってみた　<a style="display:none;" id="ddetlink2098964016" href="javascript:expand(document.getElementById('ddet2098964016'))">Answer →</a>
+<div class="ddet_div" id="ddet2098964016"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet2098964016'));expand(document.getElementById('ddetlink2098964016'))</script></p>
+<ul>
+<li>I tried to go to Tokyo </div></li>
+</ul>
+<p>ビールを飲んでみる　<a style="display:none;" id="ddetlink129042859" href="javascript:expand(document.getElementById('ddet129042859'))">Answer →</a>
+<div class="ddet_div" id="ddet129042859"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet129042859'));expand(document.getElementById('ddetlink129042859'))</script></p>
+<ul>
+<li>I will try to drink beer </div></li>
+</ul>
+<p>I will try to learn Japanese　<a style="display:none;" id="ddetlink822367541" href="javascript:expand(document.getElementById('ddet822367541'))">Answer →</a>
+<div class="ddet_div" id="ddet822367541"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet822367541'));expand(document.getElementById('ddetlink822367541'))</script></p>
+<ul>
+<li>日本語を習ってみる </div></li>
+</ul>
+<p>I didn&#8217;t try to read this book　<a style="display:none;" id="ddetlink692406521" href="javascript:expand(document.getElementById('ddet692406521'))">Answer →</a>
+<div class="ddet_div" id="ddet692406521"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet692406521'));expand(document.getElementById('ddetlink692406521'))</script></p>
+<ul>
+<li> この本を読んでみなかった </div></li>
+</ul>
+<p>Will you try the sushi?　<a style="display:none;" id="ddetlink1478122580" href="javascript:expand(document.getElementById('ddet1478122580'))">Answer →</a>
+<div class="ddet_div" id="ddet1478122580"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1478122580'));expand(document.getElementById('ddetlink1478122580'))</script></p>
+<ul>
+<li> すしを食べてみますか？ </div></li>
+</ul>
+</blockquote>
+<p>This is a great grammar point to know and use, though if you ask me, I&#8217;d rather you <em>do</em> something than <em>try</em> something. But hey, that&#8217;s just me. 日本語を習ってみましょう！</p>
+<h1>てもいい → It&#8217;s fine if you do something #</h1>
+<p>You probably recognize one or two parts of this grammar point:</p>
+<blockquote><p><strong>Particle も: </strong>Means &#8220;as well&#8221; or &#8220;also.&#8221;</p>
+<p><strong>Adjective いい:</strong> This is an i-adjective that means &#8220;good.&#8221;</p></blockquote>
+<p>The て part, of course, is just the end of the verb coming before it. Let&#8217;s look at some very simple examples and build on that.</p>
+<blockquote><p>笑ってもいいです　（わらってもいいです）<br />
+It is okay / fine to laugh</p>
+<p>立ってもいいです　（たってもいいです）<br />
+It is okay to stand up</p>
+<p>すしを食べてもいいです　（すしをたべてもいいです）<br />
+It&#8217;s okay to eat the sushi</p></blockquote>
+<p>As you can see from the examples, there are a couple of pretty common ways てもいい is used. All you have to do is take your te-form verb and add もいいです to it. When you do this, you&#8217;re saying &#8220;it&#8217;s okay to do _______.&#8221; Now, you can also ask if it&#8217;s okay to do something (I&#8217;m hoping you remember how to ask questions by now&#8230; If not, you should &#8220;ask&#8221; yourself if you read the <a href="http://tfugu.github.io/season-1/answering-all-of-your-questions/">chapter on asking questions</a>).</p>
+<blockquote><p><strong>Saying something is okay to do:</strong> すしを食べてもいいです</p>
+<p><strong>Asking if something is okay to do:</strong> すしを食べてもいいですか</p></blockquote>
+<p>Let&#8217;s look at some more examples.</p>
+<blockquote><p>立ってもいいですか（たってもいいですか？）<br />
+Is it okay to stand up?</p>
+<p>飲んでもいいですか（のんでもいいですか？）<br />
+Is it okay to drink?</p>
+<p>テニスをやってもいいですか？<br />
+Is it okay to play (do) tennis?</p></blockquote>
+<p>This is a great (and polite) way to ask if it&#8217;s okay to do something. Maybe you&#8217;re in class, maybe you&#8217;re at work, or maybe you want to ask something of a friend but don&#8217;t want to do it in a mean or pushy way. Let&#8217;s take a look at the following situations:</p>
+<p>1. You&#8217;re in some kind of class / workshop, but you&#8217;re not sure if it&#8217;s okay to leave to use the bathroom. You walk up to the teacher and ask:</p>
+<blockquote><p>トイレに行ってもいいですか？<br />
+Is it okay to go to the bathroom (toilet)?</p>
+<p>いいよ<br />
+It&#8217;s fine / it&#8217;s okay</p></blockquote>
+<p>2. You&#8217;re out at a party with your boyfriend / girlfriend, and you want to go home. You would ask them:</p>
+<blockquote><p>帰ってもいいですか？　（かえってもいいですか？）<br />
+Can we return home? / Can we go home?</p>
+<p>まあ、いいよ。<br />
+Hmm, okay.</p></blockquote>
+<p>3. You&#8217;re standing next to a chair, and you aren&#8217;t sure if it&#8217;s okay to sit there. You ask someone who looks like they work there:</p>
+<blockquote><p>ここに座ってもいいですか？　（ここにすわってもいいですか？）<br />
+Is it okay to sit here?</p>
+<p>ごめんね、そこに座ってもだめです。<br />
+Sorry, it&#8217;s not okay to sit there.</p></blockquote>
+<p>座ってもだめです？？ Yep, that&#8217;s right. We aren&#8217;t going to really spend much time on this, but you can replace the いい with its opposite, だめ, to make something not okay.</p>
+<blockquote><p>食べてもだめです<br />
+It&#8217;s not okay to eat</p>
+<p>行ってもだめです<br />
+It&#8217;s not okay to go</p></blockquote>
+<p>If you&#8217;re in the habit of denying people from doing things, then てもだめです will be a great grammar point for you. We&#8217;ll see this pop up from time to time in the future of TextFugu, but for now you can remember it and practice it a little bit (but make sure you learn てもいいです solidly first!).</p>
+<p>At this point, go ahead and take that &#8220;passion list&#8221; of yours and  figure out the things that are okay (and not okay) to do within your  passion. For example, with my baseball passion, I might come up with  sentences like:</p>
+<blockquote><p>ホットドッグを食べてもいいです。<br />
+It&#8217;s okay to eat hot dogs.</p>
+<p>けんかしてもだめです。<br />
+It&#8217;s not okay to fight.</p>
+<p>おしりを触ってもいいです（おしりをさわってもいいです）<br />
+It&#8217;s okay to touch (someone&#8217;s) butt  &#8230; people in baseball like  slapping each others butts, what can I say?</p></blockquote>
+<p>What things are okay to do in your passion? What things aren&#8217;t okay?  Once you&#8217;ve figured out what those things are (I&#8217;d try to get 5-10  sentences down), head over to <a href="http://lang-8.com">Lang-8</a> and post them up. Title it  something like:</p>
+<blockquote><p>[MyPassion]で。。。<br />
+In my passion&#8230; (and then you go on to list what&#8217;s okay and what&#8217;s not)</p></blockquote>
+<p>Be sure to replace [MyPassion] with whatever your passion might be.</p>
+<p>P.S. You can actually replace the いい or the だめ with a good number of things. &#8220;OKAY&#8221; is used a lot (すしを食べてもOKAYです！), but you&#8217;ll also see other words being placed in here as well. Because of that, it&#8217;s most important that you learn the grammar pattern, and not learn things word by word. If you understand the concept, you&#8217;ll be able to be so much more flexible than if you don&#8217;t. So, learn the concept, and you&#8217;ll be able to use this (and any grammar point) so much more effectively than if you didn&#8217;t!</p>
+<h1>なくて ＆ ないで：　Negative Te-Form #</h1>
+<p>We&#8217;ve learned regular te-form verbs (〜ない), but we haven&#8217;t learned  negative te-form verbs. You&#8217;ll notice from the title of this section  that there are two of them. Yeah, it confuses me too. There is a slight  difference between them, though I&#8217;m not going to tell you what it is.  It&#8217;s really really confusing, and includes funny grammar words like  &#8220;clause&#8221; and &#8220;conjunction.&#8221; That sounds too complicated to me, so let&#8217;s  learn another way (i.e. via example).</p>
+<h2>ないで #</h2>
+<p>ないで is great for just a few things, and to be honest, I&#8217;m not 100%  sure if it is actually &#8220;te-form&#8221; in the purest sense. It&#8217;s very simple  to put together, as you can see, and you&#8217;re going to pretty much only  see it used along with requests (do you remember ください from the previous  chapter?).</p>
+<blockquote><p>食べない　→　食べないで</p></blockquote>
+<p>It&#8217;s as simple as slapping a で onto the end of a <a href="../negative-dictionary-form-verbs/index.html">negative  dictionary form verb</a>. As mentioned earlier, you&#8217;re going to see ないで  used with requests. There are two big examples of this which will be  very useful to you:</p>
+<ol>
+<li>それを食べないで！<br />
+Don&#8217;t eat (that)!</li>
+<li>それを食べないでください<br />
+Please don&#8217;t eat that!</li>
+</ol>
+<p>Pretty much the same sentence, only the first one is a little more  demanding, and the second one is a little more requesty. Let&#8217;s take a  look at the first one, plain old ないで.</p>
+<blockquote><p>あそこに座らないで!<br />
+あそこにすわらないで！　(don&#8217;t sit over there!)</p>
+<p>ビールを飲まないで<br />
+ビールをのまないで　(don&#8217;t drink beer)</p>
+<p>タバコを吸わないで<br />
+たばこをすわないで　（don&#8217;t smoke)</p></blockquote>
+<p>As you can see, although these sentences are &#8220;requests,&#8221; they&#8217;re a  little more direct. They&#8217;re more like orders. Don&#8217;t do this, don&#8217;t do  that. It&#8217;s something a mother would say to their kid (mother&#8217;s don&#8217;t  need to say please, right?). With ないでください, we&#8217;re basically just taking  this &#8220;order&#8221; and making it more polite by adding ください (please) to the  end of it. In the previous chapter, we learned how to say &#8220;please do  something,&#8221; so right now we&#8217;re going to learn how to say &#8220;please <em>don&#8217;t</em> do something.&#8221; It&#8217;s just as easy as you think:</p>
+<blockquote><p>走らないでください<br />
+はしらないでください　（please don&#8217;t run)</p>
+<p>それを読まないでください<br />
+それをよまないでください　（please don&#8217;t read that)</p>
+<p>東京へ行かないでください<br />
+とうきょうへいかないでください　（please don&#8217;t go to Tokyo)</p></blockquote>
+<p>Since you already know ください, hopefully this concept is pretty easy.  Let&#8217;s practice a little bit. Can you translate these sentences and  answer these questions?</p>
+<blockquote><p>Please don&#8217;t eat this <a style="display:none;" id="ddetlink877634715" href="javascript:expand(document.getElementById('ddet877634715'))">Answer →</a>
+<div class="ddet_div" id="ddet877634715"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet877634715'));expand(document.getElementById('ddetlink877634715'))</script></p>
+<ul>
+<li>これを食べないでください</div></li>
+</ul>
+<p>Don&#8217;t eat this! <a style="display:none;" id="ddetlink1901711373" href="javascript:expand(document.getElementById('ddet1901711373'))">Answer →</a>
+<div class="ddet_div" id="ddet1901711373"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1901711373'));expand(document.getElementById('ddetlink1901711373'))</script></p>
+<ul>
+<li>これを食べないで！</div></li>
+</ul>
+<p>Please eat this sushi <a style="display:none;" id="ddetlink1990098489" href="javascript:expand(document.getElementById('ddet1990098489'))">Answer →</a>
+<div class="ddet_div" id="ddet1990098489"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1990098489'));expand(document.getElementById('ddetlink1990098489'))</script></p>
+<ul>
+<li>このすしを食べてください </div></li>
+</ul>
+</blockquote>
+<p>Haha! Did I get you with the non-negative please? I bet you were too  tricky for my tricks.</p>
+<p>Before moving on, visit <a href="http://lang-8.com">Lang-8</a> and  write about something you don&#8217;t like&#8230; Something you don&#8217;t want people  to do. Perhaps you don&#8217;t like it when people read books. Some grammar  points you may use are (don&#8217;t limit yourself to these, though!):</p>
+<blockquote><p>き らい：　本がきらいです！</p>
+<p>ないでください：　ほんをよまないでください</p>
+<p>You may also want to  explain <em>why</em> you don&#8217;t like books.</p>
+<p>本の重さはひどいです　（A book&#8217;s  heaviness is terrible!)</p></blockquote>
+<p>What about you? What&#8217;s  something you don&#8217;t want people to do? Don&#8217;t forget to request / tell  people not to do something as well, otherwise there&#8217;s no real point in  practicing&#8230; Use the grammar you just learned!</p>
+<h2>なくて #</h2>
+<p>なくて is fairly similar. Unlike ないで, though, you&#8217;re not going to want  to use it all alone (i.e. you probably wouldn&#8217;t say たべなくて！ without  anything following it). なくて keeps a sentence flowing, so you&#8217;ll want to  follow up with something after you use it. Let&#8217;s convert a few verbs to  なくて form first, before we use it for realsies.</p>
+<blockquote><p>食べる　→　食 べない　 →　食べなくて</p>
+<p>飲 む　→　飲まな い　→　飲まなくて</p></blockquote>
+<p>As long as you know how to make a  dictionary verb negative, なくて form is as simple as replacing the ない  with なくて. Let&#8217;s figure out how you&#8217;ll be able to use it.</p>
+<p>So, you&#8217;ve just learned てもいいです, right? Now it&#8217;s time to learn the negative form of that, なくてもいいです. I bet you&#8217;ve already guessed what it means: &#8220;it&#8217;s okay to <em>not</em> do something.&#8221;</p>
+<blockquote><p>あのすしを食べなくてもいいです<br />
+It&#8217;s okay to <em>not</em> eat that sushi</p>
+<p>立たなくてもいいです<br />
+It&#8217;s okay to <em>not</em> stand up</p>
+<p>ペンで書かなくてもいいです<br />
+It&#8217;s okay to not write with a pen</p></blockquote>
+<p>Of course you can use だめ as well. This is where things start getting a little confusing with double negatives and the like. For example:</p>
+<blockquote><p>あのすしをたべなくてもだめです<br />
+It&#8217;s not okay to not eat that sushi</p>
+<p>きょうとに行かなくてもだめです<br />
+It&#8217;s not okay to not go to Kyoto</p></blockquote>
+<p>See what I mean about confusing? You won&#8217;t run into things like this quite as much, but you&#8217;re still going to be able to decipher them if you hear it. Just start out by learning regular old なくてもいい、てもいい、and てもだめ, and once you get those down なくてもだめ should fall into place pretty nicely. It&#8217;s all about building the right foundation at the right time.</p>
+<p><strong>Other Ways to use なくて:</strong></p>
+<p>Another way to use なくて is to basically just use it to continue a sentence along. We&#8217;re not going to learn that in this chapter (to keep things simple) because we&#8217;ll be talking all about continuing sentences in the next chapter. That&#8217;s right, no more will our sentences have to be so short and contain so little information. なくて is one great way to do that, so I want to wait until next chapter to help streamline things a bit.</p>
+<p>Speaking of next chapters, take a minute to go back through and see what you&#8217;ve done so far above. Can you write a quick 200 word tutorial for yourself (and for others) on these subjects? Pick the one that gives you the most trouble and try to <em>teach</em> someone else how to do it (by way of blog post in your language log, or somewhere else). Once you figure out how to teach it, it&#8217;s pretty likely that you&#8217;ll figure out how to know and use it as well.</p>
+<p>The next chapter is all about making longer sentences so that they can be longer and provide more information and go forever and ever and ever in a way that makes things better and longer and &#8230; ahem. We&#8217;re going to learn how to connect subjects and pieces of information together to form longer sentences, and it&#8217;s going to be great (and hopefully not too complicated). We&#8217;ll also get back on track with the story that I&#8217;m sure you so desperately miss (what&#8217;s going to happen next!??). So, 次のレッスンに行っても大丈夫です！</p>
+<p style="text-align: right;"><a href="http://tfugu.github.io/season-3/season-three-let-it-be/">Season Three, Let It Be →</a></p>
+<p><a style="display:none;" id="ddetlink665102912" href="javascript:expand(document.getElementById('ddet665102912'))">Image Sources →</a>
+<div class="ddet_div" id="ddet665102912"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet665102912'));expand(document.getElementById('ddetlink665102912'))</script></p>
+<ul>
+<li><a href="http://www.flickr.com/photos/altemark/142649790/">http://www.flickr.com/photos/altemark/142649790/</a> </div></li>
+</ul>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Te-Form Verbs, Please</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Te-Form Verbs, Please Comments Feed" href="http://tfugu.github.io/season-3/te-form-verbs-please/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Transitive, Intransitive, Confusing, Verbs' href='../transitive-intransitive-confusing-verbs/index.html' />
+<link rel='next' title='Te-Form, Too' href='../te-form-too/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-3853 page-child parent-pageid-3108 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-3853 page type-page status-publish hentry">
+
+	                <h1>Te-Form Verbs, Please</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1>Te-Form Verbs, Please</h1>
+<h4>A &#8216;No&#8217; uttered from the deepest conviction is better than a &#8216;Yes&#8217; merely uttered to please, or worse, to avoid trouble. <span style="color: #888888;">- Mohandas Gandhi </span></h4>
+<p><img class="alignright size-full wp-image-3892" title="please" src="../../wp-content/uploads/2010/04/please.png" alt="" width="240" height="383" />Te-form verbs, on their own, are a bit hard to describe. There are just <em>so many</em> different ways to use te-form verbs that te-form verbs themselves aren&#8217;t all that impressive. Here are some examples of things we&#8217;ll do with these so-called &#8220;te-form&#8221; verbs.</p>
+<ul>
+<li>Learn how to request / ask for something &#8220;<em>please</em> eat your sushi.&#8221;</li>
+<li>Learn how to add an &#8220;ing&#8221; to a verb. For example, eat vs. <em>eating</em>. The second one means you&#8217;re in the process of eating, right now.</li>
+<li>Learn how to say &#8220;try to do&#8221; something. &#8220;I will <em>try</em> to eat this sushi.&#8221;</li>
+<li>Learn how to say &#8220;it&#8217;s okay to do&#8221; something. For example, &#8220;it&#8217;s okay to eat that sushi.&#8221;</li>
+<li>And so much more! (Sounds like one of those TV commercials, right?)</li>
+</ul>
+<p>We won&#8217;t cover all of these in this lesson because there are way more te-form conjugations than were listed above, but we will learn te-form to create a good foundation for learning everything else. On top of that, we&#8217;ll take a look at 〜ください (please do something) and 〜ている (in the process of doing _______).<br />
+<a name="learningte"></a></p>
+<h1>Learning Te-Form Verbs <a href="index.html#learningte">#</a></h1>
+<p>Normally, learning te-form verbs is a <em>hassle</em>. Luckily for you, as long as you paid attention when learning ta-form (past tense casual verbs), this should be a cinch. Feel free to <a href="../past-tense-dictionary-form-verbs/index.html">go back and review</a> if you don&#8217;t remember the rules from that chapter. The rules for ta-form and te-form are exactly the same, except instead of adding た to the end of the verb, you add て. Simple, right? (Well, only if you remembered the ta-form rules).</p>
+<p>Let&#8217;s take a look at the rules right here to give you a refresher. As usual, there are three kinds of verbs: Group 1, Group 2, and Irregular.<br />
+<a name="group1"></a></p>
+<h2>Group 1 Verbs <a href="index.html#group1">#</a></h2>
+<p>Group 1 verbs will always have the most rules, but I guess that&#8217;s why they&#8217;re number 1. As mentioned earlier, the rules for these verbs are the same as ta-form verbs, except instead of た we&#8217;ll be using て. So far you don&#8217;t really know <em>how</em> and <em>where</em> te-form verbs are used, which is okay. At this point I want you to learn how to create te-form verbs, <em>and then</em> we&#8217;ll learn how to use them.</p>
+<p>Dictionary form verbs end with different kana, and each ending has a different rule. I&#8217;m going to lay them out in a different order from the ta-form chapter, just to make sure you&#8217;re learning the actual conversions and not the order they&#8217;re put in.</p>
+<p><strong>う　→　って</strong></p>
+<blockquote><p>買う（かう）→　買って（かって）<br />
+会う（あう）→　会って（あって）</p></blockquote>
+<p><strong>く　→　いて*</strong></p>
+<blockquote><p>書く（かく）→　書いて（かいて）<br />
+歩く（あるく）→　歩いて（あるいて）<br />
+* 行く（いく),  like in the ta-form chapter, is a weird (but common) exception. 行く goes to いって and <em>NOT</em> いいて</p></blockquote>
+<p><strong>ぐ　→　いで</strong></p>
+<blockquote><p>泳ぐ（およぐ）→　泳いで（およいで）<br />
+急ぐ（いそぐ）→　急いで（いそいで）</p></blockquote>
+<p><strong>す　→　して</strong></p>
+<blockquote><p>話す（はなす）→　話して（はなして）</p></blockquote>
+<p><strong>つ　→　って</strong></p>
+<blockquote><p>待つ（まつ）→　待って（まって）<br />
+持つ（もつ）→　持って（もって）</p></blockquote>
+<p><strong>ぬ　→　んで</strong></p>
+<blockquote><p>死ぬ（しぬ）→　死んで（しんで）</p></blockquote>
+<p><strong>ぶ　→　んで</strong></p>
+<blockquote><p>遊ぶ（あそぶ）→　遊んで（あそんで）<br />
+呼ぶ（よぶ）→　呼んで（よんで）</p></blockquote>
+<p><strong>む　→　んで</strong></p>
+<blockquote><p>読む（よむ）→　読んで（よんで）<br />
+飲む（のむ）→　飲んで（のんで）</p></blockquote>
+<p><strong>る　→　って</strong></p>
+<blockquote><p>走る（はしる）→　走って（はしって）<br />
+入る（はいる）→　入って（はいって）</p></blockquote>
+<p>These should feel familiar because you&#8217;ve done them before. Go ahead and move on to Group 2 verbs when you feel like you have a good understanding (you don&#8217;t have to <em>know</em> them all, just understand them at this point).<br />
+<a name="group2"></a></p>
+<h2>Group 2 Verbs <a href="index.html#group2">#</a></h2>
+<p>As usual, Group 2 verbs are a cinch. It&#8217;s just a matter of changing the る on the end to a て. That&#8217;s it.</p>
+<blockquote><p>食べる（たべる）→　食べて（たべて）<br />
+考える（かんがえる）→　考えて（かんがえて）<br />
+見る（みる）→　見て（みて）<br />
+忘れる（わすれる）→　忘れて（わすれて）<br />
+出る（でる）→　出て（でて）</p></blockquote>
+<p>As long as you know which ones are Group 1, and which ones are Group 2, this should be very easy for you. Let&#8217;s move on to the last, irregular group.<br />
+<a name="irregular"></a></p>
+<h2>Irregular Verbs <a href="index.html#irregular">#</a></h2>
+<p>Irregular verbs, as you know by now, mostly consist of pure memorization. No exception here, except you can pull a bit from the ta-form irregular verbs.</p>
+<blockquote><p>する　→　して<br />
+来る（くる）→　来て（きて）<br />
+ある　→　あって<br />
+行く（いく）　→　行って（いって）</p></blockquote>
+<p>You&#8217;ll probably have to spend a <em>little</em> bit of time here to remember which one is which, but once you&#8217;ve got a general idea on these I&#8217;d like you to move on to the next section. It&#8217;s much easier to use something if you know <em>how</em> it is used.<br />
+<a name="kudasai"></a></p>
+<h1>Puh-lease! <a href="index.html#kudasai">#</a></h1>
+<p>It&#8217;s about time you learned how to request something. In this short section, we&#8217;re going to learn about ください. When added to a te-form verb, it means &#8220;please do ______.&#8221; For example:</p>
+<blockquote><p>すしを食べて<span style="color: #800080;"><strong>ください</strong></span> （すし　を　たべてください）<br />
+<span style="color: #800080;"><strong>Please</strong></span> eat (the) sushi</p>
+<p>東京に行って<strong><span style="color: #800080;">ください</span></strong> （とうきょう　に　いってください）<br />
+<span style="color: #800080;"><strong>Please</strong></span> go to Tokyo</p></blockquote>
+<p>Go ahead and pull out your <a href="../../season-1/studying-what-youre-passionate-about/index.html#step1">passion list</a>, let&#8217;s do a little exercise. You may have to refer to one of the <a href="../how-to-be-casual-part-2/index.html">verb lists</a> or <a href="http://jisho.org">Jisho</a> as well.</p>
+<p>Say your &#8220;passion&#8221; was baseball (like mine). We want to try and make 5 sentences relating to our passion using ください. For example:</p>
+<blockquote><p>スタジアムのホットドッグを食べてください<br />
+Please eat the Stadium hot dog.</p>
+<p>イチローさんにボールを投げて(なげて)ください<br />
+Please throw the ball to Ichiro</p></blockquote>
+<p>What kinds of sentences can you form. Go ahead and come up with 5 sentences and put them up on <a href="http://lang-8.com">Lang-8</a> to get them corrected (if they need any corrections at all, you smart frood you). If you want to provide some &#8220;back story&#8221; as to why the heck you&#8217;re posting up five seemingly random sentences onto Lang-8, then you can copy this very simple sentence and add it to the top of your Lang-8 post.</p>
+<blockquote><p>今、「ください」という文法を習っています。よろしくお願いします！<br />
+Right now I&#8217;m learning the grammar point &#8220;kudasai.&#8221; Please help me.</p></blockquote>
+<p>After that, you should be able to go wild practicing ください in the wild. While you wait for corrections, go ahead and learn the next te-form grammar point.<br />
+<a name="ing"></a></p>
+<h1>Blank-<em>ing</em> Something <a href="index.html#ing">#</a></h1>
+<p>This is the most useful thing you never realized you needed to learn. <em>ing</em>. Like, Eat<em>ing</em>, sleep<em>ing</em>, runn<em>ing</em>, swim<em>ing</em>.</p>
+<p>By adding <em>ing </em>to a verb (in English), it means you&#8217;re in the process of doing it. Take the example of <em>eat</em> vs. <em>eating</em>. <em>Eating</em> means you are currently in the process of eating. nom nom nom. That&#8217;s what an ing-verb is.</p>
+<p>In Japanese, instead of using <em>ing</em>, you would want to use ている. You know how to do te-form now, so all you have to do is add いる to the end.</p>
+<blockquote><p>食べて　→　たべて<strong>いる</strong> (eat<strong>ing</strong>)</p>
+<p>飲んで　→　飲んで<strong>いる</strong> (drink<strong>ing</strong>)</p>
+<p>待って　→　待って<strong>いる</strong> (wait<strong>ing</strong>)</p></blockquote>
+<p>Catch my drift here? Let&#8217;s take a look at some sentences to get a better idea of how this works.</p>
+<blockquote><p>すしを食べている<br />
+(I am) <em>eating</em> sushi</p>
+<p>すしを食べる<br />
+I will eat sushi (not using ている)</p>
+<p>ビールを飲んでいる<br />
+I am drinking beer (i.e. I am in the process of drinking beer right now)</p>
+<p>待っているよ<br />
+I&#8217;m waiting&#8230;</p>
+<p>日本語を習っている<br />
+I am learning Japanese</p></blockquote>
+<p>Now, you&#8217;ll notice that ている form ends the sentence, so we have the opportunity to choose whether or not we make it a neutral/polite sentence, or a casual sentence. Right now (with ている) it&#8217;s casual, but if you wanted to make it more neutral / formal you would&#8230; you guessed it, change it to ています.</p>
+<blockquote><p>すしを食べています<br />
+I am eating sushi</p>
+<p>ビールを飲んでいます<br />
+I am drinking beer</p></blockquote>
+<p>If you&#8217;re talking to someone important, higher ranking than you, equal to you, and so on, you should always use ています over ている. If you don&#8217;t know which one to use, then use ています, because it&#8217;s safe no matter what.</p>
+<p>At this point, I want you to think about the things that you&#8217;re doing. Of course, you are 日本語を勉強しているing, which is pretty great if you ask me, but what else? Throughout the rest of the day, I want you to come up with 10 things that you&#8217;re doing. Figuring them out in English (or your native language) is okay as well. When you&#8217;ve come up with 10 things write them down and figure out what they are in Japanese. You&#8217;ll probably have to learn some new vocabulary and make some mistakes. That&#8217;s okay, because you should post them to <a href="http://lang-8.com">Lang-8</a> to figure out what you&#8217;ve done right / wrong. After you&#8217;ve figured out 10 things you were doing today, go ahead and move on to the next chapter. There are a lot of loose ends we have to wrap up to make te-form really work for us.</p>
+<p><strong>Before You Move On:</strong></p>
+<ul>
+<li>Learn the rules for converting dictionary-form verbs into te-form verbs</li>
+<li>Go through the transitive / intransitive verb list and convert all of these to te-form. You should use this list because it will help you practice te-form at the same time while you learn transitive / intransitive verbs.</li>
+<li>Understand how ください works and be able to request things. Please eat your sushi! Use your passion list and write five sentences using ください and your passion-vocab and add them up to <a href="http://lang-8.com">Lang-8</a>.</li>
+<li>Understand how ている works, and be able to talk about things you are doing. Write ten such sentences based off of 10 actual things you did / will do today, and add them up on <a href="http://lang-8.com">Lang-8</a>.</li>
+<li>Just have a great feeling about te-form in general. There&#8217;s a lot of loose ends to tie in the next chapters.</li>
+</ul>
+<p style="text-align: right;"><a href="../te-form-too/index.html">Te-Form, Too →</a></p>
+<p style="text-align: left;"><a style="display:none;" id="ddetlink236277485" href="javascript:expand(document.getElementById('ddet236277485'))">Image Source →</a>
+<div class="ddet_div" id="ddet236277485"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet236277485'));expand(document.getElementById('ddetlink236277485'))</script></p>
+<ul>
+<li><a href="http://www.flickr.com/photos/intensify/467954968/">http://www.flickr.com/photos/intensify/467954968/</a> </div></li>
+</ul>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

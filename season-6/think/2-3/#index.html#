@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  3: To Think</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 3: To Think Comments Feed" href="http://tfugu.github.io/season-6/think/2-3/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='2: Remember Casual Form?' href='../2-2/index.html' />
+<link rel='next' title='4: To Think About Nouns' href='../2-4/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-5271 page-child parent-pageid-5250 page-template page-template-template-page-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-5271 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>To Think</h1>
+<h4>&#8220;We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.&#8221; &#8211; Buddha</h4>
+<p><img class="alignnone size-full wp-image-5274" title="thinkingbuddha" src="../../../wp-content/uploads/2010/09/thinkingbuddha.png" alt="" width="600" height="800" /></p>
+<p>Thinking is probably the most important thing you can ever do. Let&#8217;s learn how to express your thoughts in Japanese.</p>
+<p>First, let&#8217;s make sure you remember the word for &#8220;to think.&#8221; You learned it earlier, but it doesn&#8217;t hurt to review.</p>
+<p style="padding-left: 30px;">&#8220;To think&#8221; in Japanese is おもいます／おもう</p>
+<p>Before you move on, though, I actually want you to learn the kanji for おもいます. It&#8217;s not a kanji you&#8217;re <em>supposed</em> to learn until later, but now that you have some kanji abilities I think the occassional common kanji here and there won&#8217;t hurt (and help, instead). Take a look at this kanji:</p>
+<h1 style="text-align: center;">思</h1>
+<p>How do you know the meaning of this kanji? Well, it has the radicals rice field (田) and heart (心). Imagine yourself going into a ricefield, trying to find its heart. You get to the middle, and see something pulsating. It&#8217;s a <em>brain</em>, which is what a rice field has instead of a heart (that&#8217;s why it has all those grooves and stuff in it). You pick it up. It&#8217;s <span style="color: #800080;"><strong>THINKING</strong></span>.</p>
+<p>Anyways, that&#8217;s the kanji. We&#8217;ll use it a ton this lesson, obviously, so you&#8217;ll learn it whether you want to or not. Just make sure you do your part and learn the reading: おもいます or おもう (for casual). Got it? Good. Okay, no more hiragana おもう from here on out.</p>
+<p>In terms of actually <em>using</em> this verb the most common way to use it is with the と particle before it. For example:</p>
+<p style="padding-left: 30px;">_______________ <span style="color: #800080;"><strong>と</strong></span> 思います／思う</p>
+<p>In Japanese, the &#8220;I think&#8221; part comes at the very end, not at the beginning (as it often does in English) because, as you already know, the verb goes on the end of the sentence.</p>
+<p>This is a lot like と言った, which you learned in the last chapter. It&#8217;s something you add on to the end of a phrase or sentence to say what you&#8217;re doing with it, sort of. With と言った you&#8217;re saying &#8220;blahblahblahblah&#8221; I/he said. With と思う you&#8217;re saying &#8220;blahblahblah&#8221; I think. Same sort of deal, just a different verb attached to the end.</p>
+<p>Unlike と言った, though, there are some rules associated with it (since you&#8217;re not quoting what someone said this time). Nouns, adjectives, and verbs all have different rules.</p>
+<p>Here&#8217;s what the next few pages will look like:</p>
+<p style="padding-left: 30px;">1. Noun + と 思う (i.e. &#8220;I think he&#8217;s a student&#8221;)</p>
+<p style="padding-left: 30px;">2. Adjective + と 思う (i.e. &#8220;I think he is stupid&#8221;)</p>
+<p style="padding-left: 30px;">3. Verb + と 思う (i.e. &#8220;I think he went to Singapore&#8221;)</p>
+<p>Before you move on, there&#8217;s just one quick thing I want you to think about. With the と, it&#8217;s like you&#8217;re saying the following:</p>
+<p style="padding-left: 30px;">＿＿＿＿＿＿＿と思います</p>
+<p style="padding-left: 30px;">___________ with thinking</p>
+<p>Now, you&#8217;ll have to get over your conceptions on how &#8220;with thinking&#8221; would (or, more accurately, <em>wouldn&#8217;t</em>) work in English. But, if you think about it a bit, it actually makes a bit of sense. You can do things (with thinking), you can comment on things (with thinking), and you can pretty much do anything (with thinking). Instead of saying &#8220;I think she&#8217;s cute,&#8221; you are saying &#8220;she is cute with thinking.&#8221; You are basically letting someone know about something, but also telling them that there is some thinking along with that. i.e., you <em>think something</em>.</p>
+<p>Hopefully that makes more sense than just saying &#8220;that&#8217;s the way it works&#8221; (that&#8217;s how it&#8217;s normally taught). That being said, と思います is a pretty good &#8220;set phrase&#8221; to learn (i.e. the と and the 思います go together <em>a lot</em>, so you can remember them basically as one). Occassionally you&#8217;ll see 思います paired with a に or an を (or possibly another particle), but I&#8217;d say 90% of the time と思います will be the right choice, so we&#8217;re going to focus on that for now.</p>
+<div class="woo-sc-box tick  rounded full">You should learn と思います as one &#8220;set phrase.&#8221; They&#8217;re used together <em>so so so</em> often that you might as well. The important thing is you <em>understand</em> how they work separately, then when they&#8217;re put together they make a lot more sense!</div>
+<p style="text-align: center;"><a class="btn large" style="margin-right: 5px;" href="../2-2/index.html#top">← 後</a><a class="btn large primary" href="../2-4/index.html#top">前 →</a></p>
+<p><a href="http://www.flickr.com/photos/howekee/3600320593/">Image Sources</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

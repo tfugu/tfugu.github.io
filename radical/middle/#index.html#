@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>Topic: Middle  |  TextFugu</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='d4p-bbtools-css-css'  href='http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/css/gd-bbpress-tools.css?ver=1.4_b1288_free' type='text/css' media='all' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bbpTopicJS = {"bbp_ajaxurl":"http:\/\/www.textfugu.com\/bb\/topic\/middle\/?bbp-ajax=true","generic_ajax_error":"Something went wrong. Refresh your browser and try again.","is_user_logged_in":"1","fav_nonce":"6b833b30b3","subs_nonce":"d2a4d42d1e"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/js/topic.js?ver=2.3.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='A wild banseljaj appears' href='http://tfugu.github.io/bb/topic/a-wild-banseljaj-appears/' />
+<link rel='next' title='Can にbe first?' href='http://tfugu.github.io/bb/topic/%e3%81%abfirst-or-%e3%81%8c/' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	<script type="text/javascript">
+            /* <![CDATA[ */
+            var gdbbPressToolsInit = {
+                quote_method: "bbcode",
+                quote_wrote: "wrote",
+                bbpress_version: 23,
+                wp_editor: 1            };
+            /* ]]> */
+        </script>
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="topic bbpress single single-topic postid-44311 logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-44311 topic type-topic status-publish hentry">
+
+                    <section class="entry">
+	                	
+<div id="bbpress-forums">
+
+	<div class="bbp-breadcrumb"><p><a href="http://tfugu.github.io/" class="bbp-breadcrumb-home">Home</a> <span class="bbp-breadcrumb-sep">&rsaquo;</span> <a href="http://tfugu.github.io/bb/" class="bbp-breadcrumb-root">Forums</a> <span class="bbp-breadcrumb-sep">&rsaquo;</span> <a href="http://tfugu.github.io/bb/forum/textfugu/" class="bbp-breadcrumb-forum">TextFugu</a> <span class="bbp-breadcrumb-sep">&rsaquo;</span> <span class="bbp-breadcrumb-current">Middle</span></p></div>
+	
+	
+		
+		<div class="bbp-template-notice info"><p class="bbp-topic-description">This topic contains 2 replies, has 2 voices, and was last updated by <a href="http://tfugu.github.io/bb/users/cloudlore/" title="View Andrew's profile" class="bbp-author-avatar" rel="nofollow"><img alt='' src='http://1.gravatar.com/avatar/b4e4bf50cd679651f7bd275a665e458f?s=14&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D14&amp;r=G' class='avatar avatar-14 photo' height='14' width='14' /></a>&nbsp;<a href="http://tfugu.github.io/bb/users/cloudlore/" title="View Andrew's profile" class="bbp-author-name" rel="nofollow">Andrew</a> <a href="index.html#post-44313" title="Reply To: Middle">1 year, 10 months ago</a>.</p></div>
+		
+		
+			
+
+<div class="bbp-pagination">
+	<div class="bbp-pagination-count">
+
+		Viewing 3 posts - 1 through 3 (of 3 total)
+	</div>
+
+	<div class="bbp-pagination-links">
+
+		
+	</div>
+</div>
+
+
+			
+
+<ul id="topic-44311-replies" class="forums bbp-replies">
+
+	<li class="bbp-header">
+
+		<div class="bbp-reply-author">Author</div><!-- .bbp-reply-author -->
+
+		<div class="bbp-reply-content">
+
+			
+				Posts
+				<span id="subscription-toggle">&nbsp;|&nbsp;<span id="subscribe-44311"  ><a href="http://tfugu.github.io/bb/topic/middle/?action=bbp_subscribe&#038;topic_id=44311&#038;_wpnonce=d2a4d42d1e" class="subscription-toggle" data-topic="44311" rel="nofollow">Subscribe</a></span></span>
+				<span id="favorite-toggle"><span id="favorite-44311"  ><a href="http://tfugu.github.io/bb/topic/middle/?action=bbp_favorite_add&#038;topic_id=44311&#038;_wpnonce=6b833b30b3" class="favorite-toggle" data-topic="44311" rel="nofollow">Favorite</a></span></span>
+			
+		</div><!-- .bbp-reply-content -->
+
+	</li><!-- .bbp-header -->
+
+	<li class="bbp-body">
+
+		
+			
+<div id="post-44311" class="bbp-reply-header">
+
+	<div class="bbp-meta">
+
+		<span class="bbp-reply-post-date">March 8, 2014 at 9:26 am</span>
+
+		
+		<a href="index.html#post-44311" title="Middle" class="bbp-reply-permalink">#44311</a>
+
+		
+		
+		<span class="bbp-admin-links"><a href="index.html#44311" class="d4p-bbt-quote-link">Quote</a></span>
+	</div><!-- .bbp-meta -->
+
+</div><!-- #post-44311 -->
+
+<div class="post-44311 topic type-topic status-publish hentry odd bbp-parent-forum-10333 bbp-parent-topic-44311 bbp-reply-position-1 user-id-9076 topic-author">
+
+	<div class="bbp-reply-author">
+
+		
+		<a href="http://tfugu.github.io/bb/users/cloudlore/" title="View Andrew's profile" class="bbp-author-avatar" rel="nofollow"><img alt='' src='http://1.gravatar.com/avatar/b4e4bf50cd679651f7bd275a665e458f?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G' class='avatar avatar-80 photo' height='80' width='80' /></a><br /><a href="http://tfugu.github.io/bb/users/cloudlore/" title="View Andrew's profile" class="bbp-author-name" rel="nofollow">Andrew</a><br /><div class="bbp-author-role">Member</div>
+		
+		
+	</div><!-- .bbp-reply-author -->
+
+	<div class="bbp-reply-content">
+
+		
+		<div id="d4p-bbp-quote-44311">Hey guys,</p>
+<p>I tried searching the forum but it doesn&#8217;t seem to be working, so hopefully this hasn&#8217;t been answered already.</p>
+<p>I&#8217;m currently on season 3 and have reached 4 stroke Kanji. In the Kanji section,中(なか) is defined as &#8216;middle&#8217;. In the anki deck it is defined as &#8216;inside&#8217;. The dictionary defines it as &#8216;medium&#8217;. So, which one is right?</p>
+<p>Thanks.</p></div>
+
+		
+	</div><!-- .bbp-reply-content -->
+
+</div><!-- .reply -->
+
+		
+			
+<div id="post-44312" class="bbp-reply-header">
+
+	<div class="bbp-meta">
+
+		<span class="bbp-reply-post-date">March 8, 2014 at 10:51 am</span>
+
+		
+		<a href="index.html#post-44312" title="Reply To: Middle" class="bbp-reply-permalink">#44312</a>
+
+		
+		
+		<span class="bbp-admin-links"><a href="index.html#44312" class="d4p-bbt-quote-link">Quote</a></span>
+	</div><!-- .bbp-meta -->
+
+</div><!-- #post-44312 -->
+
+<div class="post-44312 reply type-reply status-publish hentry even bbp-parent-forum-10333 bbp-parent-topic-44311 bbp-reply-position-2 user-id-39">
+
+	<div class="bbp-reply-author">
+
+		
+		<a href="http://tfugu.github.io/bb/users/zeldaskitten/" title="View zeldaskitten's profile" class="bbp-author-avatar" rel="nofollow"><img alt='' src='http://0.gravatar.com/avatar/03057a16efef6202108436f88765a058?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G' class='avatar avatar-80 photo' height='80' width='80' /></a><br /><a href="http://tfugu.github.io/bb/users/zeldaskitten/" title="View zeldaskitten's profile" class="bbp-author-name" rel="nofollow">zeldaskitten</a><br /><div class="bbp-author-role">Member</div>
+		
+		
+	</div><!-- .bbp-reply-author -->
+
+	<div class="bbp-reply-content">
+
+		
+		<div id="d4p-bbp-quote-44312">those are all correct  :)</p>
+<p>it depends on context and the actual vocab word that it&#8217;s used in </p></div>
+<div class="bbp-signature">=^..^=</div>
+		
+	</div><!-- .bbp-reply-content -->
+
+</div><!-- .reply -->
+
+		
+			
+<div id="post-44313" class="bbp-reply-header">
+
+	<div class="bbp-meta">
+
+		<span class="bbp-reply-post-date">March 8, 2014 at 11:18 am</span>
+
+		
+		<a href="index.html#post-44313" title="Reply To: Middle" class="bbp-reply-permalink">#44313</a>
+
+		
+		
+		<span class="bbp-admin-links"><a href="index.html#44313" class="d4p-bbt-quote-link">Quote</a></span>
+	</div><!-- .bbp-meta -->
+
+</div><!-- #post-44313 -->
+
+<div class="post-44313 reply type-reply status-publish hentry odd bbp-parent-forum-10333 bbp-parent-topic-44311 bbp-reply-position-3 user-id-9076 topic-author">
+
+	<div class="bbp-reply-author">
+
+		
+		<a href="http://tfugu.github.io/bb/users/cloudlore/" title="View Andrew's profile" class="bbp-author-avatar" rel="nofollow"><img alt='' src='http://1.gravatar.com/avatar/b4e4bf50cd679651f7bd275a665e458f?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G' class='avatar avatar-80 photo' height='80' width='80' /></a><br /><a href="http://tfugu.github.io/bb/users/cloudlore/" title="View Andrew's profile" class="bbp-author-name" rel="nofollow">Andrew</a><br /><div class="bbp-author-role">Member</div>
+		
+		
+	</div><!-- .bbp-reply-author -->
+
+	<div class="bbp-reply-content">
+
+		
+		<div id="d4p-bbp-quote-44313">Oh okay. Thanks! I&#8217;m guessing it will make more sense in later seasons? Haha.</div>
+
+		
+	</div><!-- .bbp-reply-content -->
+
+</div><!-- .reply -->
+
+		
+	</li><!-- .bbp-body -->
+
+	<li class="bbp-footer">
+
+		<div class="bbp-reply-author">Author</div>
+
+		<div class="bbp-reply-content">
+
+			
+				Posts
+			
+		</div><!-- .bbp-reply-content -->
+
+	</li><!-- .bbp-footer -->
+
+</ul><!-- #topic-44311-replies -->
+
+
+			
+
+<div class="bbp-pagination">
+	<div class="bbp-pagination-count">
+
+		Viewing 3 posts - 1 through 3 (of 3 total)
+	</div>
+
+	<div class="bbp-pagination-links">
+
+		
+	</div>
+</div>
+
+
+		
+		
+
+
+	<div id="new-reply-44311" class="bbp-reply-form">
+
+		<form id="new-post" name="new-post" method="post" action="index.html">
+
+			
+			<fieldset class="bbp-form">
+				<legend>Reply To: Middle</legend>
+
+				<div class="bbp-template-notice"><p>You can use BBCodes to format your content.</p></div>
+				
+				
+				
+				<div>
+
+					
+
+					
+					
+						<div class="bbp-the-content-wrapper"><div id="wp-bbp_reply_content-wrap" class="wp-core-ui wp-editor-wrap html-active"><link rel='stylesheet' id='editor-buttons-css'  href='http://tfugu.github.io/wp-includes/css/editor.min.css?ver=3.5.2' type='text/css' media='all' />
+<div id="wp-bbp_reply_content-editor-container" class="wp-editor-container"><textarea class="bbp-the-content wp-editor-area" rows="12" tabindex="101" cols="40" name="bbp_reply_content" id="bbp_reply_content"></textarea></div>
+</div>
+
+</div>
+					
+					
+					
+						<p class="form-allowed-tags">
+							<label>You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:</label><br />
+							<code>&lt;a href=&quot;&quot; title=&quot;&quot; rel=&quot;&quot;&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;code&gt; &lt;pre&gt; &lt;em&gt; &lt;strong&gt; &lt;del datetime=&quot;&quot;&gt; &lt;ul&gt; &lt;ol start=&quot;&quot;&gt; &lt;li&gt; &lt;img src=&quot;&quot; border=&quot;&quot; alt=&quot;&quot; height=&quot;&quot; width=&quot;&quot;&gt; </code>
+						</p>
+
+										
+					
+					
+						
+						<p>
+
+							<input name="bbp_topic_subscription" id="bbp_topic_subscription" type="checkbox" value="bbp_subscribe" tabindex="102" />
+
+							
+								<label for="bbp_topic_subscription">Notify me of follow-up replies via email</label>
+
+							
+						</p>
+
+						
+					
+					
+					
+					<div class="bbp-submit-wrapper">
+
+						
+						<button type="submit" tabindex="103" id="bbp_reply_submit" name="bbp_reply_submit" class="button submit">Submit</button>
+
+						
+					</div>
+
+					
+				</div>
+
+				
+		<input type="hidden" name="bbp_reply_title" id="bbp_reply_title" value="Reply To: Middle" />
+		<input type="hidden" name="bbp_topic_id"    id="bbp_topic_id"    value="44311" />
+		<input type="hidden" name="action"          id="bbp_post_action" value="bbp-new-reply" />
+
+		
+		<input type="hidden" id="_wpnonce" name="_wpnonce" value="46fb16ba91" /><input type="hidden" name="_wp_http_referer" value="/bb/topic/middle/" /><input type="hidden" id="bbp_redirect_to" name="redirect_to" value="http://tfugu.github.io/bb/topic/middle/" />
+			</fieldset>
+
+			
+		</form>
+	</div>
+
+
+
+	
+	
+</div>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+<link rel='stylesheet' id='wp-jquery-ui-dialog-css'  href='http://tfugu.github.io/wp-includes/css/jquery-ui-dialog.min.css?ver=3.5.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/js/gd-bbpress-tools.js?ver=1.4_b1288_free'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wordCountL10n = {"type":"w"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-admin/js/word-count.min.js?ver=3.5.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var quicktagsL10n = {"wordLookup":"Enter a word to look up:","dictionaryLookup":"Dictionary lookup","lookup":"lookup","closeAllOpenTags":"Close all open tags","closeTags":"close tags","enterURL":"Enter the URL","enterImageURL":"Enter the URL of the image","enterImageDescription":"Enter a description of the image","fullscreen":"fullscreen","toggleFullscreen":"Toggle fullscreen mode","textdirection":"text direction","toggleTextdirection":"Toggle Editor Text Direction"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-includes/js/quicktags.min.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-includes/js/tinymce/plugins/wpdialogs/js/wpdialog.min.js?ver=3.5.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpLinkL10n = {"title":"Insert\/edit link","update":"Update","save":"Add Link","noTitle":"(no title)","noMatchesFound":"No matches found."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-includes/js/wplink.min.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://tfugu.github.io/wp-includes/js/tinymce/plugins/wpdialogs/js/popup.min.js?ver=3.5.2'></script>
+
+	<script type="text/javascript">
+		tinyMCEPreInit = {
+			base : "",
+			suffix : "",
+			query : "ver=358-24486",
+			mceInit : {},
+			qtInit : {'bbp_reply_content':{id:"bbp_reply_content",buttons:"strong,em,link,block,del,img,ul,ol,li,code,close"}},
+			ref : {plugins:"",theme:"advanced",language:""},
+			load_ext : function(url,lang){var sl=tinymce.ScriptLoader;sl.markDone(url+'/langs/'+lang+'.js');sl.markDone(url+'/langs/'+lang+'_dlg.js');}
+		};
+	</script>
+
+	<script type="text/javascript">
+		var wpActiveEditor;
+
+		(function(){
+			var init, ed, qt, first_init, DOM, el, i, mce = 0;
+
+			if ( typeof(tinymce) == 'object' ) {
+				DOM = tinymce.DOM;
+				// mark wp_theme/ui.css as loaded
+				DOM.files[tinymce.baseURI.getURI() + '/themes/advanced/skins/wp_theme/ui.css'] = true;
+
+				DOM.events.add( DOM.select('.wp-editor-wrap'), 'mousedown', function(e){
+					if ( this.id )
+						wpActiveEditor = this.id.slice(3, -5);
+				});
+
+				for ( ed in tinyMCEPreInit.mceInit ) {
+					if ( first_init ) {
+						init = tinyMCEPreInit.mceInit[ed] = tinymce.extend( {}, first_init, tinyMCEPreInit.mceInit[ed] );
+					} else {
+						init = first_init = tinyMCEPreInit.mceInit[ed];
+					}
+
+					if ( mce )
+						try { tinymce.init(init); } catch(e){}
+				}
+			} else {
+				if ( tinyMCEPreInit.qtInit ) {
+					for ( i in tinyMCEPreInit.qtInit ) {
+						el = tinyMCEPreInit.qtInit[i].id;
+						if ( el )
+							document.getElementById('wp-'+el+'-wrap').onmousedown = function(){ wpActiveEditor = this.id.slice(3, -5); }
+					}
+				}
+			}
+
+			if ( typeof(QTags) == 'function' ) {
+				for ( qt in tinyMCEPreInit.qtInit ) {
+					try { quicktags( tinyMCEPreInit.qtInit[qt] ); } catch(e){}
+				}
+			}
+		})();
+		var ajaxurl = "/wp-admin/admin-ajax.php";		</script>
+			<div style="display:none;">
+	<form id="wp-link" tabindex="-1">
+	<input type="hidden" id="_ajax_linking_nonce" name="_ajax_linking_nonce" value="db402fa084" />	<div id="link-selector">
+		<div id="link-options">
+			<p class="howto">Enter the destination URL</p>
+			<div>
+				<label><span>URL</span><input id="url-field" type="text" name="href" /></label>
+			</div>
+			<div>
+				<label><span>Title</span><input id="link-title-field" type="text" name="linktitle" /></label>
+			</div>
+			<div class="link-target">
+				<label><input type="checkbox" id="link-target-checkbox" /> Open link in a new window/tab</label>
+			</div>
+		</div>
+				<p class="howto toggle-arrow " id="internal-toggle">Or link to existing content</p>
+		<div id="search-panel" style="display:none">
+			<div class="link-search-wrapper">
+				<label>
+					<span class="search-label">Search</span>
+					<input type="search" id="search-field" class="link-search-field" autocomplete="off" />
+					<span class="spinner"></span>
+				</label>
+			</div>
+			<div id="search-results" class="query-results">
+				<ul></ul>
+				<div class="river-waiting">
+					<span class="spinner"></span>
+				</div>
+			</div>
+			<div id="most-recent-results" class="query-results">
+				<div class="query-notice"><em>No search term specified. Showing recent items.</em></div>
+				<ul></ul>
+				<div class="river-waiting">
+					<span class="spinner"></span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="submitbox">
+		<div id="wp-link-update">
+			<input type="submit" value="Add Link" class="button-primary" id="wp-link-submit" name="wp-link-submit">
+		</div>
+		<div id="wp-link-cancel">
+			<a class="submitdelete deletion" href="index.html#">Cancel</a>
+		</div>
+	</div>
+	</form>
+	</div>
+	
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

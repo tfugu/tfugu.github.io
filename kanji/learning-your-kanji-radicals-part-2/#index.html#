@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Learning Your Kanji Radicals (Part 2)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Learning Your Kanji Radicals (Part 2) Comments Feed" href="http://tfugu.github.io/kanji/learning-your-kanji-radicals-part-2/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Learning Your Kanji Radicals (1-2 Strokes)' href='../learning-your-kanji-radicals-part-1/index.html' />
+<link rel='next' title='Learning Your Kanji Radicals 4 Strokes' href='../learning-your-kanji-radicals-4-strokes/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-2383 page-child parent-pageid-2313 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-2383 page type-page status-publish hentry">
+
+	                <h1>Learning Your Kanji Radicals (Part 2)</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1 style="text-align: center;">LEARNING YOUR KANJI RADICALS<br />
+(3-STROKES)</h1>
+<p style="text-align: center;"><em>“I never dared be a radical when young, for fear it would make me a conservative when old”</em> &#8211; <strong>Robert Frost</strong></p>
+<p style="text-align: left;">You&#8217;ve gone through radicals with 1 and 2 strokes. Sorry, but that was the easy part. Now we&#8217;ll be learning radicals with 3 strokes. There are a lot of them, and they will get more complicated (duh). Still, now&#8217;s the time where we can start using 1 and 2-stroke radicals to create the 3-stroke ones, so it won&#8217;t be as hard as you think. You&#8217;ll also be able to use lists on Smart.fm I&#8217;ve created to help you solidify the radical knowledge you pick up here.</p>
+<p style="text-align: left;">If you&#8217;re ready to get started, feel free to jump right in and start learning the 3-stroke radicals. The sooner we get radicals out of the way, the quicker we can move on to the &#8220;real&#8221; kanji.</p>
+<h1 style="text-align: center;">3-STROKE RADICALS</h1>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2386" title="1-sweet-waterslide" src="../../wp-content/uploads/2010/01/1-sweet-waterslide-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Really Sweet Water Slide:</strong> See the drop of liquid at the top? That&#8217;s the water that will help propel you down this monster slide. The slide is so big that there&#8217;s even an reinforcement holding it up (in the bottom left).</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2387" title="2-mouth" src="../../wp-content/uploads/2010/01/2-mouth-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Mouth:</strong> For our intents and purposes, whenever you see a box (remember, there are no circles in kanji!) think of it as a mouth. You&#8217;ll see this one a lot. Square = box, square = box.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2388" title="3-ground" src="../../wp-content/uploads/2010/01/3-ground-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Ground: </strong>See the cross sticking into the <strong>ground</strong>? That&#8217;s where people are buried. Take note that the ground is bigger than the width of the cross, this is important!</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2389" title="4-samurai" src="../../wp-content/uploads/2010/01/4-samurai-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Samurai:</strong> This one looks just like &#8220;ground,&#8221; right? The only difference is that the cross width is wider than the ground. That&#8217;s because samurai get bigger crosses, because everyone thinks they&#8217;re so cool.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2390" title="5-winter" src="../../wp-content/uploads/2010/01/5-winter-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Winter:</strong> Do you remember stool? This is just a stool with a slide on it. When things are frozen, and cold, you <strong>slide right off them</strong> (in this case you&#8217;re sliding off a stool). When is it cold? During the winter. You slide off your stool in the winter because it&#8217;s frozen.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2391" title="6-evening" src="../../wp-content/uploads/2010/01/6-evening-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Evening</strong>: See the <strong>enclosure</strong>? It&#8217;s holding on to a drop of water. The <strong>evening/night</strong> air <strong>encloses</strong> the water and holds on to it until the sun comes up.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2392" title="7-big" src="../../wp-content/uploads/2010/01/7-big-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Big / Large:</strong> Tell me this doesn&#8217;t look like a <span style="color: #800080;">big dude<span style="color: #000000;">?</span></span></p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2393" title="8-woman" src="../../wp-content/uploads/2010/01/8-woman-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Woman / Female:</strong> This radical looks like two stacked X&#8217;s. In chromosomes, XY = male, XX = female. So just remember that XX = woman!</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2394" title="9-child" src="../../wp-content/uploads/2010/01/9-child-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Child:</strong> You could try to do the following, though I think this is another one you&#8217;ll just have to remember: There&#8217;s a <strong>barb</strong> that&#8217;s being stabbed through by a <strong>one</strong>. On top, there&#8217;s something that kind of looks like a wide &#8220;7,&#8221; holding the barb down while it&#8217;s getting stabbed. Yeah, I know, not much to work from, so it might be easier just to learn it straight up.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2395" title="10-fancy-crown-potlid" src="../../wp-content/uploads/2010/01/10-fancy-crown-potlid-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Fancy Pot Lid:</strong> Do you remember the lid from before? It didn&#8217;t have the amazing gripping power that this one does. <span style="color: #800080;">The sides go around the pot and really hold it on there for better cooking, etc</span>.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2396" title="11-measurement" src="../../wp-content/uploads/2010/01/11-measurement-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Measurement: </strong>You&#8217;re living in the desert, and it&#8217;s the future, which means finding water is difficult. You can trade <span style="color: #800080;">one barb for one drop of water</span>. See the &#8220;1&#8243; going through the barb? This equals one drop (on the left) of water. Hopefully you have enough barbs to <span style="color: #008000;">quench your thirst<span style="color: #000000;">.</span></span></p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2397" title="12-little" src="../../wp-content/uploads/2010/01/12-little-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Little:</strong> There&#8217;s a <strong>little</strong> barb between those two <span style="color: #800080;">fish feet</span>. Would you mind helping that fish (with legs) getting it out?</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2398" title="13-unicorn-bull" src="../../wp-content/uploads/2010/01/13-unicorn-bull1-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Unicorn With Horns: </strong>I bet you can see the unicorn horn in the middle of those two horns, right? Usually unicorns are horses, but in this case, we have a bull with a third, unicorn horn.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2399" title="14-deranged-and-big" src="../../wp-content/uploads/2010/01/14-deranged-and-big-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Deranged Big Guy:</strong> I bet you remember the &#8220;big dude&#8221; from earlier (大). This one looks similar, but it&#8217;s a little bit&#8230; off. Right? That&#8217;s why this is the <strong>Deranged Big Guy</strong>. If you look closely, you&#8217;ll see that <span style="color: #800080;">he&#8217;s wearing a kettle/pot lid on his head (weirdo!), and has two normal legs (at least something is normal, right?)<span style="color: #000000;">.</span></span></p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2400" title="15-flag" src="../../wp-content/uploads/2010/01/15-flag-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Flag:</strong> If this doesn&#8217;t look like a flag, I don&#8217;t know what doesn&#8217;t. The wind is blowing towards you, and as usual, <span style="color: #800080;">you&#8217;re standing facing the Pacific Ocean from Western United States</span> (that&#8217;s why the flag blows from left to right).</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2401" title="16-lefthand" src="../../wp-content/uploads/2010/01/16-lefthand-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Left-hand: </strong>Unfortunately, being left-handed was a bad thing to be back in the day in Japan (and still a little bit now!). That&#8217;s why left hands are depicted so weirdly! <span style="color: #800080;">Only three fingers (because being left handed is only 3/5ths as good as being right handed)</span>, and the middle finger is up higher because&#8230; well&#8230; <span style="color: #008000;">this left handed person is a bit angry<span style="color: #000000;">.</span></span></p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2402" title="17-mountain" src="../../wp-content/uploads/2010/01/17-mountain-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Mountain:</strong> This one kind of looks like a <strong>mountain</strong>, right? It&#8217;s also part of &#8220;left hand,&#8221; which is why being left handed is a <span style="color: #800080;">mountain of distress</span> for those who are left handed.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2403" title="18-river" src="../../wp-content/uploads/2010/01/18-river-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>River:</strong> This one looks like a river, I think. It even widens at the end as if it&#8217;s the mouth of the river. There&#8217;s also a line in the middle showing the movement of the water!</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2404" title="19-river-bend" src="../../wp-content/uploads/2010/01/19-river-bend-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>River Bend:</strong> Same three lines as a river, but this time it&#8217;s bending. That&#8217;s why it&#8217;s a river bend.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2405" title="20-construction" src="../../wp-content/uploads/2010/01/20-construction-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Construction: </strong>Do you know those big iron girders they use to make big things when <strong>constructing</strong> something. This looks like the end of one of those, which is why this is construction.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2407" title="21-snake-skull" src="../../wp-content/uploads/2010/01/21-snake-skull-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Snake Skull:</strong> This one just looks like a snake&#8217;s skull, right?</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2408" title="22-hanging-towel" src="../../wp-content/uploads/2010/01/22-hanging-towel-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Hanging Towel:</strong> This is a hanging towel. The middle line (stick) is the bar holding the towel, and the upside down box is the towel. Really, this is a simple combination of <strong>stick</strong> and <strong>upside down box.</strong></p>
+<blockquote><p><strong><img class="alignnone size-thumbnail wp-image-2409" title="23-dry" src="../../wp-content/uploads/2010/01/23-dry-150x150.png" alt="" width="150" height="150" /></strong></p></blockquote>
+<p><strong>Dry:</strong> Before, we had a stick holding up a hanging towel. Now we have a stick with two horizontal racks on it. <span style="color: #800080;">With two sticks, any towel is bound to become dry in no time<span style="color: #000000;">.</span></span></p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2410" title="24-pile-of-stuff" src="../../wp-content/uploads/2010/01/24-pile-of-stuff-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Pile of My Stuff:</strong> Do you see the &#8220;I/me&#8221; in there? Now just add a little more on top, and you have a pile (or my stuff).</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2411" title="25-man-on-cliff" src="../../wp-content/uploads/2010/01/25-man-on-cliff-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Man On Cliff:</strong> You probably remember the cliff itself, but now there&#8217;s a man standing on it, looking out into the ocean.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2412" title="26-big-step" src="../../wp-content/uploads/2010/01/26-big-step-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Big Step / Stride:</strong> This one kind of looks like the description associated with it, but it might end up being something you&#8217;ll just have to learn straight up. There&#8217;s a big leg going off to the right, and you can think of it taking &#8220;3&#8243; (see the big 3?) <span style="color: #800080;">big</span> steps somewhere.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2413" title="27-twenty" src="../../wp-content/uploads/2010/01/27-twenty-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Twenty:</strong> There are two &#8220;tens&#8221; in here (see them side by side?) When combined, as they are now, you have 10+10 = 20. Therefor, this one is <strong>twenty<span style="font-weight: normal;">.</span></strong></p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2414" title="28-ceremony" src="../../wp-content/uploads/2010/01/28-ceremony-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Ceremony:</strong> If you look at this one, it looks like a guy with one leg and a &#8220;drop of liquid&#8221; (i.e. he had quite a few drinks). This was a fun ceremony, apparently.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2415" title="29-busted-up-stick" src="../../wp-content/uploads/2010/01/29-busted-up-stick-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Busted up stick: </strong>Broken in three places!</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2416" title="30-double-broken-boxes" src="../../wp-content/uploads/2010/01/30-double-broken-boxes-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Double Knocked Over Boxes: </strong>This set of two boxes was knocked over. Oh shame. Since there was more weight involved, they got broken too (which is why they fell to the left, because broken boxes fall to the left).</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2417" title="31-stuck-ninja-star" src="../../wp-content/uploads/2010/01/31-stuck-ninja-star-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Stuck Ninja Star</strong>: This ninja star got stuck in the ground. Aw shucks.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2418" title="32-hair" src="../../wp-content/uploads/2010/01/32-hair-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Hair:</strong> I dare you to tell me this doesn&#8217;t look like hair.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2419" title="33-linger" src="../../wp-content/uploads/2010/01/33-linger-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Linger / Loiter:</strong> See the &#8220;important person&#8221; in there? That important person has a slide above their head, which means they&#8217;re waiting to go up the stairs and slide down it. Even important people have to <span style="color: #800080;">wait</span> in line to ride down a slide like this.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2420" title="34-fish-legs-stick" src="../../wp-content/uploads/2010/01/34-fish-legs-stick-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Fish Legs Stick: </strong>This is a stick with fish legs attached to it.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2421" title="35-spiky-stick" src="../../wp-content/uploads/2010/01/35-spiky-stick-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Spiky Stick:</strong> See the spikes coming out of that stick. Wait a sec, that&#8217;s not even a stick, that&#8217;s a barb. Dang that stick is spiky in every way possible.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2422" title="36-liquid" src="../../wp-content/uploads/2010/01/36-liquid-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Liquid:</strong> We have water / ice in there, plus another drop of liquid. Once you get to that point, you&#8217;re really talking about <span style="color: #800080;">a lot of liquid</span>, of some kind.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2423" title="37-animal" src="../../wp-content/uploads/2010/01/37-animal-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Animal:</strong> This <span style="color: #800080;">animal tail </span>has hairs coming off of it.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2424" title="38-grass" src="../../wp-content/uploads/2010/01/38-grass-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Grass:</strong> See the grass coming up from the ground? Also, do you see the roots going down into the ground? This is grass, ya&#8217;all.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2425" title="39-butcher" src="../../wp-content/uploads/2010/01/39-butcher-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Butcher:</strong> B is for Butcher.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2426" title="40-alligator-skull" src="../../wp-content/uploads/2010/01/40-alligator-skull-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Alligator Skull:</strong> Similar shape to the snake skull, but this one has more teeth. That&#8217;s why it&#8217;s an alligator skull.</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2427" title="41-death" src="../../wp-content/uploads/2010/01/41-death-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Death:</strong> When a pot (with a pot lid) explodes while you&#8217;re cooking it, there&#8217;s a good chance you might <span style="color: #800080;">die<span style="color: #000000;">.</span></span></p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2428" title="42-reinforced-stairs" src="../../wp-content/uploads/2010/01/42-reinforced-stairs-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Reinforced Stairs: </strong>This is a lot like the stairs we looked at earlier &#8211; this time, though, they&#8217;re reinforced. See the reinforcement beam?</p>
+<blockquote><p><img class="alignnone size-thumbnail wp-image-2429" title="43-reinforced-enclosure" src="../../wp-content/uploads/2010/01/43-reinforced-enclosure-150x150.png" alt="" width="150" height="150" /></p></blockquote>
+<p><strong>Reinforced Enclosure:</strong> Do you see the enclosure? It&#8217;s just like that, but now we&#8217;re going to reinforce it with another beam, so it can enclose even more difficult things!</p>
+<p><strong>Before You Move On:</strong></p>
+<ul>
+<li>Learn 3-Stroke Radicals &#8211; highly recommend drilling them using the <a href="http://smart.fm/goals/198872/content#set_22709">3-stroke radical list</a>. *In Smart.fm, apparently image based flash cards don&#8217;t work too well in the &#8220;iKnow&#8221; version of their flashcards. Use the &#8220;Drill&#8221; program instead, and it should work just fine.</li>
+</ul>
+<p style="text-align: right;"><a href="../learning-your-kanji-radicals-4-strokes/index.html">Learning Your Kanji Radicals (4-strokes) →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

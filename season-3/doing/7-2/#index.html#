@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  2. Verb Vocabulary (Neutral/Formal)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 2. Verb Vocabulary (Neutral/Formal) Comments Feed" href="http://tfugu.github.io/season-3/doing/7-2/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='3: Particles を and に' href='../7-3/index.html' />
+<link rel='next' title='4: Adding In The Verbs (を)' href='../7-4/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-7875 page-child parent-pageid-7871 page-template page-template-template-page-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-7875 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>Verb Vocabulary</h1>
+<h4>&ldquo;An idealist believes that the short run doesn&#8217;t count. A cynic believes the long run doesn&#8217;t matter. A realist believes that what is done or left undone in the short run determines the long run.&rdquo; <span style="color: #888888;">- Sidney J. Harris</span></h4>
+<p>Before you begin looking at verb vocabulary, there&#8217;s one thing you have to wrap your head around. The <em>grammar</em> aspect of verbs and the verbs themselves are kind of the same thing. With です, the grammar was separate from the vocab. You&#8217;d <em>attach</em> the vocab to the です to make it mean something. With verbs, the vocab and the grammar are one and the same. For example:</p>
+<p style="padding-left: 30px;"><span style="color: #0000ff;">たべ</span><span style="color: #ff0000;">ます</span> = to eat</p>
+<p>The blue part, <span style="color: #0000ff;">たべ</span>, is technically the part that tells you what the word is. The red part, ます, is the grammar part. The <span style="color: #ff0000;">ます</span> part tells us that this verb is in future tense (to eat) and not past tense or something else (if it was <em>past tense</em>, this word would be read たべ<span style="color: #ff0000;">ました</span>).</p>
+<p>In this chapter, we will be learning ます form, as well as some verb vocabulary to go with it. By learning a bunch of verb vocabulary in ます form, you&#8217;ll basically already know all the same verb vocabulary in past, negative, and past negative forms as well (plus a whole bunch of other things). All you have to learn is the new ender (i.e. replace ます with something else). In order to be able to do that, though, you have to put the extra work in to learn the vocabulary themselves. That&#8217;s the hard part, though we&#8217;ll try to make it as easy as possible on you.</p>
+<p>Here&#8217;s a list for Anki that you can use. Import it to your TextFugu Vocab deck and get started on it &#8211; there&#8217;ll be more to learn next chapter as well, so you ought to get as much out of the way as you can now.</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/vocab/verbs1.zip" style="background: url( http://tfugu.github.io/img/anki.png) no-repeat left 40%;">Verbs 1 (Formal)</a></span> on Anki</p>
+<p style="text-align: left;">Tips for learning long lists of abstract vocab you don&#8217;t know anything about:</p>
+<ul>
+<li>Before every &#8220;session,&#8221; try to cram 2-3 words and pseudo-learn them. This won&#8217;t put the words into your long term memory, sure, but as soon as they come up in Anki, you&#8217;ll have to recall them out of your short term memory, which really helps you to learn them. So, even though you don&#8217;t really know the 2-3 words when you crammed them, you probably do know them after they show up in your list once or twice (and better than all your other words, at that).</li>
+<li>Take in these words in small groups. Studying 5-10 at a time is plenty, and mix in old words too (Anki does this for you, in fact). The key is to not overwhelm yourself with words. Lots of smaller, spaced out study sessions is way better than one big study session with too many words in it.</li>
+<li>Space out your study times. Study these words for 10-15 minutes at a time, take a break for 10-15 minutes to do something else, and then come back. You&#8217;ll find yourself learning a lot more a lot faster this way, since you&#8217;re giving your brain a bit of time to process information.</li>
+<li>Don&#8217;t give up! This one is obvious, but hard to follow. It&#8217;s hard learning lots of words, and it&#8217;s not always fun. Still, it&#8217;s a really important part of learning Japanese, and very necessary! If you give up on them, it&#8217;ll just take you longer, so get it all out of the way and persevere!</li>
+</ul>
+<p style="text-align: left;">In order to help you out with everything, as well, I&#8217;ve created a PDF with the list of verbs you&#8217;ll be learning. Try to use this more as a reference (rather than a cheat sheet). You should try to learn all these verbs before getting to all the verb exercises and such (in a few pages from now), and use this PDF to help yourself to learn them (tick off the ones you know, don&#8217;t know, etc., so you know what to focus on). You can even use this list to do that &#8220;cramming technique&#8221; mentioned earlier in this page.</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="download" href="../../../downloads/worksheets/verblist1.pdf">Formal Verbs List</a></span></p>
+<p style="text-align: left;">You don&#8217;t have to go through <em>all</em> of the words in this list before moving on, though get through what you can. We&#8217;ll be learning some particles on the next page, so you can use that to take a break from studying your verbs list if you need to. Just make sure you keep studying this list, and study it a lot. It&#8217;ll be really important really soon!</p>
+<p style="text-align: center;"><a href="../index.html#top" class="woo-sc-button  silver" ><span class="woo-">← 後</span></a> <a href="../7-3/index.html#top" class="woo-sc-button  silver" ><span class="woo-">前 →</span></a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

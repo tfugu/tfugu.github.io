@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  5. Categorizing The Nouny Adverbs</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 5. Categorizing The Nouny Adverbs Comments Feed" href="http://tfugu.github.io/season-4/adverbs/5-5/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='4. Nouny Adverbs' href='../../../season-3/dict-verbs/5-4/index.html' />
+<link rel='next' title='6. Adverbs Everywhere' href='../5-6/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-8981 page-child parent-pageid-8931 page-template page-template-template-page-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-8981 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>Categorizing The Nouny Adverbs</h1>
+<p>The &#8220;Nouny Adverbs&#8221; will be easier to use and understand if we categorize them. Plus, as you come across and learn more of these, you&#8217;ll be able to easily put them in their place. Also included is a cheat sheet to help you out. There&#8217;s a lot of words and different ways to use them, so I hope it&#8217;s helpful. Your main job, though, is to learn the meanings of the words (i.e. you shouldn&#8217;t use the cheatsheet for that). Use the cheatsheet to help you <em>use</em> the words you already know, mmk?</p>
+<p>Let&#8217;s get right into it. I know this is a particularly long page, but it&#8217;s not something I wanted to break up into multiple sections, since everything groups together really well. Read about each individual word and study the example sentences / explanation. After that, move on. Right now, you should just try to make sure you <em>understand</em> everything. The next few pages are tasked with helping you understand how to use what you understand.</p>
+<div class="woo-sc-box info   ">One thing to note: As much as possible, I&#8217;ll try to focus examples on the &#8220;adverb+verb&#8221; pattern you were working with earlier. This isn&#8217;t always possible, so when that happens, prepare to be flexible (and learn!). I&#8217;ll go over &#8220;common&#8221; patterns that don&#8217;t follow the &#8220;adverb+verb&#8221; pattern, but hopefully they should make sense, at the very least! Follow along and do the best you can, everything down below is a good thing to learn.</div>
+<hr class="d4pbbc-hr" />
+<h2>Quantity Adverbs</h2>
+<p>Quantity Adverbs refer to how much of something exists and do a great job attaching onto verbs (just like the previous examples when we used な and い adjectives). These adverbs don&#8217;t generally need particles to attach them to the nouns (I&#8217;ll make sure to mark adverbs that do), and can be placed right before the verb to modify it.</p>
+<h3>たくさん（A Lot）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>たくさん　あります</strong></span> よ<br />
+I <span style="color: #800080;"><strong>have a lot</strong></span> (of something)</p>
+<p style="padding-left: 30px;">すし　を　<strong><span style="color: #800080;">たくさん　たべました</span></strong><br />
+I <span style="color: #800080;"><strong>ate a lot</strong></span> of sushi</p>
+<p style="padding-left: 30px;">This is one of the easiest adverbs to use (and one of the most useful). One good rule of thumb is to think &#8220;if it makes sense in English, it most likely makes sense in Japanese, too.&#8221; So, if &#8220;____ a lot of something&#8221; makes sense in English, it&#8217;ll probably work in Japanese. Fought a lot of bad guys. Drank a lot of orange juice. Make a lot of clothes. Buy a lot of medicine.</p>
+<h3>いっぱい（Full / To Capacity）</h3>
+<p style="padding-left: 30px;">水　を　<span style="color: #800080;"><strong>いっぱい　入れました</strong></span><br />
+It was <span style="color: #800080;"><strong>filled</strong></span> with water</p>
+<p style="padding-left: 30px;">This adverb is often used when it comes to filling things up (like buckets, rooms, etc). You will see it even more, though, as a plain old adjective. As in:</p>
+<p style="padding-left: 30px;">あたま　が　いっぱい　です<br />
+My head is full</p>
+<p style="padding-left: 30px;">Many of these &#8220;Nouny&#8221; adverbs will be able to do this, but as long as you know the meaning of the adverb word, you&#8217;ll catch on really quickly (plus you&#8217;ll see more as you move forward with TextFugu).</p>
+<h3>ほとんど（Almost）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>ほとんど　いきませんでした</strong></span><br />
+I <strong><span style="color: #800080;">almost didn&#8217;t go</span></strong></p>
+<p style="padding-left: 30px;">えいが　を　<span style="color: #800080;"><strong>ほとんど　みました</strong></span><br />
+I <span style="color: #800080;"><strong>almost saw</strong></span> the movie</p>
+<p style="padding-left: 30px;">ほとんど will also often be seen with nouns. For example, ほとんど４０さい would be &#8220;almost 40 years old.&#8221;</p>
+<h3>だいたい（Generally/Mostly）</h3>
+<p style="padding-left: 30px;">When something is mostly true (or mostly something), だいたい is a great adverb to use.</p>
+<p style="padding-left: 30px;">くるま　は　<span style="color: #800080;">だいたい　おなじ</span> です<br />
+The cars are <strong><span style="color: #800080;">mostly the same</span></strong></p>
+<p style="padding-left: 30px;">しごと　は　<strong><span style="color: #800080;">だいたい　おわりました</span></strong><br />
+The job is <span style="color: #800080;"><strong>mostly finished</strong></span></p>
+<h3>なかなか（Quite）</h3>
+<p style="padding-left: 30px;">The adverb なかなか, in terms of use, is like one exception on top of another. There are just so many different ways it&#8217;s used, and it&#8217;s quite flexible (or should I say なかなか flexible). You can think of this word as having meanings like &#8220;very, really, considerably, fairly, rather,&#8221; and so on. Of course, &#8220;quite&#8221; works too.</p>
+<p style="padding-left: 30px;">この　ゲーム　は　<span style="color: #800080;"><strong>なかなか　むずかしい</strong></span> ですね<br />
+This game is <span style="color: #800080;"><strong>quite difficult</strong></span></p>
+<p style="padding-left: 30px;">はやい　くるま　は　<span style="color: #800080;"><strong>なかなか　ありません</strong></span><br />
+There are <span style="color: #800080;"><strong>really no</strong></span> fast cars</p>
+<p style="padding-left: 30px;">This one is a bit hard to work with, but your goal is just to understand it for now. Let&#8217;s move on to the last one.</p>
+<h3>すこし（A Little)</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>すこし　たべました</strong></span><br />
+I <span style="color: #800080;"><strong>ate a little bit</strong></span>.</p>
+<p style="padding-left: 30px;">にほんご　を　<span style="color: #800080;"><strong>すこし　はなします</strong></span><br />
+I <span style="color: #800080;"><strong>speak a little bit</strong></span> of Japanese</p>
+<p style="padding-left: 30px;">This is the first of two すこし&#8217;s (you&#8217;ll see the other one in the &#8220;degree&#8221; section). With this すこし, we&#8217;re using it to quantify something. As in, &#8220;ate a little bit&#8221; and &#8220;speak a little bit of Japanese.&#8221; Another cool pattern that goes along with すこし (that you don&#8217;t know yet, but will learn in a grammar chapter later) is すこしだけ (where だけ means &#8220;only&#8221;). This means &#8220;only a little bit&#8221; and can be thrown into the above sentences to say &#8220;I <em>only</em> ate a little bit&#8221; and &#8220;I <em>only</em> speak a little bit of Japanese.&#8221;</p>
+<hr class="d4pbbc-hr" />
+<h2>Degree adverbs</h2>
+<p>Degree Adverbs are very similar to Quantity Adverbs in terms of category, but degree adverbs tend to attach themselves to <em>adjectives</em>. We haven&#8217;t gone over this yet, but it&#8217;s quite simple (and we&#8217;ll cover this more). Basically, all you do is put the adverb before the adjective, like you did with verbs and adverbs. For example, とてもたかいです is &#8220;very tall&#8221; or &#8220;very expensive.&#8221; Although &#8220;Degree Adverbs&#8221; <em>tend</em> to like adjectives, this isn&#8217;t <em>always</em> the case. Read the explanation of each for more information.</p>
+<h3>とても（Very）</h3>
+<p style="padding-left: 30px;">きょう　は　<span style="color: #800080;"><strong>とても　さむい</strong></span> です<br />
+Today is <span style="color: #800080;"><strong>very cold</strong></span>.</p>
+<p style="padding-left: 30px;">ゲーム　は　<span style="color: #800080;"><strong>とても　やすかった</strong></span> です<br />
+The game was <span style="color: #800080;"><strong>very cheap</strong></span></p>
+<p style="padding-left: 30px;">This adverb is definitely going to be paired mostly with adjectives. It&#8217;s really similar to English in this way. When you think of the word &#8220;very&#8221; in English, usually it is attached to adjectives as well. Very smooth. Very sleepy. Very interesting.</p>
+<h3>すこし（A Little）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>すこし　たかい</strong></span> です<br />
+It is <span style="color: #800080;"><strong>a little expensive</strong></span></p>
+<p style="padding-left: 30px;">You may have noticed there are two すこしs (one for &#8220;degree&#8221; and one for &#8220;quantity&#8221;). That&#8217;s because すこし is used in both &#8220;degree&#8221; and &#8220;quantity&#8221; situations, and you&#8217;ll see them both enough I thought I&#8217;d separate them out in this way. So, you can do both すこし+Adjective and すこし+verb, and it&#8217;s A-Okay.</p>
+<h3>けっこう（Good Enough, Fairly）</h3>
+<p style="padding-left: 30px;">The most common way you&#8217;ll see this adverb is on its own, like a noun. It can mean &#8220;no thank you&#8221; when used as「けっこうです」. When used as an adverb, though, it switches to meaning something more like &#8220;fairly&#8221; as in &#8220;fairly interesting.&#8221; Both are meanings that are important, though, so I&#8217;ve listed both.</p>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>けっこう　たかい</strong></span> です<br />
+(It&#8217;s <span style="color: #800080;"><strong>fairly</strong></span><span style="color: #800080;"><strong> tall</strong></span>)</p>
+<h3>ずっと（Continuously）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>ずっと　いそがしい</strong></span> です<br />
+<span style="color: #800080;"><strong>Continuously busy</strong></span> / Always busy</p>
+<p style="padding-left: 30px;">きのう、わたし　は　<span style="color: #800080;"><strong>ずっと　ねました</strong></span><br />
+Yesterday, I <span style="color: #800080;"><strong>slept continuously</strong></span> / all day</p>
+<h3>もっと（More）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>もっと　のみましょう</strong></span>*<br />
+Let&#8217;s <span style="color: #800080;"><strong>drink more</strong></span><br />
+*You&#8217;ll learn more about 〜ましょう form soon, you don&#8217;t know it at this point of TextFugu, though.</p>
+<p style="padding-left: 30px;">たなべさん　は　<span style="color: #800080;"><strong>もっと　はやかった</strong></span> です<br />
+Tanabe-san was (even) <span style="color: #800080;"><strong>more faster</strong></span></p>
+<h3>ぜんぜん（Not At All）</h3>
+<p style="padding-left: 30px;">This adverb has a negative connotation, and is used with negative adjectives and verbs.</p>
+<p style="padding-left: 30px;">ビール　は　<span style="color: #800080;"><strong>ぜんぜん　のみません</strong></span><br />
+I <strong><span style="color: #800080;">do not drink</span> </strong>beer<strong> <span style="color: #800080;">at all</span></strong></p>
+<p style="padding-left: 30px;">かれ　は　<span style="color: #800080;"><strong>ぜんぜん　いそがしくない　です</strong></span><br />
+He <span style="color: #800080;"><strong>isn&#8217;t busy at all</strong></span></p>
+<p style="padding-left: 30px;">If you remember anything from this adverb, it should be that pretty much every sentence you see with it is going to be negative (which is why the negative is built right into the translation).</p>
+<hr class="d4pbbc-hr" />
+<h2>Frequency</h2>
+<p>These adverbs have to do with how often something happens.</p>
+<h3>いつも（Always）</h3>
+<p style="padding-left: 30px;">ボビーさん　は　<span style="color: #800080;"><strong>いつも　いそがしい</strong></span> です<br />
+Bobby is <span style="color: #800080;"><strong>always busy</strong></span></p>
+<p style="padding-left: 30px;">この　えいが　は　<span style="color: #800080;"><strong>いつも　おもしろい</strong></span> ですね<br />
+This movie is <span style="color: #800080;"><strong>always interesting</strong></span>, isn&#8217;t it?</p>
+<p style="padding-left: 30px;">This adverb is also used in other grammar points you don&#8217;t know yet, but will soon. いつも is very common with adjectives, however, and this should keep you plenty busy for now (and as long as you know the word, like with all the adverbs, applying it to new grammar will be easy as pie).</p>
+<h3>ときどき（Sometimes）</h3>
+<p style="padding-left: 30px;">にく　を　<span style="color: #800080;"><strong>ときどき　たべます</strong></span><br />
+I <span style="color: #800080;"><strong>sometimes eat meat</strong></span></p>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>ときどき</strong></span> ワイン　を　すこし　のみます<br />
+I <span style="color: #800080;"><strong>sometimes</strong></span> drink a little wine</p>
+<p style="padding-left: 30px;">かれ　は　<span style="color: #800080;"><strong>ときどき　おもしろい</strong></span> ですね<br />
+He is <span style="color: #800080;"><strong>sometimes interesting</strong></span></p>
+<p style="padding-left: 30px;">This can be used in a lot of the same ways いつも is used &#8211; just the frequency is different (&#8220;sometimes&#8221; versus &#8220;always&#8221;).</p>
+<h3>たいてい（Usually）</h3>
+<p style="padding-left: 30px;">This one is used really similarly to だいたい (generally). They do, after all, have very similar meanings as well. Just like だいたい, you&#8217;ll want to have a little more to the sentence most of the time (i.e. have a subject you&#8217;re talking about).</p>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>たいてい、</strong></span> １０じ　に　おきます<br />
+<span style="color: #800080;"><strong>Usually</strong></span>, I wake up at 10 o&#8217;clock</p>
+<hr class="d4pbbc-hr" />
+<h2>Action</h2>
+<p>These adverbs are a little weird, and one of them is awfully specific. I&#8217;d consider these more as &#8220;exceptions&#8221; just because there are so few of them, and they feel out of place.</p>
+<h3>ゆっくり（slowly）</h3>
+<p style="padding-left: 30px;">ゆっくり　あるきます<br />
+Walk slowly</p>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>ビーフ　を　ゆっくり　たべました</strong></span><br />
+I <span style="color: #800080;"><strong>ate the beef slowly</strong></span></p>
+<h3>ぐっすり（Soundly）</h3>
+<p style="padding-left: 30px;">This adverb pretty much only has to do with sleeping, as you&#8217;ll see in the example.</p>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>ぐっすり　ねました</strong></span><br />
+Had a <span style="color: #800080;"><strong>sound sleep</strong></span></p>
+<hr class="d4pbbc-hr" />
+<h2>Time</h2>
+<p>This category is full of great words &#8211; and there are many others to add to here in the future. For now, you&#8217;ll stick with the most important ones. Generally, the &#8220;time&#8221; adverbs are treated much more like nouns than the other adverbs.</p>
+<h3>まいにち（Every Day）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>まいにち</strong></span> すし　を　たべます<br />
+<span style="color: #800080;"><strong>Every day</strong></span>, I eat sushi</p>
+<p style="padding-left: 30px;">すし　を　<span style="color: #800080;"><strong>まいにち　たべます</strong></span><br />
+I <span style="color: #800080;"><strong>eat sushi every day</strong></span></p>
+<h3>きのう（Yesterday）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>きのう</strong></span>、ニューヨーク　に　いきました<br />
+<span style="color: #800080;"><strong>Yesterday</strong></span>, I went to New York</p>
+<h3>きょう（Today）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>きょう</strong></span> は　おもしろかった　です<br />
+<span style="color: #800080;"><strong>Today</strong></span> was interesting</p>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>きょう　たべました</strong></span>よ<br />
+I <span style="color: #800080;"><strong>ate today</strong></span></p>
+<h3>あした（Tomorrow）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>あした</strong></span> は　いそがしい　ですよ<br />
+<span style="color: #800080;"><strong>Tomorrow</strong></span> is busy</p>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>あした</strong></span>、にほん　に　いきます<br />
+<span style="color: #800080;"><strong>Tomorrow</strong></span>, I will go to Japan</p>
+<h3>かつて（Previously）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>かつて</strong></span>、ボビーさん　は　ともだち　でした<br />
+<span style="color: #800080;"><strong>Previously</strong></span>, Bobby was a friend</p>
+<p style="padding-left: 30px;">Unlike the other (above) &#8220;time&#8221; adverbs, かつて is a proper adverb (and so is the next one), meaning it can be treated more like most of the other adverbs on this big list.</p>
+<h3>すぐ（Soon）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>すぐ　いきます</strong></span>よ<br />
+I&#8217;ll <span style="color: #800080;"><strong>go soon</strong></span></p>
+<p style="padding-left: 30px;">かれ　は　<span style="color: #800080;"><strong>すぐ　に　でました</strong></span><br />
+He <span style="color: #800080;"><strong>left immediately / soon</strong></span> (after something)</p>
+<p style="padding-left: 30px;">Like かつて, this is also a proper adverb, meaning it can be used more normally than the other &#8220;time&#8221; adverbs. Since it has to do with time, you&#8217;ll also see it using the に particle.</p>
+<hr class="d4pbbc-hr" />
+<h2>Aspect</h2>
+<p>These adverbs come from the perspective of the speaker, showing how they see things.</p>
+<h3>もう（Already）</h3>
+<p style="padding-left: 30px;">ホットドッグ　は　<span style="color: #800080;"><strong>もう　たべました</strong></span><br />
+The hot dogs <span style="color: #800080;"><strong>were already eaten</strong></span></p>
+<p style="padding-left: 30px;">もう　<span style="color: #800080;"><strong>じかん　ですよ</strong></span>！<br />
+It&#8217;s <span style="color: #800080;"><strong>already time</strong></span>!</p>
+<h3>まだ（Still）</h3>
+<p style="padding-left: 30px;">のりこさん　は　<span style="color: #800080;"><strong>まだ　すこし　こわい</strong></span> です<br />
+Noriko-san is <span style="color: #800080;"><strong>still a little bit scary</strong></span></p>
+<p style="padding-left: 30px;">かれ　は　<span style="color: #800080;"><strong>まだ　わかりません</strong></span><br />
+He <span style="color: #800080;"><strong>still doesn&#8217;t understand</strong></span></p>
+<h3>まず（First Of All）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>まず</strong></span> ベーグル　を　たべましょう*<br />
+<span style="color: #800080;"><strong>First off</strong></span>, let&#8217;s eat a bagel<br />
+*You don&#8217;t know ましょう form yet</p>
+<h3>とうとう（Finally）</h3>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>とうとう</strong></span> なつ　が　きました<br />
+Summer has <span style="color: #800080;"><strong>finally</strong></span> come</p>
+<p style="padding-left: 30px;"><span style="color: #800080;"><strong>とうとう</strong></span> さけ　を　やめました<br />
+<span style="color: #800080;"><strong>Finally</strong></span> I stopped (drinking) sake</p>
+<hr class="d4pbbc-hr" />
+<h2>Judgement</h2>
+<p>These adverbs have to do with the judgment of the speaker. They add a bit of &#8220;opinion,&#8221; so to speak. They also are words that seem to fit nicely with &#8220;set&#8221; sort of phrases, or just things you might hear in an anime or manga. These words are for people with opinions, often strong ones.</p>
+<h3>ぜひ（Certainly/Without Fail）</h3>
+<p style="padding-left: 30px;">ぜひ　きてください<br />
+Please come (without fail)<br />
+*Set phrase, you don&#8217;t know the grammar for this sentence yet</p>
+<h3>いったい（What The&#8230;?）</h3>
+<p style="padding-left: 30px;">いったい　なん　ですか？<br />
+What (in the world) is this?</p>
+<p style="padding-left: 30px;">いったい　だれ　ですか？<br />
+Who (in the world) are you?</p>
+<p style="padding-left: 30px;">This word is used in &#8220;wth!??!&#8221; kinds of situations. It&#8217;s kind of like saying &#8220;what the&#8230;&#8230;.??&#8221; in English (sounds better spoken out loud, I&#8217;m sure). If someone uses いったい, they&#8217;re probably surprised or confused in some way.</p>
+<h3>たぶん（Maybe）</h3>
+<p style="padding-left: 30px;">ジョンさん　は　<span style="color: #800080;"><strong>たぶん　しりません</strong></span><br />
+Jon <span style="color: #800080;"><strong>maybe doesn&#8217;t know</strong></span></p>
+<p style="padding-left: 30px;"><span id="__end"><span style="color: #800080;"><strong>たぶん</strong></span> ほんとう　じゃありません</span><br />
+<span style="color: #800080;"><strong>Maybe</strong></span> it&#8217;s not true</p>
+<p style="padding-left: 30px;">Great word to use on its own too &#8211; &#8220;Are you gonna ask him/her out??&#8221; &#8230; &#8220;hmmm&#8230;. たぶん.&#8221;</p>
+<h3>きっと（Definitely）</h3>
+<p style="padding-left: 30px;">ヒーロ　は　<span style="color: #800080;"><strong>きっと　きます</strong></span>！<br />
+The hero will <span style="color: #800080;"><strong>definitely come</strong></span></p>
+<p style="padding-left: 30px;">When something is for sure, you can use きっと. You can also start a sentence with it, to say &#8220;definitely &#8230;. &#8220;</p>
+<h3>まさか（No Way）</h3>
+<p style="padding-left: 30px;">まさか！！<br />
+No Way!</p>
+<p style="padding-left: 30px;">For now, I&#8217;m just going to stick with the word, on its own, as the sentence. It works really great all on its own, to say whenever something bad / unbelievable is happening to you (and it&#8217;s negative). For example, when you saw this page at the very beginning, and learned you had to go through it&#8230; that would be a good time to let out a good ol&#8217; まさか〜！！</p>
+<hr class="d4pbbc-hr" />
+<p>There&#8217;s also a cheatsheet you can download. It doesn&#8217;t have much information on it, but should have just enough to help you tell what from what allowing you to use some of these adverbs in the coming pages, chapters, and seasons. There&#8217;s also space for notes (which I think you should take advantage of, if you can!), and some color coding for the &#8220;Nouny Adverbs&#8221; that work particularly well with the &#8220;adverb+verb&#8221; pattern you learned earlier. Anyways, just a few things to make it a little easier on you.</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="download" href="../../../downloads/worksheets/noun-adverbs-cheatsheet.pdf">&#8220;Nouny Adverbs&#8221; Cheatsheet</a></span></p>
+<p style="text-align: left;">When you&#8217;ve finished with this page, take a deep breath (not too many pages will be this long, sorry!) and do a quick mental checklist to make sure you&#8217;ve:</p>
+<ol>
+<li>Gone through the <a href="http://tfugu.github.io/season-4/adverbs/15-4/">vocab from the previous page</a>.</li>
+<li>Read through and understood the content on this page (don&#8217;t have to be able to replicate it quite yet, just understanding is perfect for now).</li>
+<li>Taken a quick break to recharge &#8211; that was a lot of reading!</li>
+</ol>
+<div class="woo-sc-box tick   ">By finishing this page, you&#8217;ve taken a look at all the &#8220;nouny adverbs&#8221; and how they&#8217;re used (at least their most common usage patterns). You should know the meaning of all the vocab words on this page, too, meaning no matter what the grammatical situation, you should be able to figure these out to a certain extent (each of these words packs a lot of meaning!).</div>
+<p style="text-align: center;"><a class="btn large" href="../../../season-3/dict-verbs/5-4/index.html#top">← 後</a> <a class="btn large primary" href="../5-6/index.html#top">前 →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

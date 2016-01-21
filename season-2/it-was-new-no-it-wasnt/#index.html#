@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  It Was New. No It Wasn&#8217;t!</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; It Was New. No It Wasn&#8217;t! Comments Feed" href="http://tfugu.github.io/season-2/it-was-new-no-it-wasnt/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Redirect: い Adjectives' href='../i-adjectives/index.html' />
+<link rel='next' title='By Way Of で' href='../by-way-of-de/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-2082 page-child parent-pageid-761 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-2082 page type-page status-publish hentry">
+
+	                <h1>It Was New. No It Wasn&#8217;t!</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1 style="text-align: center;">IT WAS NEW. NO IT WASN&#8217;T!</h1>
+<p style="text-align: center;"><em>“What you need to know about the past is that no matter what has happened, it has all worked together to bring you to this very moment. And this is the moment you can choose to make everything new. Right now.”</em> &#8211; <strong>Unknown</strong></p>
+<p style="text-align: center;"><strong><img class="aligncenter size-full wp-image-2163" title="it-was-new" src="../../wp-content/uploads/2010/01/it-was-new.png" alt="" width="765" height="200" /></strong></p>
+<p style="text-align: left;">Now&#8217;s the fun part. I know I&#8217;ve been building it up, but really, it&#8217;s not as hard as it seems. You&#8217;ll have to memorize three new conjugations for these adjectives and then remember the adjectives themselves (which <a href="http://smart.fm/goals/194937">hopefully you&#8217;ve already made some headway in</a>, right?). In this chapter we&#8217;ll go through the various conjugations, show you some examples, and then let you practice. Really it&#8217;s just going to take some practice and repetition to get it down &#8211; maybe throw in a few な adjectives in the mix to keep your brain moving. You&#8217;ll get there, just focus a bit.</p>
+<p style="text-align: left;">Conjugating い adjectives is a bit like <a href="../lets-do-something-verbs-pt-2/index.html">conjugating verbs</a>. With い adjectives, you&#8217;re only going to need to conjugate them if they come at the end of the sentence (also like verbs). In Japanese, if you haven&#8217;t figured it out already, the conjugation doesn&#8217;t come until the end of a sentence. This leaves all sorts of room to have a bit of fun with the language. Take a look at these two sentences:</p>
+<blockquote>
+<p style="text-align: left;">あなた　が　好き　<span style="color: #ff6600;">です</span> (I like you)</p>
+<p style="text-align: left;">あなた　が　好き　<span style="color: #ff6600;">じゃありません</span> (I don&#8217;t like you)</p>
+</blockquote>
+<p style="text-align: left;">Notice how you don&#8217;t know what the sentence will be saying until the very end? You can wait up to the last minute and change the meaning of your sentence <em>completely</em>. I remember a comedy bit (from a show a lot like SNL) that made fun of romance dramas. It went something like this:</p>
+<blockquote>
+<p style="text-align: left;"><strong>Boy</strong>: 　きみ　が　嫌い　．．．[long pause]　．．．じゃありません</p>
+<p style="text-align: left;"><strong>Girl</strong>: [sigh of relief]</p>
+<p style="text-align: left;"><strong>Boy</strong>:　でも (but), きみこさん　が　すき　．．．[long pause]　．．．じゃありません</p>
+<p style="text-align: left;"><strong>Girl</strong>: [another sigh of relief]</p>
+<p style="text-align: left;">&#8230; and so on.</p>
+</blockquote>
+<p style="text-align: left;">Essentially, this skit shows that you can wait until the last minute before you add the last bit to your sentence. Before that, there&#8217;s no way to know whether what you&#8217;re saying is past, present, negative, or past negative. Of course, most of the time people will know because of context, but that shouldn&#8217;t stop you from having a little fun with it!</p>
+<h1 style="text-align: center;">〜かった　PAST</h1>
+<p style="text-align: left;">The first thing you need to learn about conjugating い adjectives is that after you&#8217;ve conjugated them, you still want to add です on the end. The です doesn&#8217;t really do anything <em>per se</em>, but it <em>does</em> show the politeness level of the sentence. Levels of politeness are something that we&#8217;ll learn more about in Seasons 3 and beyond. Even when we&#8217;re working with past tense, negative, or past negative, you <em>still</em> put the です on the end of these. It just shows that you&#8217;re talking like an upstanding member of society, and <em>doesn&#8217;t</em> necessarily mean the sentence is present tense. Only when the い adjective hasn&#8217;t been altered (and you&#8217;ve added the です) is the sentence present positive. Anyways, you&#8217;ll see what I&#8217;m talking about in just a minute.</p>
+<p style="text-align: left;">To conjugate an い adjective, you&#8217;ll want to take the <em>last</em> い (sometimes there&#8217;s more than one, like in the word かわいい) and change it to かった. Let&#8217;s take a look at a few examples.</p>
+<blockquote>
+<p style="text-align: left;">あたらしい　→　drop the last い for replacement</p>
+<p style="text-align: left;">あたらし　→　replace the missing い with かった to make it past tense</p>
+<p style="text-align: left;">あたらしかった　→　add です on the end to make your sentence a standard polite sentence</p>
+<p style="text-align: left;">あたらしかった　です　→　this means &#8220;It was new.&#8221; Once again, the です just makes the sentence polite. Later on you&#8217;ll learn that you can omit the です completely or replace it with a だ to be more casual (don&#8217;t do it now, though &#8211; much easier to go from formal / standard to casual than the other way around). You&#8217;ll be learning all about this in season 3, so it&#8217;s not that far off.</p>
+</blockquote>
+<p style="text-align: left;">So, all we&#8217;re doing here is just removing the <em>last</em> い and replacing it with the new conjugation: かった. Let&#8217;s take a look at some more examples.</p>
+<blockquote>
+<p style="text-align: left;">おいしい　です　→　おいしかった　です</p>
+<p style="text-align: left;">きびしい　です　→　きびしかった　です</p>
+<p style="text-align: left;">かわいい　です　→　かわいかった　です</p>
+<p style="text-align: left;">おもしろい　です　→　おもしろかった　です</p>
+</blockquote>
+<p style="text-align: left;">Before we start looking at these in sentences, I want to go through the other two conjugations. Negative and past negative. After you understand this first one, it should be easy to grasp the rest.</p>
+<h1 style="text-align: center;">〜くない　Negative</h1>
+<p>The next conjugation we&#8217;re going to learn is くない, which is negative form. Just like かった, above, you&#8217;ll also want to add a です after it, even though くない is making the sentence negative. Also once again, you&#8217;ll just be replacing the last い with くない. Simple as that, though, you&#8217;ll still have to remember it with that brain of yours.</p>
+<blockquote><p>ふるい　→　drop the last い</p>
+<p>ふる　→　replace the dropped い with くない</p>
+<p>ふるくない　→　Add a です to the end to make it polite</p>
+<p>ふるくない　です　→　This means &#8220;it is not old.&#8221; How would you say &#8220;it <em>was</em> old?&#8221;</p>
+<p>ふるかった　です　→　It <em>was</em> old.</p></blockquote>
+<p>Very simple once you memorize くない along with the others.</p>
+<blockquote><p>さむい　です　→　さむくない　です</p>
+<p>あつい　です　→　あつくない　です</p>
+<p>おいしい　です　→　おいしくない　です</p>
+<p>たのしい　です　→　たのしくない　です</p></blockquote>
+<p>Let&#8217;s take a look at the last conjugations, then we&#8217;ll hit on  one of the weird exceptions that you&#8217;ll just have to memorize (sorry!).</p>
+<h1 style="text-align: center;">〜くなかった　PAST NEGATIVE</h1>
+<p>The last conjugation we&#8217;re going to learn is past negative. Once again, you replace the last い with the conjugation (くなかった), and you should add です to the end of it to make it polite (for now, at least).</p>
+<blockquote><p>たかい　→　Drop the last い</p>
+<p>たか　→　Replace the last い with くなかった</p>
+<p>たかくなかった　→　Add a です to the end to make it more polite</p>
+<p>たかくなかった　です　→　This means &#8220;it was not tall&#8221; or, depending on the context, &#8220;it was not expensive.&#8221;</p></blockquote>
+<p>Let&#8217;s take a look at some more examples.</p>
+<blockquote><p>くらい　です　→　くらくなかった　です</p>
+<p>むずかしい　です　→　むずかしくなかった　です</p>
+<p>いそがしい　です　→　いそがしくなかった　です</p>
+<p>うるさい　です　→　うるさくなかった　です</p>
+<p>とおい　です　→　とおくなかった　です</p></blockquote>
+<p>Now, do a quick review. Do you remember how to do the following conjugations?</p>
+<blockquote><p><a style="display:none;" id="ddetlink910937791" href="javascript:expand(document.getElementById('ddet910937791'))">Past tense: </a>
+<div class="ddet_div" id="ddet910937791"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet910937791'));expand(document.getElementById('ddetlink910937791'))</script></p>
+<ul>
+<li>〜かった　です </div></li>
+</ul>
+<p><a style="display:none;" id="ddetlink1424397939" href="javascript:expand(document.getElementById('ddet1424397939'))">Negative: </a>
+<div class="ddet_div" id="ddet1424397939"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1424397939'));expand(document.getElementById('ddetlink1424397939'))</script></p>
+<ul>
+<li>〜くない　です </div></li>
+</ul>
+<p><a style="display:none;" id="ddetlink1276973763" href="javascript:expand(document.getElementById('ddet1276973763'))">Past Negative: </a>
+<div class="ddet_div" id="ddet1276973763"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1276973763'));expand(document.getElementById('ddetlink1276973763'))</script></p>
+<ul>
+<li>〜くなかった　です </div></li>
+</ul>
+</blockquote>
+<p>Now that you know the various い adjective conjugations, let&#8217;s take a look at one exception that can be a bit weird. The great thing about this exception is that you&#8217;ll hear parts of it all the time, maybe without realizing that it&#8217;s an い adjective.</p>
+<h1 style="text-align: center;">いい AND よい</h1>
+<p>If you&#8217;ve been studying your い adjective list (like you&#8217;re supposed to), then maybe you&#8217;ve come across the い adjective いい (good). This one is kind of weird and a bit of an exception. You&#8217;ll just have to remember the rules associated with this one.</p>
+<blockquote><p><strong>Present</strong>: いい or 良い (よい). You won&#8217;t see よい quite as often, at least in present/future form, but occasionally you will come across it. The よい version becomes more important when we look at other conjugations / tenses.</p>
+<p><strong>Past</strong>: Instead of following the rules above and making いい into いかった (this is incorrect), you&#8217;ll want to use the base よい instead. So, in order to make &#8220;good&#8221; past tense, you&#8217;ll want to convert it to よかった.  &#8221;It was good&#8221; or, in many situations, this can mean something along the lines as &#8220;thank goodness!&#8221;</p>
+<p><strong>Negative</strong>: Just like with past tense, you&#8217;ll want to use よい and convert that. よい becomes よくない. &#8220;It is no good.&#8221; You&#8217;ll hear this one a lot too. よくないです！ &#8220;That&#8217;s no good!&#8221; &#8220;That&#8217;s bad&#8221; etc.</p>
+<p><strong>Past Negative</strong>: I bet you can figure out what this one is: よくなかった. &#8220;It was no good.&#8221;</p></blockquote>
+<p>You&#8217;ll occasionally run into adjectives that use いい in them as well. For example, かっこいい (cool) follows the same rules as いい / よい. You&#8217;ll have to remember which ones do use the いい / よい rules though, because some do and some don&#8217;t. For example, かわいい <strong>does not</strong> use these special rules. Through practice and the learning of &#8220;set phrases,&#8221; you&#8217;ll be able to distinguish, though. Luckily this doesn&#8217;t come up all that often, so more times than not you&#8217;ll be perfectly fine.</p>
+<h1 style="text-align: center;">THE TONGUE TWISTING ADJECTIVE</h1>
+<p style="text-align: left;">If you want to have a bit of fun, there is one particular adjective that is really hard for a lot of people to do. If you can get this down, then you&#8217;ll be right up there with the best. The difficult adjective is あたたかい (warm). Now, in present / future tense, it&#8217;s not all that challenging, but let&#8217;s check it out in past, negative, and past negative. That&#8217;s where it can get a bit hairy.</p>
+<blockquote>
+<p style="text-align: left;">あたたかい: A-ta-ta-ka-i &#8211; this is standard, present tense. No problems there, right?</p>
+<p style="text-align: left;">[audio:http://tfugu.github.io/wp-content/uploads/2010/01/atatakai.mp3]</p>
+</blockquote>
+<blockquote>
+<p style="text-align: left;">あたたかかった: Take a moment to spell everything out correctly. A-ta-ta-ka-ka-tta. Try to say that 10 times fast.</p>
+<p style="text-align: left;">[audio:http://tfugu.github.io/wp-content/uploads/2010/01/atatakakatta.mp3]</p>
+</blockquote>
+<blockquote>
+<p style="text-align: left;">あたたかくない: This one isn&#8217;t <em>quite</em> as bad, but still pretty hard for plenty of people. A-ta-ta-ka-ku-na-i.</p>
+<p style="text-align: left;">[audio:http://tfugu.github.io/wp-content/uploads/2010/01/atatakakunai.mp3]</p>
+<p style="text-align: left;">あたたかくなかった: This one is the motherload. A-ta-ta-ka-ku-na-ka-tta.</p>
+<p style="text-align: left;">[audio:http://tfugu.github.io/wp-content/uploads/2010/01/atatakakunakatta.mp3]</p>
+</blockquote>
+<p style="text-align: left;">Now, for fun, try to say all three one after another without stopping in between. Can you do it? Believe it or not, practicing this one adjective will help you tackle some of the more challenging, longer sentences that will be coming up in later chapters. Help you loosen the brain for rolling Japanese off the tongue.</p>
+<p style="text-align: left;"><strong>Chapter Content</strong></p>
+<ul>
+<li><a href="http://tfugu.github.io/wp-content/uploads/2010/01/i-adj-conjugaiton-worksheet.pdf">い adjective conjugation worksheet</a></li>
+<li><a href="http://tfugu.github.io/wp-content/uploads/2010/01/i-adj-practice.pdf">い adjective practice worksheet</a></li>
+</ul>
+<p style="text-align: left;"><strong>Before You Move on:</strong></p>
+<ul>
+<li>Know the four conjugations: Present, Past, Negative, Past Negative, when it comes to い adjectives</li>
+<li>Remember that you have to add です onto the end of all of these, to make the sentence polite (not to change the tense)</li>
+<li>Know the い adjective vocab like the back of your hand</li>
+<li>Complete the worksheets</li>
+</ul>
+<p style="text-align: right;"><a href="../colorful-adjectives/index.html">Colorful Adjectives →</a></p>
+<p><a style="display:none;" id="ddetlink1474958321" href="javascript:expand(document.getElementById('ddet1474958321'))">Image Sources: </a>
+<div class="ddet_div" id="ddet1474958321"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1474958321'));expand(document.getElementById('ddetlink1474958321'))</script></p>
+<ul>
+<li><a href="http://www.flickr.com/photos/scrapthispack/2034500846/">http://www.flickr.com/photos/scrapthispack/2034500846/</a></li>
+<li><a href="http://www.flickr.com/photos/booleansplit/2374390061/">http://www.flickr.com/photos/booleansplit/2374390061/</a></li>
+<li><a href="http://www.flickr.com/photos/stevendepolo/4110628593/">http://www.flickr.com/photos/stevendepolo/4110628593/</a> </div></li>
+</ul>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

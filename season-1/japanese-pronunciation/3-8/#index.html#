@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  8: Main Hiragana Pronunciation (Main)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 8: Main Hiragana Pronunciation (Main) Comments Feed" href="http://tfugu.github.io/season-1/japanese-pronunciation/3-8/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='7: Hiragana Pattern &#8220;Exceptions&#8221;' href='../3-7.html' />
+<link rel='next' title='9: Dakuten' href='../3-9/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-5632 page-child parent-pageid-323 page-template page-template-template-page-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-5632 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>Main Hiragana Pronunciation</h1>
+<p>This is where the fun starts. Take a moment to go back and review the first column (a, i, u, e, o) and solidify the pronunciation of those first kana before moving on. We&#8217;re about to take a look at the pronunciation of all the rest of the kana, and it&#8217;ll be important that you still have those first five down nicely.</p>
+<p>Before you move on and practice the pronunciation of all of these, let&#8217;s take note of a couple things:</p>
+<ol>
+<li>You don&#8217;t have to be able to read anything.</li>
+<li>Keep thinking about &#8220;the pattern&#8221; as you go through everything. Most important thing is that you make the connection between kana that are a part of the pattern (most of them are).</li>
+<li>Go through each video at least three times, unless specified otherwise.</li>
+<li>Pay real close attention to the pronunciation of each kana and try to copy / replicate them. Anything that&#8217;s difficult (at least when it comes to native English speakers) will get extra explanation.</li>
+</ol>
+<p>We&#8217;re going to start at the beginning and go through all the hiragana pronunciation, starting with the &#8220;a-column&#8221; and ending with &#8220;n.&#8221; Other things (such as dakuten and combo-hiragana will be covered in the next couple of pages), so don&#8217;t worry about them right now. Let&#8217;s get started!</p>
+<h3><strong>Column 1</strong>: あいうえお Pronunciation</h3>
+<iframe width="600" height="380" src="http://www.youtube.com/embed/bg1mv3OwAh4" frameborder="0" type="text/html"></iframe>
+<h3><strong>Column 2</strong>: かきくけこ Pronunciation</h3>
+<iframe width="600" height="380" src="http://www.youtube.com/embed/JJASnmQccw4" frameborder="0" type="text/html"></iframe>
+<h3><strong>Column 3</strong>: さしすせそ Pronunciation</h3>
+<iframe width="600" height="380" src="http://www.youtube.com/embed/TmlsQ0xMmxQ" frameborder="0" type="text/html"></iframe>
+<p>This video contains exception し (shi) in it. Instead of saying &#8220;si,&#8221; we add an &#8220;h&#8221; to it and pronounce it &#8220;shi&#8221; like &#8220;<strong>she</strong> went to the store.&#8221; Make sure you practice this column until you feel comfortable with &#8220;shi&#8221; instead of &#8220;si.&#8221;</p>
+<h3><strong>Column 4</strong>: たちつてと Pronunciation</h3>
+<iframe width="600" height="380" src="http://www.youtube.com/embed/f-zZbEXTpu4" frameborder="0" type="text/html"></iframe>
+<p>This video contains two exceptions in it: ち (chi) and つ (tsu). &#8220;Chi&#8221; is a pretty easy one to handle, but &#8220;tsu&#8221; sometimes gives people issues. It&#8217;s almost like saying &#8220;su&#8221; but you add a little &#8220;t&#8221; sound right at the beginning. Repeat the video until you feel comfortable with this sound. If you feel like you&#8217;ve plateaued, take a break and come back a little bit later, when you&#8217;re feeling fresh (and are actually physically able to improve). Just make sure you can replicate this sound <em>before</em> moving on to the next chapter.</p>
+<h3><strong>Column 5:</strong> なにぬねの Pronunciation</h3>
+<iframe width="600" height="380" src="http://www.youtube.com/embed/SfHIFqmoB2I" frameborder="0" type="text/html"></iframe>
+<p>Whew, okay, take a break now. There&#8217;s only so much muscle memory you can develop at one time! While you&#8217;re waiting, check this kid out and relax a bit.</p>
+<iframe width="600" height="380" src="http://www.youtube.com/embed/ErMWX--UJZ4" frameborder="0" type="text/html"></iframe>
+<p>Now that your mind has been rested&#8230; nay, <em>serenaded</em>&#8230;</p>
+<p>Can you replicate the &#8220;a-column&#8221;? <a style="display:none;" id="ddetlink1143908920" href="javascript:expand(document.getElementById('ddet1143908920'))">Answer →</a>
+<div class="ddet_div" id="ddet1143908920"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1143908920'));expand(document.getElementById('ddetlink1143908920'))</script></p>
+<p>a, i, u, e, o</div></p>
+<p>Can you replicate the sa-column? <a style="display:none;" id="ddetlink1503150259" href="javascript:expand(document.getElementById('ddet1503150259'))">Answer →</a>
+<div class="ddet_div" id="ddet1503150259"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1503150259'));expand(document.getElementById('ddetlink1503150259'))</script></p>
+<p>sa, <strong>shi</strong>, su, se, so</div></p>
+<p>Can you replicate the ka-column? <a style="display:none;" id="ddetlink986831765" href="javascript:expand(document.getElementById('ddet986831765'))">Answer →</a>
+<div class="ddet_div" id="ddet986831765"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet986831765'));expand(document.getElementById('ddetlink986831765'))</script></p>
+<p>ka, ki, ku, ke, ko</div></p>
+<p>Can you replicate the ta-column? <a style="display:none;" id="ddetlink201859823" href="javascript:expand(document.getElementById('ddet201859823'))">Answer →</a>
+<div class="ddet_div" id="ddet201859823"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet201859823'));expand(document.getElementById('ddetlink201859823'))</script></p>
+<p>ta, <strong>chi<em>, </em>tsu</strong>, te, to</div></p>
+<div class="woo-sc-box info   ">Make sure you took note of the exceptions (written in <strong>bold</strong> in the answer area). These are the parts that don&#8217;t <em>quite</em> fit the pattern, so you have to try and remember them on your own. If you missed any take note then go back through again and make sure you catch them on your second / third time through.</div>
+<p>After you&#8217;ve practiced those a little, and after you&#8217;ve rested your mind with child-ukulele skills, you can move on to the next column.</p>
+<h3><strong>Column 6:</strong> はひふへほ Pronunciation</h3>
+<iframe width="600" height="380" src="http://www.youtube.com/embed/dOkueY7RjOs" frameborder="0" type="text/html"></iframe>
+<p>The only strange thing about this column is ふ (hu). It can be pronounced two ways (in the above video I do a breathy combo-hu/fu sound), &#8220;hu&#8221; and &#8220;fu.&#8221; Most of the time you&#8217;ll hear it as &#8220;fu,&#8221; though with foreign words (remember katakana?) it can really go either way. If you only want to learn one right now (and just keep in mind it <em>could</em> be both), then go with &#8220;fu&#8221; since that&#8217;s going to be more common.</p>
+<h3><strong>Column 7:</strong> まみむめも Pronunciation</h3>
+<iframe width="600" height="380" src="http://www.youtube.com/embed/ru8rQHZ1NXc" frameborder="0" type="text/html"></iframe>
+<h3><strong>Column 8:</strong> やゆよ Pronunciation</h3>
+<iframe width="600" height="380" src="http://www.youtube.com/embed/IgwWmy8BrvE" frameborder="0" type="text/html"></iframe>
+<p>If you remember from the <a href="../../learning-to-read-hiragana/3-7/index.html">exceptions page</a>, this is the first column with only three kana. They&#8217;re pretty straight forward in terms of how the pronunciation goes, just remember that there is no yi or ye.</p>
+<h3><strong>Column 9:</strong> らりるれろ Pronunciation</h3>
+<iframe width="600" height="380" src="http://www.youtube.com/embed/pEBkP_Q0FeA" frameborder="0" type="text/html"></iframe>
+<p>This is the hardest one for most people. It&#8217;s really important that you pay real close attention, because the difference is very small to the untrained ear, but fairly big to the trained one. Make sure you don&#8217;t make the mistake of just thinking you have it down when in actuality you&#8217;re not pronouncing it correctly. Go through the steps and practice, trying to get closer and closer to the correct pronunciation. I&#8217;ve even broken it up into steps for you so that you can be perfect.</p>
+<ol>
+<li>Make the English &#8220;da&#8221; sound. Do this approximately ten times, and pay attention to how your tongue is shaped and where it ends up as you&#8217;re saying it. Your tongue should be pretty flat against the top of your mouth, with the tip of your tongue pushing against your top front teeth. Your teeth should be lightly touching both the top and bottom of your tongue. Say &#8220;da&#8221; ten times.</li>
+<li>Now, make the English &#8220;la&#8221; sound. Continue to pay attention to your tongue placement and mouth shape. Really exaggerate this sound and curl your tongue back so the bottom of it is touching the roof of your mouth. Notice how your tongue flicks forward when you say &#8220;la.&#8221; Do this ten times as well, taking note of everything as you do it.</li>
+<li>Both &#8220;la&#8221; and &#8220;da&#8221; should have been nice and easy for you. Now, I want you to go back and forth between the two, saying &#8220;la da la da la da la da&#8221; twenty times. Really exaggerate and enunciate both sounds.</li>
+<li>Now, you&#8217;re going to do a combination of the two. You should have a really good idea where you put your tongue for both &#8220;la&#8221; and &#8220;da.&#8221; You&#8217;re going to make an &#8220;R&#8221; sound by putting your tongue in a spot right between the &#8220;la&#8221; and &#8220;da&#8221; locations. This is the magic sweet spot for pronouncing the Japanese &#8220;R.&#8221; With all this in mind, and with your new knowledge of &#8220;R&#8221; placement, let&#8217;s practice &#8220;ra, ri, ru, re, ro.&#8221;</li>
+</ol>
+<p>The Japanese &#8220;ra, ri, ru, re, ro&#8221; is kind of a mystery for a lot of people, and here&#8217;s why. The Ra-column is made up of multiple sounds. It&#8217;s part R (I&#8217;d say around 75%), part L (I&#8217;d say about 20%) and strangely enough, part D (I&#8217;d give this about 5%). Combine these together and you have the &#8220;Japanese R.&#8221; By doing the exercises above, you should be able to get the R &amp; L sounds. The subtle &#8220;D&#8221; sound should come naturally with those things, though it&#8217;s not as important as the R &amp; L.</p>
+<p>Go through the video above, and think about your tongue placement with each one. Listen to the video and try to copy the sounds. You don&#8217;t want to be too R or too L. Something right in between is pretty good.</p>
+<p>If you&#8217;ve ever had any experience talking with Japanese people, you&#8217;ll notice they have a really hard time distinguishing L&#8217;s and R&#8217;s. This totally makes sense, since their &#8220;R-sound&#8221; is a combination of the two.</p>
+<div class="woo-sc-box info   ">Before you move on to the next column, be sure to practice the &#8220;r-column&#8221; extra. Pay close attention to your tongue positioning, and if you need to go back through the steps that get you to the right pronunciation. With practice you&#8217;ll get it down right&#8230; but more importantly, you have to practice the right thing, so make sure you&#8217;re thinking, too!</div>
+<p><strong>Column 10:</strong> わをん Pronunciation</p>
+<iframe width="600" height="380" src="http://www.youtube.com/embed/b1TTJj0GCn8" frameborder="0" type="text/html"></iframe>
+<p>わ (wa) is fairly standard. を (wo) is a bit weird, though.  Instead of pronouncing it with a &#8220;w&#8221; sound, you drop the &#8220;w&#8221; and pronounce it like &#8220;oh/o.&#8221; ん (n) is the only consonant-only kana, and it&#8217;s placed after any other kana. For example, あ (a) + ん (n) is あん (an), ら (ra) + ん (n) is らん (ran), etc. We&#8217;ll get more into that in the next chapter, though.</p>
+<div class="woo-sc-box tick   ">Make sure you feel pretty good about the above pronunciations (especially the ra-column). You don&#8217;t have to be able to read any of them (just the romaji part, right now), but you should be able to pronounce everything. Why not go through all the videos one more time, just to solidify everything down one last time before moving on?</div>
+<p style="text-align: center;"><a class="btn large" href="../3-7.html#top">← 後</a> <a class="btn large primary" href="../3-9/index.html#top">前 →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

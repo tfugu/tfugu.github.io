@@ -1,0 +1,1838 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  9 Stroke Kanji</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 9 Stroke Kanji Comments Feed" href="http://tfugu.github.io/kanji/9-stroke/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='8 Stroke Kanji' href='../8-stroke/index.html' />
+<link rel='next' title='10 Stroke Kanji' href='../10-stroke/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-13098 page-parent page-child parent-pageid-2313 page-template page-template-template-page-wide-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-13098 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>9 Stroke Kanji</h1>
+<h4>&#8220;Prevent the things you have been doing and you are half-way home.&#8221; &#8211; FM Alexander</h4>
+<p>Nine is fine</p>
+<p><a name="1"></a></p>
+<table>
+<tbody>
+<tr class="yellow">
+<td><strong>Kanji</strong></td>
+<td><strong>Meaning<br />
+</strong></td>
+<td><strong>音 (on)<br />
+</strong></td>
+<td><strong>訓 (kun)<br />
+</strong></td>
+<td><strong>Strokes<br />
+</strong></td>
+<td><strong>Level<br />
+</strong></td>
+</tr>
+<tr>
+<td>草</td>
+<td>Grass</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>1</td>
+</tr>
+<tr>
+<td>音</td>
+<td>Sound</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>1</td>
+</tr>
+<tr>
+<td>前</td>
+<td>Front</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>南</td>
+<td>South</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>室</td>
+<td>Room</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>後</td>
+<td>Behind</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>思</td>
+<td>Think</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>星</td>
+<td>Star</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>春</td>
+<td>Spring Season</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>昼</td>
+<td>Daytime</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>活</td>
+<td>Active</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>海</td>
+<td>Sea</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>点</td>
+<td>Point</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>秋</td>
+<td>Autumn</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>科</td>
+<td>Section</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>茶</td>
+<td>Tea</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>計</td>
+<td>Measure</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>風</td>
+<td>Wind</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>食</td>
+<td>Eat, Meal</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>首</td>
+<td>Neck</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>乗</td>
+<td>Ride</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>係</td>
+<td>Person In Charge</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>品</td>
+<td>Goods</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>客</td>
+<td>Guest</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>屋</td>
+<td>Roof</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>度</td>
+<td>Degrees</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>待</td>
+<td>Wait</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>急</td>
+<td>Hurry</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>拾</td>
+<td>Pick Up</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>持</td>
+<td>Hold, Carry</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>指</td>
+<td>Finger</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>昭</td>
+<td>Shining</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>柱</td>
+<td>Pillar</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>洋</td>
+<td>Ocean</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>炭</td>
+<td>Charcoal</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>界</td>
+<td>World</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>畑</td>
+<td>Farm</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>発</td>
+<td>Departure</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>相</td>
+<td>Mutual</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>県</td>
+<td>Prefecture</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>研</td>
+<td>Sharpen</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>神</td>
+<td>God</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>秒</td>
+<td>Second (Time)</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>級</td>
+<td>Rank</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>美</td>
+<td>Beauty</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>負</td>
+<td>Lose</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>追</td>
+<td>Follow</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>送</td>
+<td>Send</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>重</td>
+<td>Heavy</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>面</td>
+<td>Face</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>便</td>
+<td>Convenience</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>信</td>
+<td>Trust</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>勇</td>
+<td>Courage</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>単</td>
+<td>Simple</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>型</td>
+<td>Model</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>変</td>
+<td>Change</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>建</td>
+<td>Build</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>昨</td>
+<td>Previous</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>栄</td>
+<td>Prosperity</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>浅</td>
+<td>Shallow</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>省</td>
+<td>Government Ministry</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>祝</td>
+<td>Celebrate</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>紀</td>
+<td>Chronicle</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>約</td>
+<td>Promise</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>胃</td>
+<td>Stomach</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>要</td>
+<td>Need</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>軍</td>
+<td>Army</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>飛</td>
+<td>Fly</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>保</td>
+<td>Preserve</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>則</td>
+<td>Rule</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>厚</td>
+<td>Thick</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>政</td>
+<td>Politics</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>故</td>
+<td>Circumstances</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>査</td>
+<td>Investigate</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>独</td>
+<td>Alone</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>祖</td>
+<td>Ancestor</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>迷</td>
+<td>Astray</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>退</td>
+<td>Retreat</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>逆</td>
+<td>Inverted</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>限</td>
+<td>Limit</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>城</td>
+<td>Castle</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>奏</td>
+<td>Play Music</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>姿</td>
+<td>Figure</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>宣</td>
+<td>Proclaim</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>専</td>
+<td>Specialty</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>巻</td>
+<td>Scroll</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>律</td>
+<td>Law</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>映</td>
+<td>Reflect</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>染</td>
+<td>Dye</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>段</td>
+<td>Steps</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>泉</td>
+<td>Spring</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>洗</td>
+<td>Wash</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>派</td>
+<td>Sect</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>皇</td>
+<td>Emperor</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>看</td>
+<td>Watch Over</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>砂</td>
+<td>Sand</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>紅</td>
+<td>Deep Red</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>肺</td>
+<td>Lungs</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>背</td>
+<td>Back</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>革</td>
+<td>Leather</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>亭</td>
+<td>Pavilion</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>侯</td>
+<td>Marquis</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>侵</td>
+<td>Encroach</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>促</td>
+<td>Stimulate</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>俊</td>
+<td>Genius</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>俗</td>
+<td>Vulgar</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>冒</td>
+<td>Risk</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>冠</td>
+<td>Crown</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>削</td>
+<td>Plane</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>勅</td>
+<td>Imperial Order</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>卑</td>
+<td>Lowly</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>卸</td>
+<td>Wholesale</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>厘</td>
+<td>Thousandth</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>叙</td>
+<td>Confer</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>咲</td>
+<td>Blossom</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>哀</td>
+<td>Pathetic</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>垣</td>
+<td>Hedge</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>契</td>
+<td>Pledge</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>姻</td>
+<td>Matrimony</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>威</td>
+<td>Intimidate</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>封</td>
+<td>Seal</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>峠</td>
+<td>Mountain Peak</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>峡</td>
+<td>Gorge</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>帝</td>
+<td>Sovereign</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>帥</td>
+<td>Commander</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>幽</td>
+<td>Seclude</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>怒</td>
+<td>Angry</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>怠</td>
+<td>Neglect</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>恒</td>
+<td>Constancy</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>恨</td>
+<td>Rancor</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>悔</td>
+<td>Repent</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>括</td>
+<td>Fasten</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>拷</td>
+<td>Torture</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>挑</td>
+<td>Challenge</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>挟</td>
+<td>Pinch</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>施</td>
+<td>Carry Out</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>是</td>
+<td>Just So</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>枯</td>
+<td>Wither</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>架</td>
+<td>Rack</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>柄</td>
+<td>Design</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>某</td>
+<td>So-and-so</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>柔</td>
+<td>Tender</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>柳</td>
+<td>Willow</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>洞</td>
+<td>Den</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>津</td>
+<td>Haven</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>洪</td>
+<td>Deluge</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>浄</td>
+<td>Clean</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>為</td>
+<td>Do</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>牲</td>
+<td>Animal Sacrifice</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>狩</td>
+<td>Hunt</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>狭</td>
+<td>Cramped</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>珍</td>
+<td>Rare</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>甚</td>
+<td>Tremendously</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>疫</td>
+<td>Epidemic</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>皆</td>
+<td>All</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>盆</td>
+<td>Basin</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>盾</td>
+<td>Shield</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>砕</td>
+<td>Smash</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>窃</td>
+<td>Stealth</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>糾</td>
+<td>Twist</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>耐</td>
+<td>Resistant</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>胆</td>
+<td>Gall Bladder</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>胎</td>
+<td>Womb</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>胞</td>
+<td>Placenta</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>臭</td>
+<td>Stinking</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>荒</td>
+<td>Laid Waste</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>荘</td>
+<td>Villa</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>虐</td>
+<td>Tyrannize</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>訂</td>
+<td>Revise</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>貞</td>
+<td>Upright</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>赴</td>
+<td>Proceed</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>軌</td>
+<td>Rut</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>逃</td>
+<td>Escape</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>郊</td>
+<td>Outskirts</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>郎</td>
+<td>Son</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>香</td>
+<td>Incense</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>侶</td>
+<td>Companion</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>勃</td>
+<td>Rise</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>咽</td>
+<td>Stuffy</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>怨</td>
+<td>Grudge</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>拭</td>
+<td>Wipe</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>拶</td>
+<td>Be Imminent</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>昧</td>
+<td>Foolish</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>柵</td>
+<td>Fence</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>柿</td>
+<td>Persimmon</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>栃</td>
+<td>Horse Chestnut</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>畏</td>
+<td>Fear</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>眉</td>
+<td>Eyebrow</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>茨</td>
+<td>Thorn</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>虹</td>
+<td>Rainbow</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+<tr>
+<td>訃</td>
+<td>Obituary</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>S</td>
+</tr>
+</tbody>
+</table>
+<p>asd</p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

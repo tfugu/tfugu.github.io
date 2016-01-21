@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Practice</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Practice Comments Feed" href="http://tfugu.github.io/season-7/giving/practice/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Giving And Receiving Actions' href='../../giving-actions/index.html' />
+<link rel='next' title='事' href='http://tfugu.github.io/kanji/%e4%ba%8b/' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-32259 page-child parent-pageid-32241 page-template page-template-template-lesson-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-32259 page type-page status-publish hentry">
+
+	                <h1>Practice</h1>
+					
+                    
+                    <section class="entry">
+	                	<h4>&#8220;Giving And Receiving&#8221;</h4>
+<p>Let&#8217;s start off by making sure you can actually differentiate between the three items you learned. As a reminder, they are: あげる, くれる, and もらう. Of course, if you don&#8217;t remember what these mean go back and reread the previous chapter.</p>
+<h2>あげる, くれる, or もらう？</h2>
+<p>I&#8217;m going to give you most of a sentence. One part will be missing. Can you guess what that part is? You got it &#8211; it&#8217;s the あげる, くれる, and もらう portions.</p>
+<p>ボビーさんからテレビを…<br />
+Someone received a television from Bobby. <a style="display:none;" id="ddetlink1879461130" href="javascript:expand(document.getElementById('ddet1879461130'))">Finish →</a>
+<div class="ddet_div" id="ddet1879461130"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1879461130'));expand(document.getElementById('ddetlink1879461130'))</script></p>
+<p style="padding-left: 30px;">もらった。 </div></p>
+<p>ジョーさんは私に花を &#8230;<br />
+Joe gave me a flower. <a style="display:none;" id="ddetlink1266358097" href="javascript:expand(document.getElementById('ddet1266358097'))">Finish →</a>
+<div class="ddet_div" id="ddet1266358097"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1266358097'));expand(document.getElementById('ddetlink1266358097'))</script></p>
+<p style="padding-left: 30px;">くれた。</div></p>
+<p>ひろゆきさんは私にジャケットを &#8230;<br />
+Hiroyuki gave me a jacket / I received a jacket from Hiroyuki. <a style="display:none;" id="ddetlink1948736038" href="javascript:expand(document.getElementById('ddet1948736038'))">Translate →</a>
+<div class="ddet_div" id="ddet1948736038"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1948736038'));expand(document.getElementById('ddetlink1948736038'))</script></p>
+<p style="padding-left: 30px;">くれた。 </div></p>
+<p>本はボビーさんに &#8230;<br />
+I didn&#8217;t give the book to Bobby. <a style="display:none;" id="ddetlink1738986410" href="javascript:expand(document.getElementById('ddet1738986410'))">Translate →</a>
+<div class="ddet_div" id="ddet1738986410"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1738986410'));expand(document.getElementById('ddetlink1738986410'))</script></p>
+<p style="padding-left: 30px;">あげなかった。 </div></p>
+<p>母が＿＿＿＿＿鳥です。 &#8230;<br />
+It&#8217;s the bird my mom gave to me. <a style="display:none;" id="ddetlink1240519546" href="javascript:expand(document.getElementById('ddet1240519546'))">Translate →</a>
+<div class="ddet_div" id="ddet1240519546"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1240519546'));expand(document.getElementById('ddetlink1240519546'))</script></p>
+<p style="padding-left: 30px;">くれた</div></p>
+<p>兄から &#8230;<br />
+I will get it from my older brother. <a style="display:none;" id="ddetlink519025310" href="javascript:expand(document.getElementById('ddet519025310'))">Translate →</a>
+<div class="ddet_div" id="ddet519025310"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet519025310'));expand(document.getElementById('ddetlink519025310'))</script></p>
+<p style="padding-left: 30px;">もらう。</div></p>
+<p>ともこさんに &#8230;<br />
+I&#8217;ll give it to Tomoko. <a style="display:none;" id="ddetlink767642702" href="javascript:expand(document.getElementById('ddet767642702'))">Translate →</a>
+<div class="ddet_div" id="ddet767642702"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet767642702'));expand(document.getElementById('ddetlink767642702'))</script></p>
+<p style="padding-left: 30px;">あげる。</div></p>
+<p>How&#8217;d you do? 100%? If not, go back and try to figure out why you got something wrong. If you got everything right you&#8217;re ready for the next section.</p>
+<h2>Practiceをくれる？</h2>
+<p>You&#8217;d better! You have no choice &#8211; well, actually you do &#8211; but don&#8217;t fall into the pit of temptation! You should do this practice, for me, and for yourself. I mean, I&#8217;m totally <em>giving</em> you this practice so it would be bad manners not to <em>receive</em> it and do it, right?</p>
+<h3>もらう</h3>
+<p>To start, I want you to go around your house and find the things that were given to you. When you come across such an item, I want you to do the following:</p>
+<ol>
+<li>Who was this given to me by? [name]から</li>
+<li>What is the name of this item? What is it called? Run back to your computer if you&#8217;re not sure.</li>
+<li>Say the whole sentence: _____からこの＿＿＿をもらった。</li>
+<li>Now say a longer sentence&#8230; Examples:</li>
+</ol>
+<blockquote>
+<ol>
+<li>３月に＿＿＿からこの＿＿＿＿をもらった。</li>
+<li>これは＿＿＿からもらった。</li>
+<li>それは＿＿＿からもらった。</li>
+<li>Come up with something interesting.</li>
+</ol>
+</blockquote>
+<p>Try to do this with at least five different things then come back for the next section. If you don&#8217;t know the name of something come back to your computer, figure it out, and then go back out into the real world (don&#8217;t bring a cheat sheet with you, though!).</p>
+<h3>くれる</h3>
+<p>Now for something a little different. I want you to ask someone to give you something, but ask them nicely. Basically, you&#8217;re going to use くれる to do this.</p>
+<p style="padding-left: 30px;">＿＿＿＿をくれますか？<br />
+Will you give me _____?</p>
+<p>You don&#8217;t have to talk to a real person (what, you crazy?) if you don&#8217;t want to, but you should talk out loud, even if you&#8217;re talking to your favorite teddy bear. After someone gives you something, be sure to thank them, too.</p>
+<p style="padding-left: 30px;">ありがとうございます！</p>
+<p>Do this to 3-5 items, then come back here.</p>
+<h3>あげる</h3>
+<p>For the last part of this practice you&#8217;re going to give someone something (and sort of narrate it).</p>
+<p style="padding-left: 30px;">Give someone something: ______をあげます！</p>
+<p style="padding-left: 30px;">Now it&#8217;s been given! _____ をあげました！</p>
+<p style="padding-left: 30px;">Talk about the whole event: _____さんは私から＿＿＿＿をもらいました！ (___ received a ___ from me!)</p>
+<p>How nice of you. Do this with several people (or inanimate objects) before coming back here. Be sure to practice it real quick before going out in the real world, though. Practice will help for when you have to recall all of this from scratch.</p>
+<p>One last thing before moving on to the next chapter, though. There&#8217;s one &#8220;give&#8221; that&#8217;s super casual that&#8217;s common enough to be worth learning. It&#8217;s already something you know, too, which makes it even better.</p>
+<p style="text-align: center;"><a class="btn btn-large large primary" href="../index.html">←</a> <a class="btn btn-primary btn-large large primary" href="../yaru/index.html"> →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto; text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

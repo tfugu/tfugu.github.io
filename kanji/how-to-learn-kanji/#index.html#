@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  How You Should Learn Kanji</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; How You Should Learn Kanji Comments Feed" href="http://tfugu.github.io/kanji/how-to-learn-kanji/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Kanji' href='../../testing/kanji/index.html' />
+<link rel='next' title='Learning Your Kanji Radicals (1-2 Strokes)' href='../learning-your-kanji-radicals-part-1/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-2315 page-child parent-pageid-2313 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-2315 page type-page status-publish hentry">
+
+	                <h1>How You Should Learn Kanji</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1 style="text-align: left;">How You <em>Should</em> Learn Kanji</h1>
+<h4 style="text-align: left;"><em>&#8220;What  information consumes is rather obvious: it consumes the attention of its  recipients. Hence, a wealth of information creates a poverty of  attention and a need to allocate that attention efficiently among the  overabundance of information sources that might consume it.&#8221;</em><span style="color: #888888;"> &#8211; <strong>Herbert  Simon, Nobel Prize</strong></span></h4>
+<p><strong><img class="alignright" title="k-k-kanji" src="../../wp-content/uploads/2010/03/k-k-kanji.png" alt="" width="456" height="167" /></strong></p>
+<p>Kanji is one of the biggest hurdles you&#8217;ll face in your Japanese learning career (do you <a href="../../season-1/the-japanese-alphabets/index.html#kanji">remember  what kanji is</a>?). In order to to feel really comfortable reading (say, a newspaper), you&#8217;ll have to know around 2,000 <em>different</em> kanji, and that doesn&#8217;t even take into account all the combinations that kanji can make when stuck together. It also doesn&#8217;t take into account the fact that each individual kanji can have up to 5, 6, 7, or more <em>different</em> pronunciations. Learning kanji is no easy feat, and it certainly won&#8217;t happen overnight. Japanese school children spend 8+ years learning kanji, not to mention they have every day access to the stuff (and you probably don&#8217;t). Don&#8217;t worry, though, because you&#8217;ll beat them by a long shot.</p>
+<p>The thing is, very few resources teach kanji in a way that actually makes sense for non-native Japanese learners. When you learn most languages, you go from simple words to more complicated ones. You even did this when you were a child (presumably) learning English. You probably learned the word &#8220;dog&#8221; before you learned the word &#8220;atrocious,&#8221; right?  Kanji learning, however, is much different than <em>vocabulary</em> learning, and the problem is that most people treat kanji learning like they do vocabulary learning: Start with the words that have the simplest <em>meanings</em> (not to be confused with the simplest <em>kanji</em>) and work your way up. There&#8217;s a couple reasons why kanji doesn&#8217;t work that way.</p>
+<ol>
+<li>Kanji is logographic, meaning each kanji has a different meaning (and they&#8217;re based off images).</li>
+<li>Kanji isn&#8217;t phonetic, like English, where you can put together English letters to make a word based on the sounds each letter makes.</li>
+<li>The meaning of the kanji and how complicated the actual kanji is don&#8217;t really correlate, meaning a kanji with a difficult meaning can be very very simple to write, and vice versa.</li>
+</ol>
+<p>For example, there are kanji that get taught much later in a student&#8217;s career that are incredibly really simple (to write). The meaning may be hard, but the kanji itself is very simple. The thing is, you&#8217;re (probably) not a child anymore, which means you don&#8217;t need to learn the meaning of words, so if we truly are looking to the long term benefits (and we are), then it doesn&#8217;t matter what the meaning of the word is, because you already understand that. You just need to learn the kanji part itself. Take a look at the following kanji, pretty simple looking right? None of them consist of more than three strokes (whereas there are plenty of kanji with 10-20 strokes out there).</p>
+<h1 style="text-align: center;">乙　了　丈　勺</h1>
+<p>These are &#8220;high level&#8221; vocabulary words (i.e. the <em>meaning</em> of the words are more difficult, though not that difficult for you, since you&#8217;re not a kid), which means Japanese students learn these way later, like in secondary school. On the other hand, there are also plenty of kanji with simple meanings, but take quite a few strokes to write:</p>
+<h1 style="text-align: center;">曜　線　鳴　算</h1>
+<p>The second set of kanji are learned by second graders &#8211; i.e. little kids, because the <em>meaning</em> of the kanji is simpler than the ones above them, not because they&#8217;re easier to write. Can you imagine how dumb it would be for you to learn the second set of kanji before the first set of kanji? It just makes no sense, but that&#8217;s exactly what you would do if you were learning Japanese the &#8220;regular&#8221; way. Ouch.</p>
+<p>On TextFugu, you&#8217;re going to take a look at the whole &#8220;kanji problem&#8221; a bit differently (i.e. in a way that actually makes <em>sense</em>). There are 2,000 total kanji you have to learn. That&#8217;s set in stone, you <em>have </em>to learn them. Luckily, though, we have a choice on <em>how</em> we learn them. Instead of following the path of so many kanji learning <em>failures</em>, you should forge your own path. You&#8217;ll learn kanji faster than Japanese school children do (not to mention anyone else learning Japanese as well).</p>
+<div id="takeaway">
+<h4>Big Picture Takeaway</h4>
+<p>You will be learning kanji the smart way. Unfortunately, the way we  learn words in English / German / Spanish etc., just doesn&#8217;t translate  over to Japanese (because kanji isn&#8217;t phonetic, it&#8217;s logographic). With Japanese, we&#8217;ll be using a different method that  will help you build your kanji knowledge based off of things you&#8217;ve  already learned and know. We won&#8217;t be shooting blanks into the air,  hoping to hit something.</p>
+</div>
+<h1 style="text-align: left;">The 80-20 Rule</h1>
+<h4>“Give me the fruitful error any time, full of seeds,  bursting with its own corrections. You can keep your sterile truth for  yourself.” <span style="color: #888888;">- Vilfredo Pareto</span></h4>
+<p>If you&#8217;ve spent any time looking up kanji in a dictionary, researching all the pronunciations, and finding all the words that use that kanji, you&#8217;ll know that kanji learning can be incredibly complicated. Let&#8217;s simplify that. Have you ever heard of the 80-20 rule, coined by Vilfredo Pareto? I absolutely love this concept, and you&#8217;re going to love it too when applied to kanji learning. He figured out that 80% of the effects of something come from roughly 20% of the causes. Here are some examples:</p>
+<ul>
+<li>20% of people make 80% of the world&#8217;s income.</li>
+<li>Microsoft found that by fixing the top 20% of most reported bugs,  80% of all problems were fixed.</li>
+<li>20% of your time spent gets 80% of the results done (at work,  school, etc).</li>
+</ul>
+<p>Those are some pretty big numbers and claims, but if you look for it, you&#8217;ll see this principle taking place <em>everywhere</em>. We&#8217;ll be using the 80-20 rule throughout TextFugu, and you&#8217;ll definitely learn to love it. With kanji, here is our mantra:</p>
+<blockquote><p><strong>20% of kanji makes up 80% of all that is written, therefor we&#8217;re going to learn that 20% first, so you can start using your reading abilities in real-life situations as quickly as possible (which is really the best way to practice, anyways).</strong></p></blockquote>
+<p>We&#8217;re also going to use the 80/20 rule to learn the various pronunciations of kanji as well.</p>
+<blockquote><p><strong>20% of pronunciations associated with a particular kanji are used 80% of the time.</strong></p></blockquote>
+<p>And last but not least, each kanji will have some common vocab associated with it. Some kanji are used in hundreds of different common words, but I&#8217;d rather you learn just a few of the most common ones and move on (and we&#8217;ll fill in the rest later on&#8230; besides, they&#8217;re barely used).</p>
+<blockquote><p><strong>20% of vocab that use a particular kanji will be used 80% of the time.</strong></p></blockquote>
+<p>With TextFugu, you&#8217;re going to be learning the &#8220;Joyo Kanji,&#8221; which is actually pretty much par for the course. Joyo kanji are the (approximately) 2000 most commonly used kanji. That may seem like a lot (or a little, depending on how you look at it), but with this, you&#8217;ll be able to read 95% of all mainstream books, newspapers, magazines, manga, and whatever else Japan throws at you. Sure, we could spend 4x the time learning 8,000 kanji (like college students), but that&#8217;s a huge waste of your time. If you think about it, it&#8217;s probably a pretty similar situation with your English (or whatever your native language is). I&#8217;m pretty sure that you can&#8217;t understand 100% of the words you read, but you can still figure out what it is via the context of the other words around it. That&#8217;s our goal with kanji here&#8230; except you&#8217;ll be able to get to that point in less than a year (whereas it probably takes most people 5, 6, 7+ years to get to that point). Why? Because you&#8217;re going to learn smartly, build a great foundation, and take advantage of the absolutely beautiful 80/20 rule.</p>
+<div id="takeaway">
+<h4>Big Picture Takeaway</h4>
+<p>When learning kanji, we&#8217;re going to be as efficient as possible.  Using the 80-20 rule, you&#8217;ll remove the fluff and be able to focus on  the things that are really important.</p>
+</div>
+<h1 style="text-align: left;">What Kanji Is Made Of</h1>
+<h4>When you get to the end of your rope, tie a knot and hang on. <span style="color: #888888;">- Franklin D Roosevelt</span></h4>
+<p>Sadly, kanji is not made up of unicorns and rainbows. If it was, everyone would be a lot happier for sure. Unfortunately for you, kanji is <em>complicated</em>&#8230; well, that&#8217;s what they (&#8220;they&#8221; being most kanji resources out there) want you to think. My goal is to simplify kanji for you <strong><em>a lot</em></strong>. I&#8217;ve broken it down, thrown away the &#8220;old-school&#8221; thoughts on kanji learning, and put together a much leaner ship. When using &#8220;normal&#8221; kanji learning strategies, kanji is made up of strokes&#8230; sometimes <em>a lot</em> of strokes. According to your brain, each individual stroke is just another thing you have to remember, and that&#8217;s no fun at all (nor does it make any sense). TextFugu takes this and flips it on its head. It <em>can</em> be much simpler than this, and here&#8217;s how:</p>
+<h3>How &#8220;Normal&#8221; People Learn Kanji</h3>
+<blockquote><p><strong>Step 1</strong>: Look at a kanji (probably feel confused and overwhelmed)</p>
+<p><strong>Step 2</strong>: Try to memorize ALL of the individual strokes, one at a time. Some kanji don&#8217;t have many strokes, sure, but once you get to 5, 6, 7+ strokes your brain will revolt. The &#8220;magic number&#8221; for your short term memory is seven, so once you try to store more than that&#8230; ouch!</p>
+<p><strong>Step 3:</strong> Learn the different ways to read the kanji (there are usually 4+ ways to pronounce the same kanji. If strokes weren&#8217;t terrifying, this will get you for sure).</p>
+<p><strong>Step 4</strong>: Hit your head on a curb until it feels better (it won&#8217;t, so don&#8217;t try it).</p>
+<p><strong>Step 5</strong>: Forget the kanji a few minutes later, because you&#8217;ve only stored bits and pieces into your short term  memory (and you&#8217;ve hit your head on a curb).</p></blockquote>
+<p>In all seriousness, though, this is pretty close to how kanji learning happens in &#8220;the real world.&#8221; Look at kanji, memorize each <em>individual</em> stroke, memorize its readings four-plus times, and then promptly forget it because you haven&#8217;t used it (and you haven&#8217;t left yourself hints to help you remember later). If you&#8217;re in school right now, you can add the &#8220;study-right-before-the-kanji-quiz-and-forget-them-immediately-after&#8221; step as well. Kanji study today <em>just doesn&#8217;t work</em>, especially for non-Japanese natives, which is why it takes most people forever to learn them. We&#8217;ll be using a completely different method that will make things a lot less painful. It&#8217;s not going to be easy, nobody can claim that, but you won&#8217;t have to head-butt a curb, either. The goal here is to make kanji learning as simple as possible without making it simpler, and that&#8217;s exactly what we&#8217;re going to do.</p>
+<h3>How YOU Will Learn Kanji</h3>
+<p>You are <em>not</em> a normal person, forget that now. There&#8217;s no shame in not doing what everyone else does, especially when the &#8220;norm&#8221; has become so complicated and sticky. These norms come from people who either a) speak Japanese natively, so they have <em>no idea</em> what it&#8217;s like for someone to learn kanji from a non-native perspective, or b) have been learning Japanese for so long that they also can&#8217;t remember what it&#8217;s like to learn kanji.</p>
+<p>Sure, sometimes normal is good, because the norm has been chiseled down to the simplest, most effective method. Great. In the case of Japanese learning, the opposite has happened. Learning Japanese has become bloated, and the &#8220;norm&#8221; is ruled by people who have absolutely no idea what it&#8217;s like to learn Japanese (because they&#8217;re native speakers). A lot of assumptions get made, nothing is tested (because &#8220;our way is the only way&#8221;), and <em>nothing gets better</em>. Even worse, things get more complicated. We&#8217;re going to do things differently, and no matter how strangely other Japanese learners look at you, stick with it. In time, all of them will start following your lead.</p>
+<p>Here&#8217;s how you&#8217;ll be learning Kanji on TextFugu:</p>
+<blockquote><p><strong>Step 1</strong>: Learn the radicals. Radicals are like pieces of a kanji &#8211; kind of like how the letters that make up the words you&#8217;re reading make up the words you&#8217;re reading. Instead of learning kanji stroke by stroke (which is dumb), we&#8217;ll put together radicals to create bigger, slightly more complicated kanji. You can&#8217;t spell &#8220;dumb&#8221; with out the letters D-U-M-B. Basically, we&#8217;re doing away with the notion that kanji should be learned stroke by stroke. Instead, you&#8217;ll be putting radicals together, which means you&#8217;ll be able to learn kanji faster and more effectively (especially from a memory standpoint).</p>
+<p><strong>Step 2</strong>: After you&#8217;ve learned the radicals, we&#8217;ll start putting them together to build kanji. Using mnemonic devices, you&#8217;ll learn the pronunciation of each kanji as well as how to read / write it. We&#8217;ll also learn common words that use these kanji in them. With the 80-20 rule, too, we&#8217;ll cut the fluff (i.e. anything you <em>probably</em> won&#8217;t end up using 99.9% of the time).</p>
+<p><strong>Step 3:</strong> Continue to progress in this way. Instead of focusing on starting with the simplest kanji <em>meanings</em>, we&#8217;ll focus on learning the simplest kanji (from a number-of-strokes standpoint). By starting with easier kanji and working our way up to more complicated kanji (i.e. kanji with more strokes), we&#8217;ll be able to use kanji you <em>already know</em> to build more complicated kanji later on. That&#8217;s fewer things for you to remember, which means you won&#8217;t have to strain your brain as much.</p>
+<p><strong>Step 4</strong>: You&#8217;ll use practice worksheets, unconventional memory tricks,  and the best technology out there to study these new words and get them  into your <em>long term memory</em>. Once you get a kanji into your long term memory, it&#8217;ll be there for a while. With everything we do, that&#8217;s going to be the goal. Thinking ahead and focusing on this will help you learn much more quickly.</p></blockquote>
+<p>All that being said, I&#8217;d love it if you got started. Learning kanji  radicals will be your foundation, so it&#8217;s important you  do this step well. Think of radicals as your foundation. If you don&#8217;t have a foundation, there&#8217;s nothing solid to build on.</p>
+<p>Now, there <em>are</em> quite a few radicals to learn (over 200) but they  also build on top of each other, so it&#8217;s not as hard as you think. So, just make sure you start at the beginning,  and it will actually be really simple to learn them all in a fairly  short amount of time. Use the mnemonic devices to get these into your  long term memory and kanji learning will be a breeze for you. Good luck!</p>
+<p style="text-align: right;"><a href="../learning-your-kanji-radicals-part-1/index.html">Learning  Kanji Radicals (Part 1) →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

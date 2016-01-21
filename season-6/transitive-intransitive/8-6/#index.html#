@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  6. Learning Them</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 6. Learning Them Comments Feed" href="http://tfugu.github.io/season-6/transitive-intransitive/8-6/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='5. The Verbs' href='../8-5/index.html' />
+<link rel='next' title='7. Telling Them Apart' href='../8-7/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-22495 page-child parent-pageid-22190 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-22495 page type-page status-publish hentry">
+
+	                <h1>6. Learning Them</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1>Learning Them</h1>
+<h4>&#8220;My great concern is not whether you have failed, but whether you are content with your failure.&#8221; &#8211; Abraham Lincoln</h4>
+<p>Let&#8217;s take a look at this table. Be sure to look at both the transitive and intransitive version of each verb. You&#8217;ll recognize a lot of verbs, but probably only one side or the other. Both are important. After you&#8217;ve carefully looked through each one, download the Anki deck and import it to your &#8220;TextFugu Vocab&#8221; deck.</p>
+<p>Don&#8217;t pay too close attention to the kanji &#8211; it&#8217;s there because I want you to start seeing more kanji now that you&#8217;re getting better at it, though only some of the words below will have kanji you&#8217;ve learned so far.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Transitive</strong></th>
+<th>Meaning</th>
+<th><strong>Intransitive<br />
+</strong></th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>決める（きめる）</td>
+<td>to decide</td>
+<td>決まる（きまる）</td>
+<td>to be decided</td>
+</tr>
+<tr>
+<td>汚す（よごす）</td>
+<td>to make dirty</td>
+<td>汚れる（よごれる）</td>
+<td>to get dirty</td>
+</tr>
+<tr>
+<td>戻す（もどす）</td>
+<td>to restore</td>
+<td>戻る（もどる）</td>
+<td>to return</td>
+</tr>
+<tr>
+<td>起こす（おこす）</td>
+<td>to wake something up</td>
+<td>起きる（おきる）</td>
+<td>to wake up</td>
+</tr>
+<tr>
+<td>出す（だす）</td>
+<td>to put/take out</td>
+<td>出る（でる）</td>
+<td>to leave / come out</td>
+</tr>
+<tr>
+<td>落とす（おとす）</td>
+<td>knock down</td>
+<td>落ちる（おちる）</td>
+<td>to fall</td>
+</tr>
+<tr>
+<td>止める（とめる）</td>
+<td>to stop something</td>
+<td>止まる（とまる）</td>
+<td>to stop</td>
+</tr>
+<tr>
+<td>入れる（いれる）</td>
+<td>to insert</td>
+<td>入る（はいる）</td>
+<td>to enter</td>
+</tr>
+<tr>
+<td>閉める（しめる）</td>
+<td>to close</td>
+<td>閉まる（しまる）</td>
+<td>to be closed</td>
+</tr>
+<tr>
+<td>開ける（あける）</td>
+<td>to open</td>
+<td>開く（あく）</td>
+<td>to be opened</td>
+</tr>
+<tr>
+<td>つける</td>
+<td>to attach</td>
+<td>つく</td>
+<td>to be attached</td>
+</tr>
+<tr>
+<td>消す（けす）</td>
+<td>to erase *</td>
+<td>消える（きえる）</td>
+<td>to disappear *</td>
+</tr>
+<tr>
+<td>壊す（こわす）</td>
+<td>to break</td>
+<td>壊れる（こわれる）</td>
+<td>to be broken</td>
+</tr>
+<tr>
+<td>届ける（とどける）</td>
+<td>to send / deliver</td>
+<td>届く（とどく）</td>
+<td>to be delivered / to arrive</td>
+</tr>
+<tr>
+<td>見つける（みつける）</td>
+<td>to find</td>
+<td>見つかる（みつかる）</td>
+<td>to be found</td>
+</tr>
+<tr>
+<td>始める（はじめる）</td>
+<td>to begin something</td>
+<td>始まる（はじまる）</td>
+<td>to begin</td>
+</tr>
+<tr>
+<td>増やす（ふやす）</td>
+<td>to increase something</td>
+<td>増える（ふえる）</td>
+<td>to be increased</td>
+</tr>
+<tr>
+<td>立てる（たてる）</td>
+<td>to stand something up</td>
+<td>立つ（たつ）</td>
+<td>to stand</td>
+</tr>
+<tr>
+<td>乗る（のる）</td>
+<td>to board</td>
+<td>乗せる（のせる）</td>
+<td>to be boarded</td>
+</tr>
+<tr>
+<td>返す（かえす）</td>
+<td>to bring back</td>
+<td>変える（かえる）</td>
+<td>to return</td>
+</tr>
+<tr>
+<td>直す（なおす）</td>
+<td>to repair</td>
+<td>直る（なおる）</td>
+<td>to be repaired</td>
+</tr>
+<tr>
+<td>倒す（たおす）</td>
+<td>to overthrow</td>
+<td>倒れる（たおれる）</td>
+<td>to fall / tumble</td>
+</tr>
+<tr>
+<td>集める（あつめる）</td>
+<td>to collect something</td>
+<td>集まる（あつまる）</td>
+<td>to gather</td>
+</tr>
+<tr>
+<td>掛ける（かける）</td>
+<td>to hang up</td>
+<td>掛かる（かかる）</td>
+<td>to hang</td>
+</tr>
+<tr>
+<td>焼く（やく）</td>
+<td>to burn</td>
+<td>焼ける（やける）</td>
+<td>to be burned</td>
+</tr>
+<tr>
+<td>見る（みる）</td>
+<td>to see</td>
+<td>見える（みえる）</td>
+<td>to be visible</td>
+</tr>
+<tr>
+<td>聞く（きく）</td>
+<td>to hear</td>
+<td>聞こえる（きこえる）</td>
+<td>to be audible</td>
+</tr>
+</tbody>
+</table>
+<p>* When it comes to turning off things that run on electricity (lights, televisions, etc), you&#8217;ll also see this verb being used. You are &#8220;erasing&#8221; the light when you turn something off (also used as an example above).</p>
+<p>I want you to start studying these in your &#8220;TextFugu Vocab&#8221; deck (import this). It&#8217;s kind of a tough list, but we&#8217;re going to go through more examples of these through this chapter and future chapters as well.</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/vocab/transintrans.zip" style="background: url( http://tfugu.github.io/img/anki.png) no-repeat left 40%;">Transitive &amp; Intransitive Verbs</a></span></p>
+<p style="text-align: left;">When you&#8217;ve imported it and studied some, you can move on to the next page where we&#8217;ll look more at how these verbs work (and when to use which).</p>
+<p style="text-align: left;"><div class="woo-sc-box tick   ">By finishing this page, you&#8217;ve started studying the transitive and intransitive verbs, and begun the process of separating them out in your mind, too!</div></p>
+<p style="text-align: center;"><a class="btn large" style="margin-right: 5px;" href="../8-5/index.html#top">← 後</a><a class="btn large primary" href="../8-7/index.html#top">前 →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

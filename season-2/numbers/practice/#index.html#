@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  PRACTICE: Counting &amp; Numbers</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; PRACTICE: Counting &amp; Numbers Comments Feed" href="http://tfugu.github.io/season-2/numbers/practice/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='PRACTICE: This, That, &amp; That Over There' href='../../this-that-that-over-there/practice/index.html' />
+<link rel='next' title='PRACTICE: Why So Possessive?' href='../../being-possessive/practice/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-20723 page-child parent-pageid-6856 page-template page-template-template-practice-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-20723 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1 style="text-align: center;">Practice</h1>
+<h4 style="text-align: center;">&ldquo;Counting &amp; Numbers&rdquo;</h4>
+<p>Numbers are one of those things that will take a while to learn. Why? Because there&#8217;s a lot of them. Simple as that. So, instead of coming down to remembering the words themselves, it comes down to remembering the patterns (and gaining enough experience to recognize and utilize them automatically). It&#8217;ll take some time, but you should have the foundations of the numbers by now. We&#8217;ll do some practice with numbers here on this page, but first we should look at sentences (don&#8217;t worry, not too many for this chapter).</p>
+<h2>Sentences</h2>
+<p>Make sure you can read all of these out loud and at a comparable speed before moving on to the next section. See if you can figure out the meanings of some of these sentences (I&#8217;d say ~75% of them) too, while you&#8217;re reading them, though don&#8217;t stress too much about this. We&#8217;ll go over the meanings soon.</p>
+<p><a class="sm2_button" href="../../../audio/sentences/s2/c14-1.mp3">a</a> これ　は　いくら　ですか？</p>
+<p><a class="sm2_button" href="../../../audio/sentences/s2/c14-2.mp3">a</a> それ　は　２千円です。</p>
+<p><a class="sm2_button" href="../../../audio/sentences/s2/c14-3.mp3">a</a> やさい　は　いくら　ですか？</p>
+<p><a class="sm2_button" href="../../../audio/sentences/s2/c14-4.mp3">a</a> 七つ　は　いくら　ですか？</p>
+<p><a class="sm2_button" href="../../../audio/sentences/s2/c14-5.mp3">a</a> しゃしん　は　いくら　ですか？・５０００えん　です。</p>
+<p><a class="sm2_button" href="../../../audio/sentences/s2/c14-6.mp3">a</a> あれ　は　５３６えん　です。</p>
+<p><a class="sm2_button" href="../../../audio/sentences/s2/c14-7.mp3">a</a> 子犬　は　いくら　ですか？*</p>
+<p><a class="sm2_button" href="../../../audio/sentences/s2/c14-8.mp3">a</a> 大人　は　大きい　です。</p>
+<p>*contains a kanji you don&#8217;t know. It&#8217;s 犬 (big + a speck = dog, because the speck next to the big man is his best friend, a dog). Think of this one as a primer for future kanji (we&#8217;ll be adding more primers in as you get better at this, because primers are a great way to learn small things that add up to bigger things later).</p>
+<p>When you&#8217;re all done, it&#8217;s time to download and import these sentences into your &#8220;TextFugu Sentences&#8221; deck.</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/sentences/sentences9.zip" style="background: url( http://tfugu.github.io/img/anki.png) no-repeat left 40%;">Sentences 9</a></span></p>
+<p>Study through these and learn the meanings of these sentences while continuing to practice saying them out loud. When Anki says you&#8217;re done, it&#8217;s time to practice some more numbers.</p>
+<h2>Numbers Quiz</h2>
+<p>I can&#8217;t cover every single number, but I will cover enough numbers here to make sure you understand the number-related patterns well enough. Don&#8217;t worry if it doesn&#8217;t come to you quickly. Take your time and decipher each number like a puzzle until you think you&#8217;ve figured it out. Then, check the answer to see if you were correct. If you weren&#8217;t, figure out why that is and then move on.</p>
+<p>(Translate the English to Japanese).</p>
+<p style="padding-left: 30px;">3 <a style="display:none;" id="ddetlink1543133755" href="javascript:expand(document.getElementById('ddet1543133755'))">Answer →</a>
+<div class="ddet_div" id="ddet1543133755"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1543133755'));expand(document.getElementById('ddetlink1543133755'))</script></p>
+<p style="padding-left: 60px;">さん</div></p>
+<p style="padding-left: 30px;">30 <a style="display:none;" id="ddetlink1334442296" href="javascript:expand(document.getElementById('ddet1334442296'))">Answer →</a>
+<div class="ddet_div" id="ddet1334442296"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1334442296'));expand(document.getElementById('ddetlink1334442296'))</script></p>
+<p style="padding-left: 60px;">さんじゅう</div></p>
+<p style="padding-left: 30px;">36 <a style="display:none;" id="ddetlink1740970641" href="javascript:expand(document.getElementById('ddet1740970641'))">Answer →</a>
+<div class="ddet_div" id="ddet1740970641"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1740970641'));expand(document.getElementById('ddetlink1740970641'))</script></p>
+<p style="padding-left: 60px;">さんじゅうろく</div></p>
+<p style="padding-left: 30px;">300 <a style="display:none;" id="ddetlink433080325" href="javascript:expand(document.getElementById('ddet433080325'))">Answer →</a>
+<div class="ddet_div" id="ddet433080325"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet433080325'));expand(document.getElementById('ddetlink433080325'))</script></p>
+<p style="padding-left: 60px;">さんびゃく</div></p>
+<p style="padding-left: 30px;">360 <a style="display:none;" id="ddetlink46181527" href="javascript:expand(document.getElementById('ddet46181527'))">Answer →</a>
+<div class="ddet_div" id="ddet46181527"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet46181527'));expand(document.getElementById('ddetlink46181527'))</script></p>
+<p style="padding-left: 60px;">さんびゃくろくじゅう</div></p>
+<p style="padding-left: 30px;">364 <a style="display:none;" id="ddetlink1550658890" href="javascript:expand(document.getElementById('ddet1550658890'))">Answer →</a>
+<div class="ddet_div" id="ddet1550658890"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1550658890'));expand(document.getElementById('ddetlink1550658890'))</script></p>
+<p style="padding-left: 60px;">さんびゃくろくじゅうよん</div></p>
+<p style="padding-left: 30px;">3000 <a style="display:none;" id="ddetlink1793815611" href="javascript:expand(document.getElementById('ddet1793815611'))">Answer →</a>
+<div class="ddet_div" id="ddet1793815611"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1793815611'));expand(document.getElementById('ddetlink1793815611'))</script></p>
+<p style="padding-left: 60px;">さんぜん</div></p>
+<p style="padding-left: 30px;">3600 <a style="display:none;" id="ddetlink1542495721" href="javascript:expand(document.getElementById('ddet1542495721'))">Answer →</a>
+<div class="ddet_div" id="ddet1542495721"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1542495721'));expand(document.getElementById('ddetlink1542495721'))</script></p>
+<p style="padding-left: 60px;">さんぜんろっぴゃく</div></p>
+<p style="padding-left: 30px;">903 <a style="display:none;" id="ddetlink816370899" href="javascript:expand(document.getElementById('ddet816370899'))">Answer →</a>
+<div class="ddet_div" id="ddet816370899"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet816370899'));expand(document.getElementById('ddetlink816370899'))</script></p>
+<p style="padding-left: 60px;">くひゃくさん</div></p>
+<p style="padding-left: 30px;">23 <a style="display:none;" id="ddetlink1355460689" href="javascript:expand(document.getElementById('ddet1355460689'))">Answer →</a>
+<div class="ddet_div" id="ddet1355460689"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1355460689'));expand(document.getElementById('ddetlink1355460689'))</script></p>
+<p style="padding-left: 60px;">にじゅうさん</div></p>
+<p style="padding-left: 30px;">55 <a style="display:none;" id="ddetlink1596130928" href="javascript:expand(document.getElementById('ddet1596130928'))">Answer →</a>
+<div class="ddet_div" id="ddet1596130928"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1596130928'));expand(document.getElementById('ddetlink1596130928'))</script></p>
+<p style="padding-left: 60px;">ごじゅうご</div></p>
+<p style="padding-left: 30px;">895 <a style="display:none;" id="ddetlink1906698890" href="javascript:expand(document.getElementById('ddet1906698890'))">Answer →</a>
+<div class="ddet_div" id="ddet1906698890"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1906698890'));expand(document.getElementById('ddetlink1906698890'))</script></p>
+<p style="padding-left: 60px;">はっぴゃくくじゅうご</div></p>
+<p style="padding-left: 30px;">100 <a style="display:none;" id="ddetlink849552082" href="javascript:expand(document.getElementById('ddet849552082'))">Answer →</a>
+<div class="ddet_div" id="ddet849552082"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet849552082'));expand(document.getElementById('ddetlink849552082'))</script></p>
+<p style="padding-left: 60px;">ひゃく</div></p>
+<p style="padding-left: 30px;">1000 <a style="display:none;" id="ddetlink796061207" href="javascript:expand(document.getElementById('ddet796061207'))">Answer →</a>
+<div class="ddet_div" id="ddet796061207"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet796061207'));expand(document.getElementById('ddetlink796061207'))</script></p>
+<p style="padding-left: 60px;">いっせん</div></p>
+<p style="padding-left: 30px;">4433 <a style="display:none;" id="ddetlink166716880" href="javascript:expand(document.getElementById('ddet166716880'))">Answer →</a>
+<div class="ddet_div" id="ddet166716880"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet166716880'));expand(document.getElementById('ddetlink166716880'))</script></p>
+<p style="padding-left: 60px;">よんせんよんひゃくさんじゅうさん</div></p>
+<p style="padding-left: 30px;">85 <a style="display:none;" id="ddetlink739337806" href="javascript:expand(document.getElementById('ddet739337806'))">Answer →</a>
+<div class="ddet_div" id="ddet739337806"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet739337806'));expand(document.getElementById('ddetlink739337806'))</script></p>
+<p style="padding-left: 60px;">はちじゅうご</div></p>
+<p style="padding-left: 30px;">233 <a style="display:none;" id="ddetlink334279580" href="javascript:expand(document.getElementById('ddet334279580'))">Answer →</a>
+<div class="ddet_div" id="ddet334279580"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet334279580'));expand(document.getElementById('ddetlink334279580'))</script></p>
+<p style="padding-left: 60px;">にひゃくさんじゅうさん</div></p>
+<p>It probably wasn&#8217;t super easy, but I hope you managed your way through the numbers alright. You&#8217;ll keep seeing numbers (not like they&#8217;re going anywhere anytime soon) so over time you&#8217;ll come to understand them more intimately until they just become natural. Just make sure you don&#8217;t skip any chance to read or use a number, that way you&#8217;re always getting number experience.</p>
+<p>Oh, and one lucky thing for you. Japanese usually use English numbers (1, 2, 3, 4, etc) when writing numbers, so you&#8217;ll rarely/never have to write this stuff out in hiragana. Some of these get really long, otherwise.</p>
+<h2>Before You Move On</h2>
+<ul>
+<li>Make sure you have the vocab decks imported (basic numbers, kanji vocab).</li>
+<li>Make sure you have the kanji deck imported (kanji 3.2)</li>
+<li>Make sure you know the basic numbers (1-10, 100, 1000, 10,000)</li>
+<li>Make sure you understand the patterns involved in putting together numbers (at least somewhat). Most important is 1-100.</li>
+<li>Be able to say (out loud) and know the meaning of the Sentences Deck for this chapter.</li>
+<li>Go through the Numbers quiz and try to understand all of them (even if you don&#8217;t get them all right &#8211; numbers take a while, remember?).</li>
+</ul>
+<p>When you&#8217;ve done all these things it&#8217;s time to move on to the next chapter!</p>
+<p style="text-align: center;"><a class="btn large" href="../../../season-5/dict-past-neg/9-9/index.html#top">← 後</a> <a class="btn large primary" href="../../being-possessive/why/index.html#top">Next Lesson →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

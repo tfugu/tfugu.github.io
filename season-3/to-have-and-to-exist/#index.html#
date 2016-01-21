@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  To Have And To Exist</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; To Have And To Exist Comments Feed" href="http://tfugu.github.io/season-3/to-have-and-to-exist/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Dashboard' href='../../wishlist-member/index.html' />
+<link rel='next' title='Be Inspired!' href='../../inspiration/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-3666 page-child parent-pageid-3108 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-3666 page type-page status-publish hentry">
+
+	                <h1>To Have And To Exist</h1>
+					
+                    
+                    <section class="entry">
+	                	<p style="text-align: center;"><img class="aligncenter size-full wp-image-3677" title="to-have-to-exist" src="../../wp-content/uploads/2010/04/to-have-to-exist.png" alt="" width="840" height="500" /></p>
+<div id="quote" style="text-align: center;"><em>“To live is the rarest thing in the world. Most people exist, that is all.”</em> &#8211; <strong>Oscar Wilde</strong></div>
+<p>In this lesson, we&#8217;re going to learn about two verbs that you&#8217;ve already kinda-sorta learned. They are, however, complicated (and unique) enough to get their own chapter.</p>
+<blockquote><p><strong>ある（あります）</strong>→　to have, to exist (for non-living / inanimate <em>things</em> or <em>objects</em>)</p>
+<p><strong>いる（います）</strong>→　to have, to exist (for the living)</p></blockquote>
+<p>Before we can actually <em>use</em> these verbs, however, we&#8217;ll have to learn a little bit more about the particle が and how it is used with verbs. Right now, you know how to use the particle を with a verb. When using を, you know that you are <em>doing</em> something to the object (whatever comes before the を).</p>
+<blockquote><p>すし　を　食べます<br />
+<em>To eat sushi</em>. You are directly doing something to the sushi. i.e., your actions (eating) are directly affecting the object (the sushi).</p>
+<p>日本語　を　話します<br />
+<em>To speak Japanese</em>. You are speaking the Japanese, so you are directly involved (which is why you use を in this case).</p></blockquote>
+<p>Using が instead of を can be a whole other monster. A lot of people get confused and aren&#8217;t sure which to use in some situations (do I use を or do I use が?). It&#8217;s kind of like が vs は, though not <em>quite</em> as bad. A lot easier, in fact, once you get used to it.</p>
+<p>When you use が with a verb, it means you aren&#8217;t directly <em>doing</em> something to the object. Either something just <em>happened</em>, or something is just <em>existing</em>. You aren&#8217;t doing anything to anything, but it&#8217;s still happening. Take a look at these examples:</p>
+<blockquote><p>犬　が　います<br />
+<em>There is a dog</em> (i.e. the dog is existing). <span style="text-decoration: underline;">You</span> aren&#8217;t making the dog exist, so you would use the が particle. Also, notice that I used います instead of あります. います is used for living things, and a dog is a living thing.</p>
+<p>ボッビーさん　が　出た<br />
+<em>Bobby-san left</em>. You didn&#8217;t make Bobby leave, and he left on his own. He <em>passively</em> left without any effort put forth on your part, therefor you&#8217;d use が.</p>
+<p>テレビ　が　消えた（きえた）<br />
+<em>The television turned off</em>. <span style="text-decoration: underline;">You</span> certainly didn&#8217;t turn it off. Maybe the television broke, maybe the power went out, but you didn&#8217;t <em>do</em> anything to it directly.</p>
+<p>テレビ　を　消した（けした）<br />
+<em>(I) turned the television off</em>. Notice how we&#8217;re using an を particle now? That&#8217;s because I was the one who turned it off, and I was directly involved in the action.</p>
+<p>ラジオ　が　壊れた（こわれた）<br />
+<em>The radio is/was broken</em>. Once again, the radio just broke on its own, and I had nothing to do with it.</p></blockquote>
+<p>One thing you might notice is how some verbs change depending on your involvement in the action. きえた vs けした is one example. These are &#8220;Transitive and Intransitive&#8221; verbs, and will be taught in the next chapter. For now, though, the important thing is you understand the difference between が and を, and how they relate to verbs. You&#8217;ll also see (though it&#8217;s a little less common) the particle は being used instead of が. Same は vs. が rules apply.</p>
+<blockquote><p><strong>は emphasizes what comes after it and talks <em>about</em> something<br />
+</strong></p>
+<p><strong>が emphasizes what comes before it and <em>identifies</em> something<br />
+</strong></p></blockquote>
+<p>Of course, since we&#8217;re using verbs here, you&#8217;ll be <em>identifying</em> things a lot more than you will talk <em>about</em> something. The important part of most verb sentences is what comes before the が, and not after. You&#8217;ll see は being used from time to time, but が is going to be the safest bet when you aren&#8217;t sure (and part of knowing which one to use will come from experience, too). With the verbs いる and ある (that&#8217;s what we&#8217;re <em>supposed</em> to be practicing in this lesson), you can pretty much count on them using が almost all of the time. You don&#8217;t have a direct effect on the existence of something (usually, anyways), right?</p>
+<h1 style="text-align: center;">ある vs. いる</h1>
+<blockquote><p>猫（ねこ）が　いる<br />
+&#8220;<em>There is a cat (a cat exists)</em>.<em>&#8220;</em> You might say this when you&#8217;re walking about, and you see a cat somewhere. &#8220;Oh, there&#8217;s a cat!&#8221;</p>
+<p>ペン　が　ある<br />
+<em>&#8220;I have a pen.&#8221;</em> Notice how there&#8217;s more of a connotation of owning / having something when you use ある? This is because it&#8217;s associated with <em>things</em> and inanimate objects. You wouldn&#8217;t want to say ボッビーさんがある, because that would be just wrong, and mean!</p>
+<p>私　の　部屋（へや）に　ラジオ　が　あります<br />
+<em>&#8220;In my room, I have a radio</em>.<em>&#8220;</em> あります is just the formal / neutral version of ある. Use ある to be more casual and あります when you aren&#8217;t sure / when you need to be more formal.</p>
+<p>３時　に　家　に　いました<br />
+<em>&#8220;At 3 o&#8217;clock, I was in my house.&#8221;</em> You can also use the に particle, but the sentence better hinge on location, like this one. Let&#8217;s look at one more like it.</p>
+<p>仕事（しごと）にいます<br />
+<em>&#8220;I&#8217;m at my job / work.&#8221;</em></p>
+<p>５００円　が　ある<br />
+<em>&#8220;I have 500 yen.&#8221;</em></p>
+<p>あそこ　の　部屋　に　テレビ　が　ある。<br />
+<em>&#8220;In that room over there I have a television.&#8221;</em></p>
+<p>あそこ　の　部屋　に　猫　が　いる。<br />
+<em>&#8220;In that room over there, there is a cat</em>.<em>&#8220;</em> Almost identical to the sentence above, but we use いる instead of ある because your cat is allllive!</p>
+<p>ボッビーさん　は　いますか。<br />
+<em>Is Bobby-san there?</em> This is a great pattern to learn. If you&#8217;re looking for someone, [name]+はいますか is like gold in your mouth. Notice how we use the particle は instead of が on this one. I told you は was rarer when used with verbs, but it doesn&#8217;t mean you won&#8217;t see it occasionally! We aren&#8217;t <em>identifying</em> Bobby, and Bobby isn&#8217;t the most important part of this sentence. We want to know if he&#8217;s there (i.e. existing in this location), and は puts the emphasis on that (which is why we&#8217;re using it here).</p>
+<p>ペン　が　ありますか。<br />
+<em>Do you have a pen?</em> Similar to the sentence above, except this time we&#8217;re asking about an inanimate object. In this case, we use が because we need to identify what it is we&#8217;re asking for. When talking about ボッビー, it was expected that he was supposed to be there (maybe we&#8217;re calling his office), so we don&#8217;t need to identify him. With a pen, we need to identify it and put the emphasis on it, because it wasn&#8217;t already expected to exist in that location (or you don&#8217;t know if it is supposed to exist there at all).</p></blockquote>
+<p>あります and います don&#8217;t come naturally to most learners, and experience will be the best way to hone your ある and いる skills. You&#8217;ll see these a lot, so make sure you analyze <em>how and why</em> they are being used, like the above examples. Do this for a little while (and really spend a few minutes on each example you run into) and you&#8217;ll feel really comfortable really fast. Most people gloss over all the different ways ある and いる are used, which means they learn all the different ways they can be used very slowly (and make a lot more mistakes than they should!).</p>
+<h1 style="text-align: left;">Story: Part 3</h1>
+<h4 style="text-align: left;">A Flashback To The Dinosaur Age</h4>
+<p style="text-align: left;">As per usual, we&#8217;re going to focus the second half of this lesson on learning with a story. In part three of this &#8220;adventure&#8221; (if you can call it that), we visit 林田先生&#8217;s dreams, where he goes back to the day he lost his poor wife, あゆみさん. The grammar focus of this episode will be ある and いる with some new and review grammar thrown in. After the story, there will be a line-by-line explanation to help you understand what went on (along with the <em>concepts</em> behind everything as well). First, we have to introduce あゆみさん. Because this is a flashback, she&#8217;s a lot younger than the (current) 林田先生. Let&#8217;s take a look back in time&#8230; [cue time travel music here]</p>
+<p style="text-align: center;">↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓</p>
+<blockquote>
+<p style="text-align: left;"><strong>林田先生</strong>：　オっ！あゆみちゃん！できた！できたよ！タイムトリップしたよ！</p>
+<p style="text-align: left;"><strong>あゆみさん：</strong> 頭が痛い．．．</p>
+<p style="text-align: left;"><strong>林田先生：</strong> これはすごいよ！あそこに火山がある！</p>
+<p style="text-align: left;"><strong>あゆみさん：</strong> 火山は大嫌い．．．</p>
+<p style="text-align: left;"><strong>林田先生：</strong> あゆみちゃん、ビデオカメラはある？</p>
+<p style="text-align: left;"><strong>あゆみさん：</strong> あるよ。ナップザックはどこかな．．．</p>
+</blockquote>
+<p style="text-align: left;">Hayashida-sensei finds the knapsack, and pulls the video camera out to start recording. He gets up and starts walking.</p>
+<blockquote>
+<p style="text-align: left;"><strong>あゆみさん：</strong> どこに行くの？</p>
+<p style="text-align: left;"><strong>林田先生： </strong>火山に行くつもりだよ。あゆみちゃんも行く？</p>
+<p style="text-align: left;"><strong>あゆみさん： </strong>ええ、行くよ。</p>
+</blockquote>
+<p style="text-align: left;">Ayumi-san gets up and starts walking with Hayashida-sensei.</p>
+<blockquote>
+<p style="text-align: left;"><strong>あゆみさん：</strong> ここはすごいね．．．</p>
+<p style="text-align: left;"><strong>林田先生： </strong>当たり前じゃない？過去にいるんだから。</p>
+<p style="text-align: left;"><strong>あゆみさん： </strong>恐竜がいると思う？</p>
+<p style="text-align: left;"><strong>林田先生：</strong> いる．．．いや、いない。。。</p>
+<p style="text-align: left;"><strong>あゆみさん： </strong>どっち？いる？いない？</p>
+</blockquote>
+<p style="text-align: left;">Hayashida-sensei looks up to see some kind of T-Rex. He points to the dinosaur.</p>
+<blockquote>
+<p style="text-align: left;"><strong>林田先生： </strong>いる。</p>
+<p style="text-align: left;"><strong>あゆみさん：</strong> なぜ「いる」とおもーマイゴッド！</p>
+</blockquote>
+<p style="text-align: left;">
+<p>Hayashida-Sensei woke up with a jolt. He could already tell that today was going to be a hallucination filled day.</p>
+<table>
+<tbody>
+<tr class="yellow">
+<td><strong>Original</strong></td>
+<td><strong>Kana<br />
+</strong></td>
+<td><strong>English<br />
+</strong></td>
+</tr>
+<tr>
+<td>できた</td>
+<td>できた</td>
+<td>able/could to do something</td>
+</tr>
+<tr>
+<td>タイムトリップする</td>
+<td>タイムトリップする</td>
+<td>to time travel</td>
+</tr>
+<tr>
+<td>頭</td>
+<td>あたま</td>
+<td>head</td>
+</tr>
+<tr>
+<td>痛い</td>
+<td>いたい</td>
+<td>hurt / pain</td>
+</tr>
+<tr>
+<td>すごい</td>
+<td>すごい</td>
+<td>amazing</td>
+</tr>
+<tr>
+<td>あそこ</td>
+<td>あそこ</td>
+<td>over there</td>
+</tr>
+<tr>
+<td>火山</td>
+<td>かざん</td>
+<td>volcano</td>
+</tr>
+<tr>
+<td>大嫌い</td>
+<td>だいきらい</td>
+<td>to really really hate</td>
+</tr>
+<tr>
+<td>ビデオカメラ</td>
+<td>ビデオカメラ</td>
+<td>video camera</td>
+</tr>
+<tr>
+<td>ナップサック</td>
+<td>ナップサック</td>
+<td>napsack</td>
+</tr>
+<tr>
+<td>行く</td>
+<td>いく</td>
+<td>to go</td>
+</tr>
+<tr>
+<td>当たり前</td>
+<td>あたりまえ</td>
+<td>natural, reasonable, obvious</td>
+</tr>
+<tr>
+<td>過去</td>
+<td>かこ</td>
+<td>past</td>
+</tr>
+<tr>
+<td><strong> </strong>恐竜</td>
+<td>きょうりゅう</td>
+<td>dinosaur</td>
+</tr>
+<tr>
+<td><strong> </strong>思う</td>
+<td>おもう</td>
+<td>to think</td>
+</tr>
+<tr>
+<td>いや</td>
+<td>いや</td>
+<td>no</td>
+</tr>
+<tr>
+<td>どっち</td>
+<td>どっち</td>
+<td>which</td>
+</tr>
+</tbody>
+</table>
+<h1 style="text-align: center;">Line-By-Line Explanation</h1>
+<p>Let&#8217;s take a look at everything line-by-line. The important thing isn&#8217;t that you memorize every line, but that you memorize and learn the concepts behind them (so you can make customizations on them whenever you want).</p>
+<blockquote><p><strong>林田先生</strong>：　 オっ！あゆみちゃん！できた！できたよ！タイムトリップしたよ！<br />
+<em>&#8220;Oh! Ayumi-chan! We did it! We did it! We time traveled!&#8221;</em></p></blockquote>
+<p>できた、できたよ! You don&#8217;t know できた quite yet, but it means &#8220;I/we did it!&#8221; or &#8220;I completed (something)&#8221; and is often said when you&#8217;ve, well, done or finished something. For example, when you&#8217;ve finished cooking dinner (you Japanese house wife, you), you would say 「ごはんできたよ！」which basically means &#8220;I finished the meal!&#8221; Besides this, できる (present tense of できた) can express your ability to do something. テニスができるよ would be &#8220;I can do (play) tennis.&#8221;</p>
+<blockquote><p><strong>あゆみさん：</strong> 頭が痛い．．．<br />
+<em>&#8220;My head hurts&#8230;&#8221;</em></p></blockquote>
+<p>頭が痛い　＝　My head hurts, so, as you can imagine, if you take that noun and replace it with another noun, something else can hurt too. 足（あし）が痛い means &#8220;my foot/leg hurts.&#8221; 腕（うで）が痛い means my arm hurts. The list can go on and on. <a href="http://nihongoup.com/blog/japanese-body-parts/">Pick a body part</a>. Make it hurt.<em> Ouch!<br />
+</em></p>
+<blockquote><p><strong>林田先生：</strong> これはすごいよ！あそこに火山がある！<br />
+<em>&#8220;This is amazing! There&#8217;s a volcano over there!&#8221;</em></p></blockquote>
+<p>Hopefully you still remember the sentence-ender よ. It adds emphasis to what someone is saying.</p>
+<blockquote><p><strong>あゆみさん：</strong> 火山は大嫌い．．．<br />
+<em>&#8220;I hate volcanoes&#8221;</em></p></blockquote>
+<p>Back in the day, you learned [noun]+<strong>が</strong>大嫌い. You&#8217;ll notice we&#8217;re using the particle は here. We&#8217;ve already identified and established that there&#8217;s a volcano, and now we&#8217;re talking <em>about</em> the volcano (i.e. the important part is what comes after the particle). That&#8217;s why we&#8217;re using は instead of が here, because は places its importance on what comes after it.</p>
+<blockquote><p><strong>林田先生：</strong> あゆみちゃん、ビデオカメラはある？<br />
+<em>&#8220;Ayumi, do you have the video camera?&#8221;</em></p></blockquote>
+<p>Pretty simple and self explanatory if you read the chapter. Hayashida is asking if she has the video camera. What other things could you ask for?</p>
+<blockquote><p><strong>あゆみさん：</strong> あるよ。ナップザックはどこかな．．．<br />
+<em>&#8220;I have it. I wonder where the napsack is&#8230;&#8221;</em></p></blockquote>
+<p>あるよ = I have it. The only new thing in this sentence is the end (かな&#8230;). By adding かな (and kind of trailing off like you&#8217;re wondering something), you&#8217;re basically saying &#8220;I wonder&#8230;something something something.&#8221; For example: 東京に行くかな．．．means &#8220;Maybe / I wonder if I&#8217;ll go to Tokyo&#8230;&#8221; すしを食べるかな．．．means &#8220;I wonder if I&#8217;ll eat sushi.&#8221; You can pretty much put かな onto the end of any sentence, and then it will make it into a sentence where you are wondering about something. 日本語を習えるかな．．．</p>
+<blockquote><p><strong>あゆみさん：</strong> どこに行くの？<br />
+<em>&#8220;Where will you go?&#8221;</em></p></blockquote>
+<p>どこに行く is pretty self explanatory, but the の on the end is a bit weird. This is often used by women (it&#8217;s more feminine) along with questions. 食べるの？ Will you eat it? 暖かいの？Is it warm? If you&#8217;re a guy, you <em>probably</em> don&#8217;t want to be のing it up too much like this, though occasionally it&#8217;s fine. It&#8217;s just used by women a lot more and more associated with feminine speech.</p>
+<blockquote><p><strong>林田先生： </strong>火 山に行くつもりだよ。あゆみちゃんも行く？<br />
+<em>&#8220;I plan to go to the volcano. Will you go as well?&#8221;</em></p></blockquote>
+<p><a href="../i-plan-to-practice-dictionary-form-verbs/index.html">Do you remember つもり</a>&#8230; to plan to do something? Hayashida-sensei plans to go to the volcano.</p>
+<p>The も particle after Ayumi&#8217;s name is probably new for you. も means &#8220;as well&#8221; and can be placed on the end of nouns. コウイチさん<strong>も</strong>？ Koichi-san too / as well? すし<strong>も</strong>食べる？ Will you eat sushi as well? We&#8217;ll cover the particle も in more detail as we go along, but definitely create a few practice sentences and use it in a Lang-8 post or two to get the gist of it. Also, you&#8217;ll see something similar to も crop up from time to time. This is probably もう, and means something completely different. Don&#8217;t worry about it for now, just know that they&#8217;re different grammar points.</p>
+<blockquote><p><strong>あゆみさん： </strong>ええ、行くよ。<br />
+<em>&#8220;Yep, I&#8217;ll go.&#8221;</em></p></blockquote>
+<p>ええ is a casual way to say &#8220;yes.&#8221; Make sure you have a &#8220;positive tone&#8221; when you say it though, otherwise it might just sound like you&#8217;re moaning.</p>
+<blockquote><p><strong>あゆみさん：</strong> ここはすごいね．．．<br />
+<em>&#8220;It&#8217;s amazing here, isn&#8217;t it?&#8221;</em></p></blockquote>
+<p>ね, as you&#8217;ll remember, is a sentence-ender that you use when you&#8217;re searching for affirmation from the other person.</p>
+<blockquote><p><strong>林田先生： </strong>当たり前じゃない？過去にいるんだから。<br />
+<em>&#8220;Of course it is. It&#8217;s because we&#8217;re in the past!&#8221;</em></p></blockquote>
+<p>当たり前 on its own means &#8220;it&#8217;s obvious&#8221; or &#8220;it&#8217;s natural.&#8221; In this sentence, we&#8217;ve added a じゃない (<a href="../../season-1/negatives-nouns/index.html">negative tense for nouns</a>) to it. The English translation can get a bit clunky if we did things literally, which is why I&#8217;m explaining it here. It&#8217;s like adding &#8220;is it not?&#8221; to the sentence, so if we translated literally, we&#8217;d get: &#8220;It&#8217;s obvious, is it not?&#8221; A nicer translation, though, is &#8220;Of course it is&#8221; (you have to say it with a snobby tone for full effect).</p>
+<p>過去にいるんだから is also full of new things. 過去にいる means &#8220;in the past,&#8221; which I think you can figure out, but the んだから is totally weird and new. Let&#8217;s break it up into all its tiny pieces.</p>
+<p>ん　＝　a casual の. This の particle is actually being used to change a phrase into a subject (the subject in this sentence would be 過去にいる).</p>
+<p>だ　＝　a casual です. <a href="../season-3/how-to-be-casual-part-1/index.html">Remember  だ</a>? Because we&#8217;ve turned this sentence into its own &#8220;subject&#8221; we can treat the sentence like a noun. Therefor, we want to add だ to the end of it. Now, you <em>may</em> think that you <em>could</em> say ですから, but this sounds a bit clunky (works, but still kind of a garble-mouth). Remember, the level of formality in a sentence is dictated by the <em>end</em> of the sentence, and not all the stuff inside of it (at least grammar-wise. Words can still be totally informal and come off that way no matter how formal your grammar is), which is why we&#8217;re using だ instead of です in this sentence.</p>
+<p>から　＝　because. A lot of people think of だから as it&#8217;s own word (&#8220;it is because&#8230;&#8221;) but we&#8217;re breaking it up into its own parts. You can add から onto the end of verbs too (without the だ, unless you add the んだ／のだ). We&#8217;ll go over this grammar point in much more detail, but this should get you started.</p>
+<blockquote><p><strong>あゆみさん： </strong>恐竜がいると思う？<br />
+<em>&#8220;Do you think there are dinosaurs?&#8221;</em></p></blockquote>
+<p>と思う is a great grammar point. と is a particle you don&#8217;t know yet (but will get to know soon). と indicates <em>thoughts</em> or <em>quotes</em>, which is why we&#8217;re using it with the verb &#8220;to think.&#8221; 食べると思う？ Do you think you will eat it? 「My name is Bob」と言った. (He) said &#8220;my name is Bob.&#8221; You&#8217;ll see this a lot, but for the most part you can just remember that when you use the verbs 思う (to think) or 言う (to say), there&#8217;s a pretty good likelihood you&#8217;ll be using the particle と instead of something else.</p>
+<blockquote><p><strong>林田先生：</strong> いる．．．いや、いない。。。<br />
+<em>&#8220;There are&#8230; no, wait, there aren&#8217;t&#8230;&#8221;</em></p></blockquote>
+<p>いや in this sentence is a casual way to say &#8220;no.&#8221;</p>
+<blockquote><p><strong>あゆみさん： </strong>どっ ち？いる？いない？<br />
+<em>&#8220;Which one? Are there or aren&#8217;t there?&#8221;</em></p></blockquote>
+<p>どっちが好き？ Which one do you like? どっちのベッドを使う？ Which bed will you use? どっちを買う？ Which will you buy?</p>
+<blockquote><p><strong>林田先生： </strong>いる。<br />
+<em>&#8220;There are (dinosaurs)!&#8221; (they exist!)</em></p></blockquote>
+<p>Uh oh. This doesn&#8217;t sound too good.</p>
+<blockquote><p><strong>あゆみさん：</strong> なぜ「いる」とおもーマイゴッド！<br />
+<em>&#8220;Why do you think they existohmygod!&#8221;</em></p></blockquote>
+<p>なぜ is &#8220;why,&#8221; as you learned in a previous story section. The last part might be confusing, did you figure it out on your own? I&#8217;ve just smashed together the words と思う and オー・マイ・ゴッド. If you read it out phonetically, you can see how they&#8217;re meshed together. Basically, she&#8217;s changing what she&#8217;s saying mid-word because she saw something scary&#8230; I&#8217;m guessing some kind of dinosaur.</p>
+<p><strong>Before You Move On:</strong></p>
+<ul>
+<li>Know the difference between ある and いる and how they are used. Come up with some practice sentences with help from the examples above.</li>
+<li>Make sure you understand everything from the story.</li>
+<li>Any new grammar points should be written down with your own explanation (to help you remember it).</li>
+<li>Studying the vocab is optional &#8211; you should know around half of the vocab, and the other half shouldn&#8217;t take too much time to learn if you want to. Some of the words aren&#8217;t all that common, though. You&#8217;ve been warned.</li>
+</ul>
+<p style="text-align: right;"><a href="../transitive-intransitive-confusing-verbs/index.html">Transitive, Intransitive, Confusing, Verbs →</a></p>
+<p><a style="display:none;" id="ddetlink2038748783" href="javascript:expand(document.getElementById('ddet2038748783'))">Image Sources</a>
+<div class="ddet_div" id="ddet2038748783"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet2038748783'));expand(document.getElementById('ddetlink2038748783'))</script></p>
+<ul>
+<li><a href="http://www.flickr.com/photos/tommy_pariah/2571229864/">http://www.flickr.com/photos/tommy_pariah/2571229864/</a></li>
+</ul>
+<p></div></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

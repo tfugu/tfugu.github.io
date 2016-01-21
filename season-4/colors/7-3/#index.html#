@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  3. Making Sense Of The Colors</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 3. Making Sense Of The Colors Comments Feed" href="http://tfugu.github.io/season-4/colors/7-3/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='2. Colors Vocab' href='../7-2/index.html' />
+<link rel='next' title='6. Colors As &#8220;Adjectives&#8221;' href='../7-6/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-8830 page-child parent-pageid-8816 page-template page-template-template-page-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-8830 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>Making Sense Of The Colors</h1>
+<h4>&ldquo;We are like chameleons, we take our hue and the color of our moral character, from those who are around us.&rdquo; <span style="color: #888888;">- John Locke</span></h4>
+<p>The words of the colors themselves aren&#8217;t <em>too</em> bad, but once you start using them you&#8217;ll see how confusing they can be. The problem is that different colors are different things. Some are considered mainly to be い adjectives. Some are mainly な adjectives. <em>All</em> of them are also considered to be nouns, too, depending on the situation (and some of them are <em>only</em> treated like nouns). It&#8217;s confusing, but if you remember these three rules it&#8217;ll be easier for you:</p>
+<ul>
+<li>Some of the colors are い adjectives (and of course, they have an い on the end to help you remember)</li>
+<li>All of the adjectives can be turned into nouns (and some are already ready to be a noun without change).</li>
+<li>Some are な adjectives (i.e. the ones with 真っ/まっ before the colors are the な adjectives)</li>
+</ul>
+<p>We&#8217;ll go into more detail on each of these right now. You might want to take notes, some of these can be a bit tricky. As always, we&#8217;ll continue to use and review the colors as you go forward, but it&#8217;s still good for you to jot some of this down.</p>
+<h2>い Adjectives</h2>
+<p>There are five main い adjective colors. They are the three primary colors (red, blue, yellow) as well as black and white. Some might add brown (ちゃいろ) into this group, but it just fits so much better in the &#8220;noun&#8221; group that I&#8217;m going to leave it there. Just keep in mind that sometimes you&#8217;ll see ちゃいろい, though I think it&#8217;s uncommon enough not to have to think about right now. Let&#8217;s take a look at the い adjective words. First I&#8217;ll show them in &#8220;noun-mode&#8221; then I&#8217;ll show them in &#8220;い adjective mode.&#8221; These ones can be either or, depending on the situation (more on that in a bit).</p>
+<p style="padding-left: 30px;">あか (red)　→　あかい</p>
+<p style="padding-left: 30px;">あお (blue)　→　あおい</p>
+<p style="padding-left: 30px;">しろ (white)　→　しろい</p>
+<p style="padding-left: 30px;">くろ (black)　→　くろい</p>
+<p style="padding-left: 30px;">きいろ (yellow)　→　きいろい</p>
+<p>The only &#8220;weird&#8221; one in this group is きいろ (yellow). Why? Because it has 色 (いろ) on it, which means color. All other colors that have いろ on them are in the noun group. If you just remember &#8220;black &amp; white plus primary colors&#8221; though, it should be easy to figure out which ones are い adjectives. It&#8217;s certainly a lot easier than remembering five separate colors. Group them for easier memorization!</p>
+<h2>&#8220;Nouns&#8221;</h2>
+<p>I say &#8220;nouns&#8221; because these aren&#8217;t <em>really</em> like pure nouns. You are still using these colors to describe things, but you&#8217;re doing it in a slightly different way (using the particle の to attribute one &#8220;noun&#8221; to another noun). Let&#8217;s take a look at the colors in this category, then we&#8217;ll take a look at how this is done. Colors treated as nouns don&#8217;t need any changes made to them.</p>
+<p style="padding-left: 30px;">みどり (green)</p>
+<p style="padding-left: 30px;">ピンク (pink)</p>
+<p style="padding-left: 30px;">むらさき (purple)</p>
+<p style="padding-left: 30px;">オレンジいろ (orange)</p>
+<p style="padding-left: 30px;">ちゃいろ (brown)</p>
+<p style="padding-left: 30px;">はいいろ (gray)</p>
+<p style="padding-left: 30px;">きん (gold)</p>
+<p style="padding-left: 30px;">ぎん (silver)</p>
+<p>One thing you&#8217;ll notice about this list is that a lot of them end with &#8220;いろ.&#8221; いろ, as you know, means &#8220;color.&#8221; Basically, the いろ is describing something as &#8220;the color of _____.&#8221; For example&#8230;</p>
+<p style="padding-left: 30px;">オレンジいろ → The color of オレンジ (oranges)</p>
+<p style="padding-left: 30px;">ちゃいろ → The color of ちゃ (tea)</p>
+<p>Even the ones that don&#8217;t usually have an いろ on the end of them <em>can</em> have an いろ on the end of them. It&#8217;s a lot like the difference between saying &#8220;gold&#8221; and &#8220;the color gold.&#8221; They can both technically be the same thing, but one of them is a little more descriptive and specific.</p>
+<p>Now, while the い adjective colors are treated just like い adjectives, these colors do something new. When directly preceding a noun, you add the の particle. You&#8217;ve done this before, though you did it a little differently. Still, it&#8217;s kind of the same thing, because these colors are treated just like nouns. For example:</p>
+<p style="padding-left: 30px;">むらさき　の　こうえん　The purple park</p>
+<p style="padding-left: 30px;">みどり　の　くつ　Green shoes</p>
+<p>I won&#8217;t get into too much depth right here, but if you need a <a href="../../../season-2/being-possessive/index.html">refresher on の</a>, now would be a good time.</p>
+<h2>な Adjective Colors</h2>
+<p>This is probably the easiest category. These &#8220;colors&#8221; are treated just like な adjectives. Really, these are just modifications of a few other colors (red, white, &amp; black). The 真っ/まっ at the beginning of each color is just making it mean &#8220;pure ____.&#8221; Basically, these are really strong, pure colors.</p>
+<p style="padding-left: 30px;">まっしろ (pure white)</p>
+<p style="padding-left: 30px;">まっくろ (pure black / pitch dark)</p>
+<p style="padding-left: 30px;">まっか (pure red)</p>
+<p>These are な adjectives, and follow the same rules as in the <a href="../../../season-3/na-adj/index.html">な adjectives chapter</a>.</p>
+<hr class="d4pbbc-hr" />
+<p>Okay, now that we&#8217;ve gone through the different kinds of colors and the rules associated with each, let&#8217;s take a look at one more weird thing that&#8217;s good to know about colors. Don&#8217;t worry! It&#8217;s not about grammar. It should be quick but fun.</p>
+<div class="woo-sc-box tick   ">By finishing this page, you should have an idea about the different kinds of colors, and the rules associated with each. I wouldn&#8217;t expect you to memorize everything just yet, but with some practice and possibly some notes, you will hopefully be good to go by the end of this lesson.</div>
+<p style="text-align: center;"><a href="../7-2/index.html#top" class="woo-sc-button  silver" ><span class="woo-">← 後</span></a> <a href="../7-4/index.html#top" class="woo-sc-button  silver" ><span class="woo-">前 →</span></a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

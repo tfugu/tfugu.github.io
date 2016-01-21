@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  3. How To Type Japanese On Your Computer</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 3. How To Type Japanese On Your Computer Comments Feed" href="http://tfugu.github.io/season-4/social-learning/9-3/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='2. Installing Japanese Input On Your Computer' href='../9-2/index.html' />
+<link rel='next' title='4. Typing in Katakana' href='../9-4/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-9433 page-child parent-pageid-9420 page-template page-template-template-page-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-9433 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>How To Type Japanese On Your Computer</h1>
+<h4>&ldquo;That isn&#8217;t writing at all, it&#8217;s typing.&rdquo; <span style="color: #888888;">- Truman Capote</span></h4>
+<p><img class="alignnone size-full wp-image-9436" title="keyboard" src="../../../wp-content/uploads/2011/04/keyboard.png" alt="Keyboard" width="600" height="366" /></p>
+<p>Typing in Japanese is surprisingly easy, once you get the hang of it. Many people assume typing Japanese on your keyboard involves each key getting their own symbol. That, my friend, would be crazy. It&#8217;s a lot simpler than that. Let&#8217;s get started right away, it&#8217;s much easier to do it than to just read about it.</p>
+<p>1. Activate your Japanese IME (hit the &#8220;EN&#8221; in your IME and change it to あ Hiragana).</p>
+<p>2. To type in Japanese, you don&#8217;t need a &#8220;Japanese Keyboard.&#8221; You just need to be able to type things out <em>phonetically</em>, which you can do with any keyboard that has the alphabet a-z on it.</p>
+<p>3. Now, click your cursor in the box below and follow along with me. Hit &#8220;a&#8221; on your keyboard. If everything is set up right and on, you should see an あ. Hit Enter to confirm it. Now, type &#8220;ka&#8221; in there. You should see か. Hit Enter to confirm. Now type &#8220;mu&#8221; in there&#8230; you should see む. Hit enter to confirm.</p>
+<p>See what I&#8217;m getting at? We&#8217;re typing the romaji sounds that the kana represent, and your IME is outputting the kana itself. There&#8217;s a bit more to using a Japanese IME than this, but this should get you started. You know that if you type the phonetic version of the kana, it&#8217;ll output it for you. Try a few more (see below the input box).</p>
+<p style="padding-left: 30px;">Type &#8220;a&#8221; + ENTER<br />
+Type &#8220;ka&#8221; + ENTER<br />
+Type &#8220;mu&#8221; + ENTER<br />
+Type &#8220;ho&#8221; + ENTER<br />
+Type &#8220;shi&#8221; + ENTER<br />
+Type &#8220;chi&#8221; + ENTER<br />
+Type &#8220;zo&#8221; + ENTER</p>
+<p><textarea style="font-size: 14px;" name="comments" rows="10" cols="60"></textarea></p>
+<p>Now, these are pretty simple examples. Of course, there are a lot of weird exceptions that don&#8217;t make a lot of sense (and you&#8217;ll just have to learn them), but we&#8217;ll get to that in just a moment. Let&#8217;s form some words, first.</p>
+<p style="padding-left: 30px;">Type &#8220;sushi&#8221; + ENTER<br />
+Type &#8220;sashimi&#8221; + ENTER<br />
+Type &#8220;Takehiro&#8221; + ENTER<br />
+Type &#8220;nani&#8221; + ENTER<br />
+Type &#8220;tabemasu&#8221; + ENTER<br />
+Type &#8220;hairimasu&#8221; + ENTER</p>
+<p><textarea style="font-size: 14px;" name="comments" rows="10" cols="60"></textarea></p>
+<p>So far, we haven&#8217;t run into anything particularly weird. There are a few things that are a little strange, which we&#8217;ll go over now (the <em>really</em> strange stuff we&#8217;ll get to in a bit).</p>
+<p>You know the &#8220;ya&#8221; combo hiragana? The ones that are like しゃ, みゅ, or びょ? They&#8217;re a little bit funny, and have multiple ways of doing them.</p>
+<p style="padding-left: 30px;">きゃ = kya<br />
+しゃ = sya / shya / sha<br />
+ちゃ = cya / cha<br />
+にゃ = nya<br />
+ひゃ = hya<br />
+みゃ = mya<br />
+りゃ = rya</p>
+<p>Practice writing the above characters in this text box below. Can you write them all? Make sure you hit ENTER after writing each one. You&#8217;ll learn why this is important on the next page, when you start typing with katakana / kanji.</p>
+<p><textarea style="font-size: 14px;" name="comments" rows="10" cols="60"></textarea></p>
+<p style="padding-left: 30px;">きゅ　＝　kyu<br />
+しゅ　＝　syu / shyu / shu<br />
+ちゅ　＝　cyu / chyu / chu<br />
+にゅ　＝　nyu<br />
+ひゅ　＝　hyu<br />
+みゅ　＝　myu<br />
+りゅ　＝　ryu</p>
+<p><textarea style="font-size: 14px;" name="comments" rows="10" cols="60"></textarea></p>
+<p>And, as you can probably guess, let&#8217;s practice &#8220;yo&#8221; sounds.</p>
+<p style="padding-left: 30px;">きょ　＝　kyo<br />
+しょ　＝　syo / chyo / sho<br />
+ちょ　＝　cyo / chyo / cho<br />
+にょ　＝　nyo<br />
+ひょ　＝　hyo<br />
+みょ　＝　myo<br />
+りょ　＝　ryo</p>
+<p><textarea style="font-size: 14px;" name="comments" rows="10" cols="60"></textarea></p>
+<p>For the ones that have multiple ways to do them, you can go ahead and choose whatever is most comfortable to you. Personally, I do the &#8220;sha/shu/sho&#8221; version, but whatever works best for you works best for me.</p>
+<p>There are a few more &#8220;weird&#8221; hiragana characters you&#8217;ll want to know about, too, so let&#8217;s go over them now. After that, you&#8217;ll learn how to magically type kanji and katakana words.</p>
+<h3>Small Characters</h3>
+<p>&#8220;Small characters&#8221; are usually just typed along with the word you&#8217;re typing, which makes them a lot easier to type. The first &#8220;small character&#8221; does exactly this (small tsu) and isn&#8217;t too difficult at all. You know that the small tsu is just a double consonant (two of the same non-vowels next to each other, like tt or pp), so in order to get a small tsu, all you have to do is type two of the same consonants in a row.</p>
+<p>Try typing these words into the box below. Same as before, hit ENTER after each word is finished typing.</p>
+<p style="padding-left: 30px;">tabetteimasu = たべっています<br />
+ippai = いっぱい<br />
+yappari = やっぱり<br />
+katta = かった<br />
+issho / issyo / isshyo = いっしょ<br />
+kekkou = けっこう<br />
+meppou = めっぽう</p>
+<p><textarea style="font-size: 14px;" name="comments" rows="10" cols="60"></textarea></p>
+<p>Now, there are some instances where you might need to type a small ya/yu/yo or small a/i/u/e/o (mostly for katakana) without being able to nicely add them in along with a word. If you have to type any of these things on their own, all you need to do is add an &#8220;x&#8221; to them (because there is no &#8220;x&#8221; in Japanese, making it an extra character).</p>
+<p>Type these in the box below.</p>
+<p style="padding-left: 30px;">xya = ゃ<br />
+xyu = ゅ<br />
+xyo = ょ<br />
+xa = ぁ<br />
+xi = ぃ<br />
+xu = ぅ<br />
+xe = ぇ<br />
+xo = ぉ</p>
+<p><textarea style="font-size: 14px;" name="comments" rows="10" cols="60"></textarea></p>
+<p>There are a few other &#8220;weird&#8221; things that you won&#8217;t really run into for a while that you don&#8217;t need to learn at the moment. The most important thing, now though, is to learn how to type in katakana and kanji.</p>
+<div class="woo-sc-box tick   ">By finishing this page you&#8217;ve learned how to type Japanese in hiragana &#8211; next you&#8217;ll learn how to type in katakana and kanji!</div>
+<p style="text-align: center;"><a class="btn large" style="margin-right: 5px;" href="../9-2/index.html#top">← 後</a><a class="btn large primary" href="../9-4/index.html#top">前 →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

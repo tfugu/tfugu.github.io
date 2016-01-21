@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Koko, Soko, Asoko</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Koko, Soko, Asoko Comments Feed" href="http://tfugu.github.io/season-3/koko-soko-asoko/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Preview: Making New Friends' href='../preview-making-new-friends/index.html' />
+<link rel='next' title='Manifesto' href='../../manifesto/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-3597 page-child parent-pageid-3108 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-3597 page type-page status-publish hentry">
+
+	                <h1>Koko, Soko, Asoko</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1 style="text-align: center;">HERE, THERE, AND (OVER) THERE</h1>
+<p style="text-align: center;"><em>&#8220;I like to drink to suit my location.&#8221;</em> &#8211; <strong>Tom Jones</strong></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3615" title="world" src="../../wp-content/uploads/2010/03/world.png" alt="" width="820" height="342" /></p>
+<h3><span style="color: #ff0000;">ここ, そこ, ＆ あそこ. </span>Does this pattern sound familiar? Perhaps これ, それ ＆ あれ ring a bell? These are similar concepts, but ここ, そこ, and あそこ mean &#8220;here, there, &amp; over (there).&#8221;</h3>
+<div id="submenu">
+<h4>Chapter Sub-Menu</h4>
+<p>1. <a href="index.html#koko">Koko, Soko, Asoko</a><br />
+2. <a href="index.html#story">The Story: Where Is Mary?</a><br />
+3. <a href="index.html#story2">Line-By-Line Explanation</a></p>
+</div>
+<p><a name="koko"></a>Let&#8217;s take a look back at what we&#8217;ve learned already.</p>
+<blockquote><p>これ　＝　this<br />
+それ　＝　that<br />
+あれ　＝　that (over there)</p></blockquote>
+<p>Also, we learned the other version of this, that, &amp; that (over there):</p>
+<blockquote><p>この　＝　this (thing)<br />
+その　＝　that (thing)<br />
+あの　＝　that (thing) over there</p></blockquote>
+<p>Following a similar pattern, let&#8217;s take a look at what we&#8217;re learning today:</p>
+<blockquote><p>ここ　＝　here (where the speaker is)<br />
+そこ　＝　there (where the person you&#8217;re speaking to is)<br />
+あそこ　＝　over there (someplace where both the speaker and person you&#8217;re speaking to are not).</p></blockquote>
+<p>Of course, location is all relative. Depending on the location you&#8217;re talking about, ここ could be a place that both you and the person you&#8217;re speaking to are in. For example, if both of you are in America, you would still say &#8220;This (here) is America&#8221; and not &#8220;That (there) is America.&#8221;</p>
+<blockquote><p>ここはアメリカです。<br />
+This (here) is America. ← You, the speaker, are in America</p>
+<p>そこはフランスです。<br />
+That (there) is France. ← The person you&#8217;re speaking to is in France</p>
+<p>あそこは日本です。<br />
+That (over there) is Japan ← Neither you or the person you are speaking to is in Japan. It&#8217;s away from <em>both</em> of you.</p>
+<p>※　Go ahead and make three <em>similar</em> sentences to the ones above, using BIG locations, like countries, planets, galaxies, etc! Remember, if you&#8217;re in it, you&#8217;ll use ここ (no matter how big it is!)</p></blockquote>
+<p>And, of course, we can get more specific about the location as well.</p>
+<blockquote><p>ここは病院です。<br />
+This (here) is a hospital.</p>
+<p>あそこは私の学校です。<br />
+That over there is my school.</p>
+<p>※　Go ahead and make two similar sentences to the ones above, using more specific locations.</p></blockquote>
+<p>Besides stating where you are (or where someone else is), you can also use these to <em>describe</em> a general location. For example:</p>
+<blockquote><p>ここは寒い（さむい）です。<br />
+Here is cold (i.e. It is cold here).</p>
+<p>あそこは暖かい（あたたかい）！<br />
+It&#8217;s warm over there!</p>
+<p>ここは面白いよ！<br />
+It&#8217;s interesting / cool here! (The よ at the end, if you remember, puts emphasis on what you&#8217;re saying. &#8220;It&#8217;s cool here, you know!&#8221;)</p>
+<p>※　Go ahead and create two sentences similar to the sentences above and <em>describe</em> a place or location.</p></blockquote>
+<p>If you remember, back in Season 2 we talked about は versus が. In sentences like the above, there is a lot of opportunity for making mistakes (regarding は and が, and which one you should use). Remember the difference between them?</p>
+<blockquote><p><strong>は emphasizes what comes after it and talks <em>about</em> something.<br />
+</strong></p>
+<p><strong>が emphasizes what comes before it and <em>identifies</em> something.<br />
+</strong></p></blockquote>
+<p>That being said, let&#8217;s take a look at some more sentences:</p>
+<blockquote><p>ここが痛い（いたい）です。<br />
+There is pain here. ← in this sentence, we are <em>identifying</em> where the pain is. ここ, which comes before the が is the thing that is &#8220;emphasized,&#8221; because it is most important. It&#8217;s already established that you have pain, but <em>where</em> the pain is? Well, that&#8217;s what we&#8217;re <em>identifying</em> by using the が particle instead of the は particle. On the other hand, if we <em>did</em> use は&#8230;</p>
+<p>ここは痛い（いたい）です。<br />
+There is pain here. ← <em>Technically</em> means the same thing (in English, anyways), but has a slightly different feel to it. Of course, we&#8217;re using the は particle, which means the emphasis goes after the は (i.e. the fact that something hurts is the most important thing). In this sentence, the other person probably didn&#8217;t know you were in pain, and you&#8217;re talking about your pain (and telling someone that you have it). The location of the pain isn&#8217;t as important as the pain itself. After that, if someone asked どこが痛いですか (where is the pain?) then you&#8217;d want to reply ここ<strong>が</strong>痛いです, because now you&#8217;re <em>identifying</em> the pain.</p></blockquote>
+<p>Because ここ, そこ, and あそこ have to do with location, you&#8217;ll also see times where the で particle is used. You got a brief explanation in the <a href="../story-mary-comes-to-japan/index.html">previous chapter</a>, and you&#8217;re about to get another brief intro here as well, but essentially, で is used when you are doing something <em>at</em> a location, or by way of <em>something</em>: <strong>At </strong>a restaurant, drive <strong>by way of</strong> car, etc. Whenever the thing that you&#8217;re doing hinges on the location, で is probably the particle you want to use. Let&#8217;s take a look at some examples here.</p>
+<blockquote><p>ここで食べます。<br />
+I will eat here.</p>
+<p>このレストランで食べます。<br />
+I will eat at this restaurant.</p>
+<p>ここで止まらない！<br />
+(I) won&#8217;t stop here!</p>
+<p>車（くるま）で行きます。<br />
+(I) will go by way of car.</p>
+<p>※　Using で make two similar sentences to the ones above.</p></blockquote>
+<p>Let&#8217;s try and practice a bit. Can you figure out which particle to use with the following sentences?</p>
+<blockquote><p>あそこ＿行きます（いきます）<a style="display:none;" id="ddetlink838075926" href="javascript:expand(document.getElementById('ddet838075926'))">Answer:</a>
+<div class="ddet_div" id="ddet838075926"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet838075926'));expand(document.getElementById('ddetlink838075926'))</script>
+に, because you are <em>going</em> somewhere. You are moving, and that means you&#8217;ll be using the に particle</div></p></blockquote>
+<blockquote><p>マクドナルド＿飲みます（のみます）<a style="display:none;" id="ddetlink549729184" href="javascript:expand(document.getElementById('ddet549729184'))">Answer:</a>
+<div class="ddet_div" id="ddet549729184"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet549729184'));expand(document.getElementById('ddetlink549729184'))</script>
+で, because you are doing something <strong>at</strong> the McDonald&#8217;s. Because you are drinking <strong>here</strong>, you would use the で particle.</div></p></blockquote>
+<blockquote><p>ここ＿楽しい（たのしい）ですね！ <a style="display:none;" id="ddetlink193929964" href="javascript:expand(document.getElementById('ddet193929964'))">Anwer:</a>
+<div class="ddet_div" id="ddet193929964"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet193929964'));expand(document.getElementById('ddetlink193929964'))</script>
+は, (probably). You are saying it is fun here, and since everyone knows you are here, already, you&#8217;d want to use the は particle and emphasize what comes after it (the fact that &#8220;here is fun.&#8221; Besides, you aren&#8217;t identifying anything, so the は particle is way more appropriate. </div></p></blockquote>
+<blockquote><p>あそこ＿私＿大学（だいがく）です。<a style="display:none;" id="ddetlink1318445542" href="javascript:expand(document.getElementById('ddet1318445542'))">Answer:</a>
+<div class="ddet_div" id="ddet1318445542"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1318445542'));expand(document.getElementById('ddetlink1318445542'))</script>
+は &amp; の. That (over there) is my college / university.</div></p></blockquote>
+<h3>どこ, Where.</h3>
+<p>There is one last thing to go over before you move on to the story portion below. どこ means &#8220;where.&#8221; It&#8217;s sort of the location-based version of なに (what), and can be used in the same sort of ways.</p>
+<blockquote><p><strong><span style="color: #008000;">これ</span></strong> は　<strong><span style="color: #800080;">なん</span></strong> ですか？<br />
+What is this?</p>
+<p><strong><span style="color: #008000;">ここ</span></strong> は　<strong><span style="color: #800080;">どこ</span></strong> ですか？<br />
+Where is here? (i.e. Where am I?)</p>
+<p>あそこはどこですか？<br />
+Where is that (over there)?</p>
+<p>ボッビーさんはどこですか？<br />
+Where is Bobby?</p>
+<p>私のペンはどこですか？<br />
+Where is my pen?</p></blockquote>
+<blockquote><p>How would you ask, &#8220;Where is Smith?&#8221; <a style="display:none;" id="ddetlink928942700" href="javascript:expand(document.getElementById('ddet928942700'))">Answer:</a>
+<div class="ddet_div" id="ddet928942700"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet928942700'));expand(document.getElementById('ddetlink928942700'))</script>
+スミスさんはどこですか？ </div></p></blockquote>
+<blockquote><p>How would you ask, &#8220;Where is the car?&#8221; <a style="display:none;" id="ddetlink1548502410" href="javascript:expand(document.getElementById('ddet1548502410'))">Answer:</a>
+<div class="ddet_div" id="ddet1548502410"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1548502410'));expand(document.getElementById('ddetlink1548502410'))</script>
+車はどこですか？</div></p></blockquote>
+<p><a name="story"></a><br />
+Great, so now that you&#8217;ve learned ここ, そこ, あそこ, and どこ, it&#8217;s time to put them to use in conversation practice. If you remember in the previous chapter, Mary disappears after talking to Takeshi (she just wanted to make a new friend!). Only two new characters introduced in this chapter, and they aren&#8217;t super important so they won&#8217;t get their own character bio&#8230;yet. But, if you need a refresher on the main folks (so far, anyways), <a href="../story-mary-comes-to-japan/index.html">take a look at the previous chapter</a>. As you go through, if you don&#8217;t understand a particular word, feel free to <a href="http://jisho.org">look it up</a>, but don&#8217;t look up everything! You should understand a good portion of the content below, and even if you struggle through the first time you&#8217;ll learn more that way.</p>
+<p style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
+<h1 style="text-align: left;">Story: Part 2</h1>
+<h4 style="text-align: left;">Where Is Mary?</h4>
+<p style="text-align: left;">Mary is gone. Takeshi gets up and starts walking away. Physics Professor Hayashida-sensei jumps out of the bushes (that&#8217;s where he lives and sleeps) and yells:</p>
+<blockquote>
+<p style="text-align: left;"><strong>林田先生：</strong>お前はだれですか？　メアリーさんはどこ！？</p>
+</blockquote>
+<p style="text-align: left;">Takeshi doesn&#8217;t stop, and keeps walking. Hayashida-sensei runs after, but the peg-leg is slowing him down.</p>
+<blockquote>
+<p style="text-align: left;"><strong>林田先生：</strong>くそ、足が痛い。</p>
+</blockquote>
+<p style="text-align: left;">He stops running because of the pain, and Takeshi walks off into the darkness. Hayashida-sensei reaches for his cell phone.</p>
+<blockquote>
+<p style="text-align: left;"><strong>林田先生：</strong>ああぁあ。携帯電話はどこだろう？携帯ちゃん．．．どこ？どこ？</p>
+<p style="text-align: left;"><strong>携帯ちゃん：</strong>ここだよ。ここだよ先生！</p>
+</blockquote>
+<p style="text-align: left;">Obviously, Hayashida-sensei is on the wrong side of the insanity fence.</p>
+<blockquote>
+<p style="text-align: left;"><strong>林田先生：</strong>お！よかった！携帯ちゃんを見つけた！なぜそこにいる？</p>
+<p style="text-align: left;"><strong>携帯ちゃん：</strong>私はここが大好きですよ！林田先生の臭いが強い！</p>
+<p style="text-align: left;"><strong>林田先生：</strong>そうか．．．オ！携帯ちゃん。警察に電話してください。</p>
+<p style="text-align: left;"><strong>携帯ちゃん：</strong>分かりました！警察に電話します！</p>
+</blockquote>
+<p style="text-align: left;">Hayashida-sensei calls the police, but nobody picks up. Maybe that&#8217;s because his phone isn&#8217;t a phone, but a rock. Meanwhile, back in Takeshi&#8217;s secret lair (i.e. his mom&#8217;s house)&#8230;</p>
+<blockquote>
+<p style="text-align: left;"><strong>Mysterious Voice:</strong> たけしくん、今どこにいますか？</p>
+<p style="text-align: left;"><strong>たけしさん</strong>：　ここは私の部屋です。</p>
+<p style="text-align: left;"><strong>Mysterious Voice:</strong> メアリーさんはどこですか？</p>
+<p style="text-align: left;"><strong>たけしさん：</strong> メアリー．．．メアリーを殺しました。</p>
+<p style="text-align: left;"><strong>Mysterious Voice:</strong> 違う。体はどこですか？</p>
+<p style="text-align: left;"><strong>たけしさん：</strong> 体は．．．</p>
+<p style="text-align: left;"><strong>Mysterious Voice:</strong> 体は．．．なに？</p>
+<p style="text-align: left;"><strong>たけしさん：</strong> 体を忘れました．．．</p>
+<p style="text-align: left;"><strong>Mysterious Voice:</strong> オー・マイ・ゴッド。</p>
+</blockquote>
+<p style="text-align: left;">At that moment, Hayashida-sensei tripped over something on the way back to his bush home.</p>
+<p style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
+<p><a name="story2"></a></p>
+<h1 style="text-align: center;">Line-By-Line Explanation</h1>
+<blockquote><p><strong>林田先生：</strong>お 前はだれですか？　メアリーさんはどこですか！？</p></blockquote>
+<p>&#8220;Who are you? Where is Mary?&#8221; It was brushed over pretty quickly, but maybe you remember some of the <a href="../../season-1/developing-a-sense-of-identity/index.html#you">alternate ways to say &#8220;you&#8221; in Japanese</a>? お前（おまえ） is a (sometimes) angry way to say &#8220;you,&#8221; which makes sense since Hayashida-sensei just saw something he shouldn&#8217;t have seen. だれ means &#8220;who&#8221; and is used in much the same way as なに or どこ. (someone)はだれですか is a good set phrase to learn. Hayashida-sensei then goes on to ask: &#8220;Where is Mary?&#8221; If you were paying attention at all in this chapter, you&#8217;ll know how to ask this already.</p>
+<blockquote><p><strong>林田先生：</strong>く そ、足が痛いんだ。</p></blockquote>
+<p>&#8220;(Shoot), (my) leg hurts&#8221; &#8230; where &#8220;shoot&#8221; is a nicer version of the actual word. Funny thing about the Japanese language: swear words aren&#8217;t as taboo nor are they really &#8220;swear words&#8221; in Japanese. I&#8217;m just covering my&#8230; er&#8230; butt here, just in case you&#8217;re a little kid reading this. You get my drift though.</p>
+<p>足（あし）が痛い（いたい）. &#8220;My leg hurts.&#8221; Remember, when using が, it means you&#8217;re identifying something (and that something is the thing right before the が, in this case his leg). Here, his leg is the thing that&#8217;s in pain, so he&#8217;s identifying that.</p>
+<blockquote><p><strong>林田先生：</strong>あ あぁあ。携帯電話はどこだろう？携帯ちゃん．．．どこ？どこ？</p></blockquote>
+<p>&#8220;Aaahh. I wonder where my cell phone is? Cell-chan&#8230; where are you? where are you?&#8221;</p>
+<p>This is where we realize that Hayashida-sensei has already lost his marbles. One thing you might not know in this sentence is だろう. だろう is a casual version of でしょう, which means something like &#8220;I wonder&#8221; when used instead of です. It gives the sentence a level of uncertainty. In this case, he&#8217;s not certain where his cell phone is, so he wonders where it could be. Then he starts calling out to it, calling it 携帯ちゃん（けいたいちゃん).</p>
+<blockquote><p><strong>携帯ちゃん：</strong>ここだよ。ここだよ先生！</p></blockquote>
+<p>&#8220;I&#8217;m here! I&#8217;m here Sensei!&#8221; the cell phone calls out to him, because he&#8217;s crazy.</p>
+<blockquote><p><strong>林田先生：</strong>お！ よかった！携帯ちゃんを見つけた！なぜそこにいる？</p></blockquote>
+<p>&#8220;Oh! Thank goodness! I found you, Cell-chan! Why are you there?&#8221;</p>
+<p>よかった = the adjective いい in past tense. Do you remember conjugating this い-adjective in the <a href="../../season-2/i-adjectives/index.html">い-adjective chapter</a>? It&#8217;s one of those weird exceptions, and doesn&#8217;t conjugate like everything else. よかった literally means &#8220;it was good,&#8221; but in this case it means something more along the lines of &#8220;thank goodness&#8221; or &#8220;what a relief.&#8221;</p>
+<p>携帯ちゃんを見つけた！→ 見つけた（みつけた）means &#8220;found,&#8221; so, naturally this means &#8220;I found Cell-chan!&#8221; Or, if you want to make the translation sound better: &#8220;I found you, Cell-chan!&#8221;</p>
+<p>なぜそこにいる？ Why are you here? なぜ means &#8220;why,&#8221; as we learned in the last section of the story. Now, the verb いる is a bit more tricky, and we&#8217;ll see a chapter devoted to this soon. いる means &#8220;to exist&#8221; or &#8220;to be,&#8221; and refers only to living things. In this case, Hayashida-sensei has given life to this &#8220;cell phone,&#8221; which is why he can use いる in this situation.</p>
+<blockquote><p><strong>携帯ちゃん：</strong>私はここが大好きですよ！林田先生の臭いが強い！</p></blockquote>
+<p>&#8220;I like it here (a lot)! Hayashida-sensei&#8217;s smell is strong!&#8221;</p>
+<p>ここが大好きです = I like it here (a lot), which you should understand from the chapter where we learned <a href="../../season-2/i-adjectives/index.html">すき</a>, <a href="../../season-2/the-things-that-i-hate/index.html">きらい</a>, etc.</p>
+<p>林田先生の臭い（におい）が強い（つよい）! = This should be pretty straight forward as well. &#8220;Hayashida-sensei&#8217;s smell is strong!&#8221;</p>
+<blockquote><p><strong>林田先生：</strong>そ うか．．．オ！携帯ちゃん。警察に電話してください。</p></blockquote>
+<p>&#8220;Is that so&#8230; Oh! Cell-chan. Call the police, please!&#8221;</p>
+<p>警察（けいさつ）に電話（でんわ）してください. There are two new things in this sentence. First, the verb for calling someone is 電話する. Also, note that it&#8217;s using a に particle, which is normally attributed to movement, time, etc. In this case, I suppose the act of calling someone is like moving / connecting with them, so it sort of makes sense. Second, 〜てください is also new. This is a て-form verb + ください, which makes it so you can ask someone politely to do said verb. We&#8217;ll learn て-form verbs soon, but just know that 〜てください means please (do) something. 食べてください (please eat), 飲んでください (please drink), 行ってください (please go), などなど (etc).</p>
+<blockquote><p><strong>携帯ちゃん：</strong>分 かりました！警察に電話します！</p></blockquote>
+<p>&#8220;I understand! I will call the police!&#8221; Literally, 分かりました means &#8220;I understood,&#8221; but a better translation would be &#8220;I understand.&#8221; If you understood something, you should say 分かりました too!</p>
+<p>Now we move on to Takeshi and the mysterious voice, somewhere else.</p>
+<blockquote><p><strong>Mysterious  Voice:</strong> 今どこにいますか、たけしくん？</p></blockquote>
+<p>&#8220;Where are you right now, Takeshi-kun?&#8221; We just learned a little about います／いる (to exist, to be), but maybe you don&#8217;t know what that くん is on the end of Takeshi&#8217;s name. くん (instead of さん) is used on younger boys / young (male) adults, and often used by people of higher rank on younger guys of lower rank (at least, that&#8217;s why it&#8217;s being used in this situation). Because we know that, we also know a bit more about the &#8220;mysterious voice.&#8221; Whoever he is, he looks down on Takeshi as a subordinate.</p>
+<blockquote><p><strong>たけしさん</strong>： 　ここは私の部屋です。</p></blockquote>
+<p>&#8220;This (here) is my room.&#8221;</p>
+<blockquote><p><strong>Mysterious  Voice:</strong> メアリーさんはどこですか、たけしくん？</p></blockquote>
+<p>&#8220;Where is Mary, Takeshi-kun?&#8221;</p>
+<blockquote><p><strong>たけしさん：</strong> メアリー．．．メアリーを殺しました。</p></blockquote>
+<p>&#8220;Mary&#8230; I killed Mary.&#8221; Notice that Takeshi is speaking in polite form with this &#8220;mysterious voice.&#8221; You won&#8217;t see any 殺した&#8217;s going on here.</p>
+<blockquote><p><strong>Mysterious  Voice:</strong> 違う。体はどこですか、たけしくん？</p></blockquote>
+<p>&#8220;(No, that&#8217;s not what I meant). Where is the body, Takeshi-kun?&#8221;</p>
+<p>If you remember, 違う（ちがう）means &#8220;it&#8217;s different,&#8221; though it can be used very flexibly in a lot of situations. In this case, it means something more along the lines of &#8220;No, that&#8217;s not what I meant.&#8221;</p>
+<blockquote><p><strong>たけしさん：</strong> 体は．．．</p></blockquote>
+<p>&#8220;The body is&#8230;&#8221; / &#8220;As for the body&#8230;&#8221;</p>
+<blockquote><p><strong>Mysterious  Voice:</strong> 体は．．．なに？</p></blockquote>
+<p>&#8220;The body is&#8230;what?&#8221; he asks back.</p>
+<blockquote><p><strong>たけしさん：</strong> 体を忘れました．．．</p></blockquote>
+<p>&#8220;I forgot the body.&#8221;</p>
+<blockquote><p><strong>Mysterious  Voice:</strong> オ・マイ・ゴッド。</p></blockquote>
+<p style="text-align: left;">&#8220;Oh, my, God.&#8221;</p>
+<p style="text-align: left;">That right there does it for part two of &#8220;the story.&#8221; I hope you enjoyed it and came away with a lot of new knowledge (and the discovery of some weaknesses to fix, too!). Go ahead and write down anything new you learned as well as a quick explanation of it for yourself. As you probably noticed, new grammar will appear again and again, though eventually I&#8217;ll stop explaining them in much detail.</p>
+<p style="text-align: left;">It will probably do you good if you take new grammar points and made new sentences using them as well. Don&#8217;t copy them, but try switching out different words and see what you can come up with. Write them down, as that will help you understand the mechanics of the new grammar points better as well!</p>
+<p style="text-align: left;">Alright, let&#8217;s move on to the next chapter!</p>
+<p style="text-align: right;"><a href="../to-have-and-to-exist/index.html">To Have And To Exist →</a></p>
+<p style="text-align: left;">
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  5. Group 2 Verbs Conversion Practice</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 5. Group 2 Verbs Conversion Practice Comments Feed" href="http://tfugu.github.io/season-6/passive/9-5/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='4. Group 1 Verbs Conversion Practice' href='../9-4/index.html' />
+<link rel='next' title='6. Passive Tenses' href='../9-6/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-23129 page-child parent-pageid-23089 page-template page-template-template-page-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-23129 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>Group 2 Verbs Conversion Practice</h1>
+<h4>&ldquo;To improve is to change; to be perfect is to change often.&rdquo; &#8211; Winston Churchill</h4>
+<p>Group 2 is a snap, so we&#8217;re going to also include the exceptions (来る, する) in this section as well. I&#8217;ll give you the first couple for free &#8211; your job is the rest.</p>
+<p>たべる　→　<a class="sm2_button" href="../../../audio/s6/6-9-12.mp3">a</a>たべられる</p>
+<p>見る　→　<a class="sm2_button" href="../../../audio/s6/6-9-13.mp3">a</a>見られる</p>
+<p>あける <a style="display:none;" id="ddetlink973704519" href="javascript:expand(document.getElementById('ddet973704519'))">Convert →</a>
+<div class="ddet_div" id="ddet973704519"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet973704519'));expand(document.getElementById('ddetlink973704519'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/s6/6-9-14.mp3">a</a>あけられる</div></p>
+<p>止める <a style="display:none;" id="ddetlink1332944099" href="javascript:expand(document.getElementById('ddet1332944099'))">Convert →</a>
+<div class="ddet_div" id="ddet1332944099"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1332944099'));expand(document.getElementById('ddetlink1332944099'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/s6/6-9-15.mp3">a</a>止められる</div></p>
+<p>見つける <a style="display:none;" id="ddetlink1160283406" href="javascript:expand(document.getElementById('ddet1160283406'))">Convert →</a>
+<div class="ddet_div" id="ddet1160283406"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1160283406'));expand(document.getElementById('ddetlink1160283406'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/s6/6-9-16.mp3">a</a>見つけられる</div></p>
+<p>はじめる <a style="display:none;" id="ddetlink509391923" href="javascript:expand(document.getElementById('ddet509391923'))">Convert →</a>
+<div class="ddet_div" id="ddet509391923"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet509391923'));expand(document.getElementById('ddetlink509391923'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/s6/6-9-17.mp3">a</a>はじめられる</div></p>
+<p>あつめる <a style="display:none;" id="ddetlink394722354" href="javascript:expand(document.getElementById('ddet394722354'))">Convert →</a>
+<div class="ddet_div" id="ddet394722354"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet394722354'));expand(document.getElementById('ddetlink394722354'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/s6/6-9-18.mp3">a</a>あつめられる</div></p>
+<p>とどける <a style="display:none;" id="ddetlink2097619717" href="javascript:expand(document.getElementById('ddet2097619717'))">Convert →</a>
+<div class="ddet_div" id="ddet2097619717"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet2097619717'));expand(document.getElementById('ddetlink2097619717'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/s6/6-9-19.mp3">a</a>とどけられる</div></p>
+<p>きめる <a style="display:none;" id="ddetlink1696444426" href="javascript:expand(document.getElementById('ddet1696444426'))">Convert →</a>
+<div class="ddet_div" id="ddet1696444426"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1696444426'));expand(document.getElementById('ddetlink1696444426'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/s6/6-9-20.mp3">a</a>きめられる</div></p>
+<p>立てる <a style="display:none;" id="ddetlink1178980599" href="javascript:expand(document.getElementById('ddet1178980599'))">Convert →</a>
+<div class="ddet_div" id="ddet1178980599"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1178980599'));expand(document.getElementById('ddetlink1178980599'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/s6/6-9-21.mp3">a</a>立てられる</div></p>
+<p>来る <a style="display:none;" id="ddetlink1172990024" href="javascript:expand(document.getElementById('ddet1172990024'))">Convert →</a>
+<div class="ddet_div" id="ddet1172990024"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1172990024'));expand(document.getElementById('ddetlink1172990024'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/s6/6-9-22.mp3">a</a>来られる（こられる）</div></p>
+<p>する <a style="display:none;" id="ddetlink802084104" href="javascript:expand(document.getElementById('ddet802084104'))">Convert →</a>
+<div class="ddet_div" id="ddet802084104"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet802084104'));expand(document.getElementById('ddetlink802084104'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/s6/6-9-23.mp3">a</a>される</div></p>
+<p>That wasn&#8217;t so bad, right? Group 2 tends to be easier than group 1 &#8211; the hardest part (as I&#8217;m sure you know by now) is just knowing when to do which. Just a quick reminder &#8211; if you don&#8217;t know, a good general rule is that Group 2 verbs end with an &#8220;e&#8221; sound and Group 1 verbs do not. Of course, that&#8217;s just a general rule and doesn&#8217;t work all the time.</p>
+<p>So, now that you can convert the verbs over to passive form, let&#8217;s do a little more with them. We&#8217;re not <em>quite</em> to the point where we can look at the grammar part of passive form (one more page!). We should look at the options you have when it comes to tenses for these られる verbs. If you&#8217;ve been paying attention up to this point, it&#8217;ll be super easy. Nothing you haven&#8217;t seen before &#8211; the only difference is you&#8217;re seeing it on something else, like somebody else wearing your pants (wth, where are your pants?)</p>
+<p>Oh, and as an aside, don&#8217;t forget to note that these have all been transitive verbs so far. The more you remind yourself &#8220;yep, this is a transitive verb&#8230; yep this is a transitive verb&#8230;&#8221; the more you&#8217;ll be able to tell the difference between the two (the other being intransitive, of course). Even though we&#8217;re only looking at transitive verbs right now, it&#8217;s still a good habit to work on and pick up.</p>
+<p>Anyways, let&#8217;s let&#8217;s do the last thing necessary before you take a look at the grammar aspect of passive form. Almost there!</p>
+<p style="text-align: center;"><a class="btn large" href="../9-4/index.html#top">← 後</a> <a class="btn large primary" href="../9-6/index.html#top">前 →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

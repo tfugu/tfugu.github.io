@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Run On Sentences, Part 2</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Run On Sentences, Part 2 Comments Feed" href="http://tfugu.github.io/season-4/run-on-sentences-part-2/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Essential Japanese Verbs' href='http://tfugu.github.io/cheat-sheets/essential-japanese-verbs/' />
+<link rel='next' title='All about Butts&#8230; Er.. Buts.' href='../all-about-butts-er-buts/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-4139 page-child parent-pageid-4107 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-4139 page type-page status-publish hentry">
+
+	                <h1>Run On Sentences, Part 2</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1>Run On Sentences, Part 2</h1>
+<h4>When you find yourself in a hole, stop digging. <span style="color: #888888;">- Will Rogers</span></h4>
+<p><img class="alignnone size-full wp-image-4179" title="running-kid" src="../../wp-content/uploads/2010/06/running-kid.jpg" alt="" width="760" height="281" /></p>
+<p>In the last chapter, we learned (very quickly) how to use te-form with verbs to make our sentences longer. Verbs, however, aren&#8217;t the only thing you can do this with. Adjectives and nouns are ready to play too.</p>
+<p>Nouns and adjectives are a little different, though, so we&#8217;re going to have to learn something new (still nice and simple, however!).</p>
+<h2>te-Form i-Adjectives #</h2>
+<p>There&#8217;s always something weird when it comes to i-adjectives, right? Remember how you had to <a href="../../season-2/it-was-new-no-it-wasnt/index.html">conjugate the i-adjectives</a> all those different ways? This runs off that, so make sure you go and review if you don&#8217;t remember the conjugations (there&#8217;s a quick review down below).</p>
+<p>Let&#8217;s take the adjective 安い（やすい）which means &#8220;cheap.&#8221; When we conjugate an i-adjective, you want to drop the last い and replace it with the right conjugation.</p>
+<blockquote><p>Present Positive: やす<span style="color: #008000;">い</span>です</p>
+<p>Negative: やす<span style="color: #008000;">くない</span>です</p>
+<p>Past: やす<span style="color: #008000;">かった</span>です</p>
+<p>Past Negative: やす<span style="color: #008000;">くなかった</span>です</p></blockquote>
+<p>As long as you remember the vocab word as well as which conjugation is which, you&#8217;ll be fine. Switching i-adjectives to te-form is pretty much the same thing. All you have to do is learn a new (very similar rule).</p>
+<blockquote><p>Present Positive: やすい</p>
+<p>Negative: やす<span style="color: #008000;">くて</span></p></blockquote>
+<p>You can see that after you&#8217;ve dropped the い, all you need to do is replace it with くて (the end is a て, it&#8217;s te-form for i-adjectives!). It&#8217;s as simple as that. Let&#8217;s try a few more &#8211; you try and figure out the last few.</p>
+<blockquote><p>あたらしい　→　あたらしくて</p>
+<p>さむい　→　さむくて</p>
+<p>いい　→　よくて　（Remember how いい changes to よい when it&#8217;s being conjugated?)</p>
+<p>あつい　<a style="display:none;" id="ddetlink893570299" href="javascript:expand(document.getElementById('ddet893570299'))">te-form →</a>
+<div class="ddet_div" id="ddet893570299"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet893570299'));expand(document.getElementById('ddetlink893570299'))</script></p>
+<ul>
+<li>あつくて</div></li>
+</ul>
+<p>かわいい　<a style="display:none;" id="ddetlink719475861" href="javascript:expand(document.getElementById('ddet719475861'))">te-form →</a>
+<div class="ddet_div" id="ddet719475861"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet719475861'));expand(document.getElementById('ddetlink719475861'))</script></p>
+<ul>
+<li>かわいくて</div></li>
+</ul>
+<p>ひろい　<a style="display:none;" id="ddetlink746450185" href="javascript:expand(document.getElementById('ddet746450185'))">te-form →</a>
+<div class="ddet_div" id="ddet746450185"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet746450185'));expand(document.getElementById('ddetlink746450185'))</script></p>
+<ul>
+<li>ひろくて</div></li>
+</ul>
+</blockquote>
+<p>When you&#8217;ve converted a regular old i-adjective to a te-form i-adjective, it&#8217;s just like the thing we did in the previous chapter with te-form verbs.</p>
+<blockquote><p>コウイチさんは美しくて、優しくて、面白い男だ。<br />
+Koichi is a beautiful, kind, interesting guy. (As if you didn&#8217;t already know that!).</p>
+<p>安くていいね<br />
+It&#8217;s good that it&#8217;s cheap, isn&#8217;t it? / It&#8217;s cheap so it&#8217;s good, isn&#8217;t it?</p></blockquote>
+<p>Things do get a bit more fun when we start adding in na-adjectives, though (yep, we can mix and match!), so let&#8217;s learn a bit more about that.</p>
+<h2>te-Form na-Adjectives and Nouns #</h2>
+<p>Na-adjectives are the pretty much the same as nouns, so pay close attention! Instead of using an actual &#8220;te&#8221; sound, we&#8217;re just going to slap &#8220;de&#8221; onto the end of each na-adjective (no な, though). For example:</p>
+<blockquote><p>きれい　→　きれいで</p>
+<p>しんせつ（親切）→　しんせつで</p>
+<p>ばか（馬鹿）→　ばかで</p></blockquote>
+<p>With nouns, it&#8217;s exactly the same.</p>
+<blockquote><p>くるま（車）→　くるまで</p>
+<p>みず（水）→　みずで</p></blockquote>
+<p>You&#8217;re not going to be as listy with nouns, I imagine, but it&#8217;s a great way to connect sentences and ideas. For example:</p>
+<blockquote><p>それは私の車でさわらないでください<br />
+That is my car (so) please don&#8217;t touch (it).</p></blockquote>
+<p>In this situation, we&#8217;re using で to connect two ideas and two (possibly) separate sentences into one.</p>
+<p>The same goes for na-adjectives, too. We can even mix and match with i-adjectives.</p>
+<blockquote><p>たけしさんは親切で頭が良くて、髪がきれいです。<br />
+Takeshi is kind, (he) is smart, and (he) has pretty hair.</p></blockquote>
+<p>As with all of these, it&#8217;s the ending that tells us the tense of the sentence. In the case of the Takeshi sentence, you know that the sentence is present positive because it ends with です.</p>
+<p>When it comes to making sentences longer, like in the examples in this chapter and the one before it, I think you&#8217;re going to have a much easier time reading and understanding these than you will writing them. This is one of those grammar points that&#8217;s going to take some experience to be able to use easily. There&#8217;ll be plenty of opportunity to practice throughout the rest of TextFugu, and you&#8217;ll find sentences like these out in the real world as well. The more you run into it, the better you&#8217;ll be able to use it. So, for now, I just want you to be able to know when you see something like this (and when you do, go through and try to recreate it!).</p>
+<h1>Story, Part 5</h1>
+<h3>&#8220;The Talking Dog Speaks&#8221;</h3>
+<p>Hey! It&#8217;s part 5, and I bet you want to know what&#8217;s going on with Maggie and the Gakuranman. This one&#8217;s going to be a little more difficult (you&#8217;re getting better at Japanese, after all), so don&#8217;t fret if you feel a bit lost. Have you ever used <a href="http://www.polarcloud.com/rikaichan/">Rikaichan</a>? It&#8217;s a Firefox (and Chrome!) plugin that will allow you to hover over Japanese words to get their definition. If you wanted, you could use that &#8211; just be sure you&#8217;re still taking notes and writing down the things you don&#8217;t know so you can study them later. There&#8217;s no point using Rikaichan to cheat your way through various sentences (which is why I haven&#8217;t told you about it until now). In fact, it&#8217;s not really necessary to use at this point, I just wanted to point it out in case you were interested. Remember, you can&#8217;t use it to cheat, okay?</p>
+<p>If you read the story from the previous chapter, you&#8217;ll know that the Gakuranman made his way to Nagoya and was directed to a isolated area with a single dog house. Inside the dog house was Maggie, the talking dog. Let&#8217;s see what she has to say.</p>
+<blockquote><p><strong>ガクランマン</strong>：　情報って何？</p>
+<p><strong>マッギー</strong>：　メアリーの殺人を調べているんでしょう？</p>
+<p><strong>ガクランマン</strong>：　え、調べているよ。メアリーは優しくて、家族もいるんだ。</p>
+<p><strong>マッギー</strong>：　それなら、この情報で人殺しを見つけられるよ、ワンワン。</p>
+<p><strong>ガクランマン</strong>：　そうか。。。いくら？</p>
+<p><strong>マッギー</strong>：　いくらじゃなくて、「いくつ」。骨が５本欲し いんだ。</p>
+<p><strong>ガクランマン</strong>：　お金は。。。</p>
+<p><strong>マッギー</strong>：　いらないよ。俺は犬だ！骨は美味しくて、素晴らしくて。。。。お金は使えない。</p>
+<p><strong>ガクランマン</strong>：　なるほどね。。。どんな骨？</p>
+<p><strong>マッギー</strong>：　人間。俺の情報でメアリーを見つけたら、メアリーの体から５本の骨がほしい。</p>
+<p><strong>ガクランマン</strong>：　いや、無理無理無理！お前どんな犬だよ？</p>
+<p><strong>マッギー</strong>：　腹減った犬だ。情報を持っている犬だ。お前の骨を食べたかったが、メアーリという名前の方が美味しそうだ。</p>
+<p><strong>ガクランマン</strong>：　ありがとう？</p>
+<p><strong>マッギー</strong>：　情報をお前の携帯に送った。ホテルに着くまで読むなよ。</p>
+<p><strong>ガクランマン： </strong>Blimey dogs.</p></blockquote>
+<p>With that, the ガクランマン walked off, noticing his taxi had already left. He went for his phone to check to see if he had any reception to call a cab, but felt Maggie&#8217;s eyes on him. Right. Not supposed to check the phone until reaching the hotel.</p>
+<h1>Line-By-Line</h1>
+<h4>The best way to predict the future is to invent it. <span style="color: #888888;">- Alan Kay</span></h4>
+<p>As always, we&#8217;re going to do a line-by-line here. Part 5 was probably a little harder than the rest &#8211; that&#8217;s good. You&#8217;ll learn a lot from it!</p>
+<blockquote><p><strong>ガクランマン</strong>：　情報って何？</p></blockquote>
+<p>&#8220;What is the information?&#8221; You probably figured out 情報（じょうほう, information) and 何（なに, what), but what is the って doing in there? That って is seen in pretty casual conversation and writing. Essentially, it means something like &#8220;as for (the thing before it),&#8221; so in this case we&#8217;re saying &#8220;as for the information / when it comes to the information, what is it?&#8221; Not the prettiest translation into English, but it works well in Japanese.</p>
+<blockquote><p><strong>マッギー</strong>：　メアリーの殺人を調べているんでしょう？</p></blockquote>
+<p>&#8220;You are investigating Mary&#8217;s murderer, aren&#8217;t you?&#8221; 調べる is probably a new word for you. In this scenario, we&#8217;re using te-form to make it &#8220;investigating&#8221; rather than &#8220;investigate.&#8221; Remember how te-form can add the <em>ing</em> to a verb? At the end, でしょう is a lot like です, except it gives the sentence more of a &#8220;is that right?&#8221; feel. みずでしょう？It&#8217;s water, isn&#8217;t it? コウイチさんでしょう？ It&#8217;s Koichi, isn&#8217;t it? Right?</p>
+<blockquote><p><strong>ガクランマン</strong>：　え、調べているよ。メアリーは優しくて、家族もいるんだ。</p></blockquote>
+<p>&#8220;Yeah, I&#8217;m investigating it. Mary is kind, and she has a family.&#8221; The え at the beginning may be confusing. It&#8217;s a very casual way to say &#8220;yes.&#8221; Try it out some time. You&#8217;ll also notice we&#8217;re using that &#8220;extend sentences with te-form&#8221; thing we just learned in this sentence too. And, also, when you &#8220;have&#8221; something that&#8217;s living, moving, etc., you&#8217;ll remember to use いる and not ある (which is used to have non-moving, non-living objects).</p>
+<blockquote><p><strong>マッギー</strong>：　それなら、この情報で人殺しを見つけられるよ、ワンワン。</p></blockquote>
+<p>&#8220;If that&#8217;s the case, you can use this information to find the murderer, woof woof.&#8221; You don&#8217;t know the verb form that 見つけられる is using, but just know that it is using the verb form that turns verbs into &#8220;can (do something)&#8221; type verbs. We&#8217;ll be learning this soon, I&#8217;m sure!</p>
+<blockquote><p><strong>ガクランマン</strong>：　そうか。。。いくら？</p></blockquote>
+<p>&#8220;Is that so&#8230;? How much?&#8221; いくら can be used to ask how much something is at a store too. いくらですか？ How much is it?</p>
+<blockquote><p><strong>マッギー</strong>：　いくらじゃなくて、「いくつ」。骨が５本欲し いんだ。</p></blockquote>
+<p>&#8220;It&#8217;s not &#8216;how much,&#8217; it&#8217;s &#8216;how many.&#8217; I want 5 bones.&#8221; The funniest part of this sentence is the ５本. The 本 in this sentence isn&#8217;t &#8220;book,&#8221; instead it&#8217;s a &#8220;long cylindrical object&#8221; (after all, books used to be scrolls in the old days, right?). 本 is used as a counter for long cylindrical things, and bones are no exception. When you count bones, you use 本 (we&#8217;ll get deeper into counters soon, just know they&#8217;re painful).</p>
+<blockquote><p><strong>ガクランマン</strong>：　お金は。。。</p></blockquote>
+<p>&#8220;As for money&#8230;&#8221;</p>
+<blockquote><p><strong>マッギー</strong>：　いらないよ。俺は犬だ！骨は美味しくて、素晴らしくて。。。。お金は使えない。</p></blockquote>
+<p>&#8220;I don&#8217;t want it. I&#8217;m a dog! Bones are tasty, wonderful&#8230; I can&#8217;t use money!&#8221; Hey! We used the te-form thing again. Cool.</p>
+<blockquote><p><strong>ガクランマン</strong>：　なるほどね。。。どんな骨？</p></blockquote>
+<p>&#8220;Indeed&#8230;. What kind of bones?&#8221;</p>
+<blockquote><p><strong>マッギー</strong>：　人間。俺の情報でメアリーを見つけたら、メアリーの体から５本の骨がほしい。</p></blockquote>
+<p>&#8220;Human. If you find Mary with my information, I want 5 bones from Mary&#8217;s body.&#8221; 見つけたら is an interesting one. The たら at the end is a verb form that makes the verb into &#8220;if _______.&#8221; So, if you find (見つける) Mary with the information (情報でメアリー) then &#8230;. blah blah blah. ほしい means to want something, and works just like 好き and 嫌い do. PS3が欲しいです！</p>
+<blockquote><p><strong>ガクランマン</strong>：　いや、無理無理無理！お前どんな犬だよ？</p></blockquote>
+<p>&#8220;No way! Impossible impossible impossible! What kind of dog are you?&#8221; The むり that makes up &#8220;impossible&#8221; in Japanese is so much easier to repeat over and over than the English &#8220;impossible.&#8221; Whew.</p>
+<blockquote><p><strong>マッギー</strong>：　腹減った犬だ。情報を持っている犬だ。お前の骨を食べたかったが、メアーリという名前の方が美味しそうだ。</p></blockquote>
+<p>&#8220;I&#8217;m a hungry dog. I&#8217;m a dog carrying the information. I wanted to eat your bones, but Mary&#8217;s name seems tastier.&#8221; 腹減った（はらへった）is a more casual way to say you are hungry. ああ、腹減ったな！If you want to be more formal, you&#8217;d want to say お腹がすいた（おなかがすいた).</p>
+<p>情報を持っているいぬ uses te-form again. He&#8217;s &#8220;carry<em>ing</em>&#8221; the info.</p>
+<p>食べたかったが means &#8220;wanted to eat&#8230; but (something happened). We&#8217;re going to be learning が in the next chapter, actually. It means &#8220;but&#8221; when used in this way. Don&#8217;t confuse it with the confusing particle!</p>
+<p>美味しそう means &#8220;seems tasty.&#8221; He doesn&#8217;t really know if Mary&#8217;s bones are tastier, but by using そう he can guess, at least.</p>
+<blockquote><p><strong>ガクランマン</strong>：　ありがとう？</p></blockquote>
+<p>&#8220;Thank you?&#8221; The Gakuranman isn&#8217;t sure if he&#8217;s lucky&#8230;</p>
+<blockquote><p><strong>マッギー</strong>：　情報をお前の携帯に送った。ホテルに着くまで読むなよ。</p></blockquote>
+<p>&#8220;I sent the information to your cell phone. Don&#8217;t open it until you arrive at your hotel.&#8221;</p>
+<p>まで in the second sentence means &#8220;until.&#8221; We&#8217;ll learn about this in another chapter, but you should be fine with it for now. 食べるまで (until you eat), 帰るまで (until you return), etc.</p>
+<p>読むな is a new one for you. It means the same thing as 読まない, but it&#8217;s more of an order. Don&#8217;t read it! 食べるな！ Don&#8217;t eat it! All you do is take the dictionary form (positive tense, actually!) and add a な to the end. 見るな！Don&#8217;t look! ビールを飲むな！Don&#8217;t drink beer!</p>
+<blockquote><p><strong>ガクランマン： </strong>Blimey dogs.</p></blockquote>
+<p>Blimey: This is a funny British word. Nobody actually knows what it means. I suppose the meaning of this strange, foreign word will be lost forever.</p>
+<p><strong>Before You Move On:</strong></p>
+<ul>
+<li>Go through your verbs, i-adjectives, na-adjectives, and nouns. Create some examples for yourself. Do you remember how to make them all into te-form?</li>
+<li>Head on over to <a href="http://lang-8.com">Lang-8</a>. What can you write? Remember, the whole point of Lang-8 is to make plenty of mistakes and get them corrected, so don&#8217;t worry if you&#8217;re not too confident!</li>
+<li>This story is quite a bit harder, so don&#8217;t worry if you didn&#8217;t understand absolutely everything here. After a few chapters, even, you&#8217;ll be able to come back and get a lot more out of the story. This story is getting a lot of grammar into your brain that we&#8217;ll be studying soon. Still, try to go through and understand as much as you can. Print it out (if you have a printer) and take some notes based on the line-by-line notes.</li>
+<li>Try not to worry too much about the ガクランマン. I&#8217;m sure he&#8217;ll be okay&#8230; or will he? <a href="http://twitter.com/gakuranman">Send him a Tweet on Twitter</a>, telling him he&#8217;ll be okay. I think he needs the assurance (That Maggie is a scary <a href="http://www.maggiesensei.com/jp/">Japanese teaching</a> dog).</li>
+</ul>
+<p><a style="display:none;" id="ddetlink1895566256" href="javascript:expand(document.getElementById('ddet1895566256'))">Image Source →</a>
+<div class="ddet_div" id="ddet1895566256"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1895566256'));expand(document.getElementById('ddetlink1895566256'))</script></p>
+<ul>
+<li>http://www.flickr.com/photos/hamed/258971456/</div></li>
+</ul>
+<div class="alignright"><a href="../all-about-butts-er-buts/index.html" class="woo-sc-button dark  custom" style="background:#dbdbdb;border-color:#aaa"><span class="woo-">All About Butts&#8230; Er&#8230; Buts →</span></a></div>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

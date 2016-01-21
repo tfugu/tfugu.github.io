@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  TextFugu Kanji Radicals, Part 6</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://tfugu.github.io/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; TextFugu Kanji Radicals, Part 6 Comments Feed" href="http://tfugu.github.io/radical/radicals-6/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://tfugu.github.io/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://tfugu.github.io/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Cancel' href='../../cancel/index.html' />
+<link rel='next' title='Learning Your Kanji Radicals (7-8 Strokes)' href='../../kanji/learning-your-kanji-radicals-7-8-strokes/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://tfugu.github.io/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-2746 page-child parent-pageid-5532 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://tfugu.github.io/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://tfugu.github.io/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://tfugu.github.io/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-2746 page type-page status-publish hentry">
+
+	                <h1>TextFugu Kanji Radicals, Part 6</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1>TextFugu Kanji Radicals, Part 6</h1>
+<h4>&#8220;By logic and reason we die hourly. By imagination we live.&#8221; &#8211; John Butler Yeats</h4>
+<p>Go through these stories and read them. Live them. Breathe them. When you&#8217;ve read each story, and think you have around 60-70% of these radicals down, study them on Anki to help solidify. When you&#8217;ve done that, move on to Kanji 6.</p>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="size-thumbnail wp-image-2757 alignnone" title="1-bamboo" src="../../wp-content/uploads/2010/02/1-bamboo-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Bamboo</h2>
+<p>See the two K&#8217;s that make up bamboo? Bamboo pwns, <strong>kk</strong>? You could also think of the KKK (yowch) using Bamboo to do their nasty deeds.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2758" title="2-rice" src="../../wp-content/uploads/2010/02/2-rice-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Rice</h2>
+<p>Of course, I think you see the tree in there. Rice, however, has &#8220;branches&#8221; coming out in all four directions, not just downwards. This is a stalk with grains coming off it in all directions.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2759" title="3-small-pile" src="../../wp-content/uploads/2010/02/3-small-pile-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Small Pile</h2>
+<p>This radical combines <strong>my pile of stuff </strong>with <strong>small</strong>. Therefore, this is a <strong>small pile</strong>.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2760" title="4-full-container" src="../../wp-content/uploads/2010/02/4-full-container-150x150.png" alt="" width="150" height="150" /><br />
+</div>
+<div class="fourcol-three last">
+<h2>Flattened Mountain</h2>
+<p>This radical combines mountain with two horizontal pieces going through it, making up the flat portions of the mountain. <span style="color: #800080;">They had to <strong>flatten the mountain</strong> in order to develop it and build a <strong>slide</strong>.</span></p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2761" title="5-horned-antanae" src="../../wp-content/uploads/2010/02/5-horned-antanae-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Sheep</h2>
+<p><span style="color: #800080;">The farmer had to add <strong>horns</strong> to the antennae to keep the <strong>sheep</strong> from eating it</span>.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2762" title="6-feathers" src="../../wp-content/uploads/2010/02/6-feathers-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Feathers</h2>
+<p>See the two <strong>barbs</strong>? <span style="color: #800080;">There are three <strong>feathers</strong> coming out of each</span>. This is how the first airplane was built (very unsuccessfully).</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2763" title="7-rake" src="../../wp-content/uploads/2010/02/7-rake-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Rake</h2>
+<p>See the rake at the bottom, the handle, and then the top part? It&#8217;s a little scrunched, but this is definitely a <strong>rake</strong>!</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2764" title="8-three-branch-tree" src="../../wp-content/uploads/2010/02/8-three-branch-tree-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Three Branch Tree</h2>
+<p>You remember the normal <strong>tree</strong>, and the <strong>two branch tree</strong>. Add another branch and you have a <strong>three branch tree</strong>.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2765" title="9-ear" src="../../wp-content/uploads/2010/02/9-ear-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Ear</h2>
+<p>A bit more elaborate than an <strong>eye</strong> (but very similar). When you go blind, your <strong>ears</strong> become your new sense of sight. See all the lines sticking out, too? That&#8217;s because ears stick out more than eyes do.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2766" title="10-brush" src="../../wp-content/uploads/2010/02/10-brush-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Brush</h2>
+<p>Think of this more like a fancy toothbrush. The main bristles come out the left side, but on the back side there are all manner of tongue and gum cleaners. Just remember, there are 5 bristles sticking out, and three of those bristles are covered on the back side.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><strong><img class="alignnone size-thumbnail wp-image-2767" title="11-meat" src="../../wp-content/uploads/2010/02/11-meat-150x150.png" alt="" width="150" height="150" /></strong></p>
+</div>
+<div class="fourcol-three last">
+<h2>Meat</h2>
+<p><span style="color: #800080;">When you <strong>overturned the box</strong>, you found two people inside&#8230; the aliens were eating (<strong>people</strong>) <strong>meat</strong></span>!</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2768" title="12-self" src="../../wp-content/uploads/2010/02/12-self-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Self</h2>
+<p><span style="color: #800080;">That little fleck on your eye makes it your own eye</span>. Your <strong>self</strong>.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2769" title="13-my-grave" src="../../wp-content/uploads/2010/02/13-my-grave-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>My Grave</h2>
+<p>You have the ground (covering everything on top), with the <strong>me</strong> radical, and then a <strong>grave</strong> down below, making it &#8220;<strong>my grave</strong>.&#8221;</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2770" title="14-broken-sun" src="../../wp-content/uploads/2010/02/14-broken-sun-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Broken Sun</h2>
+<p><span style="color: #800080;">The <strong>sun</strong> is splitting from the top! What will happens when it breaks in half completely</span>?</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2771" title="15-tongue" src="../../wp-content/uploads/2010/02/15-tongue-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Tongue</h2>
+<p><span style="color: #800080;"><strong>Slide</strong> into <strong>ten</strong> <strong>mouths </strong>and you will always run into the <strong>tongue</strong></span>.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2772" title="16-boat" src="../../wp-content/uploads/2010/02/16-boat-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Boat</h2>
+<p>In this radical, you can see the sail (i.e. the <strong>overturned box radical</strong>) with two splashes of water hitting the top parts. Holding the sail up is a T-shaped mast. This is what lets the <strong>boat</strong> move forward.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><strong><img title="23-clothes" src="../../wp-content/uploads/2010/02/23-clothes-150x150.png" alt="" width="150" height="150" /></strong></p>
+</div>
+<div class="fourcol-three last">
+<h2>Clothes</h2>
+<p><span style="color: #800080;">A kettle lid covers the jumbled mess of <strong>clothes</strong></span> (you&#8217;ll have to memorize the jumbled mess part, though this is a pretty common radical).</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2773" title="17-good" src="../../wp-content/uploads/2010/02/17-good-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Good</h2>
+<p><span style="color: #800080;">It feels <strong>good</strong> when the sun dries some of your <strong>clothes</strong></span>. The <strong>clothes</strong> part at the bottom isn&#8217;t exactly the same as clothes (above), but it consists of most of it.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><strong><img class="alignnone size-thumbnail wp-image-2774" title="18-color" src="../../wp-content/uploads/2010/02/18-color-150x150.png" alt="" width="150" height="150" /></strong></p>
+</div>
+<div class="fourcol-three last">
+<h2>Color</h2>
+<p><span style="color: #800080;">You are trying to <strong>encase</strong> the very <strong>colorful</strong> and  <strong>wide-eyed snake</strong> but your container is too small</span>. <span style="color: #008000;">The snake is so bright, with greens, blues, reds, pinks, and other crazy <strong>colors</strong></span>.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><strong><img class="alignnone size-thumbnail wp-image-2775" title="19-seven-cliffs" src="../../wp-content/uploads/2010/02/19-seven-cliffs-150x150.png" alt="" width="150" height="150" /></strong></p>
+</div>
+<div class="fourcol-three last">
+<h2>Seven Cliffs</h2>
+<p><span style="color: #800080;">&#8220;Seven&#8221; is inside the cliff, and there is someone standing on top of each of the seven cliffs</span>.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2776" title="20-bug" src="../../wp-content/uploads/2010/02/20-bug-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Bug</h2>
+<p>This radical consists of a <strong>mouth</strong> radical and a tall <strong>me</strong> radical. &#8220;<span style="color: #800080;">I put a bug in my mouth</span>&#8221; (<span style="color: #008000;">and it tasted terrible</span>).</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2777" title="21-bloog" src="../../wp-content/uploads/2010/02/21-bloog-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Blood</h2>
+<p><span style="color: #800080;">There&#8217;s a spec of liquid on that <strong>plate</strong>. Is that </span><strong><span style="color: #800080;">blood</span>!?!</strong></p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2778" title="22-go" src="../../wp-content/uploads/2010/02/22-go-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Go</h2>
+<p>The radical for <strong>loiter</strong> is coupled with two barbs (<strong>two</strong> radical &amp; <strong>barb radical</strong>). You would not loiter if there were <strong>two barbs</strong> coming at you, you would <strong>GO</strong>!</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2780" title="24-west" src="../../wp-content/uploads/2010/02/24-west-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>West</h2>
+<p><span style="color: #800080;"><strong>Two legs</strong> from the ceiling creep into your <strong>mouth</strong>. At this point, you decide it&#8217;s time to head back West, where weird things like this don&#8217;t happen</span>.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<p>Now that you&#8217;re all done going through these, you should know around 50% of them just by looking. Do another read through and I imagine you&#8217;ll get up to 60%. When you&#8217;ve got a good percentage of these done, download Radicals 6 and review + practice the radicals.</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="info" href="../../downloads/anki/kanji/radicals6.zip" style="background: url( http://tfugu.github.io/img/anki.png) no-repeat left 40%;">Radicals 6</a></span></p>
+<p>When you&#8217;re all done, move on!</p>
+<div class="woo-sc-box tick   ">By finishing this page, you&#8217;ll have learned the 6 stroke radicals, and will be ready for the 6-stroke kanji!</div>
+<p style="text-align: center;"><a class="btn large primary" href="../../kanji/6-stroke/index.html">6-Stroke Kanji →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://tfugu.github.io/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>
