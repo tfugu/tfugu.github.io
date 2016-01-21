@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Let&#8217;s Do Something (Verbs Pt. 2)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Let&#8217;s Do Something (Verbs Pt. 2) Comments Feed" href="http://www.textfugu.com/season-2/lets-do-something-verbs-pt-2/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Redirect: Let&#8217;s Do Something (Verbs Pt. 1)' href='../lets-do-something-verbs-pt-1/index.html' />
+<link rel='next' title='Redirect: Colorful Adjectives' href='../colorful-adjectives/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-2006 page-child parent-pageid-761 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-2006 page type-page status-publish hentry">
+
+	                <h1>Let&#8217;s Do Something (Verbs Pt. 2)</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1 style="text-align: center;">LET&#8217;S DO SOMETHING! (Verbs Pt. 2)</h1>
+<p style="text-align: center;"><em>Just Did It</em> &#8211; Nike, Past Tense</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3085" title="doing-things2" src="../../wp-content/uploads/2010/01/doing-things21.png" alt="" width="765" height="200" /></p>
+<p style="text-align: left;">Now that you&#8217;ve had a little bit of time to absorb Japanese verbs as a whole, let&#8217;s take a look at modifying them into past, negative, and past negative forms. You&#8217;ll get to continue to practice the verb vocabulary from last chapter and learn something new at the same time. First, though, in the spirit of these &#8220;verb&#8221; chapters, I want to continue where we left off in the previous &#8220;Let&#8217;s Do Something&#8221; chapter and talk about creating a &#8216;not-to-do list.&#8217;</p>
+<p style="text-align: left;">One of the most important things I&#8217;ve learned isn&#8217;t how to create an effective getting-things-done list (though that has been pretty useful). The most important thing that I&#8217;ve learned to do is to create a &#8220;not-to-do list.&#8221; There are <em>always</em> so many things to do, making the important things harder to achieve if you let everything else distract you. There are two ways to do a not-to-do list. One of them is to make a generalized daily one, and the other option is to create one for a specific occasion. We&#8217;re going to talk about the first one. Try it out for a couple of weeks and see how you feel. You may have some withdrawal symptoms for a little while, but I promise it&#8217;s for the best, especially if you&#8217;re a busy person. It&#8217;ll help you avoid those &#8220;temptations&#8221; that unnecessarily take up so much of your time. Here&#8217;s what my generalized &#8220;not-to-do list&#8221; looks like. I look at it often and do my best to stick to it. You&#8217;d be surprised at how much harder it is to <em>not</em> do something versus actually doing something.</p>
+<ol>
+<li>Don&#8217;t answer the phone between 7am &#8211; 7pm (listening to messages is okay to make sure nothing is an emergency, depending on who&#8217;s calling). This trains people to <em>not</em> call me &#8211; especially since my voicemail message recommend people send me e-mails because I don&#8217;t actually check my phone messages very often. Of course, &#8220;important&#8221; people know that they can leave me messages and I will check them.</li>
+<li>Don&#8217;t check e-mail, unless it&#8217;s between 11:30am &#8211; 12:00pm or 3:30pm &#8211; 4:00pm. I want to cut this down to only one e-mail session per day, but I&#8217;m still working towards that. Magically, my e-mail gets done during the time allotted, rather than taking several hours over the course of the day.</li>
+<li>Do not check Twitter / other social networks more than once per day. I have a little time in the morning that I check it right after I wake up (helps me to get up in the morning). Tweeting, however, is a little different. Since it&#8217;s used for marketing, I&#8217;m allowed to Tweet, but I don&#8217;t read other tweets unless it&#8217;s during my allotted time.</li>
+<li>Only check my RSS reader once per day, and only if there&#8217;s time after checking e-mail (within the e-mail allotted time). Also, no adding new feeds to my reader without removing another. I have a feed following cap of 20 websites. If I miss some news, no big deal. The world won&#8217;t come to an end (and if it does, then at least I didn&#8217;t worry about it). That way, only the things that are <em>really</em> important to me get through to me. Otherwise, it&#8217;s too easy to keep adding feeds until you&#8217;re spending hours a day reading news you probably forget about an hour later. I&#8217;d rather put in the extra effort to be on someone else&#8217;s feed instead of reading hundreds of articles I really don&#8217;t care about.</li>
+<li>Do not work in the evenings, unless it&#8217;s an emergency. And luckily, usually it&#8217;s not. By setting a limit on when I can work, I somehow get the important things done on time and get to enjoy myself, recharge, and do things I like for a good portion of the day.</li>
+<li>Do not do something someone else could do. It&#8217;s all about virtual assistants, Mechanical Turk, and interns. Even though it costs money to hire someone, I&#8217;m very happy to spend $50-$200 a week so I can enjoy life more. Still haven&#8217;t <em>quite</em> figured out how to outsource learning&#8230; though luckily learning is something I really enjoy, which means I can outsource other things to continue spending time learning about the things I&#8217;m interested in.</li>
+<li>Do not listen to music with words unless I&#8217;m in the car (at which point I&#8217;ll usually listen to an audiobook on a subject I&#8217;m interested in learning about), relaxing, shopping, or cooking. When it&#8217;s work time, I either listen to Mozart, or nothing at all. Mozart is the only thing that&#8217;s been shown to <em>not</em> slow work / study (though it still doesn&#8217;t make it better), and all others have been shown to be distracting. Therefore, no music, podcasts, or audiobooks allowed while working or studying because it takes away from studying time.</li>
+</ol>
+<p>Although there are variations added for specific instances on a daily basis, depending on the situation, by creating your own &#8220;not-to-do list&#8221; you&#8217;ll find yourself getting things done more quickly and efficiently, whether that&#8217;s work or study, so you can focus on the things you want to do in your life. When you have more time for the things you enjoy, the things you enjoy are a lot more fun, and you can really focus your efforts effectively. Take some time right now to put together your own &#8220;not-to-do list&#8221; and watch your efficiency soar.</p>
+<h1 style="text-align: center;">〜ました PAST TENSE</h1>
+<p>For the new conjugations we&#8217;ll be learning in this chapter, I&#8217;ll be using the same verbs in each so you can see how the conjunction (specifically) changes. I don&#8217;t want to focus too much on the actual vocabulary itself (you can do that), and I want you to have a solid understanding of the grammatical changes that are taking place and then be able to replicate them afterwards.</p>
+<p>The first verb conjugation we&#8217;ll be looking at is 〜ました. I put the 〜 symbol there, because that shows that something else should come before the ました. In the case of the last chapter we learned 〜ます, where you could put any number of things before it to make it into a present/future verb. いきます, します, たべます, to name a few.</p>
+<p><strong><span style="color: #ff0000;">NOTE:</span></strong> The pronunciation of ました is kind of like でした. The &#8220;i&#8221; sound in the し is silent, so you want to end up pronouncing it more like &#8220;mashta.&#8221; Remember (and I hope you do!) how でした is pronounced &#8220;deshta&#8221; instead of &#8220;deshita&#8221;? It&#8217;s exactly like that. If you didn&#8217;t remember how でした was pronounced, re-cog that as a high priority. I don&#8217;t want you pronouncing でした incorrectly!</p>
+<p>Conjugating verbs in polite form is very easy, as long as you understood ます form. Essentially, all you need to do is <em>replace ます with the new conjugation.<span style="font-style: normal;"> In the case of ました, all you need to do is take it and replace ます with it to make the verb past tense. You still will have to learn the first part of the word (i.e. the actual </span><span style="font-style: normal;">word<span style="font-style: normal;"> part</span></span><span style="font-style: normal;">), but all-in-all, this is much simpler than in English, where words totally change when you change tenses (for example, &#8220;eat&#8221; goes to &#8220;ate,&#8221; and &#8220;run&#8221; goes to &#8220;ran&#8221;). Let&#8217;s take a look at some examples.</span></em></p>
+<blockquote><p><em><span style="font-style: normal;">食べ<span style="color: #008000;"><strong>ます</strong></span> →　eat</span></em></p>
+<p><em><span style="font-style: normal;">食べ<span style="color: #008000;"><strong>ました</strong></span> →　ate</span></em></p></blockquote>
+<p><em><span style="font-style: normal;">As you can see here, we&#8217;ve just replaced the ます of 食べます with ました, which makes it past tense (&#8220;ate&#8221; instead of &#8220;eat&#8221;). Let&#8217;s look at a few more.</span></em></p>
+<blockquote><p><em><span style="font-style: normal;">飲み<span style="color: #008000;"><strong>ます</strong></span> →　drink</span></em></p>
+<p><em><span style="font-style: normal;">飲み<strong><span style="color: #008000;">ました</span></strong> →　drank</span></em></p>
+<p><em><span style="font-style: normal;">習い<strong><span style="color: #008000;">ます</span></strong> →　learn</span></em></p>
+<p>習い<strong><span style="color: #008000;">ました</span></strong> →　learned</p>
+<p>行き<strong><span style="color: #008000;">ます</span></strong> →　go</p>
+<p>行き<strong><span style="color: #008000;">ました</span></strong> →　went</p></blockquote>
+<p>Now, if we look at some fuller sentences, we can see these differences &#8220;in action.&#8221; haha, get it? In &#8220;action&#8230;&#8221; Because they&#8217;re verbs&#8230; ahem.</p>
+<blockquote><p>すし　を　食べ<span style="color: #008000;"><strong>ます</strong></span></p>
+<p>I will eat sushi / I eat sushi</p>
+<p>すし　を　食べ<strong><span style="color: #008000;">ました</span></strong></p>
+<p>I <em>ate</em> sushi</p>
+<p>とうきょう　に　行き<strong><span style="color: #008000;">ます</span></strong></p>
+<p>I will go to Tokyo</p>
+<p>とうきょう　に　行き<strong><span style="color: #008000;">ました</span></strong></p>
+<p>I <em>went</em> to Tokyo</p></blockquote>
+<p>I imagine this makes a good amount of sense to you, so let&#8217;s move on to the next example and get through these quickly so you can practice.</p>
+<h1 style="text-align: center;">〜ません NEGATIVE</h1>
+<p>ません, just like ました, is as simple as replacing ません with the originally learned ます to make a verb negative. Examples of &#8220;negative&#8221; verbs include things like &#8220;will not go,&#8221; &#8220;will not eat,&#8221; and so on. Let&#8217;s take a look at the same words we looked at before to make it more clear.</p>
+<blockquote><p>食べ<strong><span style="color: #008000;">ます </span></strong>→　to eat</p>
+<p>食べ<span style="color: #008000;"><strong>ました </strong></span>→　ate</p>
+<p>たべ<span style="color: #008000;"><strong>ません</strong></span> →　to not eat</p></blockquote>
+<p>This should be pretty simple as long as you understood ました okay, so let&#8217;s look at some more examples.</p>
+<blockquote><p>飲み<span style="color: #008000;"><strong>ます</strong></span> →　to drink</p>
+<p>飲み<strong><span style="color: #008000;">ません</span></strong> →　to not drink</p>
+<p>習い<strong><span style="color: #008000;">ます</span></strong> →　to learn</p>
+<p>習い<strong><span style="color: #008000;">ません</span></strong> →　to not learn</p>
+<p>行き<strong><span style="color: #008000;">ます</span></strong> →　to go</p>
+<p>行き<strong><span style="color: #008000;">ません</span></strong> →　to not go</p></blockquote>
+<p>And then, let&#8217;s look at some full sentence examples.</p>
+<blockquote><p>すし　を　たべ<strong><span style="color: #008000;">ます</span></strong> →　I eat / will eat sushi</p>
+<p>すし　を　たべ<strong><span style="color: #008000;">ました</span></strong> →　I ate sushi</p>
+<p>すし　を　たべ<strong><span style="color: #008000;">ません</span></strong> →　I do not eat sushi</p></blockquote>
+<p>It&#8217;s amazing how such a small change can make all the difference in what you&#8217;re saying. Just by altering the ます on the end of the verb, you have yourself a completely different sentence. Just be sure you don&#8217;t say &#8220;I eat sushi&#8221; when you mean to say &#8220;I don&#8217;t eat sushi,&#8221; otherwise you&#8217;ll be getting a (wonderful) plate of raw fish. Mmm, yum.</p>
+<blockquote><p>日本語（にほんご）を習います　→　I will learn Japanese</p>
+<p>日本語（にほんご）を習いました　→　I learned Japanese</p>
+<p>日本語（にほんご）を習いません　→　I will not learn Japanese</p></blockquote>
+<p>Finally, let&#8217;s move on to the last verb conjugation: Past negative. See, this is pretty easy, right?</p>
+<h1 style="text-align: center;">〜ませんでした PAST NEGATIVE</h1>
+<p>ませんでした is a bit of a mouthful, but not as much of a mouthful as our favorite noun modifier じゃありませんでした. Wait a sec, do you see some similarities?</p>
+<blockquote><p>じゃあり<strong><span style="color: #008000;">ませんでした</span></strong></p>
+<p>〜<span style="color: #008000;"><strong>ませんでした</strong></span></p></blockquote>
+<p>Woo hoo, that won&#8217;t be too hard after all (as long as you remember stuff from the past)! If we look at the ありませんでした portion of じゃありませんでした, we&#8217;ll see that it&#8217;s actually a verb! Can you conjugate ありませんでした to it&#8217;s other forms?</p>
+<blockquote><p>Past Negative: ありませんでした</p>
+<p>Past: <a style="display:none;" id="ddetlink606913721" href="javascript:expand(document.getElementById('ddet606913721'))">Answer: </a>
+<div class="ddet_div" id="ddet606913721"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet606913721'));expand(document.getElementById('ddetlink606913721'))</script></p>
+<ul>
+<li> ありました </div></li>
+</ul>
+<p>Present: <a style="display:none;" id="ddetlink867460774" href="javascript:expand(document.getElementById('ddet867460774'))">Answer: </a>
+<div class="ddet_div" id="ddet867460774"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet867460774'));expand(document.getElementById('ddetlink867460774'))</script></p>
+<ul>
+<li>あります </div></li>
+</ul>
+<p>Negative <a style="display:none;" id="ddetlink1502481668" href="javascript:expand(document.getElementById('ddet1502481668'))">Answer: </a>
+<div class="ddet_div" id="ddet1502481668"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1502481668'));expand(document.getElementById('ddetlink1502481668'))</script></p>
+<ul>
+<li>ありません </div></li>
+</ul>
+</blockquote>
+<p>We&#8217;ll learn more about the verb あります by the end of this season (it&#8217;s a bit&#8230; &#8220;special&#8221;), but for now I just wanted to make sure you could conjugate this word using the information you learned just moments ago. It&#8217;s pretty easy, right? All you need to do is replace the ます／ました／ません／ませんでした with something else, and you have yourself a conjugation. Sadly, it will get more difficult as we learn &#8220;dictionary&#8221; form of verbs, but that&#8217;s not until Season 3, so enjoy being extra polite for now!</p>
+<p>Let&#8217;s take a look at more examples using ませんでした.</p>
+<blockquote><p>たべ<strong><span style="color: #008000;">ます</span></strong> →　to eat</p>
+<p>たべ<span style="color: #008000;"><strong>ました</strong></span> →　ate</p>
+<p>たべ<span style="color: #008000;"><strong>ません</strong></span> →　to not eat</p>
+<p>たべ<span style="color: #008000;"><strong>ませんでした</strong></span> →　<strong>didn&#8217;t</strong> eat</p></blockquote>
+<p>By this point, this should all be pretty much straight forward, but here are the standard set of examples anyways.</p>
+<blockquote><p>飲み<strong><span style="color: #008000;">ます</span></strong> →　to drink</p>
+<p>飲み<span style="color: #008000;"><strong>ませんでした</strong></span> →　didn&#8217;t drink</p>
+<p>習い<strong><span style="color: #008000;">ます</span></strong> →　to learn</p>
+<p>習い<strong><span style="color: #008000;">ませんでした</span></strong> →　didn&#8217;t learn</p>
+<p>行き<strong><span style="color: #008000;">ます</span></strong> →　to go</p>
+<p>行き<strong><span style="color: #008000;">ませんでした</span></strong> →　didn&#8217;t go</p></blockquote>
+<p>Also, here are some practice sentences.</p>
+<blockquote><p>ビールを飲みませんでした。オレンジジュースを飲みました。</p>
+<p>I didn&#8217;t drink beer. I drank orange juice.</p>
+<p>日本に行きませんでした。アメリカに行きました。</p>
+<p>I didn&#8217;t go to Japan. I went to America.</p>
+<p>ハンバーガーを食べませんでした。</p>
+<p>I didn&#8217;t eat (a) hamburger.</p></blockquote>
+<p>Let&#8217;s quickly review. You learned ます (present form), ました (past), ません (negative), and ませんでした (past negative). All you need to do is switch out the ます with any of the other conjugations to get the tense you want to use. It&#8217;s only a matter of remembering which one is which, which shouldn&#8217;t be too difficult with practice (not to mention with the similarities between &#8220;です and friends&#8221; that you can use as well).</p>
+<h1 style="text-align: center;">PRACTIC(ING)</h1>
+<p>Just to solidify the different tenses, here is an opportunity to practice before you get to the worksheet. Look up any words you don&#8217;t know using <a href="http://jisho.org">Jisho.org</a> or another Japanese dictionary.</p>
+<blockquote><p>手紙（てがみ）を　送りました <a style="display:none;" id="ddetlink219966782" href="javascript:expand(document.getElementById('ddet219966782'))">Translation:</a>
+<div class="ddet_div" id="ddet219966782"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet219966782'));expand(document.getElementById('ddetlink219966782'))</script></p>
+<ul>
+<li>I sent a letter </div></li>
+</ul>
+<p>手紙（てがみ）を　書きました <a style="display:none;" id="ddetlink77628334" href="javascript:expand(document.getElementById('ddet77628334'))">Translation:</a>
+<div class="ddet_div" id="ddet77628334"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet77628334'));expand(document.getElementById('ddetlink77628334'))</script></p>
+<ul>
+<li>I wrote a letter </div></li>
+</ul>
+<p>本　を　読みませんでした <a style="display:none;" id="ddetlink1854515375" href="javascript:expand(document.getElementById('ddet1854515375'))">Translation:</a>
+<div class="ddet_div" id="ddet1854515375"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1854515375'));expand(document.getElementById('ddetlink1854515375'))</script></p>
+<ul>
+<li>I didn&#8217;t read the book </div></li>
+</ul>
+<p>日本　に　行きます <a style="display:none;" id="ddetlink1743591690" href="javascript:expand(document.getElementById('ddet1743591690'))">Translation: </a>
+<div class="ddet_div" id="ddet1743591690"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1743591690'));expand(document.getElementById('ddetlink1743591690'))</script></p>
+<ul>
+<li>I will go to Japan </div></li>
+</ul>
+<p>アメリカ　に　行きません <a style="display:none;" id="ddetlink296009123" href="javascript:expand(document.getElementById('ddet296009123'))">Translation: </a>
+<div class="ddet_div" id="ddet296009123"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet296009123'));expand(document.getElementById('ddetlink296009123'))</script></p>
+<ul>
+<li>I will not go to America </div></li>
+</ul>
+<p>卵（たまご）を　たべません <a style="display:none;" id="ddetlink1481440285" href="javascript:expand(document.getElementById('ddet1481440285'))">Translation: </a>
+<div class="ddet_div" id="ddet1481440285"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1481440285'));expand(document.getElementById('ddetlink1481440285'))</script></p>
+<ul>
+<li>I don&#8217;t eat / I will not eat eggs </div></li>
+</ul>
+<p>家（いえ）に　帰りました <a style="display:none;" id="ddetlink895181154" href="javascript:expand(document.getElementById('ddet895181154'))">Translation: </a>
+<div class="ddet_div" id="ddet895181154"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet895181154'));expand(document.getElementById('ddetlink895181154'))</script></p>
+<ul>
+<li>I returned home </div></li>
+</ul>
+<p>パソコン　を　買います <a style="display:none;" id="ddetlink930546834" href="javascript:expand(document.getElementById('ddet930546834'))">Translation: </a>
+<div class="ddet_div" id="ddet930546834"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet930546834'));expand(document.getElementById('ddetlink930546834'))</script></p>
+<ul>
+<li>I will buy a computer </div></li>
+</ul>
+<p>英語（えいご）を　教えませんでした <a style="display:none;" id="ddetlink1362151007" href="javascript:expand(document.getElementById('ddet1362151007'))">Translation: </a>
+<div class="ddet_div" id="ddet1362151007"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1362151007'));expand(document.getElementById('ddetlink1362151007'))</script></p>
+<ul>
+<li>I didn&#8217;t teach English </div></li>
+</ul>
+<p>野球（やきゅう）　を　します <a style="display:none;" id="ddetlink1681258168" href="javascript:expand(document.getElementById('ddet1681258168'))">Translation: </a>
+<div class="ddet_div" id="ddet1681258168"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1681258168'));expand(document.getElementById('ddetlink1681258168'))</script></p>
+<ul>
+<li>I will play baseball </div></li>
+</ul>
+</blockquote>
+<p>The important part isn&#8217;t to learn the new words (on the left side), but to make sure you know the verbs, as well as how to do each conjugation. Go ahead and move on to the worksheet, where you&#8217;ll be getting more practice with conjugating verbs.</p>
+<p><strong>Extra Content:</strong></p>
+<ul>
+<li><a href="../../wp-content/uploads/2010/01/conjugating-verbs.pdf">Conjugating Verbs Worksheet</a></li>
+<li><a href="../../wp-content/uploads/2010/01/verb-particles-practice.pdf">Verb / Particles practice Worksheet</a></li>
+</ul>
+<p><strong>Before You Move On:</strong></p>
+<ul>
+<li>Know how to use 〜ます</li>
+<li>Know how to use 〜ました</li>
+<li>Know how to use 〜ません</li>
+<li>Know how to use 〜ませんでした</li>
+<li>Know how to pronounce them all properly (especially ました and ませんでした)</li>
+<li>Have an &#8220;80%&#8221; knowledge of the common verbs list.</li>
+<li>Feel moderately comfortable with the particles を and に in terms of how / when they are used.</li>
+</ul>
+<p style="text-align: right;"><a href="../na-adjectives/index.html">な Adjectives →</a></p>
+<p><a style="display:none;" id="ddetlink711968571" href="javascript:expand(document.getElementById('ddet711968571'))">Image Sources </a>
+<div class="ddet_div" id="ddet711968571"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet711968571'));expand(document.getElementById('ddetlink711968571'))</script></p>
+<ul>
+<li><a href="http://www.flickr.com/photos/vitike/3551807265/">http://www.flickr.com/photos/vitike/3551807265/</a></li>
+<li><a href="http://www.flickr.com/photos/m500/3779731787/">http://www.flickr.com/photos/m500/3779731787/</a> </div></li>
+</ul>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

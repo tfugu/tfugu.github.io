@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  2 Stroke Kanji Radicals</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 2 Stroke Kanji Radicals Comments Feed" href="http://www.textfugu.com/radical/1-2-stroke/two/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='1 Stroke Kanji Radicals' href='../../../radicals/1-2-stroke/one.1.html' />
+<link rel='next' title='4: Practicing The Radicals' href='../practice/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-5560 page-child parent-pageid-5534 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-5560 page type-page status-publish hentry">
+
+	                <h1>2 Stroke Kanji Radicals</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1>2-Stroke Radicals</h1>
+<h4>Better to ask twice than to lose your way once. <span style="color: #888888;">- Danish Proverb</span></h4>
+<p>Well done! You&#8217;ve made it through the 1-stroke radicals. That&#8217;s all of &#8216;em (not too many, right?)! Before you move on to the 2-stroke radicals, though, be sure to<a href="../../../radicals/1-2-stroke/one/index.html"> go back and review the 1-strokers</a>. Can you cycle through and name them all without cheating??</p>
+<p>2-Stroke radicals represent a little bit more (instead of just a few existing there are&#8230; a lot more in existence). Don&#8217;t worry too much though, and take your time. Don&#8217;t rush or you&#8217;ll lose out in the long run. Learn them well and you&#8217;ll speed up your actual kanji learning in the long term.</p>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2346" title="7-two" src="../../../wp-content/uploads/2010/01/7-two-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Two</h2>
+<p>If this radical isn&#8217;t self explanatory enough, think about this. Remember what happened to #1? It looks like the (upright) <em>stick</em> has struck again &#8211; double homicide. Uh oh, looks like there&#8217;s a &#8220;radical&#8221; murderer on the loose. Why would the stick kill <span style="color: #993366;"><strong>TWO</strong></span> things?</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2347" title="8-kettle-lid" src="../../../wp-content/uploads/2010/01/8-kettle-lid-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Kettle Lid</h2>
+<p><strong></strong>This actually looks like a <span style="color: #993366;"><strong>KETTLE LID</strong></span>, right? Just by looks alone this one should be pretty easy to remember. Can you imagine yourself picking up a <span style="color: #993366;"><strong>KETTLE LID</strong></span> that looks just like the one above, and perhaps burning your hand on the steam? What happens when you drop this kettle lid back down after you are burned?</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2348" title="9-person" src="../../../wp-content/uploads/2010/01/9-person-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Person</h2>
+<p>Think of this radical in the following way. There&#8217;s a (stick figure) zombie in front of you, coming towards you. You push the stick figure zombie back and it breaks right in half, the upper part of it&#8217;s body falling to the ground and the legs staying standing up (looking like the radical above). The top-half of the zombie looks up at its still-standing legs and says &#8220;Hey, I&#8217;m a <span style="color: #993366;"><strong>PERSON</strong></span> too, you know!&#8221;</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2349" title="10-influential-person" src="../../../wp-content/uploads/2010/01/10-influential-person-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Influential Person</h2>
+<p><strong></strong>This radical technically <em>also</em> means &#8220;person&#8221; (like the one above), but we&#8217;re going to shift the meaning a little. The cool thing about this radical is that when you see it as part of a kanji, there&#8217;s a decent chance it has something to do with a person. For our intents and purposes, it&#8217;s going to mean <strong><span style="color: #800080;">INFLUENTIAL PERSON</span></strong>, though. The radical kind of looks like the letter &#8220;I,&#8221; which is the first letter in <span style="color: #800080;"><strong>INFLUENTIAL PERSON</strong></span>. Also, this looks like a podium &#8211; and only <span style="color: #800080;"><strong>INFLUENTIAL PERSON</strong></span>s use podiums, to talk to all the people they&#8217;re influencing!</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2350" title="11-ricepaddyhat" src="../../../wp-content/uploads/2010/01/11-ricepaddyhat-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Hat</h2>
+<p><strong></strong>You know those rice paddy hats that you see farmers (and ninjas) wearing? They&#8217;re pointed at the top and totally awesome. This is one of those hats, and it looks just like them, so it shouldn&#8217;t be too difficult to remember. Just remember, it&#8217;s a regular old <span style="color: #800080;"><strong>HAT</strong></span>.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2351" title="12-legs" src="../../../wp-content/uploads/2010/01/12-legs-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Legs</h2>
+<p><strong></strong>This radical looks like a pair of <span style="color: #800080;"><strong>LEGS</strong></span>. Remember that the right side leg has a foot, and the left side does not. Can you imagine walking around with only a right-side foot? (You should try to imagine, it will help you remember which side has the extra footy bit at the end).</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2352" title="13-enter" src="../../../wp-content/uploads/2010/01/13-enter-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Enter</h2>
+<p><strong></strong>Be careful, this one looks just like 人. This radical looks like a tee-pee, and a tee-pee has a nice big <span style="color: #800080;"><strong>ENTRANCE</strong></span> to it. When you enter the tee-pee, imagine yourself overwhelmed by the smell of strawberries. Stand in the <span style="color: #800080;"><strong>ENTRANCE</strong></span> for a little while to take in the wondrous smell.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2353" title="14-fish-legs" src="../../../wp-content/uploads/2010/01/14-fish-legs-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Fish Legs</h2>
+<p><strong></strong>This one doesn&#8217;t make sense until you learn the four-stroke version of this (just two of these, next to each other), fish tail. Since there are only two little nubbins, the fish has evolved and gained the ability to walk on little <span style="color: #800080;"><strong>FISH LEGS</strong></span>. Imagine a fish jumping out of the water, popping up on two <span style="color: #800080;"><strong>FISH LEGS</strong></span>, and running around the beach. How ridiculous would that be? Can you see the two little <span style="color: #800080;"><strong>FISH LEGS</strong></span> now?</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2354" title="15-horns" src="../../../wp-content/uploads/2010/01/15-horns-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Horns</h2>
+<p><strong></strong>You can see the horns, right? You could put these <span style="color: #800080;"><strong>HORNS</strong></span> on anything. Donkeys, people, monkeys, and so on. Really, imagine these exact horns (the ones that make up the radical) on a bunch of your favorite hornless animals. Everything looks better with <span style="color: #800080;"><strong>HORNS</strong></span>.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2355" title="16-upside-down-box" src="../../../wp-content/uploads/2010/01/16-upside-down-box-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Upside Down Box</h2>
+<p>This looks just like an <span style="color: #800080;"><strong>UPSIDE DOWN BOX</strong></span>. Do you dare walk up to it and see what&#8217;s underneath? If I were you, I&#8217;d leave all <span style="color: #800080;"><strong>UPSIDE DOWN BOXES</strong></span> be.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2356" title="17-top-of-head-crown" src="../../../wp-content/uploads/2010/01/17-top-of-head-crown-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Forehead</h2>
+<p><strong></strong>Sure, this forehead is a bit square, but that&#8217;s because it&#8217;s Frankenstein&#8217;s forehead. Also, there are no &#8220;round&#8221; shaped kanji, which means this is as round as you&#8217;d get (so can you stretch your imagination a bit and pretend this is someone&#8217;s <span style="color: #800080;"><strong>FOREHEAD</strong></span>?)</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2357" title="18-water-ice" src="../../../wp-content/uploads/2010/01/18-water-ice-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Ice and Water</h2>
+<p>Do you remember the 1-stroke radical &#8220;drop of liquid?&#8221; When you have more than one drop, as you do in this radical, you get <span style="color: #800080;"><strong>WATER</strong></span> (or <span style="color: #800080;"><strong>ICE</strong></span>, sometimes, if you freeze the water!). You can also imagine the drop of liquid going down a slide (the second, lower stroke) so fast that it turns to ice (because things get cold when they go fast!).</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2358" title="19-table" src="../../../wp-content/uploads/2010/01/19-table-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Table</h2>
+<p><strong></strong>Do you remember &#8220;legs&#8221; from before? If you add a top to those legs, you&#8217;ll have yourself a nice <span style="color: #800080;"><strong>TABLE</strong></span>!</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2360" title="20-open-box" src="../../../wp-content/uploads/2010/01/20-open-box-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Open Box</h2>
+<p>Unlike the upside down box, this is a right-side-up <strong><span style="color: #800080;">OPEN BOX</span></strong>. Looks just like a 2-D cutout of a box, right?</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2361" title="22-barb-and-stick" src="../../../wp-content/uploads/2010/01/22-barb-and-stick-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Variety Stick Rack</h2>
+<p><strong></strong>You remember the 1-stroke radicals &#8220;barb&#8221; and &#8220;stick,&#8221; right? There are multiple sticks available in this <span style="color: #800080;"><strong>VARIETY STICK RACK</strong></span>. You can choose from a regular stick, or a barb stick. What fun!</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2362" title="23-power" src="../../../wp-content/uploads/2010/01/23-power-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Power</h2>
+<p><strong></strong>This radical means power (and so does the kanji, which looks exactly the same). Imagine this to be a guy flexing his arm downward to show off all his <span style="color: #800080;"><strong>POWER</strong></span>. That is one ridiculously steroid-pumped arm!</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2363" title="24-enclosure" src="../../../wp-content/uploads/2010/01/24-enclosure-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Enclosure</h2>
+<p><strong></strong>This is an <span style="color: #800080;"><strong>ENCLOSURE</strong></span>, meant to capture things (presumably by falling on them). Eventually there will be things inside of this <span style="color: #800080;"><strong>ENCLOSURE</strong></span>, but for now our enclosure is empty. It kind of looks like an overturned box, but more fancy. That right side will swing in and capture anything that goes inside, which is why that right side is longer.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2364" title="25-knife-sword" src="../../../wp-content/uploads/2010/01/25-knife-sword-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Knife / Sword</h2>
+<p><strong></strong>If you look at this radical, it kind of looks like the bottom part of a <span style="color: #800080;"><strong>KNIFE</strong></span> or <span style="color: #800080;"><strong>SWORD</strong></span>, along with a hand protector. The blade part is missing, but at least you have the handle to your knife or sword (or, perhaps you have a ton of blades to choose from, and you just need to pop one on to turn it into a <span style="color: #800080;"><strong>KNIFE</strong></span> or <span style="color: #800080;"><strong>SWORD</strong></span>. This radical also looks a lot like the &#8220;power&#8221; radical (力), except it&#8217;s missing the little tiny nubbin at the top. Just remember that 90% of having <em>power</em> is having a <span style="color: #800080;"><strong>SWORD</strong></span> to cut down your enemies.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2365" title="26-spoon" src="../../../wp-content/uploads/2010/01/26-spoon-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Spoon</h2>
+<p><strong></strong>This one means &#8220;spoon,&#8221; though it doesn&#8217;t look it. Instead, imagine a decapitated boy, sitting down, reaching for a <span style="color: #800080;"><strong>SPOON</strong></span> he can&#8217;t see or find (and neither can you!).</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2366" title="27-box-on-side" src="../../../wp-content/uploads/2010/01/27-box-on-side-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Box On its side</h2>
+<p><strong></strong>So we have an upside down box, and a right side up box, but no box on its side. This is a <span style="color: #800080;"><strong>BOX ON ITS SIDE</strong></span>, totally unbroken and still usable. It&#8217;s fallen over to the right, because the wind blows from the Pacific Ocean (and you&#8217;re still living in Seattle, remember?).</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2367" title="28-ten" src="../../../wp-content/uploads/2010/01/28-ten-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Ten</h2>
+<p><strong></strong>This radical also actually means &#8220;ten.&#8221; How many crosses do you need to keep the Catholic giraffes happy (be sure to try and imagine something as ridiculous as Catholic giraffes to help it stick in your memory!). You&#8217;ll need <span style="color: #800080;"><strong>TEN</strong></span> crosses.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2368" title="29-fortune-telling" src="../../../wp-content/uploads/2010/01/29-fortune-telling1-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Shaman&#8217;s Stick</h2>
+<p><strong></strong>This is not only a stick (the one-stroke radical). It&#8217;s special, because it has a feather attached to it. Be careful, if a Shaman uses his <span style="color: #800080;"><strong>SHAMAN STICK</strong></span>, he could turn you into a bird to add you to his feather collection.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2369" title="30-seal" src="../../../wp-content/uploads/2010/01/30-seal-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Seal</h2>
+<p><strong></strong>No, not the animal. I&#8217;m talking about the &#8220;sealing up a hole&#8221; kind of seal. This radical looks almost like the overturned box radical, but the bottom is <em>almost</em> <span style="color: #800080;"><strong>SEAL</strong></span>ed off. That&#8217;s a pretty mediocre <span style="color: #800080;"><strong>SEAL</strong></span> if you ask me.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2370" title="31-cliff" src="../../../wp-content/uploads/2010/01/31-cliff-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Cliff</h2>
+<p><strong></strong>Lucky for you, this one actually looks like a cliff. Just remember, this cliff is facing the Pacific Ocean (West from Seattle). You can stand on the <span style="color: #800080;"><strong>CLIFF</strong></span> and watch the beautiful ocean (way) below and feel the sea breeze on your face. It feels exhilarating to stand on the edge of a <span style="color: #800080;"><strong>CLIFF</strong></span>!</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2371" title="32-myself" src="../../../wp-content/uploads/2010/01/32-myself-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Me/I</h2>
+<p><strong></strong>This one looks like an arm that is bent at the elbow. At the end, your finger(s) are pointed back at yourself. You are saying &#8220;This is <span style="color: #993366;"><strong>ME</strong></span>!&#8221;</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2372" title="33-again" src="../../../wp-content/uploads/2010/01/33-again-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Stool</h2>
+<p>Looks just like a <span style="color: #800080;"><strong>STOOL</strong></span>, right?</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2373" title="34-mememe" src="../../../wp-content/uploads/2010/01/34-mememe-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Mama:</h2>
+<p>If you&#8217;ve learned katakana, this will be really easy. It&#8217;s the katakana kana for the sound &#8220;ma&#8221; &#8211; which, of course, converts right over to &#8220;mama&#8221; really easily.</p>
+<p>If you haven&#8217;t learned katakana, think of it this way. It looks a lot like the ム radical from earlier, except it&#8217;s upside down and flipped around a bit. Where did you come from? I (ム) came from &#8220;mama&#8221; (literally, you did), and that&#8217;s why it&#8217;s very similar looking, but also a little different (because you get your mom&#8217;s genes, but not all of them).</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2374" title="35-nine" src="../../../wp-content/uploads/2010/01/35-nine-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Nine:</h2>
+<p>This one actually means &#8220;nine,&#8221; and if you look at it (especially with the little flippy stroke on the right side), it looks like the letter &#8220;n&#8221; and &#8220;i&#8221; next to each other, written in cursive, which are the letters you need to start to write the word &#8220;nine.&#8221;</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2375" title="36-broken-left-box" src="../../../wp-content/uploads/2010/01/36-broken-left-box-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Broken Box:</h2>
+<p>Remember the other box on its side (which fell over the other direction because of the wind from the Pacific Ocean?). Well, broken boxes always fall the other way, due to a lack of stability. This <span style="color: #800080;"><strong>BROKEN BOX</strong></span> falls to the left and has a piece sticking out on the right side, which is why it&#8217;s called a <span style="color: #800080;"><strong>BROKEN BOX</strong></span>.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2376" title="37-accordingly" src="../../../wp-content/uploads/2010/01/37-accordingly-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Stairs:</h2>
+<p>Do you see the stairs in there? It might take some imagination, but they&#8217;re there (or, at the very least, there are a couple of stairs going on up there). Once you get to the top of the stairs, there&#8217;s a <em>slide</em> (like the slide from the 1-stroke section) that lets you go down. Sweet! Climb the <span style="color: #800080;"><strong>STAIRS</strong></span>, slide down the slide.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2914" title="38-nail" src="../../../wp-content/uploads/2010/01/38-nail-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Nail</h2>
+<p>See the barb + nail head? That makes a <span style="color: #800080;"><strong>NAIL</strong></span>. There is also an &#8220;alternate&#8221; version of this radical, coming next:</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2915" title="39-crookednail" src="../../../wp-content/uploads/2010/01/39-crookednail-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Crooked Nail</h2>
+<p><strong></strong>This nail is lopsided towards the left. Imagine your frustration of having to work with a <span style="color: #800080;"><strong>CROOKED NAIL</strong></span> like this.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2920" title="40-volcano" src="../../../wp-content/uploads/2010/01/40-volcano-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Volcano</h2>
+<p><strong></strong>This radical is very similar to the <em>enter</em> and <em>person</em> radicals. It is, however, distinctly volcano-ish, with the blown top. You don&#8217;t want to stand near a <span style="color: #800080;"><strong>VOLCANO</strong></span>.</p>
+<p><em>*Other ways (i.e. fonts) to write this make it have more of an open top, more like the fish legs.</em></p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-3422" title="leaf" src="../../../wp-content/uploads/2010/01/leaf-150x150.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Leaf</h2>
+<p>See the stem attached to the <strong>LEAF</strong>? That right there is a leaf, and you&#8217;ll be seeing various forms of this in a lot of kanji. Sometimes the <strong>LEAF</strong> part will be bigger, too.</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-full wp-image-15463" title="gun" src="../../../wp-content/uploads/2010/10/gun.png" alt="" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Gun</h2>
+<p>See how it&#8217;s shaped like a hand <strong>GUN</strong>?</p>
+</div>
+<hr class="d4pbbc-hr" />
+<div class="fourcol-one">
+<p><img class="alignnone size-full wp-image-16387" title="beggar" src="../../../wp-content/uploads/2010/10/beggar.png" alt="" width="210" height="156" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Beggar</h2>
+<p>See how someone is facing to the right on their knees? Then, their hands up in a begging &#8220;please please please&#8221; position? This is &#8220;the beggar.&#8221;</p>
+</div>
+<hr class="d4pbbc-hr" />
+<p>After you&#8217;ve finished reading these (perhaps read them through a second time too), it&#8217;s time to get down and practice. You want to know these really well, because they&#8217;re going to make your kanji learning life so much better.</p>
+<p style="text-align: center;"><a href="../../../radicals/1-2-stroke/one.1.html" class="woo-sc-button  silver" ><span class="woo-">← 後</span></a> <a href="../../../radicals/1-2-stroke/practice/index.html" class="woo-sc-button  silver" ><span class="woo-">前 →</span></a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

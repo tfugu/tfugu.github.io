@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  5: Learning To Write Hiragana</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 5: Learning To Write Hiragana Comments Feed" href="http://www.textfugu.com/season-1/reading-writing-memorizing-hiragana/4-5/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='4: Karate' href='../4-4/index.html' />
+<link rel='next' title='6: How To Study Hiragana' href='../4-6/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-5697 page-child parent-pageid-1569 page-template-default logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-5697 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>Learning To Write Hiragana</h1>
+<h4>“Be yourself. Above all, let who you are, what you are, what you believe, shine through every sentence you write, every piece you finish.” &#8211; John Jakes</h4>
+<p>Now that you understand how hiragana &#8220;technically&#8221; works (i.e. you can see a simple word in romaji, then find the right kana to write down that word in hiragana), let&#8217;s start reading and writing.</p>
+<p>Before you start, though, I have to be clear on something really quick. Learning to read and write hiragana isn&#8217;t easy. There&#8217;s almost no way that it can be.</p>
+<p>That being said, it&#8217;s probably going to be one of the biggest hurdles you end up facing in your Japanese learning journey. You <em>could</em> look at this and say &#8220;oh no, this is horrible,&#8221; or you could look at it and realize how much you&#8217;ll end up getting out of it. This is the main wall keeping you from learning an enormous amount of Japanese. If you can learn hiragana, you can learn <em>anything</em>.</p>
+<p>Even though this is probably one of the hardest things you&#8217;ll have to learn, also realize that it&#8217;s actually not that bad. I just want you to go into it knowing you&#8217;ll have to put some work and time into this in order to learn it. You already knew that, though, I&#8217;m sure. This is an entire language we&#8217;re talking about, not a simple nursery rhyme. As you go through learning hiragana, though, just remember why you&#8217;re learning Japanese and think to the future. See the light at the end of the tunnel, and keep working hard. If you do that, you&#8217;ll get through hiragana quickly, enjoy it, and come out a lot smarter on the other end. Hiragana is a fun puzzle to get through and the prize is big when you finish it.</p>
+<p>Learning to read and write hiragana is a multi-pronged assault. You can&#8217;t really come at it from only one side and hope to feel really good about it. It&#8217;s important you use multiple resources and multiple tactics to avoid burnout as well as to help you remember what you&#8217;ve learned (and review it too). Really, the best way to practice your hiragana is to actually use it. In order to be able to do that, though, you have to learn it well enough first. The goal is to get you to that point so that you can move on to other TextFugu lessons where you&#8217;ll be able to use (and practice) hiragana in a much more interesting environment.</p>
+<p>Let&#8217;s get started.</p>
+<h1>Anki</h1>
+<p><strong>&#8220;A brain is a society of very small, simple modules that cannot be said to be thinking, that are not smart in themselves. But when you have a network of them together, out of that arises a kind of smartness.&#8221; Kevin Kelly</strong></p>
+<div class="woo-sc-box note   ">Anki2 has been released! The decks on TextFugu will work with Anki2, though there are some small changes between the two. Please <a href="http://ankisrs.net/anki2.html">read about the changes</a>. I do plan to upgrade the decks to work with some of the new Anki2 features, but in the meantime the decks should work with the new Anki.</div>
+<p>The first resource you&#8217;re going to use (it&#8217;s a resource that&#8217;s used a lot alongside TextFugu, so you might as well get used to it!) is Anki. Anki is a fabulous flashcard application that works on all computer operating systems, is open source, free, and (most importantly) really good at helping you to memorize things (that would otherwise be tough to remember). It knows when you should study something and how often you should study. Basically, it tells you what to do, and as long as you follow along, good things will happen. To start, you&#8217;ll have to download the application:</p>
+<ol>
+<li>Go to <a href="http://ankisrs.net/">Anki</a> and download the version that&#8217;s right for your computer&#8217;s operating system (Mac, Windows, Linux, etc).</li>
+<li>Optional: Go to <a href="http://ankiweb.net/account/login">AnkiWeb</a> and create an account. If you have multiple computers / devices, you can use this to sync your flashcard decks so no matter where you go, you can start right where you left off.</li>
+</ol>
+<p>The next thing you&#8217;ll need to do is download your list. Right now, you&#8217;re about to learn hiragana, so I&#8217;ve created a hiragana list for you. I&#8217;d recommend taking these steps to get ready:</p>
+<ol>
+<li>Create a folder somewhere on your computer for all your Anki files.</li>
+<li>Download <span class="woo-sc-ilink"><a class="info" href="../../../downloads/free/hiragana-with-audio.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">The Hiragana Anki</a></span> list and unzip it.</li>
+<li>Move the Hiragana-with-audio folder to your Anki folder (the one you created on step 1)</li>
+<li>Double click on the file Hiragana.Anki to add it to your study decks.</li>
+</ol>
+<p>When you do that, Anki should open (if it&#8217;s not open already), and it should give you the option to start studying your hiragana list (or any other lists you have).</p>
+<p>With that, you should be all set! Now it&#8217;s time to start learning the hiragana. Let&#8217;s go ahead and get started, actually, just with 5 kana. It&#8217;s always good to get started on things (because that&#8217;s the hardest part), and will help propel you into the next page, which is a bit longer.</p>
+<p>Start by opening up Anki, and choosing to study the Hiragana list. When the flashcards start up, you&#8217;ll be shown a kana with a blank under it. Look at it, and decide whether or not you know it. Feel free to look at your hiragana sheet if you don&#8217;t. When you know the answer, hit &#8220;show answer.&#8221;</p>
+<p>Here&#8217;s the interesting part. After you answer, you&#8217;ll be given a few options:</p>
+<ul>
+<li>Soon (you didn&#8217;t know it at all, pretty much)</li>
+<li>Hard (you had a tough time with this word)</li>
+<li>Good (it was pretty easy, but you&#8217;ll maybe forget it later)</li>
+<li>Easy (you knew the answer like it was your own language. Bam!)</li>
+</ul>
+<p>Be honest when you choose these, because it&#8217;ll help Anki know what to tell you to study. If you don&#8217;t know something so well, it will bring the card back sooner so you can study it again. If you know a card really well, it&#8217;ll show that card to you later, so you can study things you don&#8217;t know as well right now. Either way, just be honest and think long term. It&#8217;s okay if you don&#8217;t know something, because that means the Anki will be able to help you.</p>
+<p>For now, just go through the first five or so. You&#8217;ll want to click on the &#8220;timeboxing&#8221; option to limit your session to 5 items (just for now). When you&#8217;ve added that in, go through those five items until you feel semi-comfortable when it comes to recognizing them. Then, it&#8217;s time to move on to the meat, so to speak :)</p>
+<p>P.S. In case you need it, here&#8217;s the visual version of the last few paragraphs:</p>
+<p style="text-align: center;"><iframe width="600" height="380" src="http://www.youtube.com/embed/Qo75w2eV6c0" frameborder="0" type="text/html"></iframe></p>
+<p style="text-align: left;">Let&#8217;s learn more hiragana, now!</p>
+<p style="text-align: center;"><a href="../4-4/index.html#top" class="woo-sc-button  silver" ><span class="woo-">←後 </span></a> <a href="../4-6/index.html#top" class="woo-sc-button  silver" ><span class="woo-">前 →</span></a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

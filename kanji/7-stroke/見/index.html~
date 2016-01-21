@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  見</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 見 Comments Feed" href="http://www.textfugu.com/kanji/%e8%a6%8b/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='花' href='../../../花/index.html' />
+<link rel='next' title='貝' href='../../../貝/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-20128 page-child parent-pageid-2313 page-template page-template-template-kanjisingle-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-20128 page type-page status-publish hentry">
+
+                    <section class="kanji">
+	                	<h1>見</h1>
+<h4>See</h4>
+<table>
+<thead>
+<tr>
+<th>on&#8217;yomi</th>
+<th>kun&#8217;yomi</th>
+<th>Radicals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>けん</td>
+<td>み.る</td>
+<td><a class="radicaltwip" title="See" href="../../../radical/see/index.html#top">見</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Meaning: See<strong><br />
+</strong></h2>
+<p>Nice! This is the same as the radical 見. <span style="color: #800080;"><strong>SEE</strong></span>!</p>
+<h2>Reading: けん</h2>
+<p>When we use けん you should think &#8220;Ken Doll.&#8221;</p>
+<p style="padding-left: 30px;">What do you see? Imagine yourself opening your eyes, slowly, seeing for the first time. In front of you is a giant <span style="color: #008000;"><strong>KEN</strong></span> doll, who did the operation on you to make it so you can <span style="color: #800080;"><strong>SEE</strong></span>. You were blind before, so you never knew what people looked like. You now know that everyone is just barbies and <span style="color: #008000;"><strong>KEN</strong></span> dolls, not at all like you imagined.</p>
+<p>Wouldn&#8217;t that be scary if you were blind your whole life, got your vision back, and everyone looked like giant <span style="color: #008000;"><strong>KEN</strong></span> dolls? Feel the fear.</p>
+<div class="woo-sc-divider"></div>
+<h2>Vocbaulary</h2>
+<p>This is a super-duper kanji with super-duper words. Learn everything well, especially the meanings of the following words right now. Feels really really kun&#8217;yomi heavy right now, but you&#8217;ll start seeing on&#8217;yomi later on as well when you learn more kanji.</p>
+<div class="kanjinow">
+<h3><a class="sm2_button" href="../../../audio/kanji/7-miru.mp3">a</a> 見る（みる）＝　To See</h3>
+<ul>
+<li><strong>Meaning:</strong> Same as the kanji, verb form.</li>
+<li><strong>Reading:</strong> Who do you see? &#8220;Me,&#8221; you say, in front of your mirror every moment of the day.</li>
+</ul>
+<h3><a class="sm2_button" href="../../../audio/kanji/7-mieru.mp3">a</a> 見える（みえる）＝　Can See, Visible</h3>
+<ul>
+<li><strong>Meaning:</strong> The potential form. You <em>can</em> see something (or something is visible)</li>
+<li><strong>Reading:</strong> If you know the reading of 見る you can figure this one out too.</li>
+</ul>
+<h3><a class="sm2_button" href="../../../audio/kanji/7-miseru.mp3">a</a> 見せる（みせる）＝　To Show</h3>
+<ul>
+<li><strong>Meaning:</strong> Now you&#8217;re &#8220;doing seeing&#8221; to someone else&#8230; i.e. you&#8217;re <em>showing</em> them something.</li>
+<li><strong>Reading:</strong> Make sure you know the previous two words to know this one.</li>
+</ul>
+<h3><a class="sm2_button" href="../../../audio/kanji/7-mitsukeru.mp3">a</a> 見付ける（みつける）＝　To Find</h3>
+<ul>
+<li><strong>Combo:</strong> 見 (see) + 付ける (attach)</li>
+<li><strong>Meaning:</strong> You attach your seeing onto something (and find it)</li>
+<li><strong>Reading:</strong> The kun&#8217;yomi readings of both. You can tell because of the hiragana sticking out there.</li>
+</ul>
+<h3><a class="sm2_button" href="../../../audio/kanji/7-mitsukaru.mp3">a</a> 見付かる（みつかる）＝　To be Found</h3>
+<ul>
+<li><strong>Combo:</strong> 見 (see) + 付かる (be attached to)</li>
+<li><strong>Meaning:</strong> Someone attaches their seeing onto something (and finds it)</li>
+<li><strong>Reading:</strong> Same like the previous word.</li>
+</ul>
+<h3><a class="sm2_button" href="../../../audio/kanji/7-hanami.mp3">a</a> 花見（はなみ）＝　Viewing Cherry Blossoms</h3>
+<ul>
+<li><strong>Combo: </strong>花 (flower) + 見 (to see)</li>
+<li><strong>Meaning:</strong> When you see the flowers, it&#8217;s because you&#8217;re going out to view cherry blossoms, which is a thing you do every year in Japan. Kind of a big deal.</li>
+<li><strong>Reading:</strong> If you know the kun&#8217;yomis of both kanji, you know the reading of this word.</li>
+</ul>
+<h3><a class="sm2_button" href="../../../audio/kanji/7-miwakeru.mp3">a</a> 見分ける（みわける）＝　To Tell Apart</h3>
+<ul>
+<li><strong>Combo:</strong> 見 (see) + 分ける (be understood, be separated)</li>
+<li><strong>Meaning:</strong> When you see and understand separated things&#8230; you are telling them apart!</li>
+<li><strong>Reading:</strong> The kun&#8217;yomi readings of the kanji.</li>
+</ul>
+<h3><a class="sm2_button" href="../../../audio/kanji/7-mikata.mp3">a</a> 見方（みかた）＝　Way Of Seeing Something</h3>
+<ul>
+<li><strong>Combo:</strong> 見 (see) + 方 (way)</li>
+<li><strong>Meaning:</strong> The way of seeing is the way you see something.</li>
+<li><strong>Reading:</strong> Kun&#8217;yomi readings.</li>
+</ul>
+<h3><a class="sm2_button" href="http://www.textfugu.com/audio/kanji/7-tsukimi.mp3">a</a> 月見（つきみ）＝　Moon Viewing</h3>
+<ul>
+<li><strong>Combo:</strong> 月 (moon) + 見 (see)</li>
+<li><strong>Meaning:</strong> Seeing the moon. This is like cherry blossom viewing, in a way, except with the moon instead. Hello moon.</li>
+<li><strong>Reading:</strong> The kun&#8217;yomi readings.</li>
+</ul>
+</div>
+<p style="text-align: center;"><a class="btn large" style="margin-right: 5px;" href="http://www.textfugu.com/花/#top">← 花</a><a class="btn large primary" href="http://www.textfugu.com/貝/#top">貝 →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto; text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

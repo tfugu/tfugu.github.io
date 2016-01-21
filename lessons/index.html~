@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Lessons</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Lessons Comments Feed" href="http://www.textfugu.com/lessons/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Ribs' href='../radical/ribs/index.html' />
+<link rel='next' title='Vocab' href='../vocab/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-25351 page-template page-template-template-menu-lessons-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current-menu-ancestor current-menu-parent menu-item-33821"><a href="index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-33822"><a href="index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-33823"><a href="index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-33827"><a href="index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-33828"><a href="index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-33829"><a href="index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-33830"><a href="index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-33831"><a href="index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-37168"><a href="index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		
+				<h1>Lessons</h1>
+
+			<div class="btn-toolbar">
+			
+				<div class="btn-group">
+				<a class="btn" href="index.html#s1">1</a>
+				<a class="btn" href="index.html#s2">2</a>
+				<a class="btn" href="index.html#s3">3</a>
+				<a class="btn" href="index.html#s4">4</a>
+				<a class="btn" href="index.html#s5">5</a>
+				<a class="btn" href="index.html#s6">6</a>
+				<a class="btn" href="index.html#s7">7</a>
+				<a class="btn" href="index.html#s8">8</a>
+				</div>
+				
+				<div class="btn-group">
+				<a class="btn" href="index.html#advanced">Advanced</a>
+				</div>
+				
+				<div class="btn-group">
+				<a class="btn" href="../testing/kanji/index.html">Kanji</a>
+				</div>
+			
+			</div>
+
+		<a name="s1"></a>
+		<h2>Season 1</h2>
+		
+
+			<ul class="lessonmenu">
+				
+				<li>1. <a href="../season-1/hard-way/index.html">Japanese The Hard Way</a> &#8594; <a class="pn" href="../season-1/hard-way/index.html">1</a> <a class="pn" href="../season-1/hard-way/1-2/index.html">2</a> <a class="pn" href="../season-1/hard-way/1-3/index.html">3</a> <a class="pn" href="../season-1/hard-way/1-4/index.html">4</a> <a class="pn" href="../season-1/hard-way/1-5/index.html">5</a> <a class="pn" href="../season-1/hard-way/1-6/index.html">6</a> <a class="pn" href="../season-1/hard-way/1-7/index.html">7</a> <a class="pn" href="../season-1/hard-way/1-8/index.html">8</a> <a class="pn" href="../season-1/hard-way/1-9/index.html">9</a></li>
+				
+				<li>2. <a href="../season-1/the-japanese-alphabets/why.1.html">The Japanese "Alphabets"</a> &#8594; <a class="pw" href="../season-1/the-japanese-alphabets/why.1.html">Why?</a> &#8594; <a class="pn" href="../season-1/the-japanese-alphabets/index.html">1</a> <a class="pn" href="../season-1/the-japanese-alphabets/2-2.1.html">2</a> <a class="pn" href="../season-1/the-japanese-alphabets/2-3.1.html">3</a> <a class="pn" href="../season-1/the-japanese-alphabets/2-4.1.html">4</a> <a class="pn" href="../season-1/the-japanese-alphabets/2-5.1.html">5</a> <a class="pn" href="../season-1/the-japanese-alphabets/2-6.1.html">6</a> &#8594; <a class="pp" href="../season-1/the-japanese-alphabets/practice.html">Practice</a></li>
+				
+				<li>3. <a href="../season-1/japanese-pronunciation/why/index.html">Japanese Pronunciation With Hiragana</a> &#8594; <a class="pw" href="../season-1/japanese-pronunciation/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-1/japanese-pronunciation/index.html">1</a> <a class="pn" href="../season-1/japanese-pronunciation/3-2/index.html">2</a> <a class="pn" href="../season-1/japanese-pronunciation/3-3.html">3</a> <a class="pn" href="../season-1/japanese-pronunciation/3-4.html">4</a> <a class="pn" href="../season-1/japanese-pronunciation/3-5/index.html">5</a> <a class="pn" href="../season-1/japanese-pronunciation/3-6/index.html">6</a> <a class="pn" href="../season-1/japanese-pronunciation/3-7.html">7</a> <a class="pn" href="../season-1/japanese-pronunciation/3-8/index.html">8</a> <a class="pn" href="../season-1/japanese-pronunciation/3-9/index.html">9</a> </li>
+				
+				<li>4. <a href="../season-1/reading-writing-memorizing-hiragana/why/index.html">Reading Hiragana</a> &#8594; <a class="pw" href="../season-1/japanese-pronunciation/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-1/reading-writing-memorizing-hiragana/index.html">1</a> <a class="pn" href="../season-1/reading-writing-memorizing-hiragana/4-2.1.html">2</a> <a class="pn" href="../season-1/reading-writing-memorizing-hiragana/4-3.html">3</a> <a class="pn" href="../season-1/reading-writing-memorizing-hiragana/4-4/index.html">4</a> <a class="pn" href="../season-1/reading-writing-memorizing-hiragana/4-5/index.html">5</a> <a class="pn" href="../season-1/reading-writing-memorizing-hiragana/4-6/index.html">6</a> <a class="pn" href="../season-1/reading-writing-memorizing-hiragana/4-7.html">7</a> <a class="pn" href="../season-5/purpose/4-8/index.html">8</a> <a class="pn" href="../season-1/reading-writing-memorizing-hiragana/4-9/index.html">9</a> </li>
+				
+				<li>5. <a href="../season-1/studying-what-youre-passionate-about/index.html">Studying Your Passion</a> &#8594; <a class="pw" href="../season-1/studying-what-youre-passionate-about/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-1/studying-what-youre-passionate-about/index.html">1</a> <a class="pn" href="../season-1/studying-what-youre-passionate-about/5-2.1.html">2</a> <a class="pn" href="../season-1/studying-what-youre-passionate-about/5-3.1.html">3</a> <a class="pn" href="../season-1/studying-what-youre-passionate-about/5-4.1.html">4</a> <a class="pn" href="../season-1/studying-what-youre-passionate-about/5-5.1.html">5</a> <a class="pn" href="../season-1/studying-what-youre-passionate-about/5-6/index.html">6</a> </li>
+				
+				<li>6. <a href="../season-1/japanese-grammar-with-yoda/why/index.html">Japanese Grammar With Yoda</a> &#8594; <a class="pw" href="../season-1/japanese-grammar-with-yoda/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-1/japanese-grammar-with-yoda/index.html">1</a> <a class="pn" href="../season-1/japanese-grammar-with-yoda/6-2/index.html">2</a> <a class="pn" href="../season-1/japanese-grammar-with-yoda/6-3/index.html">3</a> <a class="pn" href="../season-1/japanese-grammar-with-yoda/6-4/index.html">4</a> <a class="pn" href="../season-1/japanese-grammar-with-yoda/6-5/index.html">5</a> <a class="pn" href="../season-1/japanese-grammar-with-yoda/6-6/index.html">6</a> <a class="pn" href="../season-1/japanese-grammar-with-yoda/6-7/index.html">7</a> <a class="pn" href="../season-1/japanese-grammar-with-yoda/6-8/index.html">8</a> &#8594; <a class="pp" href="../season-1/japanese-grammar-with-yoda/practice.html">Practice</a></li>
+				
+				<li>7. <a href="../kanji/kanji-intro/why/index.html">An Intro To Kanji</a> &#8594; <a class="pw" href="../kanji/kanji-intro/why/index.html">Why?</a> &#8594; <a class="pn" href="../kanji/kanji-intro/index.html">1</a> <a class="pn" href="../kanji/kanji-intro/1-2/index.html">2</a> <a class="pn" href="../kanji/kanji-intro/1-3/index.html">3</a> <a class="pn" href="../kanji/kanji-intro/1-4/index.html">4</a> <a class="pn" href="../kanji/kanji-intro/1-5/index.html">5</a> <a class="pn" href="../kanji/kanji-intro/1-6/index.html">6</a> <a class="pn" href="../kanji/kanji-intro/1-7/index.html">7</a> </li>
+				
+				<li>8. <a href="../kanji/radicals-intro/why/index.html">An Intro To Kanji Radicals</a> &#8594; <a class="pw" href="../kanji/radicals-intro/why/index.html">Why?</a> &#8594; <a class="pn" href="../kanji/radicals-intro/index.html">1</a> <a class="pn" href="../kanji/radicals-intro/2-2/index.html">2</a> <a class="pn" href="../kanji/radicals-intro/2-3/index.html">3</a> <a class="pn" href="../kanji/radicals-intro/2-4/index.html">4</a></li>
+				
+				<li>9. <a href="../season-1/review/index.html">Season 1 Review</a> &#8594; Pages: <a class="pn" href="../season-1/review/index.html">1</a> </li>
+				
+			</ul>
+
+			
+				
+			
+		<a name="s2"></a>	
+		<h2>Season 2</h2>
+		
+			<ul class="lessonmenu">
+			
+				<li>1. <a href="../season-1/asking-questions/index.html">How To Ask Questions In Japanese</a> &#8594; <a class="pw" href="../season-2/asking-questions/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-1/asking-questions/index.html">1</a> <a class="pn" href="../season-2/asking-questions/1-2/index.html">2</a> <a class="pn" href="../season-2/asking-questions/1-3.html">3</a> <a class="pn" href="../season-2/asking-questions/1-4/index.html">4</a> <a class="pn" href="../season-2/asking-questions/1-5/index.html">5</a> &#8594; <a class="pp" href="../season-2/asking-questions/practice/index.html">Practice</a></li>
+				
+				<li>2. <a href="../season-2/negatives-nouns/why/index.html">Negative Tense Nouns</a> &#8594; <a class="pw" href="../season-2/negatives-nouns/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-1/negatives-nouns/index.html">1</a> <a class="pn" href="../season-2/negatives-nouns/2-2/index.html">2</a> <a class="pn" href="../season-2/negatives-nouns/2-3/index.html">3</a> <a class="pn" href="../season-2/negatives-nouns/2-4/index.html">4</a> <a class="pn" href="../season-2/negatives-nouns/2-5/index.html">5</a> &#8594; <a class="pp" href="../season-2/negatives-nouns/practice/index.html">Practice</a></li>
+				
+				<li>3. <a href="../kanji/before-you-begin-your-kanji/why/index.html">Before You Begin Your Kanji</a> &#8594; <a class="pw" href="../kanji/before-you-begin-your-kanji/why/index.html">Why?</a> &#8594; <a class="pn" href="../kanji/before-you-begin-your-kanji/index.html">1</a> <a class="pn" href="../kanji/before-you-begin-your-kanji/4-2/index.html">2</a> <a class="pn" href="../kanji/before-you-begin-your-kanji/4-3/index.html">3</a> <a class="pn" href="../kanji/before-you-begin-your-kanji/4-4/index.html">4</a></li>
+				
+				<li>4. <a href="../season-2/past-tense-nouns/why/index.html">Past Tense Nouns</a> &#8594; <a class="pw" href="../season-2/past-tense-nouns/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-2/past-tense-nouns/index.html">1</a> <a class="pn" href="../season-2/past-tense-nouns/4-2/index.html">2</a> <a class="pk" href="../season-2/past-tense-nouns/4-3/index.html">Kanji 1-1</a> <a class="pn" href="../season-2/past-tense-nouns/4-4/index.html">4</a> <a class="pn" href="../season-2/past-tense-nouns/4-5/index.html">5</a> &#8594; <a class="pp" href="../season-2/past-tense-nouns/practice/index.html">Practice</a></li>
+				
+				<li>5. <a href="../season-2/past-negative-nouns/why/index.html">Combining The Past And The Negative</a> &#8594; <a class="pw" href="../season-2/past-negative-nouns/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-2/past-negative-nouns/index.html">1</a> <a class="pn" href="../season-2/past-negative-nouns/5-2/index.html">2</a> <a class="pk" href="../season-2/past-negative-nouns/5-3/index.html">Kanji 2-1</a> <a class="pn" href="../season-2/past-negative-nouns/5-4/index.html">4</a> <a class="pn" href="../season-2/past-negative-nouns/5-5/index.html">5</a> <a class="pn" href="../season-2/past-negative-nouns/5-6/index.html">6</a> <a class="pn" href="../season-3/dict-verbs/5-7/index.html">7</a> &#8594; <a class="pp" href="../season-2/past-negative-nouns/practice/index.html">Practice</a></li>
+				
+				<li>6. <a href="../kanji/kanji-intro/comment-page-50/why/index.html">Your First Particle, Ha Ha Ha!</a> &#8594; <a class="pw" href="../kanji/kanji-intro/comment-page-50/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-2/particle-ha/index.html">1</a> <a class="pn" href="../season-2/particle-ha/6-2/index.html">2</a> <a class="pn" href="../season-2/particle-ha/6-3/index.html">3</a> <a class="pn" href="../season-2/particle-ha/6-4/index.html">4</a> <a class="pn" href="../season-2/particle-ha/6-5/index.html">5</a> <a class="pn" href="../season-2/particle-ha/6-6/index.html">6</a> <a class="pn" href="../season-2/particle-ha/6-7/index.html">7</a> &#8594; <a class="pk" href="../season-2/particle-ha/6-8/index.html">Kanji 2-2</a> &#8594; <a class="pp" href="../season-2/particle-ha/practice/index.html">Practice</a></li>
+				
+				<li>7. <a href="../season-2/identity/why/index.html">Developing A Sense Of Identity</a> &#8594; <a class="pw" href="../season-2/identity/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-2/identity/index.html">1</a> <a class="pn" href="../season-2/identity/7-2/index.html">2</a> <a class="pn" href="../season-2/identity/7-3/index.html">3</a> <a class="pn" href="../season-2/identity/7-4/index.html">4</a> <a class="pn" href="../season-2/identity/7-5/index.html">5</a> <a class="pn" href="../season-2/identity/7-6/index.html">6</a> <a class="pn" href="../season-2/identity/7-7/index.html">7</a> <a class="pr" href="../season-2/identity/7-8/index.html">Radicals 3</a> <a class="pn" href="../season-2/identity/7-9/index.html">9</a> &#8594; <a class="pp" href="../season-2/identity/practice/index.html">Practice</a></li>
+				
+				<li>8. <a href="../season-2/this-that-that-over-there/why/index.html">This, That, &amp; That Over There</a> &#8594; <a class="pw" href="../season-2/this-that-that-over-there/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-2/this-that-that-over-there/index.html">1</a> <a class="pn" href="../season-2/this-that-that-over-there/8-2/index.html">2</a> <a class="pn" href="../season-2/this-that-that-over-there/8-3/index.html">3</a> <a class="pn" href="../season-2/this-that-that-over-there/8-4/index.html">4</a> <a class="pn" href="../season-5/dict-verbs/8-5/index.html">5</a> <a class="pn" href="../season-2/this-that-that-over-there/8-6/index.html">6</a> <a class="pn" href="../season-2/this-that-that-over-there/8-7/index.html">7</a> <a class="pn" href="../season-2/this-that-that-over-there/8-8/index.html">8</a> &#8594; <a class="pk" href="../season-2/this-that-that-over-there/8-9/index.html">Kanji 3-1</a> &#8594; <a class="pp" href="../season-2/this-that-that-over-there/practice/index.html">Practice</a></li>
+				
+				<li>9. <a href="../season-2/numbers/why/index.html">Counting And Numbers</a> &#8594; <a class="pw" href="../season-2/numbers/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-2/numbers/index.html">1</a> <a class="pn" href="../season-2/numbers/9-2/index.html">2</a> <a class="pn" href="../season-2/numbers/9-3/index.html">3</a> <a class="pn" href="../season-2/numbers/9-4/index.html">4</a> <a class="pn" href="../season-2/numbers/9-5/index.html">5</a> <a class="pn" href="../season-2/numbers/9-6/index.html">6</a> <a class="pn" href="../season-2/numbers/9-7/index.html">7</a> <a class="pn" href="../season-2/numbers/9-8/index.html">8</a> &#8594; <a class="pn" href="../season-2/numbers/9-9.html">Kanji 3-2</a> &#8594; <a class="pp" href="../season-2/numbers/practice/index.html">Practice</a></li>
+				
+				<li>10. <a href="../season-2/being-possessive/why/index.html">Why So Possessive?</a> &#8594; <a class="pw" href="../season-2/being-possessive/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-2/being-possessive/index.html">1</a> <a class="pn" href="../season-2/being-possessive/10-2/index.html">2</a> <a class="pn" href="../season-2/being-possessive/10-3/index.html">3</a> <a class="pn" href="../season-2/being-possessive/10-4/index.html">4</a> <a class="pn" href="../season-2/being-possessive/10-5/index.html">5</a> <a class="pn" href="../season-2/being-possessive/10-6/index.html">6</a> <a class="pn" href="../season-2/being-possessive/10-7/index.html">7</a> <a class="pn" href="../season-2/being-possessive/10-8/index.html">8</a> &#8594; <a class="pk" href="../season-2/being-possessive/10-9/index.html">Kanji 3-3</a> &#8594; <a class="pp" href="../season-2/being-possessive/practice/index.html">Practice</a></li>
+				
+				<li>11. <a href="../season-2/season-2-review-2/why/index.html">Season 2 Review</a> &#8594; <a class="pw" href="../season-2/season-2-review-2/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-2/season-2-review-2/index.html">1</a> <a class="pn" href="../season-2/season-2-review-2/11-2/index.html">2</a> <a class="pn" href="../season-5/plans/11-3/index.html">3</a> <a class="pn" href="../season-2/season-2-review-2/11-4/index.html">4</a></li>
+
+			</ul>
+		
+		<a name="s3"></a>
+		<h2>Season 3</h2>
+		
+			<ul class="lessonmenu">
+				
+				<li>1. <a href="../season-2/finding-time/index.html">Making Time To Study</a> &#8594; <a class="pn" href="../season-2/finding-time/index.html">1</a> <a class="pn" href="../season-3/finding-time/1-2/index.html">2</a> <a class="pn" href="../season-3/finding-time/1-3/index.html">3</a> <a class="pn" href="../season-3/finding-time/1-4/index.html">4</a> <a class="pn" href="../season-1/how-to-start-to-learn-japanese/1-5/index.html">5</a> <a class="pn" href="../season-3/finding-time/1-6/index.html">6</a> <a class="pn" href="../season-3/finding-time/1-7/index.html">7</a> <a class="pn" href="../season-3/finding-time/1-8/index.html">8</a></li>
+				
+				<li>2. <a href="../season-3/learn-katakana/index.html">Learning Katakana</a> &#8594; <a class="pn" href="../season-3/learn-katakana/index.html">1</a> <a class="pn" href="../season-3/learn-katakana/2-2/index.html">2</a> <a class="pn" href="../season-3/learn-katakana/2-3/index.html">3</a> <a class="pn" href="../season-3/learn-katakana/2-4/index.html">4</a> <a class="pn" href="../season-3/learn-katakana/2-5/index.html">5</a> <a class="pn" href="../season-3/learn-katakana/2-5/index.html">6</a></li>
+				
+				<li>3. <a href="../season-3/ha-and-ga/index.html">Particle Wars は vs. が</a> &#8594; <a class="pn" href="../season-3/ha-and-ga/index.html">1</a> <a class="pn" href="../season-3/ha-and-ga/3-2/index.html">2</a> <a class="pn" href="../season-3/ha-and-ga/3-3/index.html">3</a> <a class="pn" href="../season-3/ha-and-ga/3-4/index.html">4</a></li>
+				
+				<li>4. <a href="../season-3/love/index.html">The Things That You Love</a> &#8594; <a class="pn" href="../season-3/love/index.html">1</a> <a class="pn" href="../season-3/love/4-2/index.html">2</a> <a class="pn" href="../season-3/love/4-3/index.html">3</a> <a class="pn" href="../season-3/love/4-4/index.html">4</a> <a class="pn" href="../season-3/love/4-5/index.html">5</a> <a class="pk" href="../season-3/love/4-6/index.html">Kanji 3-4</a> &#8594; <a class="pp" href="../season-3/love/practice/index.html">Practice</a></li>
+				
+				<li>5. <a href="../season-3/hate/index.html">The Things That You Hate</a> &#8594; <a class="pn" href="../season-3/hate/index.html">1</a> <a class="pn" href="../season-3/hate/5-2/index.html">2</a> <a class="pn" href="../season-3/hate/5-3/index.html">3</a> <a class="pn" href="../season-3/hate/5-4/index.html">4</a> <a class="pn" href="../season-3/hate/5-5/index.html">5</a> <a class="pn" href="../season-3/hate/5-6/index.html">6</a> <a class="pn" href="../season-3/hate/5-7/index.html">7</a> &#8594; <a class="pr" href="../season-3/hate/5-8/index.html">Radicals 4</a> &#8594; <a class="pp" href="../season-3/hate/practice/index.html">Practice</a></li>
+				
+				<li>6. <a href="../season-2/the-dip/index.html">Have You Reached The Dip?</a> &#8594; <a class="pn" href="../season-2/the-dip/index.html">1</a> <a class="pn" href="../season-3/the-dip/6-2/index.html">2</a> <a class="pn" href="../season-3/the-dip/6-3/index.html">3</a> <a class="pn" href="../season-3/the-dip/6-4/index.html">4</a> <a class="pn" href="../season-3/the-dip/6-5/index.html">5</a></li>
+				
+				<li>7. <a href="../season-3/doing/index.html">Doing Something (Part 1)</a> &#8594; <a class="pn" href="../season-3/doing/index.html">1</a> <a class="pn" href="../season-3/doing/7-2/index.html">2</a> <a class="pn" href="../season-3/doing/7-3/index.html">3</a> <a class="pn" href="../season-3/doing/7-4/index.html">4</a> <a class="pn" href="../season-3/doing/7-5/index.html">5</a> <a class="pn" href="../season-3/doing/7-6/index.html">6</a> &#8594; <a class="pk" href="../season-3/doing/7-7/index.html">Kanji 4-1</a> &#8594; <a class="pp" href="../season-3/doing/practice/index.html">Practice</a></li>
+				
+				<li>8. <a href="../season-3/doing2/index.html">Doing Something (Part 2)</a>  &#8594; <a class="pn" href="../season-3/doing2/index.html">1</a> <a class="pn" href="../season-3/doing2/8-2.1.html">2</a> <a class="pn" href="../season-3/doing2/8-3/index.html">3</a> <a class="pn" href="../season-5/dict-verbs/8-4/index.html">4</a> <a class="pn" href="../season-3/doing2/8-5.1.html">5</a> <a class="pn" href="../season-3/doing2/8-6.1.html">6</a> <a class="pn" href="../season-3/doing2/8-7/index.html">7</a> <a class="pn" href="../season-3/doing2/8-8/index.html">8</a> &#8594; <a class="pk" href="../season-3/doing2/8-9/index.html">Kanji 4-2</a> &#8594; <a class="pp" href="../season-3/doing2/practice/index.html">Practice</a></li>
+				
+				<li>9. <a href="../season-3/sentence-enders/index.html">Japanese Sentence Enders</a> &#8594; <a class="pn" href="../season-3/sentence-enders/index.html">1</a> <a class="pn" href="../season-3/sentence-enders/9-2/index.html">2</a> <a class="pn" href="../season-3/sentence-enders/9-3/index.html">3</a> <a class="pn" href="../season-3/sentence-enders/9-4/index.html">4</a> <a class="pn" href="../season-3/sentence-enders/9-5/index.html">5</a> <a class="pn" href="../season-3/sentence-enders/9-6/index.html">6</a> <a class="pn" href="../season-3/sentence-enders/9-7/index.html">7</a> <a class="pn" href="../season-3/sentence-enders/9-8/index.html">8</a> &#8594; <a class="pn" href="../season-3/sentence-enders/9-9/index.html">Kanji 4-3</a> &#8594; <a class="pp" href="../season-3/sentence-enders/practice/index.html">Practice</a></li>
+				
+				<li>10. <a href="../season-3/keeping-up/index.html">Keeping Up With Everything</a> &#8594; <a class="pn" href="../season-3/keeping-up/index.html">1</a> <a class="pn" href="../season-3/keeping-up/10-2/index.html">2</a> <a class="pn" href="../season-3/keeping-up/10-3/index.html">3</a> <a class="pn" href="../season-3/keeping-up/10-4/index.html">4</a> <a class="pn" href="../season-3/keeping-up/10-5/index.html">5</a></li>
+				
+			</ul>
+		
+		<a name="s4"></a>
+		<h2>Season 4</h2>
+		
+			<ul class="lessonmenu">
+				
+				<li>1. <a href="../season-3/na-adj/index.html">な Adjectives</a> &#8594; <a class="pn" href="../season-3/na-adj/index.html">1</a> <a class="pn" href="../season-4/na-adj/1-2/index.html">2</a> <a class="pn" href="../season-4/na-adj/1-3/index.html">3</a> <a class="pn" href="../season-4/na-adj/1-4/index.html">4</a> <a class="pn" href="../season-4/na-adj/1-5/index.html">5</a> <a class="pn" href="../season-4/na-adj/1-6/index.html">6</a> <a class="pn" href="../season-4/na-adj/1-7/index.html">7</a> <a class="pn" href="../season-4/na-adj/1-8/index.html">8</a> &#8594; <a class="pk" href="../season-4/na-adj/1-9/index.html">Kanji 4-4</a></li>
+				
+				<li>2. <a href="../season-4/i-adj/index.html">い Adjectives</a> &#8594; <a class="pn" href="../season-4/i-adj/index.html">1</a> <a class="pn" href="../season-4/i-adj/2-2/index.html">2</a> <a class="pn" href="../season-5/casual-adj/2-3/index.html">3</a> <a class="pn" href="../season-4/i-adj/2-4/index.html">4</a> &#8594; <a class="pn" href="../season-4/i-adj/2-5/index.html">Kanji 4-5</a></li>
+				
+				<li>3. <a href="../season-4/i-adj-conjugation/index.html">い Adjectives Conjugation</a> &#8594; <a class="pn" href="../season-4/i-adj-conjugation/index.html">1</a> <a class="pn" href="../season-4/i-adj-conjugation/3-2/index.html">2</a> <a class="pn" href="../season-4/i-adj-conjugation/3-3/index.html">3</a> <a class="pn" href="../season-4/i-adj-conjugation/3-4/index.html">4</a> <a class="pn" href="../season-1/japanese-pronunciation/3-4/3-5/index.html">5</a> <a class="pn" href="../season-4/i-adj-conjugation/3-6/index.html">6</a> <a class="pn" href="../season-4/i-adj-conjugation/3-7/index.html">7</a> <a class="pn" href="../season-4/i-adj-conjugation/3-9/index.html">8</a> <a class="pn" href="../season-4/i-adj-conjugation/3-9/index.html">9</a> &#8594; <a class="pk" href="../season-4/i-adj-conjugation/3-10/index.html">Kanji 4-6</a></li>
+				
+				<li>4. <a href="../season-4/want/index.html">What Do You Want?</a> &#8594; <a class="pn" href="../season-4/want/index.html">1</a> <a class="pn" href="../season-4/want/4-2/index.html">2</a> <a class="pn" href="../season-4/want/4-3/index.html">3</a> <a class="pn" href="../season-4/want/4-4/index.html">4</a> <a class="pn" href="../season-4/want/4-5/index.html">5</a> <a class="pn" href="../season-4/want/4-6/index.html">6</a> &#8594; <a class="pk" href="../season-4/want/4-7/index.html">Kanji 4-7</a></li>
+				
+				<li>5. <a href="../season-4/adverbs/index.html">Adjectives + Verbs = Adverbs</a> &#8594; <a class="pn" href="../season-4/adverbs/index.html">1</a> <a class="pn" href="../season-4/adverbs/5-2/index.html">2</a> <a class="pn" href="../season-4/adverbs/5-3/index.html">3</a> <a class="pn" href="../season-3/dict-verbs/5-4/index.html">4</a> <a class="pn" href="../season-4/adverbs/5-5/index.html">5</a> <a class="pn" href="../season-4/adverbs/5-6/index.html">6</a> &#8594; <a class="pk" href="../season-4/adverbs/5-7/index.html">Kanji</a></li>
+				
+				<li>6. <a href="../season-4/difficult-easy/index.html">When THe Going Gets Tough</a> &#8594; <a class="pn" href="../season-4/difficult-easy/index.html">1</a> <a class="pn" href="../season-4/difficult-easy/6-2/index.html">2</a> <a class="pn" href="../season-4/difficult-easy/6-3/index.html">3</a> <a class="pn" href="../season-4/difficult-easy/6-4/index.html">4</a> <a class="pn" href="../season-4/difficult-easy/6-5/index.html">5</a> <a class="pn" href="../season-4/difficult-easy/6-6/index.html">6</a> <a class="pn" href="../season-4/difficult-easy/6-7/index.html">7</a> <a class="pn" href="../season-4/difficult-easy/6-8/index.html">8</a> &#8594; <a class="pk" href="../season-4/difficult-easy/6-9/index.html">Kanji 4-8</a></li>
+				
+				<li>7. <a href="../season-4/colors/index.html">Colorful Adjectives</a> &#8594; <a class="pn" href="../season-4/colors/index.html">1</a> <a class="pn" href="../season-4/colors/7-2/index.html">2</a> <a class="pn" href="../season-4/colors/7-3/index.html">3</a> <a class="pn" href="../season-4/colors/7-4/index.html">4</a> <a class="pn" href="../season-4/colors/7-5/index.html">5</a> <a class="pn" href="../season-4/colors/7-6/index.html">6</a> <a class="pn" href="../season-4/colors/7-7/index.html">7</a></li>
+				
+				<li>8. <a href="../season-3/go-do/index.html">What You'll Go Do</a> &#8594; <a class="pn" href="../season-3/go-do/index.html">1</a> <a class="pn" href="../season-4/go-do/8-6/index.html">2</a> <a class="pn" href="../season-4/go-do/8-7/index.html">3</a> &#8594; <a class="pr" href="../season-4/go-do/8-8/index.html">Radicals</a></li>
+				
+				<li>9. <a href="../season-4/social-learning/index.html">Social Learning</a> &#8594; <a class="pn" href="../season-4/social-learning/index.html">1</a> <a class="pn" href="../season-4/social-learning/9-2/index.html">2</a> <a class="pn" href="../season-4/social-learning/9-3/index.html">3</a> <a class="pn" href="../season-4/social-learning/9-4/index.html">4</a> <a class="pn" href="../season-4/social-learning/9-5/index.html">5</a> <a class="pn" href="../season-4/social-learning/9-6/index.html">6</a> <a class="pn" href="../season-4/social-learning/9-7/index.html">7</a></li>
+				
+				<li>10. <a href="../season-4/season-4-review/index.html">Season 4 Review</a> &#8594; <a class="pn" href="../season-4/season-4-review/index.html">1</a> <a class="pn" href="../season-4/season-4-review/10-2/index.html">2</a> <a class="pn" href="../season-4/season-4-review/10-3/index.html">3</a> <a class="pn" href="../season-4/season-4-review/10-4/index.html">4</a></li>
+				
+			</ul>
+		
+		<a name="s5"></a>
+		<h2>Season 5</h2>
+		
+			<ul class="lessonmenu">
+				
+				<li>1. <a href="../season-5/casual-nouns/index.html">Being Casual Part 1 (Nouns)</a> &#8594; <a class="pn" href="../season-5/casual-nouns/index.html">1</a> <a class="pn" href="../season-5/casual-nouns/1-2/index.html">2</a> <a class="pn" href="../season-3/finding-time/1-4/..1-3/index.html">3</a> <a class="pn" href="../season-5/casual-nouns/1-4/index.html">4</a> <a class="pn" href="../season-5/casual-nouns/1-5/index.html">5</a> <a class="pn" href="../season-5/casual-nouns/1-6/index.html">6</a> <a class="pn" href="../season-5/casual-nouns/1-7/index.html">7</a> <a class="pn" href="../season-5/casual-nouns/1-8/index.html">8</a> <a class="pn" href="../season-5/casual-nouns/1-9.html">9</a> &#8594; <a class="pk" href="../season-5/casual-nouns/1-10/index.html">Kanji 5-1</a></li>
+				
+				<li>2. <a href="../season-5/casual-adj/index.html">Being Casual Part 2 (Adjectives)</a> &#8594; <a class="pn" href="../season-5/casual-adj/index.html">1</a> <a class="pn" href="../season-5/casual-adj/2-2/index.html">2</a> <a class="pn" href="../season-5/casual-adj/2-3/index.html">3</a> <a class="pn" href="../season-5/casual-adj/2-4/index.html">4</a> <a class="pn" href="../season-5/casual-adj/2-5/index.html">5</a> <a class="pn" href="../season-5/casual-adj/2-6/index.html">6</a> &#8594; <a class="pk" href="../season-5/casual-adj/2-7/index.html">Kanji 5-2</a></li>
+				
+				<li>3. <a href="../season-5/dict-verbs/index.html">Being Casual Part 3 (Verbs)</a> &#8594; <a class="pn" href="../season-5/dict-verbs/index.html">1</a> <a class="pn" href="../season-5/dict-verbs/3-2/index.html">2</a> <a class="pn" href="../season-5/dict-verbs/3-3/index.html">3</a> <a class="pn" href="../season-5/dict-verbs/3-4/index.html">4</a> <a class="pn" href="../season-5/dict-verbs/3-5/index.html">5</a> <a class="pn" href="../season-5/dict-verbs/3-6/index.html">6</a> <a class="pn" href="../season-1/learning-to-read-hiragana/3-7/index.html">7</a> <a class="pn" href="../season-5/dict-verbs/3-8/index.html">8</a></li>
+				
+				<li>4. <a href="../season-5/purpose/index.html">The Purpose</a> &#8594; <a class="pn" href="../season-5/purpose/index.html">1</a> <a class="pn" href="../season-5/purpose/4-2/index.html">2</a> <a class="pn" href="../season-5/purpose/4-3/index.html">3</a> <a class="pn" href="../season-5/purpose/4-4/index.html">4</a> <a class="pn" href="../season-5/purpose/4-5/index.html">5</a> <a class="pn" href="../season-5/purpose/4-6/index.html">6</a> <a class="pn" href="../season-5/purpose/4-7/index.html">7</a> &#8594; <a class="pk" href="../season-5/purpose/4-8/index.html">Kanji 5-3</a></li>
+				
+				<li>5. <a href="../season-5/expected/index.html">What You Expect</a> &#8594; <a class="pn" href="../season-5/expected/index.html">1</a> <a class="pn" href="../season-5/expected/5-2/index.html">2</a> <a class="pn" href="../season-5/expected/5-3/index.html">3</a> <a class="pn" href="../season-5/expected/5-4/index.html">4</a> <a class="pn" href="../season-5/expected/5-5/index.html">5</a> &#8594; <a class="pk" href="../season-5/expected/5-6/index.html">Kanji 5-4</a></li>
+				
+				<li>6. <a href="../season-5/dict-past/index.html">Past Tense Dictionary Form</a> &#8594; <a class="pn" href="../season-5/dict-past/index.html">1</a> <a class="pn" href="../season-5/dict-past/6-2/index.html">2</a> <a class="pn" href="../season-5/dict-past/6-3/index.html">3</a> <a class="pn" href="../season-5/dict-past/6-4/index.html">4</a> <a class="pn" href="../season-5/dict-past/6-5/index.html">5</a> <a class="pn" href="../season-5/dict-past/6-6/index.html">6</a> <a class="pn" href="../season-5/dict-past/6-7/index.html">7</a> <a class="pn" href="../season-5/dict-past/6-8/index.html">8</a> &#8594; <a class="pk" href="../season-5/dict-past/6-9.html">Kanji 5-5</a></li>
+				
+				<li>7. <a href="../season-3/tara/index.html">If</a> &#8594; <a class="pn" href="../season-3/tara/index.html">1</a> <a class="pn" href="../season-5/tara/7-2/index.html">2</a> <a class="pn" href="../season-5/tara/7-3/index.html">3</a> <a class="pn" href="../season-5/tara/7-4/index.html">4</a> <a class="pn" href="../season-5/tara/7-5/index.html">5</a> <a class="pn" href="../season-5/tara/7-6/index.html">6</a> <a class="pn" href="../season-5/tara/7-7/index.html">7</a> <a class="pn" href="../season-5/tara/7-8/index.html">8</a> <a class="pn" href="../season-5/tara/7-9/index.html">9</a> &#8594; <a class="pk" href="../season-5/tara/7-10/index.html">Kanji 5-6</a></li>
+				
+				<li>8. <a href="../season-5/sugi/index.html">Too Much</a> &#8594; <a class="pn" href="../season-5/sugi/index.html">1</a> <a class="pn" href="../season-5/sugi/8-2/index.html">2</a> <a class="pn" href="../season-5/sugi/8-3/index.html">3</a> <a class="pn" href="../season-5/sugi/8-4/index.html">4</a> <a class="pn" href="../season-5/sugi/8-5/index.html">5</a> <a class="pn" href="../season-5/sugi/8-6/index.html">6</a> &#8594; <a class="pk" href="../season-5/sugi/8-7/index.html">Kanji 5-7</a> &#8594; <a class="pn" href="../season-5/sugi/8-8/index.html">8</a></li>
+				
+				<li>9. <a href="../season-5/dict-past-neg/index.html">Negative &amp; Past Negative Casual Verbs</a> &#8594; <a class="pn" href="../season-5/dict-past-neg/index.html">1</a> <a class="pn" href="../season-5/dict-past-neg/9-2/index.html">2</a> <a class="pn" href="../season-5/dict-past-neg/9-3.1.html">3</a> <a class="pn" href="../season-5/dict-past-neg/9-4.1.html">4</a> <a class="pn" href="../season-5/dict-past-neg/9-5.1.html">5</a> <a class="pn" href="../season-5/dict-past-neg/9-6.1.html">6</a> <a class="pn" href="../season-5/dict-past-neg/9-7.1.html">7</a> <a class="pn" href="../season-5/dict-past-neg/9-8/index.html">8</a> &#8594; <a class="pp" href="../season-5/dict-past-neg/9-9/index.html">Kanji 5-8</a></li>
+				
+				<li>10. <a href="../season-5/plateau/index.html">Experts And Amateurs</a> &#8594; <a class="pn" href="../season-5/plateau/index.html">1</a> <a class="pn" href="../season-5/plateau/10-2/index.html">2</a> <a class="pn" href="../season-5/plateau/10-3/index.html">3</a> <a class="pn" href="../season-5/plateau/10-4/index.html">4</a> <a class="pn" href="../season-5/plateau/10-5/index.html">5</a> <a class="pn" href="../season-5/plateau/10-6/index.html">6</a> <a class="pn" href="../season-5/plateau/10-7/index.html">7</a> &#8594; <a class="pr" href="../season-5/plateau/10-8/index.html">Radicals 6</a></li>
+				
+				<li>11. <a href="../season-5/plans/index.html">Plans &amp; Conviction</a> &#8594; <a class="pn" href="../season-5/plans/index.html">1</a> <a class="pn" href="../season-5/plans/11-2/index.html">2</a> <a class="pn" href="../season-5/plans/11-3/index.html">3</a> <a class="pn" href="../season-5/plans/11-4/index.html">4</a> <a class="pn" href="../season-5/plans/11-5/index.html">5</a> <a class="pn" href="../season-5/plans/11-6/index.html">6</a> <a class="pk" href="../season-5/plans/11-7/index.html">Kanji 6.1</a></li>
+				
+				<li>12. <a href="../season-5/become/index.html">What You Will Become</a> &#8594; <a class="pn" href="../season-5/become/index.html">1</a> <a class="pn" href="../season-2/identity/12-2/index.html">2</a> <a class="pn" href="../season-5/become/12-3/index.html">3</a> <a class="pn" href="../season-5/become/12-4/index.html">4</a> <a class="pn" href="../season-5/become/12-5/index.html">5</a> &#8594; <a class="pk" href="../season-5/become/12-6/index.html">Kanji 6.2</a></li>
+				
+			</ul>
+		
+		<a name="s6"></a>
+		<h2>Season 6</h2>
+		
+			<ul class="lessonmenu">
+				
+				<li>1. <a href="../season-6/particle-to/index.html">The Particle と</a> &#8594; <a class="pn" href="../season-6/particle-to/1-1/index.html">1</a> <a class="pn" href="../kanji/kanji-intro/comment-page-50/1-2/index.html">2</a> <a class="pn" href="../season-6/particle-to/1-3/index.html">3</a> <a class="pn" href="../season-6/particle-to/1-4/index.html">4</a> <a class="pn" href="../season-6/particle-to/1-5/index.html">5</a> <a class="pn" href="../season-6/particle-to/1-6/index.html">6</a> <a class="pn" href="../season-6/particle-to/1-7/index.html">7</a> <a class="pn" href="../season-6/particle-to/1-8/index.html">8</a> <a class="pn" href="../season-6/particle-to/1-9/index.html">9</a> &#8594; <a class="pk" href="../season-6/particle-to/1-10/index.html">Kanji 6.3</a></li>
+				
+				<li>2. <a href="../season-6/think/index.html">What Do You Think?</a> &#8594; <a class="pn" href="../season-6/think/index.html">1</a> <a class="pn" href="../season-6/think/2-2/index.html">2</a> <a class="pn" href="../season-6/think/2-3/index.html">3</a> <a class="pn" href="../season-6/think/2-4/index.html">4</a> <a class="pn" href="../season-6/think/2-5/index.html">5</a> <a class="pn" href="../season-6/think/2-6/index.html">6</a> <a class="pn" href="../season-6/think/2-7/index.html">7</a> <a class="pn" href="../season-6/think/2-8/index.html">8</a></li>
+				
+				<li>3. <a href="../season-6/particle-de/why/index.html">The Particle で</a> &#8594; <a class="pw" href="../season-6/particle-de/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-6/particle-de/index.html">1</a> <a class="pn" href="../season-6/particle-de/3-2/index.html">2</a> <a class="pn" href="../season-6/particle-de/3-3/index.html">3</a> <a class="pn" href="../season-6/particle-de/3-4/index.html">4</a> <a class="pn" href="../season-6/particle-de/3-5/index.html">5</a> <a class="pn" href="../season-6/particle-de/3-6/index.html">6</a> <a class="pn" href="../season-6/particle-de/3-7/index.html">7</a> <a class="pn" href="../season-6/particle-de/3-8/index.html">8</a> &#8594; <a class="pk" href="../season-6/particle-de/3-9/index.html">Kanji 6.4</a></li>
+				
+				<li>4. <a href="../season-6/exist/why/index.html">To Have And To Exist</a> &#8594; <a class="pw" href="../season-6/exist/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-6/exist/index.html">1</a> <a class="pn" href="../season-6/exist/4-2/index.html">2</a> <a class="pn" href="../season-6/exist/4-3/index.html">3</a> <a class="pn" href="../season-6/exist/4-4/index.html">4</a> <a class="pn" href="../season-6/exist/4-5/index.html">5</a> <a class="pn" href="../season-6/exist/4-6/index.html">6</a> &#8594; <a class="pk" href="../season-6/exist/4-7/index.html">Kanji 6.5</a></li>
+				
+				<li>5. <a href="../season-6/while/why/index.html">While</a> &#8594; <a class="pw" href="../season-6/while/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-6/while/index.html">1</a> <a class="pn" href="../season-6/while/5-2/index.html">2</a> <a class="pn" href="../season-6/while/5-3/index.html">3</a> <a class="pn" href="../season-6/while/5-4/index.html">4</a> <a class="pn" href="../season-3/dict-verbs/5-5/index.html">5</a> &#8594; <a class="pk" href="../season-3/dict-verbs/5-6/index.html">Kanji 6.6</a></li>
+				
+				<li>6. <a href="../season-6/lets/why/index.html">Let's</a> &#8594; <a class="pw" href="../season-6/lets/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-6/lets/index.html">1</a> <a class="pn" href="../season-6/lets/6-2/index.html">2</a> <a class="pn" href="../season-6/lets/6-3/index.html">3</a> <a class="pn" href="../season-6/lets/6-4/index.html">4</a> <a class="pn" href="../season-6/lets/6-5/index.html">5</a> <a class="pn" href="../season-6/lets/6-6/index.html">6</a> <a class="pn" href="../season-6/lets/6-7/index.html">7</a> &#8594; <a class="pr" href="../season-6/lets/6-8/index.html">Radicals 7</a> &#8594; <a class="pp" href="../season-6/lets/practice/index.html">Practice</a></li>
+				
+				<li>7. <a href="../season-6/nominalization/why/index.html">Nominalization の</a> &#8594; <a class="pw" href="../season-6/nominalization/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-6/nominalization/index.html">1</a> <a class="pn" href="../season-6/nominalization/7-2/index.html">2</a> <a class="pn" href="../season-6/nominalization/7-3/index.html">3</a> <a class="pn" href="../season-6/nominalization/7-4/index.html">4</a> <a class="pn" href="../season-6/nominalization/7-5/index.html">5</a> <a class="pn" href="../season-6/nominalization/7-6/index.html">6</a> <a class="pn" href="../season-6/nominalization/7-7/index.html">7</a> <a class="pn" href="../season-6/nominalization/7-8/index.html">8</a> <a class="pn" href="../season-6/nominalization/7-9/index.html">9</a> <a class="pn" href="../season-6/nominalization/7-10/index.html">10</a> &#8594; <a class="pp" href="../season-6/nominalization/practice/index.html">Practice</a></li>
+				
+				<li>8. <a href="../season-6/transitive-intransitive/why/index.html">Transitive &amp; Intransitive Verbs</a> &#8594; <a class="pw" href="../season-6/transitive-intransitive/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-6/transitive-intransitive/index.html">1</a> <a class="pn" href="../season-5/dict-verbs/8-2/index.html">2</a> <a class="pn" href="../season-5/dict-verbs/8-3/index.html">3</a> <a class="pn" href="../season-6/transitive-intransitive/8-4/index.html">4</a> <a class="pn" href="../season-6/transitive-intransitive/8-5/index.html">5</a> <a class="pn" href="../season-6/transitive-intransitive/8-6/index.html">6</a> <a class="pn" href="../season-6/transitive-intransitive/8-7/index.html">7</a> <a class="pn" href="../season-6/transitive-intransitive/8-8/index.html">8</a> &#8594; <a class="pk" href="../season-6/transitive-intransitive/8-9/index.html">Kanji 7-1</a> &#8594; <a class="pp" href="../season-6/transitive-intransitive/practice/index.html">Practice</a></li>
+				
+				<li>9. <a href="../season-6/passive/why/index.html">Being Passive</a> &#8594; <a class="pw" href="../season-6/passive/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-6/passive/index.html">1</a> <a class="pn" href="../season-6/passive/9-2/index.html">2</a> <a class="pn" href="../season-6/passive/9-3/index.html">3</a> <a class="pn" href="../season-6/passive/9-4/index.html">4</a> <a class="pn" href="../season-6/passive/9-5/index.html">5</a> <a class="pn" href="../season-6/passive/9-6/index.html">6</a> <a class="pn" href="../season-6/passive/9-7/index.html">7</a> <a class="pn" href="../season-6/passive/9-8/index.html">8</a> <a class="pn" href="../season-6/passive/9-9/index.html">9</a> &#8594; <a class="pk" href="../season-6/passive/9-10/index.html">Kanji 7-2</a> &#8594; <a class="pp" href="../season-6/passive/practice/index.html">Practice</a></li>
+				
+				<li>10. <a href="../season-6/koko/why/index.html">Here, THere, And Over There</a> &#8594; <a class="pw" href="../season-6/koko/why/index.html">Why?</a> &#8594; <a class="pn" href="../season-6/koko/index.html">1</a> <a class="pn" href="../season-6/koko/10-2/index.html">2</a> <a class="pn" href="../season-6/koko/10-3/index.html">3</a> <a class="pn" href="../season-6/koko/10-4/index.html">4</a> <a class="pn" href="../season-6/koko/10-5/index.html">5</a> <a class="pn" href="../season-6/koko/10-6/index.html">6</a> <a class="pn" href="../season-6/koko/10-7/index.html">7</a> <a class="pn" href="../season-6/koko/10-8/index.html">8</a> &#8594; <a class="pp" href="../radicals/1-2-stroke/practice/index.html">Practice</a></li>
+				
+				<li>11. <a href="../season-6/review/index.html">Season 6 Review</a> &#8594; <a class="pn" href="../season-6/review/index.html">1</a> <a class="pn" href="../season-6/review/11-2/index.html">2</a> <a class="pn" href="../season-6/review/11-3.html">3</a></li>
+				
+			</ul>
+		
+		<a name="s7"></a>
+		<h2>Season 7</h2>		
+		
+		<ul class="lessonmenu">
+				
+				<li>1. <a href="../season-7/te-form/index.html">Te-Form Verbs</a> &#8594; <a class="pn" href="../season-7/te-form/index.html">1</a> <a class="pn" href="../season-7/te-form/1-2/index.html">2</a> <a class="pn" href="../season-7/te-form/1-3/index.html">3</a> <a class="pn" href="../season-7/te-form/1-4/index.html">4</a> <a class="pn" href="../season-7/te-form/1-5/index.html">5</a> <a class="pn" href="../season-7/te-form/1-6/index.html">6</a> <a class="pn" href="../season-7/te-form/1-7/index.html">7</a> <a class="pn" href="../season-7/te-form/1-8/index.html">8</a> &#8594; <a class="pk" href="../season-7/te-form/1-9/index.html">Kanji 7-3</a></li>
+				
+				<li>2. <a href="../season-7/please/why/index.html">Please</a> &#8594; <a class="pn" href="../season-7/please/index.html">1</a> <a class="pn" href="../season-7/please/2-2/index.html">2</a> <a class="pn" href="../season-7/please/2-3/index.html">3</a> <a class="pn" href="../season-7/please/2-4/index.html">4</a> <a class="pn" href="../season-7/please/2-5/index.html">5</a> <a class="pn" href="../season-7/please/2-6/index.html">6</a> <a class="pn" href="../season-7/please/2-7/index.html">7</a> &#8594; <a class="pk" href="../season-7/please/2-8/index.html">Kanji 7-4</a> &#8594; <a class="pp" href="../season-7/please/practice/index.html">Practice</a></li>
+				
+				<li>3. <a href="../season-7/trying/why/index.html">Trying</a> &#8594; <a class="pn" href="../season-7/trying/index.html">1</a> <a class="pn" href="../season-7/trying/3-2/index.html">2</a> <a class="pn" href="../season-7/trying/3-3/index.html">3</a> <a class="pn" href="../season-7/trying/3-4/index.html">4</a> <a class="pn" href="../season-7/trying/3-5/index.html">5</a> <a class="pn" href="../season-7/trying/3-6/index.html">6</a> <a class="pn" href="../season-7/trying/3-7/index.html">7</a> &#8594; <a class="pr" href="../season-7/trying/3-8/index.html">Radicals 8</a> &#8594; <a class="pp" href="../season-7/trying/practice/index.html">Practice</a></li>
+				
+				<li>4. <a href="../season-7/trying/but/index.html">But But But...</a> &#8594; <a class="pn" href="../season-7/trying/but/index.html">1</a> <a class="pn" href="../season-7/but/4-2.1.html">2</a> <a class="pn" href="../season-7/but/4-3/index.html">3</a> <a class="pn" href="../season-7/but/4-4/index.html">4</a> <a class="pn" href="../season-7/but/4-5/index.html">5</a> <a class="pn" href="../season-7/but/4-6/index.html">6</a> <a class="pn" href="../season-7/but/4-7/index.html">7</a> <a class="pn" href="../season-7/but/4-8/index.html">8</a> &#8594; <a class="pk" href="../season-7/but/4-9/index.html">Kanji 8-1</a> &#8594; <a class="pp" href="../season-7/but/practice/index.html">Practice</a></li>
+				
+				<li>5. <a href="../season-7/tehoshii/index.html">Want You To Do</a> &#8594; <a class="pn" href="../season-7/tehoshii/index.html">Lesson</a> &#8594; <a class="pk" href="../season-7/tehoshii/kanji/index.html">Kanji 8-2</a> &#8594; <a class="pp" href="../season-7/tehoshii/practice/index.html">Practice</a></li>
+				
+				<li>6. <a href="../season-7/progressive/index.html">Being Progressive With Your Verbs</a> &#8594; <a class="pn" href="../season-7/progressive/index.html">Lesson</a> &#8594; <a class="pp" href="../season-7/progressive/practice.html">Practice</a></li>
+				
+				<li>7. <a href="../season-7/from/index.html">From から</a> &#8594; <a class="pn" href="../season-7/from/index.html">Lesson</a> &#8594; <a class="pp" href="../season-7/from/practice/index.html">Practice</a></li>
+				
+				<li>8. <a href="../season-7/because/index.html">Because から</a> &#8594; <a class="pn" href="../season-7/because/index.html">Lesson</a> &#8594; <a class="pp" href="../season-7/because/practice.1.html">Practice</a></li>
+				
+				<li>9. <a href="../season-7/giving/index.html">Giving &amp; Receiving</a> &#8594; <a class="pn" href="../season-7/giving/index.html">Lesson</a> &#8594; <a class="pp" href="../season-7/giving/practice/index.html">Practice</a> &#8594; <a class="pn" href="../season-7/giving/yaru/index.html">Yaru</a> &#8594; <a class="pk" href="../season-7/giving/kanji/index.html">Kanji 8-3</a></li>
+				
+				<li>10. <a href="../season-7/giving-actions/index.html">Giving Actions</a> &#8594; <a class="pn" href="../season-7/giving-actions/index.html">Lesson</a> &#8594; <a class="pp" href="../season-7/giving-actions/practice/index.html">Practice</a> &#8594; <a class="pn" href="../season-7/giving-actions/kure-yaru/index.html">Kure &amp; Yaru</a> &#8594; <a class="pn" href="../season-7/giving-actions/choudai/index.html">Choudai</a> &#8594; <a class="pp" href="../season-7/giving-actions/choudai/practice/index.html">Practice</a></li>
+				
+				<li>11. <a href="../season-7/review/index.html">Season 7 Review</a> &#8594; <a class="pn" href="../season-7/review/index.html">Review</a></li>
+
+			</ul>
+			
+		<a name="s8"></a>
+		<h2>Season 8</h2>		
+		
+		<ul class="lessonmenu">
+				
+				<li>1. <a href="../season-8/time/index.html">Time</a> &#8594; <a class="pn" href="../season-8/time/index.html">Lesson</a> &#8594; <a class="pk" href="../season-8/time/time-kanji.1.html">Kanji 9</a> &#8594; <a class="pn" href="../season-8/time-concepts/index.html">Time Concepts</a>
+
+				<li>2. <a href="../season-8/time/years/index.html">Time In Years</a> &#8594; <a class="pn" href="../season-8/time/years/index.html">Lesson</a> &#8594; <a class="pp" href="../season-8/years/practice/index.html">Practice</a>
+
+				<li>3. <a href="../season-8/months/index.html">Time In Months</a> &#8594; <a class="pn" href="../season-8/months/index.html">Lesson</a> &#8594; <a class="pp" href="../season-8/months/practice.1.html">Practice</a>
+				
+				<li>4. <a href="../season-8/weeks/index.html">Time In Weeks</a> &#8594; <a class="pn" href="../season-8/weeks/index.html">Lesson</a> &#8594; <a class="pp" href="../season-8/weeks/practice.1.html">Practice</a>
+
+				<li>5. <a href="../season-8/days/index.html">Time In Days</a> &#8594; <a class="pn" href="../season-8/days/index.html">Lesson</a> &#8594; <a class="pp" href="../season-8/days/practice.1.html">Practice</a>
+
+				<li>6. <a href="../season-8/days-of-the-week/index.html">Days Of The Week</a> &#8594; <a class="pn" href="../season-8/days-of-the-week/index.html">Lesson</a> &#8594; <a class="pp" href="../season-8/days-of-the-week/practice.1.html">Practice</a>
+
+				<li>7. <a href="../season-8/hours/index.html">Time In Hours</a> &#8594; <a class="pn" href="../season-8/hours/index.html">Lesson</a> &#8594; <a class="pp" href="../season-8/hours/practice.1.html">Practice</a>
+
+				<li>8. <a href="../season-8/minutes/index.html">Time In Minutes</a> &#8594; <a class="pn" href="../season-8/minutes/index.html">Lesson</a> &#8594; <a class="pp" href="../season-8/minutes/practice.1.html">Practice</a>
+
+				<li>9. <a href="../season-8/seconds/index.html">Time In Seconds</a> &#8594; <a class="pn" href="../season-8/seconds/index.html">Lesson</a> &#8594; <a class="pp" href="../season-8/seconds/practice.1.html">Practice</a>
+
+				<li>10. <a href="../season-8/when/index.html">Time For "When"</a> &#8594; <a class="pn" href="../season-8/when/index.html">Lesson</a> &#8594; <a class="pn" href="../season-8/when/nouns.1.html">Nouns</a> &#8594; <a class="pn" href="../season-8/when/adjectives.1.html">Adjectives</a> &#8594; <a class="pn" href="../season-8/when/verbs.1.html">Verbs</a> &#8594; <a class="pp" href="../season-8/when/practice.1.html">Practice</a>
+
+				<li>11. <a href="../season-8/review/index.html">Season 8 Review</a> &#8594; <a class="pn" href="../season-8/review/index.html">Lesson</a> &#8594; <a class="pp" href="../season-8/review/practice.1.html">Practice</a>
+
+		</ul>			
+
+<!--
+
+My template for menu-ness
+			
+				<li>1. <a href="asdf">asdf</a> &#8594; <a class="pn" href="asdf">1</a> <a class="pn" href="asdf">2</a> <a class="pn" href="asdf">3</a> <a class="pn" href="asdf">4</a> <a class="pn" href="asdf">5</a> <a class="pn" href="asdf">6</a> <a class="pn" href="asdf">7</a> <a class="pn" href="asdf">8</a> <a class="pn" href="asdf">9</a> &#8594; <a class="pp" href="asdf">Practice</a></li>
+-->			
+		
+		<a name="advanced"></a>
+		<h2>Advanced</h2>		
+		
+			<ul class="lessonmenu">
+				
+				<li><a href="../advanced/emi/index.html">Emi: Growing Up In Japan</a> &#8594; Emi talks about what it's like to grow up in Japan in this advanced lesson.</li>
+				<li><a href="../coming-soon/index.html">Kaiju Love (Coming Soon)</a> &#8594; The bigger they are, the harder they love.</li>
+				
+			</ul>
+		
+			<a class="btn" href="index.html#top" style="margin:30px 0;">Back To Top ↑</a>
+
+			
+				
+		
+
+		<div class="hareru"></div>
+		
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

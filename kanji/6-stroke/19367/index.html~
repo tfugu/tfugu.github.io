@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  6 Stroke Kanji</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 6 Stroke Kanji Comments Feed" href="http://www.textfugu.com/kanji/6-stroke/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='6. 5-Stroke Kanji (Group 4)' href='../../../season-5/expected/5-6/index.html' />
+<link rel='next' title='7 Stroke Kanji' href='../../../radicals/7-stroke/index.html' />
+<link rel='canonical' href='../index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-12692 page-parent page-child parent-pageid-2313 page-template page-template-template-fullwidth-php logged-in paged-19367 page-paged-19367 safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-12692 page type-page status-publish hentry">
+
+	                <h1>6 Stroke Kanji</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1>6 Stroke Kanji</h1>
+<h4>&#8220;If you will make the necessary effort you can develop any talent.&#8221; &#8211; Wallace D Wattles</h4>
+<p>We&#8217;re going to up the number of kanji per set now to 15. I think you&#8217;re getting better at learning kanji, and it&#8217;s always good to push and challenge yourself. Don&#8217;t think of how difficult this will be (it won&#8217;t be that bad, jeeeeesh). Instead, think of how luck you are to get to learn <em>five extra kanji</em> per group. That&#8217;s awesome, if you ask me.</p>
+<p><a name="1"></a></p>
+<h3>Group 1</h3>
+<table>
+<thead>
+<tr>
+<th>Kanji</th>
+<th>Meaning</th>
+<th>音 (on)</th>
+<th>訓 (kun)</th>
+<th>Strokes</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/休/#top">休</a></td>
+<td>Rest</td>
+<td>きゅう</td>
+<td>やす.み</td>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/先/#top">先</a></td>
+<td>Previous</td>
+<td>さき</td>
+<td>ま.ず</td>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/名/#top">名</a></td>
+<td>Name</td>
+<td>めい</td>
+<td>な</td>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/字/#top">字</a></td>
+<td>Letter</td>
+<td>じ</td>
+<td>n/i</td>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/年/#top">年</a></td>
+<td>Year</td>
+<td>ねん</td>
+<td>とし</td>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/早/#top">早</a></td>
+<td>Early</td>
+<td>そう</td>
+<td>はや.い</td>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/気/#top">気</a></td>
+<td>Energy/Feeling</td>
+<td>き</td>
+<td>いき</td>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/百/#top">百</a></td>
+<td>Hundred</td>
+<td>ひゃく</td>
+<td>n/i</td>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/竹/#top">竹</a></td>
+<td>Bamboo</td>
+<td>n/i</td>
+<td>たけ</td>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/糸/#top">糸</a></td>
+<td>Thread</td>
+<td>n/i</td>
+<td>いと</td>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/耳/#top">耳</a></td>
+<td>Ear</td>
+<td>n/i</td>
+<td>みみ</td>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/虫/#top">虫</a></td>
+<td>Insect, Bug</td>
+<td>n/i</td>
+<td>むし</td>
+<td>6</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/交/#top">交</a></td>
+<td>Mix</td>
+<td>こう</td>
+<td>まじ.＊</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/会/#top">会</a></td>
+<td>Meet</td>
+<td>あい</td>
+<td>こう</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/光/#top">光</a></td>
+<td>Sunlight</td>
+<td>こう</td>
+<td>ひかり</td>
+<td>6</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+<p><span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/vocab/kanji/kanjivocab6-1.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji Vocab 6.1</a></span> ← Import To Your Vocab Deck<br />
+<span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/kanji/06-01.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji 6.1</a></span> ← Import To Your Kanji Meanings Deck</p>
+<p><a name="2"></a></p>
+<h3>Group 2</h3>
+<table>
+<thead>
+<tr>
+<th>Kanji</th>
+<th>Meaning</th>
+<th>音 (on)</th>
+<th>訓 (kun)</th>
+<th>Strokes</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/合/#top">合</a></td>
+<td>Fit</td>
+<td>n/i</td>
+<td>あ.う, あ.い</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/同/#top">同</a></td>
+<td>Same</td>
+<td>どう</td>
+<td>おな.じ</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/回/#top">回</a></td>
+<td># Of Times</td>
+<td>かい</td>
+<td>まわ.す, まわ.る</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/地/#top">地</a></td>
+<td>Ground</td>
+<td>ち</td>
+<td>n/a</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/多/#top">多</a></td>
+<td>Many</td>
+<td>た</td>
+<td>おお.い</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/寺/#top">寺</a></td>
+<td>Buddhist Temple</td>
+<td>n/i</td>
+<td>てら</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/当/#top">当</a></td>
+<td>Hit</td>
+<td>とう</td>
+<td>あた.る</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/毎/#top">毎</a></td>
+<td>Every ___</td>
+<td>まい</td>
+<td>n/i</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/池/#top">池</a></td>
+<td>Pond</td>
+<td>ち</td>
+<td>いけ</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/米/#top">米</a></td>
+<td>Rice</td>
+<td>べい, まい</td>
+<td>こめ</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/羽/#top">羽</a></td>
+<td>Feather</td>
+<td>n/i</td>
+<td>はね</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/考/#top">考</a></td>
+<td>Think</td>
+<td>n/i</td>
+<td>かんが.え</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/肉/#top">肉</a></td>
+<td>Meat</td>
+<td>n/i</td>
+<td>にく</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/自/#top">自</a></td>
+<td>Self</td>
+<td>じ</td>
+<td>n/i</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/色/#top">色</a></td>
+<td>Color</td>
+<td>n/i</td>
+<td>いろ</td>
+<td>6</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+<p><span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/vocab/kanji/kanjivocab6-2.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji Vocab 6.2</a></span> ← Import To Your Vocab Deck<br />
+<span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/kanji/06-02.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji 6.2</a></span> ← Import To Your Kanji Meanings Deck</p>
+<p><a name="3"></a></p>
+<h3>Group 3</h3>
+<table>
+<thead>
+<tr>
+<th>Kanji</th>
+<th>Meaning</th>
+<th>音 (on)</th>
+<th>訓 (kun)</th>
+<th>Strokes</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../行/index.html#top">行</a></td>
+<td>Go</td>
+<td>こう</td>
+<td>い.く</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="../西/index.html#top">西</a></td>
+<td>West</td>
+<td>べい</td>
+<td>にし</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="../両/index.html#top">両</a></td>
+<td>Both</td>
+<td>りょう</td>
+<td>n/i</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../全/index.html#top">全</a></td>
+<td>All</td>
+<td>ぜん</td>
+<td>まった.く, すべて</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../列/index.html#top">列</a></td>
+<td>Row</td>
+<td>れい, れつ</td>
+<td>n/a</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../向/index.html#top">向</a></td>
+<td>Over There</td>
+<td>こう</td>
+<td>む.き</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../守/index.html#top">守</a></td>
+<td>Protect</td>
+<td>す</td>
+<td>まも.る</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../安/index.html#top">安</a></td>
+<td>Cheap</td>
+<td>あん</td>
+<td>やす.い</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../州/index.html#top">州</a></td>
+<td>State</td>
+<td>しゅう</td>
+<td>n/a</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../式/index.html#top">式</a></td>
+<td>Ceremony</td>
+<td>しき</td>
+<td>n/a</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../曲/index.html#top">曲</a></td>
+<td>Musical Composition</td>
+<td>きょく</td>
+<td>ま.がる, ま.げる</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../有/index.html#top">有</a></td>
+<td>Have</td>
+<td>ゆう</td>
+<td>あ.る</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../次/index.html#top">次</a></td>
+<td>Next</td>
+<td>じ</td>
+<td>つ.ぎ</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../死/index.html#top">死</a></td>
+<td>Death</td>
+<td>し</td>
+<td>し.ぬ</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../羊/index.html#top">羊</a></td>
+<td>Sheep</td>
+<td>よう</td>
+<td>ひつじ</td>
+<td>6</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<p><span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/vocab/kanji/kanjivocab6-3.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji Vocab 6.3</a></span> ← Import To Your Vocab Deck<br />
+<span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/kanji/06-03.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji 6.3</a></span> ← Import To Your Kanji Meanings Deck</p>
+<p><a name="4"></a></p>
+<h3>Group 4</h3>
+<table>
+<thead>
+<tr>
+<th>Kanji</th>
+<th>Meaning</th>
+<th>音 (on)</th>
+<th>訓 (kun)</th>
+<th>Strokes</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../血/index.html#top">血</a></td>
+<td>Blood</td>
+<td>けつ</td>
+<td>ち</td>
+<td>6</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="../争/index.html#top">争</a></td>
+<td>Conflict</td>
+<td>そう</td>
+<td>あらそ.う</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td><a href="../仲/index.html#top">仲</a></td>
+<td>Relationship</td>
+<td>ちゅう</td>
+<td>なか</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td><a href="../伝/index.html#top">伝</a></td>
+<td>Transmit</td>
+<td>でん</td>
+<td>つた＊</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td><a href="../共/index.html#top">共</a></td>
+<td>Together</td>
+<td>きょう</td>
+<td>とも</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td><a href="../印/index.html#top">印</a></td>
+<td>Stamp, Logo</td>
+<td>いん</td>
+<td>しるし</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td><a href="../各/index.html#top">各</a></td>
+<td>Each</td>
+<td>n/i</td>
+<td>かく</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td><a href="../好/index.html#top">好</a></td>
+<td>Like</td>
+<td>こう</td>
+<td>す.き</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td><a href="../成/index.html#top">成</a></td>
+<td>Become</td>
+<td>せい</td>
+<td>な.る</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td><a href="../老/index.html#top">老</a></td>
+<td>Old Age</td>
+<td>ろう</td>
+<td>n/i</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td><a href="../仮/index.html#top">仮</a></td>
+<td>Temporary</td>
+<td>か</td>
+<td>かり</td>
+<td>6</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/件/#top">件</a></td>
+<td>Matter, Affair</td>
+<td>けん</td>
+<td>n/i</td>
+<td>6</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/任/#top">任</a></td>
+<td>Responsibility</td>
+<td>にん</td>
+<td>まか.せる</td>
+<td>6</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/再/#top">再</a></td>
+<td>Again</td>
+<td>さ</td>
+<td>ふたたび</td>
+<td>6</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+<p><span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/vocab/kanji/kanjivocab6-4.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji Vocab 6.4</a></span> ← Import To Your Vocab Deck<br />
+<span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/kanji/06-04.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji 6.4</a></span> ← Import To Your Kanji Meanings Deck</p>
+<p><a name="5"></a></p>
+<h3>Group 5</h3>
+<table>
+<thead>
+<tr>
+<th>Kanji</th>
+<th>Meaning</th>
+<th>音 (on)</th>
+<th>訓 (kun)</th>
+<th>Strokes</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/因/#top">因</a></td>
+<td>Cause</td>
+<td>いん</td>
+<td>n/i</td>
+<td>6</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/在/#top">在</a></td>
+<td>Exist</td>
+<td>ざい</td>
+<td>n/i</td>
+<td>6</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/舌/#top">舌</a></td>
+<td>Tongue</td>
+<td>n/i</td>
+<td>した</td>
+<td>6</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/危/#top">危</a></td>
+<td>Dangerous</td>
+<td>き</td>
+<td>あぶ.ない</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/吸/#top">吸</a></td>
+<td>Suck</td>
+<td>きゅう</td>
+<td>す.う</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/存/#top">存</a></td>
+<td>Be Aware Of</td>
+<td>そん</td>
+<td>ぞん.じる</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/宅/#top">宅</a></td>
+<td>Home</td>
+<td>n/a</td>
+<td>たく</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/宇/#top">宇</a></td>
+<td>Outer Space</td>
+<td>う</td>
+<td>n/i</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/机/#top">机</a></td>
+<td>Desk</td>
+<td>n/i</td>
+<td>たく</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/灰/#top">灰</a></td>
+<td>Ashes</td>
+<td>はい</td>
+<td>n/a</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/刑/#top">刑</a></td>
+<td>Punish</td>
+<td>けい</td>
+<td>n/a</td>
+<td>6</td>
+<td>S</td>
+</tr>
+</tbody>
+</table>
+<p><span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/vocab/kanji/kanjivocab6-5.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji Vocab 6.5</a></span> ← Import To Your Vocab Deck<br />
+<span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/kanji/06-05.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji 6.5</a></span> ← Import To Your Kanji Meanings Deck</p>
+<p><a name="6"></a></p>
+<h3>Group 6</h3>
+<table>
+<thead>
+<tr>
+<th>Kanji</th>
+<th>Meaning</th>
+<th>音 (on)</th>
+<th>訓 (kun)</th>
+<th>Strokes</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/叫/#top">叫</a></td>
+<td>Shout</td>
+<td>n/i</td>
+<td>さけ.ぶ</td>
+<td>6</td>
+<td>S</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/吉/#top">吉</a></td>
+<td>Good Luck</td>
+<td>n/i</td>
+<td>きち</td>
+<td>6</td>
+<td>S</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/吐/#top">吐</a></td>
+<td>Spit, Throw Up</td>
+<td>n/i</td>
+<td>はく</td>
+<td>6</td>
+<td>S</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/尽/#top">尽</a></td>
+<td>Exhaust</td>
+<td>n/i</td>
+<td>つく.す、つき.る</td>
+<td>6</td>
+<td>S</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/忙/#top">忙</a></td>
+<td>Busy</td>
+<td>n/i</td>
+<td>いそがしい</td>
+<td>6</td>
+<td>S</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/扱/#top">扱</a></td>
+<td>Handle</td>
+<td>n/i</td>
+<td>あつか.う</td>
+<td>6</td>
+<td>S</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/汗/#top">汗</a></td>
+<td>Sweat</td>
+<td>n/i</td>
+<td>あせ</td>
+<td>6</td>
+<td>S</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/汚/#top">汚</a></td>
+<td>Dirty</td>
+<td>n/i</td>
+<td>よご.す、きたな.い</td>
+<td>6</td>
+<td>S</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/缶/#top">缶</a></td>
+<td>Tin Can</td>
+<td>かん</td>
+<td>n/i</td>
+<td>6</td>
+<td>S</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/肌/#top">肌</a></td>
+<td>Human Skin</td>
+<td>n/i</td>
+<td>はだ</td>
+<td>6</td>
+<td>S</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/6-stroke/芋/#top">芋</a></td>
+<td>Potato</td>
+<td>n/i</td>
+<td>いも</td>
+<td>6</td>
+<td>S</td>
+</tr>
+</tbody>
+</table>
+<p><span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/vocab/kanji/kanjivocab6-6.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji Vocab 6.6</a></span> ← Import To Your Vocab Deck<br />
+<span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/kanji/06-06.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji 6.6</a></span> ← Import To Your Kanji Meanings Deck</p>
+<p>When you&#8217;re all done, there&#8217;s 7-stroke radicals waiting for you!</p>
+<p style="text-align: center;"><a class="btn large" href="../../../radicals/radicals-6/index.html#top">← Radicals 6</a> <a class="btn large primary" href="../../../radicals/7-stroke/index.html#top">Radicals 7 →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

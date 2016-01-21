@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  7-Stroke Radicals</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 7-Stroke Radicals Comments Feed" href="http://www.textfugu.com/radical/7-stroke/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='宇' href='../../kanji/6-stroke/宇/index.html' />
+<link rel='next' title='叫' href='../../kanji/6-stroke/叫/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-19318 page-child parent-pageid-5532 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-19318 page type-page status-publish hentry">
+
+	                <h1>7-Stroke Radicals</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1>7-Stroke Radicals</h1>
+<h4>&#8220;I can&#8217;t understand why people are frightened of new ideas. I&#8217;m frightened of the old ones.&#8221; &#8211; John Cage</h4>
+<p>7-stroke radicals is where radicals really start taking a nosedive in terms of how many you learn. There aren&#8217;t many here, and there aren&#8217;t many going forward, either (I&#8217;d say you&#8217;ve learned 75%, if not more, of the radicals). As radicals get bigger they just get more and more unnecessary, since you&#8217;ve learned enough to piece together into even the biggest kanji. If you think about it, the biggest kanji tend to be around 18-20 strokes. If our goal is to have three or fewer radicals per kanji, you could have three seven stroke radicals making up a single kanji, which would equal 21 strokes. That&#8217;s sort of why things really start tapering down after seven. Anyways, you&#8217;ll see soon enough! Just wanted to congratulate you on finishing nearly all the radicals. There <em>is</em> a light at the end of the radicals tunnel.</p>
+<p>Anyways, you know what to do. Go through and read the mnemonics, trying to imagine them out as best as possible. Then, download the deck and import it to your Anki deck. You should then review and study for a while before moving on.</p>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2793" title="1-retainer" alt="" src="../../wp-content/uploads/2010/02/1-retainer-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Servant</h2>
+<p>Do you see the <strong>Giant </strong>radical in there? <span style="color: #800080;">This giant has chains going from his arms to his body, making him the <span style="text-decoration: underline;"><strong>servant</strong></span> of of a king</span>.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2794" title="2-see" alt="" src="../../wp-content/uploads/2010/02/2-see-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>See</h2>
+<p><span style="color: #800080;">When an eye has legs, it can <strong><span style="text-decoration: underline;">see</span> </strong>anything</span>.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2795" title="3-say" alt="" src="../../wp-content/uploads/2010/02/3-say-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Say</h2>
+<p>See all that paper on top of the mouth? <span style="color: #800080;">She wrote everything down that she wanted to <span style="text-decoration: underline;"><strong>say</strong></span> to him, taking four whole pages</span>.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2796" title="4-fishleg-house" alt="" src="../../wp-content/uploads/2010/02/4-fishleg-house-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Fish Leg House</h2>
+<p>This house sells <strong>fish legs</strong>, which is why there is a <strong>fish legs</strong> sign on top of this <span style="text-decoration: underline;"><strong>fish legs house</strong></span>.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2797" title="5-bean" alt="" src="../../wp-content/uploads/2010/02/5-bean-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2><strong>Bean</strong></h2>
+<p>There&#8217;s a <span style="text-decoration: underline;"><strong>bean</strong></span> on the stand, though the bean is covered with dirt.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2798" title="6-hog" alt="" src="../../wp-content/uploads/2010/02/6-hog-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Pig</h2>
+<p>You&#8217;ll have to learn this one straight-up. There are some hints of hoginess in here (like a similar version of the animal radical), but it&#8217;ll probably simpler to just learn it a few pieces at a time. It&#8217;s quite a unique look on its own, anyways.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2800" title="7-cla" alt="" src="../../wp-content/uploads/2010/02/7-cla-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Clam</h2>
+<p><strong></strong>The eye has fish legs. Just imagine a <span style="color: #800080;"><span style="text-decoration: underline;"><strong>clam</strong></span> running around on <strong>fish legs</strong>, with one giant <strong>eye</strong> looking around</span>.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2801" title="8-red" alt="" src="../../wp-content/uploads/2010/02/8-red-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Red</h2>
+<p><span style="color: #800080;">The <strong>grave</strong> started floating away using four magical tentacles (below the grave). As it flew away, it turns bright <span style="text-decoration: underline;"><strong>red</strong></span></span> from all the blood.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2802" title="9-leg" alt="" src="../../wp-content/uploads/2010/02/9-leg-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Leg</h2>
+<p>Very similar to running man, but this time running man has a head. <span style="color: #800080;">His head is so big that it&#8217;s putting lots of stress on his <strong>legs</strong></span>.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2803" title="10-car" alt="" src="../../wp-content/uploads/2010/02/10-car-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Car</h2>
+<p><span style="color: #800080;">There are crosses on either side of the <strong>rice field</strong>, where two <span style="text-decoration: underline;"><strong>car</strong></span> accidents took place</span> because everyone was looking too closely at the awesome rice field that&#8217;s there.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2804" title="11-ten-standups" alt="" src="../../wp-content/uploads/2010/02/11-ten-standups-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Bitter</h2>
+<p>Notice the radicals for <strong>stand</strong> and <strong>10</strong>? <span style="color: #800080;">After she was <strong>stood up</strong> <strong>10</strong> <strong>times</strong> by him, she began to become <span style="text-decoration: underline;"><strong>bitter</strong></span></span>.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2805" title="12-wtf" alt="" src="../../wp-content/uploads/2010/02/12-wtf-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Hipster Clothes</h2>
+<p><span style="color: #800080;">The <strong>clothes</strong> (clothes radical) are in the <strong>cliff</strong> under the <strong>ground</strong> (i.e. the <strong>one</strong> radical)</span>. Underground clothes are only for the coolest of cool&#8230; the <em>hipsters</em>. That&#8217;s why this is the radical for <span style="text-decoration: underline;"><strong>Hipster Clothes</strong></span>.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2806" title="13-riceslide" alt="" src="../../wp-content/uploads/2010/02/13-riceslide-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Rice Slide</h2>
+<p>You remember the <strong>rice</strong> radical, right? This is the same, but now it has a slide on it. The <span style="text-decoration: underline;"><strong>rice slide</strong></span> is where they send all the rice to go into the truck (or another container).</p>
+</div>
+<div class="woo-sc-divider"></div>
+<div class="fourcol-one">
+<p><img class="alignnone size-thumbnail wp-image-2807" title="14-rice-ground" alt="" src="../../wp-content/uploads/2010/02/14-rice-ground-150x150.png" width="150" height="150" /></p>
+</div>
+<div class="fourcol-three last">
+<h2>Empty Rice Field</h2>
+<p>This rice field is like a <strong>grave</strong> &#8211; nothing growing, and everything is dead, making it an <span style="text-decoration: underline;"><strong>empty rice field</strong></span>.</p>
+</div>
+<div class="woo-sc-divider"></div>
+<h1>Practicing The Radicals</h1>
+<h4>&#8220;Mountaintops inspire leaders but valleys mature them.&#8221; &#8211; Winston Churchill</h4>
+<p>Now you have some radicals to practice (and probably some to review, as well). Fire up that radicals deck of yours and let&#8217;s <a href="../../anki/index.html#import">import</a> 7-stroke into it.</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="info" href="../../downloads/anki/kanji/radicals7.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Radicals 7</a></span></p>
+<p style="text-align: left;">When you&#8217;ve downloaded and imported the 7-stroke radicals into your Radicals Anki deck, review what you need to review, and (hopefully, if you&#8217;ve been keeping on task with these) learn the new radicals as well. Many will come in handy in the 7-stroke kanji section!</p>
+<p style="text-align: center;"><a class="btn large" style="margin-right: 5px;" href="../../kanji/6-stroke/index.html#top">← Kanji 6</a><a class="btn large primary" href="../../radicals/7-stroke/index.html#top">Kanji 7 →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  FAQ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; FAQ Comments Feed" href="http://www.textfugu.com/faq/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Season 2' href='../season-2/index.html' />
+<link rel='next' title='Redirect: Your First Particle, は' href='../season-1/your-first-japanese-particle-ha/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-888 page-template-default logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-888 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1 style="text-align: left;">FAQ</h1>
+<h4>“Judge a man by his questions rather than his answers.” &#8211; Voltaire</h4>
+<p>Take a look at the FAQ to answer all your questions. If they don&#8217;t, then <a href="mailto:koichi@textfugu.com">shoot me an e-mail instead</a>!</p>
+<h2 style="text-align: left;">General Questions</h2>
+<p><strong>Q. What is TextFugu?</strong></p>
+<blockquote><p>TextFugu is an online Japanese textbook written by Koichi from <a href="http://tofugu.com">Tofugu.com</a>. TextFugu was written because there just weren&#8217;t enough good Japanese learning resources out there to recommend to people who wanted to learn Japanese. TextFugu is written to be simple, understandable, fun, and great for people who want to teach themselves Japanese. It&#8217;s not just any old textbook, though. TextFugu is online, gets updates, has community features, and more. You&#8217;ll wonder why you&#8217;ve ever considered anything else.</p></blockquote>
+<h2 style="text-align: left;">TextFugu Content Questions</h2>
+<p style="text-align: left;"><strong>Q. How long will it take to get through TextFugu?</strong></p>
+<blockquote><p>TextFugu is still adding new lessons all the time, but once the &#8220;Core Lessons&#8221; (eventually will be 6 or more &#8220;Seasons&#8221;) are complete, TextFugu should take between 6-12 months to complete, with each season taking 1-2 months to get through.</p></blockquote>
+<p style="text-align: left;"><strong>Q. Who should use TextFugu?</strong></p>
+<blockquote><p>Currently, TextFugu is perfect for beginners of Japanese, though more updates are coming soon to cover intermediate, then advanced subjects.</p></blockquote>
+<p style="text-align: left;"><strong>Q. How often is TextFugu updated?</strong></p>
+<blockquote><p>We shoot for around 2-3 lessons and 30-40 new kanji per month. There&#8217;s a lot of other stuff going on, too, though, like worksheets, flashcard decks, and so on being added too. That being said, depending on certain lessons and what&#8217;s needed to do before the lesson can go up, times change. Quality over quantity, though definitely gotta put new things up somewhat often, right? :)</p></blockquote>
+<p style="text-align: left;"><strong>Q. What lessons can I get for free?</strong></p>
+<blockquote><p>The <a href="http://www.textfugu.com/menu/">first season</a> on TextFugu is free, giving you plenty of time to try it out, no sign up necessary. You can access those lessons without a membership, but if you want to access everything else, you can <a href="../pricing/index.html">become a full TextFugu member</a> in less than 60 seconds (maybe 76 seconds if you&#8217;re a slower typer, though).</p></blockquote>
+<p style="text-align: left;"><strong>Q. How many lessons are there right now?</strong></p>
+<blockquote style="text-align: left;"><p>There are about 60 lessons in TextFugu right now, with about 2-3 new ones added each month.</p></blockquote>
+<p><strong>Q. What happens after you finish all of the &#8220;core&#8221; lessons?</strong></p>
+<blockquote><p>The plan is to keep on going. Although the &#8220;core&#8221; lessons are supposed to get you to the point where you can go out into the real world and use that as your study playground (i.e. you&#8217;ll have a high-advanced level of Japanese), TextFugu will continue to post up content for advanced students to use and study with. That&#8217;s a ways away, though, so I don&#8217;t want to think about it too hard, but be rest assured that even the people who&#8217;ve made it through the &#8220;core&#8221; will be well taken care of! :)</p></blockquote>
+<p><strong>Q. I only want to learn kanji, is TextFugu&#8217;s Kanji section ideal for that?</strong></p>
+<blockquote><p>It will be, but right now there just isn&#8217;t enough kanji content for me to say that TextFugu can be used if you&#8217;re <em>only</em> studying kanji. Give it a few extra months to grow, though, and TextFugu will be one of the best kanji learning resources out there. Promise!</p></blockquote>
+<h2 style="text-align: left;">Payment Questions</h2>
+<p style="text-align: left;"><strong>Q. How much does TextFugu cost?</strong></p>
+<blockquote style="text-align: left;"><p>TextFugu has two different pricing models. $20/month for monthly and $120 if you want to have access forever and ever and ever. All of these includes updates as long as you&#8217;re a member. For more information, please take a look at the <a href="http://textfugu.com/pricing">pricing page</a>.</p></blockquote>
+<p><strong>Q. How do I pay for TextFugu?</strong></p>
+<blockquote><p>TextFugu only accepts PayPal right now. Sorry, no alternatives! With PayPal, you can use your credit card, debit card, or even do a direct deposit. It&#8217;s probably one of the safest payment options around, which is why I chose to use it for TextFugu.</p></blockquote>
+<p style="text-align: left;"><strong>Q. How do I unsubscribe from being a member?</strong></p>
+<blockquote style="text-align: left;"><p>To unsubscribe from monthly payments, go to your PayPal account, find the transaction, and then cancel your payments from there. That&#8217;ll also cancel your account on TextFugu as well.</p></blockquote>
+<p style="text-align: left;"><strong>Q. How do refunds work?</strong></p>
+<blockquote style="text-align: left;"><p>If you don&#8217;t like TextFugu within the first couple weeks, send an e-mail to <a href="mailto:hello@textfugu.com">hello@textfugu.com</a> to get a 110% refund. To get the extra 10%, please write 100-200 words of feedback to help make TextFugu better! Normal refunds can be gotten with a lot less hoo-ha, even if it&#8217;s like 10 years later. Just make sure you try the free lessons out first to see if you like it! Fine print: If you&#8217;re asking for a refund on monthly, I&#8217;ll only refund the last two months. Forever gets refunds forever, though. That&#8217;s a nice benefit of Forever.</p></blockquote>
+<p style="text-align: left;"><strong>Q. Do you have corporate or educational licenses available?</strong></p>
+<blockquote style="text-align: left;"><p>Yes, discounts can be made for corporate or educational customers, which includes companies, schools, Japanese learning clubs, teachers, and more. Basically, any group that&#8217;s looking to use TextFugu to learn Japanese. Please <a href="http://textfugu.com/contact">contact me</a> for more details, because there&#8217;s nothing really official.</p></blockquote>
+<p><strong>Q. How do I register after I pay?</strong></p>
+<blockquote><p>Upon paying, you will be redirected to a registration page. If you aren&#8217;t redirected, make sure you click the &#8220;Return to Site&#8221; link, and it will take you to the registration page as well. If you run into any trouble, definitely just <a href="http://textfugu.com/contact">contact me</a> and we&#8217;ll get it sorted out quickly.</p>
+<p>Also, sometimes if you pay by echeck there will be a delay, and it won&#8217;t send you to the registration page (because technically, the payment has not cleared). If this is the case, please email me and I&#8217;ll do a bypass so you can get registered right away :)</p></blockquote>
+<h2 style="text-align: left;">Bounties</h2>
+<p><strong>Q. What are Bounties?<br />
+</strong></p>
+<blockquote><p>&#8220;Bounties&#8221; are when you submit an error or suggestion through the &#8220;bounty&#8221; link (bottom of most pages). We try to go through them and make fixes using your awesome submissions whenever we have a few free moments! Plus, when we take action on something, we donate $1 to somewhere nice.</p></blockquote>
+<p style="text-align: left;"><strong>Q. How often do you look at bounties?<br />
+</strong></p>
+<blockquote style="text-align: left;"><p>Recently we&#8217;ve been bad about going through bounties. Planning on catching up this summer, though!</p></blockquote>
+<p style="text-align: left;"><strong>Q. I submitted a bounty way back in the day when you were paying people for bounties. I haven&#8217;t got paid!<br />
+</strong></p>
+<blockquote style="text-align: left;"><p>If you haven&#8217;t got paid yet, it&#8217;s probably because we haven&#8217;t gone over it yet. All old pay-you-instead-of-charity bounties will get paid, though &#8211; we just have to actually act on it. We have a lot to catch up on, here! :(</p></blockquote>
+<p><strong>Q. How do I submit a bounty?</strong></p>
+<blockquote style="text-align: left;"><p>Please use one of the &#8220;bounty buttons&#8221; found at the bottom of most pages.</p></blockquote>
+<h2 style="text-align: left;">Other</h2>
+<p style="text-align: left;"><strong>Q. What if I have other questions?</strong></p>
+<blockquote style="text-align: left;"><p>E-mail me directly! I love hearing from folks: <a href="mailto:koichi@textfugu.com">koichi@textfugu.com</a></p></blockquote>
+<p><strong>Q. Something looks weird&#8230;<br />
+</strong></p>
+<blockquote><p>Hey, that&#8217;s not a question! Try using <a href="http://google.com/chrome">Google Chrome</a> or <a href="http://getfirefox.com">Firefox</a> as your browser, and everything will be fun and dandy (and TextFugu will probably run faster, too!).</p></blockquote>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

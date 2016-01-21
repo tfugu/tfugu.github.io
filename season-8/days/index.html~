@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Time In Days</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Time In Days Comments Feed" href="http://www.textfugu.com/season-8/days/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Time In Months' href='../months/index.html' />
+<link rel='next' title='Time In Weeks' href='../weeks/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-36279 page-parent page-child parent-pageid-36259 page-template page-template-template-lesson-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-36279 page type-page status-publish hentry">
+
+	                <h1>Time In Days</h1>
+					
+                    
+                    <section class="entry">
+	                	<h4>&#8220;They always say time changes things, but you actually have to change them yourself.&#8221; &#8211; Andy Warhol</h4>
+<p>Days get a little more complicated. This is due to the &#8220;exception&#8221; readings you have to learn for nearly every single day (sorry!). It&#8217;s so complicated that I&#8217;ll be breaking the &#8220;days&#8221; time period into two separate chapters. One for regular &#8220;days&#8221; and one for the &#8220;days of the week&#8221; (like Thursday, Sunday, and Funday Monday). Both chapters are going to require a decent amount of memorization, though you should already have most of the work done, thanks to the kanji / vocab you&#8217;ve been learning up to this point.</p>
+<h2>Today, Yesterday, Tomorrow</h2>
+<p>I bet you know these already, but here they are:</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/vocabulary/kyou.mp3">a</a> 今日（きょう）＝　Today</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/vocabulary/ashita.mp3">a</a> 明日（あした／あす）＝　Tomorrow</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/vocabulary/kinou.mp3">a</a> 昨日（きのう）＝　Yesterday</p>
+<p>I&#8217;ll start using these more so you get practice. For now, just make sure you know these three words. As a bonus, how about some &#8220;day before&#8221; and &#8220;day after&#8221; versions?</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days1.mp3">a</a> 一昨日（おととい）＝　Day Before Yesterday</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days2.mp3">a</a> 明後日（あさって）＝　Day after Tomorrow</p>
+<p>The readings for both of these don&#8217;t make sense. The kanji does, luckily. You&#8217;ll have to memorize the readings straight up, though. Take a moment to try and do that.</p>
+<h2>Single Days</h2>
+<p>Single days are something that people have a lot of trouble with. I&#8217;m hoping for you it&#8217;ll be a combination of &#8220;hey I knew that&#8221; and &#8220;ok, there&#8217;s a couple here I need to refresh / learn.&#8221; One through ten are the toughest. After that it&#8217;s not too bad.</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days3.mp3">a</a> １日（ついたち）＝　One day, Day one<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days4.mp3">a</a> ２日（ふつか）＝　Two days, Day two<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days5.mp3">a</a> ３日（みっか）＝　Three days, Day three<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days6.mp3">a</a> ４日（よっか）＝　Four days, Day four<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days7.mp3">a</a> ５日（いつか）＝　Five days, Day five<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days8.mp3">a</a> ６日（むいか）＝　Six days, Day six<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days9.mp3">a</a> ７日（なのか）＝　Seven days, Day seven<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days10.mp3">a</a> ８日（ようか）＝　Eight days, Day eight<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days11.mp3">a</a> ９日（ここのか）＝　Nine days, Day nine<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days12.mp3">a</a> １０日（とおか）＝　Ten days, Day ten</p>
+<p>Every single one of those is read in a way you probably wouldn&#8217;t expect. You&#8217;d think it would be something like いちにち for １日, but no, いちにち is the reading you use when you want to say &#8220;one day.&#8221; The worst part is they look the same (一日／１日), so the only way to really tell them apart is via context. Experience will help with this.</p>
+<p>For now, I&#8217;d go through each one and make sure you know it already. If you don&#8217;t, figure it out.</p>
+<p>The second set (11-31) is a little bit easier, but not without its pitfalls. Go through each one and make sure you&#8217;re okay on them. They follow the regular &#8220;counter rules&#8221; (found at the bottom of <a href="http://www.tofugu.com/guides/japanese-counters-guide/">this guide</a>) except for a few exceptions (things that end in 4, twenty, and nines). Go ahead and read through these and find the exception yourself. Also make sure you can read all of these correctly.</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days13.mp3">a</a> １１日（じゅういちにち）＝　11th day, Day 11<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days14.mp3">a</a> １２日（じゅうににち）＝　12th day, Day 12<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days15.mp3">a</a> １３日（じゅうさんにち）＝　13th day, Day 13<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days16.mp3">a</a> １４日（じゅうよっか）＝　14th day, Day 14<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days17.mp3">a</a> １５日（じゅうごにち）＝　15th day, Day 15<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days18.mp3">a</a> １６日（じゅうろくにち）＝　16th day, Day 16<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days19.mp3">a</a> １７日（じゅうしちにち）＝　17th day, Day 17<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days20.mp3">a</a> １８日（じゅうはちにち）＝　18th day, Day 18<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days21.mp3">a</a> １９日（じゅうくにち）＝　19th day, Day 19<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days22.mp3">a</a> ２０日（はつか）＝　20th day, Day 20<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days23.mp3">a</a> ２１日（にじゅういちにち）＝　21st day, Day 21<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days24.mp3">a</a> ２２日（にじゅうににち）＝　22nd day, Day 22<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days25.mp3">a</a> ２３日（にじゅうさんにち）＝　23rd day, Day 23<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days26.mp3">a</a> ２４日（にじゅうよっか）＝　24th day, Day 24<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days27.mp3">a</a> ２５日（にじゅうごにち）＝　25th day, Day 25<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days28.mp3">a</a> ２６日（にじゅうろくにち）＝　26th day, Day 26<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days29.mp3">a</a> ２７日（にじゅうしちにち）＝　27th day, Day 27<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days30.mp3">a</a> ２８日（にじゅうはちにち）＝　28th day, Day 28<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days31.mp3">a</a> ２９日（にじゅうくにち）＝　29th day, Day 29<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days32.mp3">a</a> ３０日（さんじゅうにち）＝　30th day, Day 30<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days33.mp3">a</a> ３１日（さんじゅういちにち）＝　31st day, Day 31</p>
+<p>You may have guessed it, but all these numbers can be used to identify the day of a month, too. For example, １月１１日 is January 11. ４月２５日 is April 25. On top of this, these numbers are used for counting the number of days as well as specifying how many days something is. For example, you could use these to say &#8220;in four days&#8221; or &#8220;on the 21st day&#8221; or something like that. They&#8217;re quite flexible.</p>
+<p>You&#8217;ll get your practice for these on the next page, so for now make sure you can read all of these words, including the exceptions (as well as 1-10!). Dates, of course, are quite important. You wouldn&#8217;t want to show up somewhere on the wrong day now, would you?</p>
+<h3>Period Of Days</h3>
+<p>For a period of days, you&#8217;ll need to know the above information on individual days, then just add a 間 to it (sound familiar?). Here&#8217;s some examples:</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days34.mp3">a</a> １日間（いちにちかん）＝　For one day</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days35.mp3">a</a> ３日間（みっかかん）＝　For three days</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days36.mp3">a</a> ５日間（いつかかん）＝　For five days</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days37.mp3">a</a> ２０日間（はつかかん）＝　For twenty days</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/days38.mp3">a</a> １００日間（ひゃくにちかん）＝　For one hundred days</p>
+<p>*１日 has a different reading when it comes to the whole &#8220;period of days&#8221; thing. When it&#8217;s the date, it&#8217;s ついたち. When you&#8217;re counting number of days or describing a single day as &#8220;one day&#8221; you use いちにち.</p>
+<p>The good thing about counting days is that you&#8217;ll rarely see more than six or seven days using this pattern. Think about it: If you get to &#8220;7 days,&#8221; you might as well use one week. After that, time goes in bigger jumps and you&#8217;d see １週間 and ２週間. Once you hit four weeks, it jumps up to months: １ヶ月間, ５ヶ月間, etc. Starting to see how everything is connected, now?</p>
+<p>Let&#8217;s go take a closer look at dates now, though. We have a lot more &#8220;time&#8221; to work with, and I&#8217;d say &#8220;days&#8221; are the thing that gets us over the proverbial hump.</p>
+<p style="text-align: center;"><a class="btn btn-large" href="../weeks/practice.1.html">←</a> <a class="btn btn-primary btn-large" href="practice.1.html">Practice →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto; text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

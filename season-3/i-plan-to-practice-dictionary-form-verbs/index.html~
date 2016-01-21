@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  I &#8220;Plan&#8221; To Practice Dictionary Form Verbs</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; I &#8220;Plan&#8221; To Practice Dictionary Form Verbs Comments Feed" href="http://www.textfugu.com/season-3/i-plan-to-practice-dictionary-form-verbs/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='How To Be Casual, Part 2' href='../how-to-be-casual-part-2/index.html' />
+<link rel='next' title='Negative Dictionary Form Verbs' href='../negative-dictionary-form-verbs/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-3282 page-child parent-pageid-3108 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-3282 page type-page status-publish hentry">
+
+	                <h1>I &#8220;Plan&#8221; To Practice Dictionary Form Verbs</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1 style="text-align: center;">I &#8220;PLAN&#8221; TO PRACTICE DICTIONARY FORM VERBS</h1>
+<p style="text-align: center;"><em>“Life is what happens to you while you&#8217;re busy making other plans”</em> &#8211; <strong>John Lennon</strong></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3283" title="planning" src="../../wp-content/uploads/2010/03/planning.png" alt="" width="820" height="279" /></p>
+<h3 style="text-align: left;"><span style="color: #ff0000;">In the spirit of allowing you to practice</span> those dictionary form verbs you just learned about, this chapter will let you do just that while teaching you something new too! In this chapter, you&#8217;ll learn how to plan to do something, which is pretty swell for you forward thinkers out there.</h3>
+<div id="submenu">
+<h3>Chapter Sub-Menu</h3>
+<p>1. <a href="index.html#tsumori">つもりです</a><br />
+2. <a href="index.html#tsumorideshita">つもりでした</a><br />
+3. <a href="index.html#plan">Things I Plan To Do Tomorrow</a></p>
+</div>
+<p>Before we go on to the actual grammar portion of the lesson, I want to talk a bit about planning. As I was going through &#8220;planning quotes&#8221; to find one for this chapter, I noticed that a lot of them were about, well, planning! Planning can be a good thing, but not if you do it too much, and I want you to think about this a little bit in terms of Japanese language study.</p>
+<blockquote><p>1. There are people who plan, plan, plan. They take weeks to perfect their plan, and make sure everything will work and everything is ready.</p>
+<p>2. Then, there are people who come up with a quick plan (or don&#8217;t plan at all) and <em>just do it</em>.</p></blockquote>
+<p>Can you guess which one is better? Despite what you (might) think, the second one is the best, hands down. It&#8217;s always better to just get started doing something, make mistakes, learn from them, and then keep going. When you <em>do</em> something, something gets done and things happen. When you plan, you still make mistakes, but you&#8217;re left behind in the dust. If you plan, bad things are still going to happen. If you don&#8217;t plan, good things are still going to happen (and vice versa).</p>
+<p>Now take a look at language learning. You can sit there and read read read as much as you want, but if you don&#8217;t go out there and <em>do it</em> (i.e. <em>use it</em>), you aren&#8217;t going to get anywhere. Since you&#8217;re on Season 3, you should be using what you learn in &#8220;real life&#8221; situations (i.e. when you feel uncomfortable). You don&#8217;t have to carefully plan these out. Make mistakes, let go of your ego, and get better. No, become <em>the best</em>. As long as you learn from your mistakes and make changes based off of them, you&#8217;ll be more successful than the person who&#8217;s still planning out every detail two weeks in. This quote really does a great job summing it all up:</p>
+<h3 style="text-align: center;">“A good plan today is better than a perfect plan tomorrow”</h3>
+<p>It&#8217;s completely true, and something you should think about when you&#8217;re studying. This is exactly what the <a href="http://textfugu.com/rewards">Bounty system</a> on TextFugu is for. I come up with what I would consider a &#8220;good&#8221; plan, get feedback from people, learn more about how you learn, and then turn &#8220;good&#8221; into something that&#8217;s great. I listen to what people have to say, what frustrations people run into, and then go back and erase the bigger problems. You can&#8217;t make something perfect on your own (at least not without wasting a ton of time), so do it well now so you can go back and make it great later. It&#8217;s the same with Japanese. Use it or lose it.<br />
+<a name="tsumori"></a></p>
+<h1 style="text-align: center;">つもりです (TO PLAN, INTEND)</h1>
+<p>Whenever you plan or intend to do something, there&#8217;s a good chance you&#8217;ll end up using つもり to indicate those plans. To use them, we have to take a (quick) look back at <a href="../how-to-be-casual-part-2/index.html">dictionary form verbs</a>. Here&#8217;s the &#8220;equation&#8221; to make it happen.</p>
+<blockquote><p><span style="color: #0000ff;">Dictionary Form Verb</span> + <span style="color: #800080;">つもり</span> + <span style="color: #008000;">です</span></p></blockquote>
+<p>That&#8217;s pretty simple, right? Let&#8217;s take a look at that using some real examples.</p>
+<blockquote><p><span style="color: #0000ff;">行く（いく）</span><span style="color: #800080;">つもり</span><span style="color: #008000;">です</span><br />
+Plan / Intend to go</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/iku-tsumori-desu.mp3|titles=iku-tsumori-desu]</p>
+<p><span style="color: #0000ff;">食べる（たべる）</span><span style="color: #800080;">つもり</span><span style="color: #008000;">です</span><br />
+Plan / Intend to eat</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/taberu-tsumori-desu.mp3|titles=taberu-tsumori-desu]</p></blockquote>
+<p>In the sentences above, つもり means &#8220;plan/intend.&#8221; By attaching this to a dictionary form verb, you can indicate that you are planning or intending to do said verb. Below are the verbs I think you will use most often with つもり. It&#8217;s not all the verbs we learned yesterday (though feel free to practice using those verbs as well), but it will get you a long ways without totally overwhelming you with vocab. You should still make sure you learn the verbs from the <a href="../how-to-be-casual-part-2/index.html">last chapter</a>, but for now, feel free to focus on the ones below. Another reason some verbs were removed was because some verbs require you to know grammar or particles we haven&#8217;t gone over with, too, so be aware of that if you decide to branch out from the list below.</p>
+<table>
+<tbody>
+<tr class="yellow">
+<td><strong>ます form</strong></td>
+<td><strong>Dictionary<br />
+</strong></td>
+<td><strong>Meaning<br />
+</strong></td>
+</tr>
+<tr>
+<td>飲みます（のみます）</td>
+<td>飲む</td>
+<td>to drink</td>
+</tr>
+<tr>
+<td>読みます（よみます）</td>
+<td>読む</td>
+<td>to read</td>
+</tr>
+<tr>
+<td>買います（かいます）</td>
+<td>買う</td>
+<td>to buy</td>
+</tr>
+<tr>
+<td>帰ります（かえります）</td>
+<td>帰る</td>
+<td>to return (home)</td>
+</tr>
+<tr>
+<td>待ちます（まちます）</td>
+<td>待つ</td>
+<td>to wait</td>
+</tr>
+<tr>
+<td>行きます（いきます）</td>
+<td>行く</td>
+<td>to go</td>
+</tr>
+<tr>
+<td>会います（あいます）</td>
+<td>会う</td>
+<td>to meet</td>
+</tr>
+<tr>
+<td>習います（ならいます）</td>
+<td>習う</td>
+<td>to learn</td>
+</tr>
+<tr>
+<td>食べます（たべます）</td>
+<td>食べる</td>
+<td>to eat</td>
+</tr>
+<tr>
+<td>寝ます（ねます）</td>
+<td>寝る</td>
+<td>to sleep</td>
+</tr>
+<tr>
+<td>教えます（おしえます）</td>
+<td>教える</td>
+<td>to teach</td>
+</tr>
+<tr>
+<td>見ます（みます）</td>
+<td>見る</td>
+<td>to see</td>
+</tr>
+<tr>
+<td>します</td>
+<td>する</td>
+<td>to do</td>
+</tr>
+<tr>
+<td>勉強します（べんきょうする）</td>
+<td>勉強する</td>
+<td>to study</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;">To make things more interesting, you&#8217;ll also start learning words that go well with these verbs (so you have things to say, right?). To keep things simple, there will only be two nouns associated with each verb, and some of them will be words you&#8217;ve already learned before. We&#8217;ll learn more later and you can always look up words to study along the way. Less is almost always more, especially in the &#8220;what I&#8217;m learning is quality, not quantity&#8221; department.</p>
+<table style="font-size: 12px;">
+<tbody>
+<tr class="yellow">
+<td><strong>Verb</strong></td>
+<td><strong>Word 1<br />
+</strong></td>
+<td><strong>Meaning<br />
+</strong></td>
+<td><strong>Word 2</strong></td>
+<td><strong>Meaning</strong></td>
+</tr>
+<tr>
+<td>飲む（のむ）</td>
+<td>お茶（おちゃ）</td>
+<td>tea</td>
+<td>牛乳（ぎゅうにゅう）</td>
+<td>milk</td>
+</tr>
+<tr>
+<td>読む（よむ）</td>
+<td>本（ほん）</td>
+<td>book</td>
+<td>新聞（しんぶん）</td>
+<td>newspaper</td>
+</tr>
+<tr>
+<td>買う（かう）</td>
+<td>パソコン</td>
+<td>personal computer</td>
+<td>子犬（こいぬ）</td>
+<td>puppy</td>
+</tr>
+<tr>
+<td>帰る（かえる）</td>
+<td>家（いえ）</td>
+<td>home</td>
+<td>アメリカ</td>
+<td>America</td>
+</tr>
+<tr>
+<td>行く（いく）</td>
+<td>東京（とうきょう）</td>
+<td>Tokyo</td>
+<td>京都（きょうと）</td>
+<td>Kyoto</td>
+</tr>
+<tr>
+<td>習う（ならう）</td>
+<td>日本語（にほんご）</td>
+<td>Japanese</td>
+<td>英語（えいご）</td>
+<td>English</td>
+</tr>
+<tr>
+<td>食べる（たべる）</td>
+<td>寿司（すし）</td>
+<td>sushi</td>
+<td>クレープ</td>
+<td>Crepe</td>
+</tr>
+<tr>
+<td>寝る（ねる）</td>
+<td>今</td>
+<td>now</td>
+<td>七時（しちじ）</td>
+<td>7 o&#8217;clock</td>
+</tr>
+<tr>
+<td>教える（おしえる）</td>
+<td>数学（すうがく）</td>
+<td>mathematics</td>
+<td>理科（りか）</td>
+<td>science</td>
+</tr>
+<tr>
+<td>見る（みる）</td>
+<td>映画（えいが）</td>
+<td>movie</td>
+<td>ロスト</td>
+<td>LOST (The TV Show)</td>
+</tr>
+<tr>
+<td>する</td>
+<td>テニス</td>
+<td>tennis</td>
+<td>サッカー</td>
+<td>soccer</td>
+</tr>
+<tr>
+<td>勉強する（べんきょうする）</td>
+<td>フランス語</td>
+<td>French</td>
+<td>漢字（かんじ）</td>
+<td>kanji</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;">Here is an Anki list to study and become more familiar with these words:</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="info" href="../../downloads/tsumori.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Tsumori Vocab Words</a></span> on Anki</p>
+<p style="text-align: left;">Using the vocabulary above, let&#8217;s practice using つもり with the verbs above. For now, let&#8217;s stick with present positive tenses &#8211; we&#8217;ll learn more about another option later in the chapter. Also, keep in mind that the &#8220;I&#8221; is assumed in sentences like these! I&#8217;ll put them in parenthesis for a while, but then switch to a normal &#8220;I&#8221; after a bit.</p>
+<blockquote><p>お茶を飲む<strong>つもりです</strong>。<br />
+(I) plan to drink tea</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/ocha-wo-nomu.mp3|titles=ocha-wo-nomu]</p>
+<p>本を読む<strong>つもりです</strong>。<br />
+(I) plan to read a book</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/hon-wo-yomu.mp3|titles=hon-wo-yomu]</p>
+<p>パソコンを買う<strong>つもりです</strong>。<br />
+(I) plan to buy a personal computer</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/pasokon-wo-kau.mp3|titles=pasokon-wo-kau]</p>
+<p>家に帰る<strong>つもりです。</strong><br />
+I plan to return home</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/ie-ni-kaeru.mp3|titles=ie-ni-kaeru]</p>
+<p>東京に行く<strong>つもりです</strong>。<br />
+I plan to go to Tokyo</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/tokyo-ni-iku.mp3|titles=tokyo-ni-iku]</p></blockquote>
+<p>With the last two sentences, you need to remember how to use the に particle. It&#8217;s used whenever there&#8217;s &#8220;movement&#8221; or &#8220;time&#8221; involved. With the last two sentences, you were returning (home) and going (to Tokyo), which means you would be using に instead of を (because you aren&#8217;t actually directly doing anything to anything).</p>
+<blockquote><p>日本語を習う<strong>つもりです</strong>。<br />
+I plan to learn Japanese</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/nihongo-wo-narau.mp3|titles=nihongo-wo-narau]</p>
+<p>寿司を食べる<strong>つもりです</strong>。<br />
+I plan to eat sushi</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/sushi-wo-taberu.mp3|titles=sushi-wo-taberu]</p>
+<p>今、寝る<strong>つもりです</strong>。<br />
+(Right) now, I plan to sleep</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/ima-neru-tsumori.mp3|titles=ima-neru-tsumori]</p>
+<p>七時に寝る<strong>つもりです</strong>。<br />
+At 7 o&#8217;clock, I plan to sleep</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/shichiji-ni-neru.mp3|titles=shichiji-ni-neru]</p></blockquote>
+<p>The last two sentences are a bit strange, and we&#8217;ll learn a lot more about this soon. For now, take a look at the differences and similarities between these two. The similarity is that they both have something to do with <em>time</em>. The types of &#8220;time&#8221; are different, though. 今 isn&#8217;t really a specific time, i.e. it&#8217;s not 7:30pm or Thursday or something like that. It&#8217;s just &#8220;now.&#8221; The second one <em>is</em> a specific time, 7 o&#8217;clock. Here&#8217;s the general rule, which we&#8217;ll go into more depth with soon: If it&#8217;s not a specific time, you don&#8217;t need a particle like に (see example above). If it is a specific time, you use the に particle. For now, don&#8217;t worry about it too much, just keep it in the back of your mind. We&#8217;ll spend more time with time soon, and then you can worry about worrying.</p>
+<p>Of course, one thing we should probably review is casual form. You can also use だ instead of です. As we learned a couple of chapters ago, it just makes the sentence a bit more casual.</p>
+<blockquote><p>数学を教える<strong>つもりだ</strong>。<br />
+I plan to teach mathematics</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/suugaku-wo-oshieru.mp3|titles=suugaku-wo-oshieru]</p>
+<p>映画を見る<strong>つもりだ</strong>。<br />
+I plan to watch a movie</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/eiga-wo-miru.mp3|titles=eiga-wo-miru]</p>
+<p>テニスをする<strong>つもりだ</strong>。<br />
+I plan to play (do) tennis</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/tenisu-wo-suru.mp3|titles=tenisu-wo-suru]</p>
+<p>フランス語を勉強する<strong>つもりだ</strong>。<br />
+I plan to study French</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/francego-wo-benkyousuru.mp3|titles=francego-wo-benkyousuru]</p></blockquote>
+<p>The concept isn&#8217;t too hard, and just requires you to know the right  vocab to go with it.</p>
+<div id="kanji">
+<h3 style="text-align: center;">つもり Practice</h3>
+<p>At this point, I&#8217;d like you to take the other vocab words above (for the most part it&#8217;s just the right side column) and practice making sentences like the example ones we&#8217;ve already been through. This will help you practice the vocabulary as well as practice writing. It will seem a bit repetitive, but it should also go pretty quickly. Make sure you really think about each part when you write it in terms of how it&#8217;s constructed, though, and don&#8217;t yourself go on autopilot. If you feel like you&#8217;re becoming a Japanese-writing zombie, take a bit of a break and then come back to it. It&#8217;s better to study with high quality focus than to whip out a bunch of sentences just for the sake of practice.</p>
+</div>
+<p><a name="tsumorideshita"></a>Now that you&#8217;ve practiced with the vocabulary above, it&#8217;s time to take a quick look at a slightly modified form of つもりです&#8230; つもりでした. As you can <em>probably</em> guess, this just means &#8220;planned to,&#8221; instead of &#8220;plan to.&#8221; It has the connotation of you saying &#8220;I intended to do this, but (didn&#8217;t manage to do it / didn&#8217;t get around to it)&#8230;&#8221; Let&#8217;s take a look at some examples.</p>
+<blockquote><p>パソコンを買う<strong>つもりでした</strong><br />
+I had the intention of buying a computer (but I didn&#8217;t)</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/kau-deshita.mp3|titles=kau-deshita]</p></blockquote>
+<p>Also, don&#8217;t forget casual form. This means the same thing, but it&#8217;s more casual:</p>
+<blockquote><p>パソコンを買う<strong>つもりだった</strong><br />
+I had the intention of buying a computer (but I didn&#8217;t)</p>
+<p>[audio:http://www.textfugu.com/wp-content/uploads/2010/03/kau-tsumori-datta.mp3|titles=kau-tsumori-datta]</p></blockquote>
+<p>This version of つもり is really easy because all you have to do is turn the です into a でした or the だ into a だった. Easy, right? Plus it makes some logical sense. Please pick 5 word-sets and practice writing sentences using つもりだった／つもりでした.</p>
+<p>Okay, I think it&#8217;s about time you fire up your <a href="http://lang-8.com">Lang-8</a> account and get ready to write. To really remember this stuff (and practice things you&#8217;ve already learned), it&#8217;s important that you do some things on your own (and make your brain move). Here&#8217;s your prompt:</p>
+<div id="kanji">
+<p><a name="plan"></a></p>
+<h3 style="text-align: center;">Things I Plan To Do Tomorrow</h3>
+<p>In this exercise you&#8217;ll be writing what you plan to do tomorrow. Here&#8217;s to hoping you have something interesting planned! Below are some sentences (or portions of sentences) that may help you, though I&#8217;d rather you take this opportunity to make as many mistakes as possible so you can learn as much as possible too!</p>
+<blockquote><p>明日（あした）、ラーメンを食べるつもりです。<br />
+Tomorrow, I will eat Ramen.</p>
+<p>私はラーメンが大好きです。<br />
+I really really like Ramen.</p>
+<p>ラーメンのレストランに行くつもりです。<br />
+I plan to go to a Ramen Restaurant.</p>
+<p>あなたはラーメンが好きですか？<br />
+Do you like Ramen?</p></blockquote>
+<p>Of course, you should (no, you <em>better</em>) write about something else, and make plenty of mistakes as you go along. If you don&#8217;t, well, you aren&#8217;t really learning anything, now are you? Of course, due to our lack of grammar knowledge, your story will probably be pretty boring, but that&#8217;s okay. After each lesson, your stories will get a little bit more interesting and colorful, so look forward to that. For now, though, let&#8217;s keep things simple, otherwise the complicated will sneak up on you!</p>
+<p>If you&#8217;re feeling adventurous, feel free to write a few more of these. Maybe you want to write about things you plan to do next year (来年／らいねん), or things you plan to do next week (来週／らいしゅう)? Have at it. The more practice you get, the better.</p>
+</div>
+<p><strong>Before You Move On:</strong></p>
+<ul>
+<li>Understand how つもりです works and what it means</li>
+<li>Continue to practice the <a href="http://smart.fm/goals/260619">dictionary form verb vocab</a></li>
+<li>Practice the vocab from this lesson via the Anki list</li>
+<li>Write your own つもり sentences using the vocabulary provided above</li>
+<li>Use <a href="http://lang-8.com">Lang-8</a> and write about what you plan on doing tomorrow. Feel free to be wild and make mistakes. That&#8217;s how you learn!</li>
+</ul>
+<p style="text-align: right;"><a href="../negative-dictionary-form-verbs/index.html">Negative Dictionary Form Verbs →</a></p>
+<p style="text-align: left;"><a style="display:none;" id="ddetlink1957083992" href="javascript:expand(document.getElementById('ddet1957083992'))">Image Sources:</a>
+<div class="ddet_div" id="ddet1957083992"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1957083992'));expand(document.getElementById('ddetlink1957083992'))</script></p>
+<ul>
+<li><a href="http://www.flickr.com/photos/ivanwalsh/3780758091/">http://www.flickr.com/photos/ivanwalsh/3780758091/</a> </div></li>
+</ul>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

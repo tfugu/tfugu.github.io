@@ -1,0 +1,1281 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Kanji</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Kanji Comments Feed" href="http://www.textfugu.com/kanji/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Redirect: Season 2 Review' href='../../season-2/season-2-review/index.html' />
+<link rel='next' title='How You Should Learn Kanji' href='../../kanji/how-to-learn-kanji/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-2313 page-parent page-template page-template-template-menu-kanji-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-33836"><a href="index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		
+				<h1>Radicals And Kanji</h1>
+
+<div class="kanjimenu">
+			
+		<div class="kanjiradicals">	
+			<div class="level">
+				Radicals 1:
+			</div>
+			<div class="levelitems">
+				<a href="../../radical/ground/index.html" name="ground">一</a>
+				<a href="../../radical/barb/index.html" name="barb">亅</a>			
+				<a href="../../radical/stick/index.html" name="stick"><img src="../../images/radicals/stick.png" /></a>	
+			</div>
+		</div>
+		
+		<div class="kanjikanji">
+			<div class="level">
+				Kanji 1-1: 
+			</div>
+			<div class="levelitems">
+				<a href="http://www.textfugu.com/kanji/一/" name="一">一</a>
+			</div>	
+		</div>		
+		
+		<div class="kanjiradicals">
+			<div class="level">
+				Radicals 2: 
+			</div>
+			<div class="levelitems">
+				<a href="../../radical/seven/index.html" name="七">七</a>
+				<a href="../../radicals/1-2-stroke/two/index.html" name="二">二</a>
+				<a href="../../radical/person/index.html" name="人">人</a>
+				<a href="../../radical/enter/index.html" name="入">入</a>
+				<a href="../../radical/power/index.html" name="力">力</a>
+				<a href="../../radical/sword/index.html" name="刀">刀</a>
+				<a href="../../radical/cross/index.html" name="十">十</a>
+				<a href="../../radical/stool/index.html" name="又">又</a>
+				<a href="../../radical/nine/index.html" name="九">九</a>
+				<a href="../../radical/nail/index.html" name="丁">丁</a>
+				<a href="../../radical/volcano/index.html" name="八">八</a>
+				<a href="../../radical/lid/index.html" name="亠">亠</a>
+				<a href="../../radical/fins/index.html" name="ハ">ハ</a>
+				<a href="../../radical/enclosure/index.html" name="勹">勹</a>
+				<a href="../../radical/lion/index.html" name="Ｌ"><span style="font-family:arial, serif;">Ｌ</span></a>	
+			</div>	
+		</div>
+		
+		<div class="kanjikanji">
+			<div class="level">
+				Kanji 2-1: 
+			</div>
+			<div class="levelitems">
+				<a href="http://www.textfugu.com/kanji/一/" name="一">一</a>
+				<a href="http://www.textfugu.com/kanji/二/#top" name="二">二</a>
+				<a href="http://www.textfugu.com/kanji/七/#top" name="七">七</a>
+				<a href="../../kanji/九/index.html#top" name="九">九</a>
+				<a href="../../kanji/人/index.html#top" name="人">人</a>
+				<a href="../../kanji/入/index.html#top" name="入">入</a>
+				<a href="../../kanji/八/index.html#top" name="八">八</a>
+				<a href="../../kanji/力/index.html#top" name="力">力</a>
+			</div>
+		</div>	
+		
+		<div class="kanjikanji">
+			<div class="level">
+				Kanji 2-2:
+			</div>
+			<div class="levelitems">
+				<a href="../../kanji/十/index.html#top" name="十">十</a>
+				<a href="../../kanji/刀/index.html#top" name="刀">刀</a>
+				<a href="../../kanji/丁/index.html#top" name="丁">丁</a>
+				<a href="../../kanji/了/index.html#top" name="了">了</a>
+				<a href="../../kanji/又/index.html#top" name="又">又</a>	
+			</div>
+		</div>
+
+		<div class="kanjiradicals">			
+			<div class="level">
+				Radicals 3: 
+			</div>
+			<div class="levelitems">
+				<a href="../../radical/slide/index.html" name="slide">丿</a>
+				<a href="../../radical/drop/index.html" name="drop">丶</a>
+				<a href="../../radical/toe/index.html" name="toe">ト</a>
+				<a href="../../radical/leaf/index.html" name="leaf"><img src="../../images/radicals/leaf.png" /></a>
+				<a href="../../radical/treasure/index.html" name="treasure">メ</a>
+				<a href="../../radical/head/index.html" name="head">冂</a>
+				<a href="../../radical/legs/index.html" name="legs">儿</a>
+				<a href="../../radical/spoon/index.html" name="spoon">ヒ</a>
+				<a href="../../radical/gun/index.html" name="gun"><img src="../../images/radicals/gun.png" /></a>
+				<a href="../../radical/mouth/index.html" name="mouth">口</a>
+				<a href="../../radical/grave/index.html" name="grave">土</a>
+				<a href="../../radical/evening/index.html" name="evening">夕</a>
+				<a href="../../radical/big/index.html" name="big">大</a>
+				<a href="../../radical/woman/index.html" name="woman">女</a>
+				<a href="../../radical/child/index.html" name="child">子</a>
+				<a href="../../radical/measurement/index.html" name="measurement">寸</a>
+				<a href="../../radical/small/index.html" name="small">小</a>
+				<a href="../../radical/mountain/index.html" name="mountain">山</a>
+				<a href="../../radical/river/index.html" name="river">川</a>
+				<a href="../../radical/construction/index.html" name="construction">工</a>
+				<a href="../../radical/death/index.html" name="death">亡</a>
+				<a href="../../radical/reinforced-enclosure/index.html" name="reinforcedenclosure">久</a>
+				<a href="../../radical/flag/index.html" name="flag">尸</a>
+				<a href="../../radical/hair/index.html" name="hair">彡</a>
+				<a href="../../radical/ceremony/index.html" name="ceremony">弋</a>
+				<a href="../../radical/thousand/index.html" name="thousand">千</a>
+			</div>
+		</div>
+		
+		<div class="kanjikanji">
+			<div class="level">
+				Kanji 3-1: 
+			</div>
+			<div class="levelitems">
+				<a href="../../kanji/三/index.html#top" name="三">三</a>
+				<a href="../../kanji/上/index.html#top" name="上">上</a>
+				<a href="../../kanji/下/index.html#top" name="下">下</a>
+				<a href="../../kanji/千/index.html#top" name="千">千</a>
+				<a href="../../kanji/口/index.html#top" name="口">口</a>
+			</div>
+		</div>
+		
+		<div class="kanjikanji">
+			<div class="level">
+				Kanji 3-2: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/土/index.html#top" name="土">土</a>
+				<a href="../../kanji/夕/index.html#top" name="夕">夕</a>
+				<a href="http://www.textfugu.com/kanji/大/#top" name="大">大</a>
+				<a href="../../kanji/女/index.html#top" name="女">女</a>	
+				<a href="../../kanji/子/index.html#top" name="子">子</a>	
+			</div>
+		</div>	
+			
+		<div class="kanjikanji">
+			<div class="level">
+				Kanji 3-3: 
+			</div>
+			<div class="levelitems"> 
+				<a href="../../kanji/小/index.html#top" name="小">小</a>	
+				<a href="../../kanji/山/index.html#top" name="山">山</a>	
+				<a href="../../kanji/川/index.html#top" name="川">川</a>	
+				<a href="../../kanji/万/index.html#top" name="万">万</a>	
+				<a href="../../kanji/丸/index.html#top" name="丸">丸</a>
+			</div>	
+		</div>	
+		
+		<div class="kanjikanji">
+			<div class="level">
+				Kanji 3-4: 
+			</div>
+			<div class="levelitems">
+				<a href="../../kanji/工/index.html#top" name="工">工</a>	
+				<a href="../../kanji/才/index.html#top" name="才">才</a>	
+				<a href="../../kanji/久/index.html#top" name="久">久</a>
+				<a href="../../kanji/亡/index.html#top" name="亡">亡</a>	
+				<a href="../../kanji/寸/index.html#top" name="寸">寸</a>	
+			</div>
+		</div>
+
+	<div class="kanjiradicals">		
+			
+			<div class="level">
+				Radicals 4: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../radical/ra/index.html" name="ra">ラ</a>
+				<a href="../../radical/pile/index.html" name="pile">ム</a>
+				<a href="../../radical/leader/index.html" name="leader">ｲ</a>
+				<a href="../../radical/forehead/index.html" name="forehead">冖</a>
+				<a href="../../radical/table/index.html" name="table">几</a>
+				<a href="../../radical/cage/index.html" name="cage">匚</a>
+				<a href="../../radical/stamp/index.html" name="stamp">卩</a>
+				<a href="../../radical/cliff/index.html" name="cliff">厂</a>
+				<a href="../../radical/mama/index.html" name="mama">マ</a>
+				<a href="../../radical/hook/index.html" name="hook">ユ</a>
+				<a href="../../radical/narwhal/index.html" name="narwhal">ナ</a>
+				<a href="../../radical/hat/index.html" name="hat"><img src="../../images/radicals/hat.png" /></a>
+				<a href="../../radical/ice/index.html" name="ice">冫</a>									
+				<a href="../../radical/antennae/index.html" name="antennae">干</a>
+				<a href="../../radical/spring/index.html" name="spring">弓</a>
+				<a href="../../radical/four/index.html" name="four"><img src="../../images/radicals/four.png" /></a>
+				<a href="../../radical/helmet/index.html" name="helmet">宀</a>
+				<a href="../../radical/sun/index.html" name="sun">日</a>
+				<a href="../../radical/heart/index.html" name="heart">心</a>
+				<a href="../../radical/hand/index.html" name="hand">手</a>
+				<a href="../../radical/doll/index.html" name="doll">文</a>
+				<a href="../../radical/heaven/index.html" name="heaven">天</a>
+				<a href="../../radical/moon/index.html" name="moon">月</a>
+				<a href="../../radicals/tree/index.html" name="tree">木</a>
+				<a href="../../radical/water/index.html" name="water">水</a>
+				<a href="../../radical/fire/index.html" name="fire">火</a>
+				<a href="../../radical/dog/index.html" name="dog">犬</a>
+				<a href="../../radical/king/index.html" name="king">王</a>
+				<a href="../../radical/origin/index.html" name="origin">元</a>
+				<a href="../../radical/door/index.html" name="door">戸</a>
+				<a href="../../radical/frog/index.html" name="frog">支</a>
+				<a href="../../radical/direction/index.html" name="direction">方</a>
+				<a href="../../radical/stop/index.html" name="stop">止</a>
+				<a href="../../radical/compare/index.html" name="compare">比</a>
+				<a href="../../radical/fur/index.html" name="fur">毛</a>
+				<a href="../../radical/duck/index.html" name="familyname">氏</a>
+				<a href="../../radical/father/index.html" name="father">父</a>
+				<a href="../../radical/cow/index.html" name="cow">牛</a>
+				<a href="../../radical/well/index.html" name="well">井</a>
+				<a href="../../radical/waiter/index.html" name="waiter">片</a>
+				<a href="../../radical/five/index.html" name="five">五</a>	
+				<a href="../../radical/not/index.html" name="not">不</a>		
+			</div>					
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 4-1: 
+			</div>
+			<div class="levelitems">
+				<a href="../../kanji/中.1.html#top" name="中">中</a>	
+				<a href="../../kanji/五.1.html#top" name="五">五</a>	
+				<a href="../../kanji/六.1.html#top" name="六">六</a>	
+				<a href="../../kanji/円.1.html#top" name="円">円</a>	
+				<a href="../../kanji/天.1.html#top" name="天">天</a>	
+			</div>
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 4-2: 
+			</div> 	
+			<div class="levelitems">
+				<a href="../../kanji/手/index.html#top" name="手">手</a>	
+				<a href="../../kanji/文/index.html#top" name="文">文</a>	
+				<a href="../../kanji/日/index.html#top" name="日">日</a>	
+				<a href="../../kanji/月/index.html#top" name="月">月</a>	
+				<a href="../../kanji/木/index.html#top" name="木">木</a>	
+			</div>
+	</div>		
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 4-3: 
+			</div>
+			<div class="levelitems">
+				<a href="../../kanji/水/index.html#top" name="水">水</a>	
+				<a href="../../kanji/火/index.html#top" name="火">火</a>	
+				<a href="../../kanji/犬/index.html#top" name="犬">犬</a>	
+				<a href="../../kanji/王/index.html#top" name="王">王</a>	
+				<a href="../../kanji/今/index.html#top" name="今">今</a>	
+			</div>
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 4-4: 
+			</div>
+			<div class="levelitems">
+				<a href="../../kanji/元/index.html#top" name="元">元</a>	
+				<a href="../../kanji/公/index.html#top" name="公">公</a>	
+				<a href="../../kanji/内/index.html#top" name="内">内</a>	
+				<a href="../../kanji/分/index.html#top" name="分">分</a>	
+				<a href="../../kanji/切/index.html#top" name="切">切</a>	
+			</div>
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 4-5: 
+			</div>
+			<div class="levelitems">
+				<a href="../../kanji/午.1.html#top" name="午">午</a>	
+				<a href="../../kanji/友/index.html#top" name="友">友</a>	
+				<a href="../../kanji/太/index.html#top" name="太">太</a>	
+				<a href="../../kanji/少/index.html#top" name="少">少</a>	
+				<a href="../../kanji/引/index.html#top" name="引">引</a>	
+				<a href="../../kanji/心/index.html#top" name="心">心</a>	
+			</div>
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 4-6: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/戸.1.html#top" name="戸">戸</a>	
+				<a href="../../kanji/方.1.html#top" name="方">方</a>	
+				<a href="../../kanji/牛.1.html#top" name="牛">牛</a>	
+				<a href="../../kanji/父.1.html#top" name="父">父</a>	
+				<a href="../../kanji/毛.1.html#top" name="毛">毛</a>	
+				<a href="../../kanji/止.1.html#top" name="止">止</a>	
+				<a href="../../kanji/化.1.html#top" name="化">化</a>	
+				<a href="../../kanji/予.1.html#top" name="予">予</a>	
+				<a href="../../kanji/区.1.html#top" name="区">区</a>
+			</div>
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 4-7: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/反/index.html#top" name="反">反</a>	
+				<a href="../../kanji/不/index.html#top" name="不">不</a>	
+				<a href="../../kanji/夫/index.html#top" name="夫">夫</a>	
+				<a href="http://www.textfugu.com/kanji/欠/#top" name="欠">欠</a>	
+				<a href="../../kanji/氏/index.html#top" name="氏">氏</a>	
+				<a href="../../kanji/仏/index.html#top" name="仏">仏</a>	
+				<a href="../../kanji/支/index.html#top" name="支">支</a>	
+				<a href="../../kanji/比/index.html#top" name="比">比</a>
+				<a href="../../kanji/収/index.html#top" name="収">収</a>
+				<a href="../../kanji/片/index.html#top" name="片">片</a>
+			</div>
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 4-8: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/乏/index.html#top" name="乏">乏</a>
+				<a href="../../kanji/互/index.html#top" name="互">互</a>
+				<a href="../../kanji/井/index.html#top" name="井">井</a>
+				<a href="../../kanji/介/index.html#top" name="介">介</a>
+				<a href="../../kanji/冗/index.html#top" name="冗">冗</a>
+				<a href="../../kanji/匹/index.html#top" name="匹">匹</a>
+				<a href="../../kanji/厄/index.html#top" name="厄">厄</a>
+				<a href="../../kanji/双/index.html#top" name="双">双</a>	
+			</div>
+	</div>	
+	
+	<div class="kanjiradicals">
+			<div class="level">
+				Radicals 5: 
+			</div>
+			<div class="levelitems">
+				<a href="../../radical/umbrella/index.html" name="umbrella"><img src="../../images/radicals/umbrella.png" /></a>
+				<a href="../../radical/cloak/index.html" name="cloak"><img src="../../images/radicals/cloak.png" /></a>
+				<a href="../../radical/beggar/index.html" name="beggar"><img src="../../images/radicals/beggar.png" /></a>
+				<a href="../../radical/stairs/index.html" name="stairs">乃</a>
+				<a href="../../radical/water-slide/index.html" name="water-slide"><img src="../../images/radicals/waterslide.png" /></a>
+				<a href="../../radical/samurai/index.html" name="samurai">士</a>
+				<a href="../../radical/winter/index.html" name="winter">夂</a>
+				<a href="../../radical/triceratops/index.html" name="triceratops"><img src="../../images/radicals/triceratops.png" /></a>
+				<a href="../../radical/snake/index.html" name="snake">巳</a>
+				<a href="../../radical/two-face/index.html" name="two-face">巾</a>
+				<a href="../../radical/poop/index.html" name="poop">幺</a>
+				<a href="../../radical/mullet/index.html" name="mullet">广</a>
+				<a href="../../radical/twenty/index.html" name="twenty">廾</a>
+				<a href="../../radical/nailbat/index.html" name="nailbat"><img src="../../images/radicals/nailbat.png" /></a>
+				<a href="../../radical/tsunami/index.html" name="tsunami"><img src="../../images/radicals/tsunami.png" /></a>
+				<a href="../../radical/animal/index.html" name="animal"><img src="../../images/radicals/animal.png" /></a>
+				<a href="../../radical/alligator/index.html" name="alligator">也</a>
+				<a href="../../radical/loiter/index.html" name="loiter">彳</a>
+				<a href="../../radical/husband/index.html" name="husband">夫</a>
+				<a href="../../radical/axe/index.html" name="axe">斤</a>
+				<a href="../../radical/energy/index.html" name="energy">气</a>
+				<a href="../../radical/pelican/index.html" name="pelican">ネ</a>
+				<a href="../../radical/bed/index.html" name="bed">巴</a>
+				<a href="../../radical/life/index.html" name="life">生</a>
+				<a href="../../radical/old/index.html" name="old">古</a>
+				<a href="../../radical/sweet/index.html" name="sweet">甘</a>
+				<a href="../../radical/elephant/index.html" name="elephant">用</a>
+				<a href="../../radical/rice-paddy/index.html" name="rice-paddy">田</a>
+				<a href="../../radical/white/index.html" name="white">白</a>
+				<a href="../../radical/plate/index.html" name="plate">皿</a>									
+				<a href="../../radical/eye/index.html" name="eye">目</a>
+				<a href="../../radical/stone/index.html" name="stone">石</a>
+				<a href="../../radical/hole/index.html" name="hole">穴</a>
+				<a href="../../radical/stand/index.html" name="stand">立</a>
+				<a href="../../radical/generation/index.html" name="generation">世</a>
+				<a href="../../radical/giant/index.html" name="giant">巨</a>
+				<a href="../../radical/books/index.html" name="books">冊</a>
+				<a href="../../radical/drawer/index.html" name="drawer">母</a>
+				<a href="../../radical/real/index.html" name="real">本</a>									
+				<a href="../../radical/cyclops/index.html" name="cyclops">向</a>
+				<a href="../../radical/run/index.html" name="run">走</a>
+				<a href="../../radical/arrow/index.html" name="arrow">矢</a>
+				<a href="../../radical/jackhammer/index.html" name="jackhammer">示</a>
+				<a href="../../radical/pi/index.html" name="pi">π</a>
+				<a href="../../radical/horns/index.html" name="horns"><img src="../../images/radicals/horns.png" /></a>	
+			</div>	
+	</div>
+	
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 5-1: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/出/index.html#top" name="出">出</a>
+				<a href="../../kanji/石/index.html#top" name="石">石</a>
+				<a href="../../kanji/右/index.html#top" name="右">右</a>
+				<a href="../../kanji/左/index.html#top" name="左">左</a>
+				<a href="../../kanji/本/index.html#top" name="本">本</a>
+				<a href="../../kanji/正/index.html#top" name="正">正</a>
+				<a href="../../kanji/玉/index.html#top" name="玉">玉</a>
+				<a href="../../kanji/生/index.html#top" name="生">生</a>
+				<a href="../../kanji/田/index.html#top" name="田">田</a>
+				<a href="../../kanji/白/index.html#top" name="白">白</a>
+			</div>
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 5-2: 
+			</div>  
+			<div class="levelitems">
+				<a href="../../kanji/目/index.html#top" name="目">目</a>
+				<a href="../../kanji/四/index.html#top" name="四">四</a>
+				<a href="../../kanji/立/index.html#top" name="立">立</a>
+				<a href="../../kanji/兄/index.html#top" name="兄">兄</a>
+				<a href="../../kanji/冬/index.html#top" name="冬">冬</a>
+				<a href="../../kanji/北/index.html#top" name="北">北</a>
+				<a href="../../kanji/半/index.html#top" name="半">半</a>
+				<a href="../../kanji/古/index.html#top" name="古">古</a>
+				<a href="../../kanji/台/index.html#top" name="台">台</a>
+				<a href="../../kanji/外/index.html#top" name="外">外</a>
+			</div>
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 5-3: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/市/index.html#top" name="市">市</a>
+				<a href="../../kanji/広/index.html#top" name="広">広</a>
+				<a href="../../kanji/母/index.html#top" name="母">母</a>
+				<a href="../../kanji/用/index.html#top" name="用">用</a>
+				<a href="../../kanji/矢/index.html#top" name="矢">矢</a>
+				<a href="../../kanji/世/index.html#top" name="世">世</a>
+				<a href="../../kanji/主/index.html#top" name="主">主</a>
+				<a href="../../kanji/仕/index.html#top" name="仕">仕</a>
+				<a href="../../kanji/他/index.html#top" name="他">他</a>
+				<a href="../../kanji/代/index.html#top" name="代">代</a>
+			</div>
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 5-4: 
+			</div>  
+			<div class="levelitems">
+				<a href="../../kanji/写.1.html#top" name="写">写</a>
+				<a href="../../kanji/去.1.html#top" name="去">去</a>
+				<a href="../../kanji/号.1.html#top" name="号">号</a>
+				<a href="../../kanji/央.1.html#top" name="央">央</a>
+				<a href="../../kanji/平.1.html#top" name="平">平</a>
+				<a href="../../kanji/打.1.html#top" name="打">打</a>
+				<a href="../../kanji/氷.1.html#top" name="氷">氷</a>
+				<a href="http://www.textfugu.com/kanji/由#top" name="由">由</a>
+				<a href="../../kanji/申.1.html#top" name="申">申</a>
+				<a href="../../kanji/皮.1.html#top" name="皮">皮</a>
+			</div>
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 5-5: 
+			</div>  
+			<div class="levelitems">
+				<a href="../../kanji/皿/index.html#top" name="皿<">皿</a>
+				<a href="../../kanji/礼/index.html#top" name="礼">礼</a>
+				<a href="../../kanji/付/index.html#top" name="付">付</a>
+				<a href="../../kanji/令/index.html#top" name="令">令</a>
+				<a href="../../kanji/以/index.html#top" name="以">以</a>
+				<a href="../../kanji/功/index.html#top" name="功">功</a>
+				<a href="../../kanji/加/index.html#top" name="加">加</a>
+				<a href="../../kanji/包/index.html#top" name="包">包</a>
+				<a href="../../kanji/史/index.html#top" name="史">史</a>
+				<a href="../../kanji/司/index.html#top" name="司">司</a>
+			</div>	
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 5-6: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/失/index.html#top" name="失">失</a>
+				<a href="../../kanji/必/index.html#top" name="必">必</a>
+				<a href="../../kanji/未/index.html#top" name="未">未</a>
+				<a href="../../kanji/末/index.html#top" name="末">末</a>
+				<a href="../../kanji/札/index.html#top" name="札">札</a>
+				<a href="../../kanji/民/index.html#top" name="民">民</a>
+				<a href="../../kanji/辺/index.html#top" name="辺">辺</a>
+				<a href="../../kanji/句/index.html#top" name="句">句</a>
+				<a href="../../kanji/可/index.html#top" name="可">可</a>
+				<a href="../../kanji/圧/index.html#top" name="圧">圧</a>
+			</div>	
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 5-7: 
+			</div>  
+			<div class="levelitems">
+				<a href="../../kanji/布/index.html#top" name="布">布</a>
+				<a href="../../kanji/弁/index.html#top" name="弁">弁</a>
+				<a href="../../kanji/永/index.html#top" name="永">永</a>
+				<a href="../../kanji/犯/index.html#top" name="犯">犯</a>
+				<a href="../../kanji/示/index.html#top" name="示">示</a>
+				<a href="../../kanji/冊/index.html#top" name="冊">冊</a>
+				<a href="../../kanji/幼/index.html#top" name="幼">幼</a>
+				<a href="../../kanji/穴/index.html#top" name="穴">穴</a>
+				<a href="../../kanji/丘/index.html#top" name="丘">丘</a>
+				<a href="../../kanji/占/index.html#top" name="占">占</a>
+			</div>
+	</div>
+	
+	<div class="kanjikanji">
+			<div class="level">
+				Kanji 5-8: 
+			</div>  
+			<div class="levelitems">
+				<a href="../../kanji/奴/index.html#top" name="奴">奴</a>
+				<a href="../../kanji/巨/index.html#top" name="巨">巨</a>
+				<a href="../../kanji/払/index.html#top" name="払">払</a>
+				<a href="../../kanji/汁/index.html#top" name="汁">汁</a>
+				<a href="../../kanji/甘/index.html#top" name="甘">甘</a>
+				<a href="../../kanji/込/index.html#top" name="込">込</a>
+				<a href="../../kanji/丼/index.html#top" name="丼">丼</a>
+				<a href="../../kanji/叱/index.html#top" name="叱">叱</a>
+				<a href="../../kanji/尻/index.html#top" name="尻">尻</a>
+			</div>
+	</div>
+	
+	<div class="kanjiradicals">	
+			<div class="level">
+				Radicals 6: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../radical/box/index.html" name="box">凵</a>
+				<a href="../../radical/egg/index.html" name="egg"><img src="../../images/radicals/egg.png" /></a>
+				<a href="../../radical/wolverine/index.html" name="wolverine">ヨ</a>
+				<a href="../../radical/reinforced-stairs/index.html" name="reinforced-stairs">及</a>									
+				<a href="../../radical/fish-stick/index.html" name="fish-stick"><img src="../../images/radicals/fishstick.png" /></a>
+				<a href="../../radical/flowers/index.html" name="flowers"><img src="../../images/radicals/flowers.png" /></a>
+				<a href="../../radical/coffin/index.html" name="grave-slide"><img src="../../images/radicals/coffin.png" /></a>
+				<a href="../../radical/drunkard/index.html" name="drunkard">戈</a>
+				<a href="../../radical/fail/index.html" name="fail">欠</a>
+				<a href="../../radical/window/index.html" name="window">毋</a>
+				<a href="../../radical/bamboo/index.html" name="bamboo">竹</a>
+				<a href="../../radical/rice/index.html" name="rice">米</a>	
+				<a href="../../radical/sheep/index.html" name="sheep">羊</a>
+				<a href="../../radical/ear/index.html" name="ear">耳</a>
+				<a href="../../radical/meat/index.html" name="meat">肉</a>
+				<a href="../../radical/self/index.html" name="self">自</a>																							
+				<a href="../../radical/color/index.html" name="color">色</a>
+				<a href="../../radical/bad/index.html" name="bad">歹</a>
+				<a href="../../radical/insect/index.html" name="insect">虫</a>
+				<a href="../../radical/go/index.html" name="go">行</a>
+				<a href="../../radical/west/index.html" name="west">西</a>
+				<a href="../../radical/thread/index.html" name="thread">糸</a>
+				<a href="../../radical/feather/index.html" name="feather">羽</a>
+				<a href="../../radical/tongue/index.html" name="tongue">舌</a>
+				<a href="../../radical/blood/index.html" name="blood">血</a>
+				<a href="../../radical/ribs/index.html" name="ribs"><img src="../../images/radicals/ribs.png" /></a>
+			</div>
+	</div>		
+
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 6-1: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/休/index.html#top" name="休">休</a>
+				<a href="../../kanji/先/index.html#top" name="先">先</a>
+				<a href="../../kanji/名/index.html#top" name="名">名</a>
+				<a href="../../kanji/字/index.html#top" name="字">字</a>
+				<a href="../../kanji/年/index.html#top" name="年">年</a>
+				<a href="../../kanji/早/index.html#top" name="早">早</a>
+				<a href="../../kanji/気/index.html#top" name="気">気</a>
+				<a href="../../kanji/百/index.html#top" name="百">百</a>
+				<a href="../../kanji/竹/index.html#top" name="竹">竹</a>
+				<a href="../../kanji/糸/index.html#top" name="糸">糸</a>
+				<a href="../../kanji/耳/index.html#top" name="耳">耳</a>
+				<a href="../../kanji/虫/index.html#top" name="虫">虫</a>
+				<a href="../../kanji/交/index.html#top" name="交">交</a>
+				<a href="../../kanji/会/index.html#top" name="会">会</a>
+				<a href="../../kanji/光/index.html#top" name="光">光</a>
+			</div>
+		</div>
+
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 6-2: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/合/index.html#top" name="合">合</a>
+				<a href="../../kanji/同/index.html#top" name="同">同</a>
+				<a href="../../kanji/回/index.html#top" name="回">回</a>
+				<a href="../../kanji/地/index.html#top" name="地">地</a>
+				<a href="../../kanji/多/index.html#top" name="多">多</a>
+				<a href="../../kanji/寺/index.html#top" name="寺">寺</a>
+				<a href="../../kanji/当/index.html#top" name="当">当</a>
+				<a href="../../kanji/毎/index.html#top" name="毎">毎</a>
+				<a href="../../kanji/池/index.html#top" name="池">池</a>
+				<a href="../../kanji/米/index.html#top" name="米">米</a>
+				<a href="../../kanji/羽/index.html#top" name="羽">羽</a>
+				<a href="../../kanji/考/index.html#top" name="考">考</a>
+				<a href="../../kanji/肉/index.html#top" name="肉">肉</a>
+				<a href="../../kanji/自/index.html#top" name="自">自</a>
+				<a href="../../kanji/色/index.html#top" name="色">色</a>		
+			</div>	
+		</div>	
+			
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 6-3: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/行/index.html#top" name="行">行</a>
+				<a href="../../kanji/西/index.html#top" name="西">西</a>
+				<a href="http://www.textfugu.com/kanji/両/#top" name="両">両</a>
+				<a href="../../kanji/全/index.html#top" name="全">全</a>
+				<a href="../../kanji/列/index.html#top" name="列">列</a>
+				<a href="../../kanji/向/index.html#top" name="向">向</a>
+				<a href="http://www.textfugu.com/kanji/守/#top" name="守">守</a>
+				<a href="../../kanji/安/index.html#top" name="安">安</a>
+				<a href="../../kanji/州/index.html#top" name="州">州</a>
+				<a href="../../kanji/式/index.html#top" name="式">式</a>
+				<a href="../../kanji/曲/index.html#top" name="曲">曲</a>
+				<a href="../../kanji/有/index.html#top" name="有">有</a>
+				<a href="../../kanji/次/index.html#top" name="次">次</a>
+				<a href="../../kanji/死/index.html#top" name="死">死</a>
+				<a href="../../kanji/羊/index.html#top" name="羊">羊</a>					
+			</div>	
+    </div>	
+			
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 6-4: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/血/index.html#top" name="血">血</a>
+				<a href="../../kanji/争/index.html#top" name="争">争</a>
+				<a href="../../kanji/仲/index.html#top" name="仲">仲</a>
+				<a href="../../kanji/伝/index.html#top" name="伝">伝</a>
+				<a href="../../kanji/共/index.html#top" name="共">共</a>
+				<a href="../../kanji/印/index.html#top" name="印">印</a>
+				<a href="../../kanji/各/index.html#top" name="各">各</a>
+				<a href="../../kanji/好/index.html#top" name="好">好</a>
+				<a href="../../kanji/成/index.html#top" name="成">成</a>
+				<a href="../../kanji/老/index.html#top" name="老">老</a>
+				<a href="http://www.textfugu.com/kanji/仮/#top" name="仮">仮</a>
+				<a href="../../kanji/件/index.html#top" name="件">件</a>
+				<a href="../../kanji/任/index.html#top" name="任">任</a>
+				<a href="../../kanji/再/index.html#top" name="再">再</a>				
+			</div>	
+		</div>
+			
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 6-5: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/因/index.html#top" name="因">因</a>
+				<a href="../../kanji/在/index.html#top" name="在">在</a>
+				<a href="../../kanji/舌/index.html#top" name="舌">舌</a>
+				<a href="../../kanji/危/index.html#top" name="危">危</a>
+				<a href="../../kanji/吸/index.html#top" name="吸">吸</a>
+				<a href="../../kanji/存/index.html#top" name="存">存</a>
+				<a href="../../kanji/宅/index.html#top" name="宅">宅</a>
+				<a href="../../kanji/宇/index.html#top" name="宇">宇</a>
+				<a href="../../kanji/机/index.html#top" name="机">机</a>
+				<a href="../../kanji/灰/index.html#top" name="灰">灰</a>
+				<a href="../../kanji/刑/index.html#top" name="刑">刑</a>			
+			</div>	
+			</div>
+			
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 6-6: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/叫/index.html#top" name="叫">叫</a>
+				<a href="../../kanji/吉/index.html#top" name="吉">吉</a>
+				<a href="../../kanji/吐/index.html#top" name="吐">吐</a>
+				<a href="../../kanji/尽/index.html#top" name="尽">尽</a>
+				<a href="../../kanji/忙/index.html#top" name="忙">忙</a>
+				<a href="../../kanji/扱/index.html#top" name="扱">扱</a>
+				<a href="../../kanji/汗/index.html#top" name="汗">汗</a>
+				<a href="../../kanji/汚/index.html#top" name="汚">汚</a>
+				<a href="../../kanji/缶.1.html#top" name="缶">缶</a>
+				<a href="../../kanji/肌/index.html#top" name="肌">肌</a>
+				<a href="../../kanji/芋/index.html#top" name="芋">芋</a>		
+				</div>		
+			</div>			
+
+			<div class="kanjiradicals">		
+			<div class="level">
+				Radicals 7: 
+			</div> 
+			<div class="levelitems"> 	
+				<a href="../../radical/see/index.html" name="See">見</a>
+				<a href="../../radical/clam/index.html" name="Clam">貝</a>
+				<a href="../../radical/red/index.html" name="Red">赤</a>
+				<a href="../../radical/foot/index.html" name="Foot">足</a>
+				<a href="../../radical/car/index.html" name="Car">車</a>
+				<a href="../../radical/lip-ring/index.html" name="Lip Ring">可</a>
+				<a href="../../radical/say/index.html" name="Say">言</a>			
+				<a href="../../radical/viking/index.html" name="Viking"><img src="../../images/radicals/viking.png" /></a>
+				<a href="../../radical/gold/index.html" name="Gold">金</a>	
+				<a href="../../radical/rain/index.html" name="Rain">雨</a>	
+				<a href="../../radical/blue/index.html" name="Blue">青</a>	
+				<a href="../../radical/jet/index.html" name="Jet">未</a>	
+				<a href="../../radical/long/index.html" name="Long">長</a>	
+				<a href="../../radical/gate/index.html" name="Gate">門</a>	
+				<a href="../../radical/train/index.html" name="Train"><img src="../../images/radicals/train.png" /></a>
+				<a href="../../radical/shrimp/index.html" name="Shrimp">尺</a>
+				<a href="../../radical/fortune-teller/index.html" name="Fortune Teller">占</a>
+				<a href="../../radical/fish-tail/index.html" name="Fish Tail"><img src="../../images/radicals/fishtail.png" /></a>
+				<a href="../../radical/pine/index.html" name="Pine">禾</a>
+				<a href="../../radical/chopsticks/index.html" name="Chopsticks">斗</a>
+				<a href="../../radical/angel/index.html" name="Angel">ホ</a>
+				<a href="../../radical/eat/index.html" name="Eat">食</a>
+			</div>
+			</div>	
+
+			
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 7-1: 
+			</div> 
+			<div class="levelitems">
+				<a href="http://www.textfugu.com/kanji/村/#top" name="村">村</a>
+				<a href="http://www.textfugu.com/kanji/男/#top" name="男">男</a>
+				<a href="http://www.textfugu.com/kanji/町/#top" name="町">町</a>
+				<a href="http://www.textfugu.com/kanji/花/#top" name="花">花</a>
+				<a href="../../kanji/見/index.html#top" name="見">見</a>
+				<a href="http://www.textfugu.com/kanji/貝/#top" name="貝">貝</a>
+				<a href="http://www.textfugu.com/kanji/赤/#top" name="赤">赤</a>
+				<a href="../../kanji/足/index.html#top" name="足">足</a>
+				<a href="../../kanji/車/index.html#top" name="車">車</a>
+				<a href="../../kanji/体/index.html#top" name="体">体</a>
+				<a href="../../kanji/何/index.html#top" name="何">何</a>
+				<a href="../../kanji/作/index.html#top" name="作">作</a>
+				<a href="../../kanji/図/index.html#top" name="図">図</a>
+				<a href="../../kanji/声/index.html#top" name="声">声</a>
+				<a href="../../kanji/売/index.html#top" name="売">売</a>
+				<a href="../../kanji/弟/index.html#top" name="弟">弟</a>
+				<a href="../../kanji/形/index.html#top" name="形">形</a>
+				<a href="../../kanji/来/index.html#top" name="来">来</a>
+				<a href="../../kanji/社/index.html#top" name="社">社</a>
+				<a href="../../kanji/角/index.html#top" name="角">角</a>			
+			</div>	
+			</div>
+			
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 7-2: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/言/index.html#top" name="言">言</a>
+				<a href="../../kanji/谷/index.html#top" name="谷">谷</a>
+				<a href="../../kanji/走/index.html#top" name="走">走</a>
+				<a href="../../kanji/近/index.html#top" name="近">近</a>
+				<a href="../../kanji/里/index.html#top" name="里">里</a>
+				<a href="../../kanji/麦/index.html#top" name="麦">麦</a>
+				<a href="../../kanji/住/index.html#top" name="住">住</a>
+				<a href="../../kanji/助/index.html#top" name="助">助</a>
+				<a href="../../kanji/医/index.html#top" name="医">医</a>
+				<a href="../../kanji/君/index.html#top" name="君">君</a>
+				<a href="../../kanji/坂/index.html#top" name="坂">坂</a>
+				<a href="../../kanji/対/index.html#top" name="対">対</a>
+				<a href="../../kanji/局/index.html#top" name="局">局</a>
+				<a href="../../kanji/役/index.html#top" name="役">役</a>
+				<a href="../../kanji/投/index.html#top" name="投">投</a>
+				<a href="../../kanji/決/index.html#top" name="決">決</a>
+				<a href="../../kanji/究/index.html#top" name="究">究</a>
+				<a href="http://www.textfugu.com/kanji/豆/#top" name="豆">豆</a>
+				<a href="../../kanji/身/index.html#top" name="身">身</a>
+				<a href="../../kanji/返/index.html#top" name="返">返</a>				
+			</div>
+		</div>
+			
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 7-3: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/林/index.html#top" name="林">林</a>
+				<a href="../../kanji/空/index.html#top" name="空">空</a>		
+				<a href="../../kanji/金/index.html#top" name="金">金</a>		
+				<a href="../../kanji/雨/index.html#top" name="雨">雨</a>
+				<a href="../../kanji/青/index.html#top" name="青">青</a>
+				<a href="../../kanji/草/index.html#top" name="草">草</a>	
+				<a href="../../kanji/音/index.html#top" name="音">音</a>
+				<a href="../../kanji/京/index.html#top" name="京">京</a>
+				<a href="../../kanji/国/index.html#top" name="国">国</a>
+				<a href="../../kanji/夜/index.html#top" name="夜">夜</a>
+				<a href="../../kanji/妹/index.html#top" name="妹">妹</a>
+				<a href="../../kanji/姉/index.html#top" name="姉">姉</a>																
+				<a href="../../kanji/岩/index.html#top" name="岩">岩</a>
+				<a href="../../kanji/店/index.html#top" name="店">店</a>
+				<a href="../../kanji/明/index.html#top" name="明">明</a>
+				<a href="../../kanji/東/index.html#top" name="東">東</a>
+				<a href="../../kanji/歩/index.html#top" name="歩">歩</a>
+				<a href="../../kanji/直/index.html#top" name="直">直</a>
+				<a href="../../kanji/知/index.html#top" name="知">知</a>				
+			</div>
+		</div>
+			
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 7-4: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/長/index.html#top" name="長">長</a>
+				<a href="../../kanji/門/index.html#top" name="門">門</a>
+				<a href="../../kanji/前/index.html#top" name="前">前</a>
+				<a href="../../kanji/南/index.html#top" name="南">南</a>
+				<a href="../../kanji/室/index.html#top" name="室">室</a>
+				<a href="../../kanji/後/index.html#top" name="後">後</a>
+				<a href="../../kanji/思/index.html#top" name="思">思</a>
+				<a href="../../kanji/星/index.html#top" name="星">星</a>
+				<a href="../../kanji/春/index.html#top" name="春">春</a>
+				<a href="../../kanji/昼/index.html#top" name="昼">昼</a>
+				<a href="../../kanji/活/index.html#top" name="活">活</a>
+				<a href="../../kanji/海/index.html#top" name="海">海</a>
+				<a href="../../kanji/点/index.html#top" name="点">点</a>
+				<a href="../../kanji/秋/index.html#top" name="秋">秋</a>
+				<a href="../../kanji/科/index.html#top" name="科">科</a>
+				<a href="../../kanji/茶/index.html#top" name="茶">茶</a>
+				<a href="../../kanji/計/index.html#top" name="計">計</a>
+				<a href="../../kanji/風/index.html#top" name="風">風</a>
+				<a href="../../kanji/食/index.html#top" name="食">食</a>
+				<a href="../../kanji/首/index.html#top" name="首">首</a>				
+			</div>
+		</div>
+
+	
+			<div class="kanjiradicals">
+			<div class="level">
+				Radicals 8: 
+			</div>  
+			<div class="levelitems">
+				<a href="../../badger/index.html" name="badger">豸</a>
+				<a href="../../radical/Brush/index.html" name="Brush">聿</a>
+				<a href="../../radical/Mustache/index.html" name="Mustache"><img src="../../images/radicals/mustache.png" /></a>
+				<a href="../../radical/Sunflower/index.html" name="Sunflower">里</a>
+				<a href="../../radical/Sail/index.html" name="Sail">舟</a>
+				<a href="../../radical/Ghost/index.html" name="Ghost">周</a>
+				<a href="../../radical/Fish/index.html" name="Fish">魚</a>
+				<a href="../../radical/Bird/index.html" name="Bird">鳥</a>
+				<a href="../../radical/Yellow/index.html" name="Yellow">黄</a>
+				<a href="../../radical/Black/index.html" name="Black">黒</a>
+				<a href="../../radical/Horse/index.html" name="Horse">馬</a>
+				<a href="../../radical/Wing/index.html" name="Wing">勿</a>
+				<a href="../../radical/Sickle/index.html" name="Sickle">釆</a>
+				<a href="../../radical/Suit/index.html" name="Suit">合</a>
+				<a href="../../radical/Meet/index.html" name="Meet">会</a>
+				<a href="../../radical/Sauron/index.html" name="Sauron"><img src="../../images/radicals/sauron.png" /></a>
+				<a href="../../radical/Neck/index.html" name="Neck">首</a>
+				<a href="../../radical/Boobs/index.html" name="Boobs">云</a>
+				<a href="../../radical/Zombie/index.html" name="Zombie"><img src="../../images/radicals/zombie.png" /></a>
+				<a href="../../radical/History/index.html" name="History">史</a>
+				<a href="../../radical/Cleat/index.html" name="Cleat"><img src="../../images/radicals/cleat.png" /></a>
+				<a href="../../radical/Hut/index.html" name="Hut">介</a>
+				<a href="../../radical/Tent/index.html" name="Tent">癶</a>
+				<a href="../../radical/Robot/index.html" name="Robot">面</a>
+				<a href="http://www.textfugu.com/radical/Spicy/" name="Spicy">辛</a>
+			</div>
+			</div>			
+			
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 8-1: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/学/index.html#top" name="学">学</a>
+				<a href="../../kanji/校/index.html#top" name="校">校</a>
+				<a href="../../kanji/夏/index.html#top" name="夏">夏</a>
+				<a href="../../kanji/家/index.html#top" name="家">家</a>
+				<a href="../../kanji/帰/index.html#top" name="帰">帰</a>
+				<a href="../../kanji/弱/index.html#top" name="弱">弱</a>
+				<a href="../../kanji/時/index.html#top" name="時">時</a>
+				<a href="../../kanji/書/index.html#top" name="書">書</a>
+				<a href="../../kanji/紙/index.html#top" name="紙">紙</a>
+				<a href="../../kanji/記/index.html#top" name="記">記</a>	
+				<a href="../../kanji/通/index.html#top" name="通">通</a>	
+				<a href="../../kanji/高/index.html#top" name="高">高</a>
+				<a href="../../kanji/強/index.html#top" name="強">強</a>
+				<a href="../../kanji/教/index.html#top" name="教">教</a>
+				<a href="../../kanji/理/index.html#top" name="理">理</a>
+				<a href="../../kanji/細/index.html#top" name="細">細</a>
+				<a href="../../kanji/組/index.html#top" name="組">組</a>
+				<a href="../../kanji/船/index.html#top" name="船">船</a>
+				<a href="../../kanji/週/index.html#top" name="週">週</a>
+				<a href="../../kanji/雪/index.html#top" name="雪">雪</a>
+				<a href="../../kanji/魚/index.html#top" name="魚">魚</a>
+				<a href="../../kanji/鳥/index.html#top" name="鳥">鳥</a>
+				<a href="../../kanji/黄/index.html#top" name="黄">黄</a>
+				<a href="../../kanji/黒/index.html#top" name="黒">黒</a>
+			</div>	
+		</div>
+			
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 8-2: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/者.1.html#top" name="者">者</a>
+				<a href="../../kanji/取.1.html#top" name="取">取</a>
+				<a href="../../kanji/所.1.html#top" name="所">所</a>
+				<a href="../../kanji/研.1.html#top" name="研">研</a>
+				<a href="../../kanji/馬.1.html#top" name="馬">馬</a>
+				<a href="../../kanji/森.1.html#top" name="森">森</a>
+				<a href="../../kanji/場/index.html#top" name="場">場</a>
+				<a href="../../kanji/晴.1.html#top" name="晴">晴</a>
+				<a href="../../kanji/朝.1.html#top" name="朝">朝</a>
+				<a href="../../kanji/番.1.html#top" name="番">番</a>
+				<a href="../../kanji/答.1.html#top" name="答">答</a>
+				<a href="../../kanji/絵.1.html#top" name="絵">絵</a>
+				<a href="../../kanji/買.1.html#top" name="買">買</a>
+				<a href="../../kanji/道.1.html#top" name="道">道</a>
+				<a href="../../kanji/間.1.html#top" name="間">間</a>
+				<a href="../../kanji/雲.1.html#top" name="雲">雲</a>
+				<a href="../../kanji/園.1.html#top" name="園">園</a>
+				<a href="../../kanji/数.1.html#top" name="数">数</a>
+				<a href="../../kanji/新.1.html#top" name="新">新</a>
+				<a href="../../kanji/楽/index.html#top" name="楽">楽</a>
+				<a href="../../kanji/話.1.html#top" name="話">話</a>
+				<a href="../../kanji/遠/index.html#top" name="遠">遠</a>
+				<a href="../../kanji/電/index.html#top" name="電">電</a>
+			</div>
+		</div>																								
+			
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 8-2: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/事/index.html#top" name="事">事</a>
+				<a href="../../kanji/使/index.html#top" name="使">使</a>
+				<a href="../../kanji/具.1.html#top" name="具">具</a>
+				<a href="../../kanji/受/index.html#top" name="受">受</a>
+				<a href="../../kanji/和.1.html#top" name="和">和</a>
+				<a href="../../kanji/始.1.html#top" name="始">始</a>
+				<a href="../../kanji/定.1.html#top" name="定">定</a>
+				<a href="../../kanji/実.1.html#top" name="実">実</a>
+				<a href="../../kanji/幸.1.html#top" name="幸">幸</a>
+				<a href="../../kanji/服.1.html#top" name="服">服</a>
+				<a href="../../kanji/泳.1.html#top" name="泳">泳</a>
+				<a href="../../kanji/物.1.html#top" name="物">物</a>
+				<a href="../../kanji/苦.1.html#top" name="苦">苦</a>
+				<a href="../../kanji/乗/index.html#top" name="乗">乗</a>
+				<a href="../../kanji/品.1.html#top" name="品">品</a>
+				<a href="../../coming-soon/index.html" name="comingsoon">…</a>
+			</div>
+		</div>	
+
+			<div class="kanjiradicals">
+			<div class="level">
+				Radicals 9: 
+			</div>  
+			<div class="levelitems">
+				<a href="../../radical/someone/index.html" name="someone">者</a>
+				<a href="../../radical/spikes/index.html" name="spikes"><img src="../../images/radicals/spikes.png" /></a>
+				<a href="../../radical/good/index.html" name="good">良</a>
+				<a href="../../radical/excuse/index.html" name="excuse">免</a>
+				<a href="../../radical/conflict/index.html" name="conflict">争</a>
+				<a href="../../radical/reason/index.html" name="reason">由</a>
+				<a href="../../radical/turkey/index.html" name="turkey">隹</a>
+				<a href="../../radical/central/index.html" name="central">央</a>
+				<a href="../../radical/older-brother/index.html" name="older-brother">兄</a>
+				<a href="../../radical/tofu/index.html" name="tofu"><img src="../../images/radicals/tofu.png" /></a>
+				<a href="../../radical/devil/index.html" name="Devil">反</a>
+			</div>
+			</div>		
+
+		<div class="kanjikanji">	
+			<div class="level">
+				Kanji 9: 
+			</div> 
+			<div class="levelitems">
+				<a href="../../kanji/暑.1.html#top" name="暑">暑</a>
+				<a href="../../kanji/良.1.html#top" name="良">良</a>
+				<a href="../../kanji/卒.1.html#top" name="卒">卒</a>
+				<a href="../../kanji/業.1.html#top" name="業">業</a>
+				<a href="../../kanji/初.1.html#top" name="初">初</a>
+				<a href="../../kanji/座.1.html#top" name="座">座</a>
+				<a href="../../kanji/勉.1.html#top" name="勉">勉</a>
+				<a href="../../kanji/静.1.html#top" name="静">静</a>
+				<a href="../../kanji/温.1.html#top" name="温">温</a>
+				<a href="../../kanji/試.1.html#top" name="試">試</a>
+				<a href="../../kanji/験.1.html#top" name="験">験</a>
+				<a href="../../kanji/過.1.html#top" name="過">過</a>
+				<a href="../../kanji/宙.1.html#top" name="宙">宙</a>
+				<a href="../../kanji/私.1.html#top" name="私">私</a>
+				<a href="../../kanji/運.1.html#top" name="運">運</a>
+				<a href="../../kanji/転.1.html#top" name="転">転</a>
+				<a href="../../kanji/屋.1.html#top" name="屋">屋</a>
+				<a href="../../kanji/曜.1.html#top" name="曜">曜</a>
+				<a href="../../kanji/起.1.html#top" name="起">起</a>
+				<a href="../../kanji/映.1.html#top" name="映">映</a>
+				<a href="../../kanji/画.1.html#top" name="画">画</a>
+				<a href="../../kanji/寝.1.html#top" name="寝">寝</a>
+				<a href="../../kanji/脱.1.html#top" name="脱">脱</a>
+				<a href="../../kanji/旅.1.html#top" name="旅">旅</a>
+				<a href="../../kanji/飯.1.html#top" name="飯">飯</a>
+			</div>
+		</div>					
+
+</div><!-- Kanjimenu -->
+
+		<div class="hareru"></div>
+		
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

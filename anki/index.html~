@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Anki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Anki Comments Feed" href="http://www.textfugu.com/anki/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Tutorials' href='../tutorials/index.html' />
+<link rel='next' title='The Particle と' href='../season-6/particle-to/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-16497 page-template-default logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-16497 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1 style="text-align: center;">Anki</h1>
+<h4>“It is not enough to be busy; so are the ants. The question is: What are we busy about?” -Henry David Thoreau</h4>
+<div class="woo-sc-box note   ">Anki2 is out! You can import these decks into Anki2 without a problem. Just be sure to unzip the file first and importing TextFugu decks into Anki2 should be just fine! One new features of Anki2 revolves around &#8220;Decks.&#8221; You can organize your decks however you like, now. I&#8217;d recommend making a Kanji Deck, a Vocab Deck, a Radicals Deck, and a Sentences Deck, then import the items from TextFugu into the appropriate category.</div>
+<p>Anki is a great program, but it&#8217;ll take some setting up and getting used to if you want to take advantage of all it has to offer. There are a few things to learn about it early on that will make your experience way better in the long term (that way you can learn way more too!).<br />
+<a name="anki"></a></p>
+<h3>Downloading And Installing Anki</h3>
+<p>Anki is available in all kinds of operating systems (including mobile), so that shouldn&#8217;t be a problem. You can find the download page for Anki <a href="http://ankisrs.net/">here</a>.</p>
+<ol>
+<li>Figure out what operating system you have (it&#8217;s probably Windows, OSX, or Linux).</li>
+<li>Click on the symbol for your operating system.</li>
+<li>Click &#8220;Download Latest Release&#8221; to get Anki.</li>
+<li>Install and give yourself a high five, you&#8217;ve earned it.</li>
+</ol>
+<p>There are also mobile versions of Anki, but you&#8217;ll have to download it through your mobile phone&#8217;s app marketplace. The only one that costs money is the iPhone one, but I think it&#8217;s totally worth it (I own it and use it to support Anki, which is free on everything else!).<br />
+<a name="decks"></a></p>
+<h3>Downloading And Importing Decks</h3>
+<p>When you&#8217;ve downloaded and installed Anki, you&#8217;re ready to download decks for it! TextFugu has a bunch of decks to use with TextFugu, but there&#8217;s also a bunch of other decks available to you as well. Let&#8217;s start with TextFugu Anki decks.</p>
+<ol>
+<li>When you see an Anki deck available on TextFugu, just click on it to download. It will download as a .zip file.</li>
+<li>You&#8217;ll need to unzip the zip file. On a Mac, just double click on it and you&#8217;ll see a folder appear next to the zip file (when it unzips). On Windows, you may need to download an application that will allow you to unzip the zip file. I recommend <a href="http://www.7-zip.org/">7zip</a>, it&#8217;s very good.<br />
+<img class="alignnone size-full wp-image-16526" title="radicals" src="../wp-content/uploads/2011/08/radicals.png" alt="" width="270" height="111" /></li>
+<li>When you&#8217;ve unzipped the zip file, you&#8217;ll see either one thing or two things. If there&#8217;s media (pictures, audio, etc) with the deck, you&#8217;ll see a .media folder <em>and</em> a .anki file. If there is no media, you&#8217;ll only see a .anki file. Either way, you&#8217;ll want to make sure to move <span style="text-decoration: underline;">both</span> of those to an Anki folder (or the Anki folder Anki will create for you). If they&#8217;re not together in the same folder, the media won&#8217;t play (as in, the audio won&#8217;t play to give you pronunciation, etc).</li>
+<li>Open the Anki application. Click file&gt;&gt;Import and import the .anki file you just downloaded and unzipped (and put in the Anki folder). When you do this, it should be in your Anki application and keep track of your progress!</li>
+<li>Extra: Even if you&#8217;re starting a brand new deck, you should import that newly downloaded deck into Anki. Go to File&gt;&gt;Import and import the new deck and it will ask you to name it. Name it, and it will import everything, including the audio. If you don&#8217;t import the first deck, sometimes media has trouble playing, so it&#8217;s always best to File&gt;&gt;Import every single time you add something new.</li>
+</ol>
+<p>From here on, you just let Anki tell you what to practice and when. Study consistently, and you&#8217;re sure to learn a ton!<br />
+<a name="tags"></a></p>
+<h3>Setting Up Your &#8220;Tags&#8221;</h3>
+<p>Tags are a very important part of using Anki properly. Tags allow the creator of an Anki deck to &#8220;tag&#8221; different sections of the deck. For example, a lot of TextFugu decks have tags that break up larger decks into groups. The kanji deck is broken up into both number of strokes and groups within the stroke numbers. That way you can tell it to only show you 1 or 2 stroke kanji, that way you&#8217;re not seeing 10-stroke kanji before you&#8217;re ready (and so on).</p>
+<p>When you download a new deck, you&#8217;ll have to set the tags up for it. There will be directions telling you what tags to check / uncheck when you first download it.</p>
+<p>To set up your tags, you&#8217;ll want to open up a deck in Anki, and click &#8220;Selective Study&#8221; under &#8220;Study Options.&#8221; Click &#8220;Change&#8221;</p>
+<p style="text-align: center;"><img class="size-full wp-image-16527 aligncenter" title="selectivestudy" src="../wp-content/uploads/2011/08/selectivestudy.png" alt="" width="568" height="424" /></p>
+<p>You&#8217;ll want to work with the second section in here. The &#8220;Hide cards with any of these tags&#8221; is where you want to select things. Select all the tags you don&#8217;t want showing up. So, if you want to only study tags 01-01, 02-01, 02-02, and 02-03 you&#8217;d select everything <em>except</em> these four tags.</p>
+<p style="text-align: center;"><img class="aligncenter size-large wp-image-18988" title="selective-study" src="../wp-content/uploads/2011/08/selective-study-600x349.png" alt="" width="600" height="349" /></p>
+<p><span class="label important">Important!</span> Do not hide the main tags. Things like &#8220;TextFugu&#8221; (the top one), as well as the tags that dictate <em>how</em> you want to see the cards (that&#8217;s the second set of tags&#8230; Breakdown, Kanji, Meaning, Radicals, and Reading, in this deck). You can get rid of some of these tags, but if you get rid of the top one or all of the second set of tags, you won&#8217;t see any new cards. Make sure you leave these ones unselected.</p>
+<p>Every deck will have different tags, so just pay attention to what the lesson says and choose your tags carefully! Well chosen tags makes a big difference!</p>
+<p>You can even add your own tags to cards to help yourself study better. There&#8217;s a lot more you can do with tags, but this will get you started (and get you through TextFugu).<br />
+<a name="plugin"></a></p>
+<h3>Japanese Support Plugin</h3>
+<p>Anki also lets you download plugins to make your Anki experience better! The only plugin I recommend (as in, you <em>need</em> this plugin, yo!) is the &#8220;Japanese&#8221; Plugin. It makes Anki even better at studying Japanese.</p>
+<p>To download this plugin, you&#8217;ll want to open Anki, and go to File&gt;&gt;Download&gt;&gt;Shared Plugin. From there, you should see the &#8220;Japanese Support&#8221; plugin. Download and install, and good things will happen! If you&#8217;re interested in learning more about what this plugin does, you can <a href="http://ankisrs.net/docs/JapaneseSupport.html">read about it here</a>.</p>
+<p>A lot of TextFugu decks take advantage of this great plugin, so make sure it&#8217;s downloaded or you&#8217;ll run into some troubles :(</p>
+<p><a name="import"></a></p>
+<h3>Importing Tags, Cards, Etc</h3>
+<p>You can also Import things into current lists. This is good to do so you don&#8217;t have a ton of tiny lists (and instead can have one bigger list to work off of&#8230; simplicity is nice!). Not all decks on TextFugu are set up to do this (yet), but we&#8217;re working towards putting things together and tagging everything so you can import a little (or a lot) at a time.</p>
+<p>You will find &#8220;import decks&#8221; (they will be marked as such) on TextFugu with directions to import these (smaller) decks into other bigger ones. For example, your kanji deck might only have 1-2 stroke kanji in it. When you get to the 3-stroke kanji, you&#8217;ll be given a 3-stroke kanji import deck which you&#8217;ll want to import into your 1-2 stroke deck. That way, all your kanji cards are in one deck, and all your reviews are also there too. If you have too many Anki decks, you&#8217;ll find that it gets harder and harder to review everything, so it&#8217;s important to make sure you&#8217;re importing.</p>
+<p>To import a deck into another deck, you&#8217;ll want to:</p>
+<ol>
+<li>Open the Anki deck you want to import into</li>
+<li>Click File&gt;&gt;Import</li>
+<li>Choose the deck / file you want to import</li>
+<li>Import like a boss!</li>
+<li>Optional: If there&#8217;s media (i.e. in a .media folder) it <em>should</em> transfer the media for you automatically, but you&#8217;ll need to make sure the .media folder is next to the .anki folder you imported. You can also drag and drop your media to the new .media folder created by Anki, but it should be there *crosses fingers*</li>
+</ol>
+<p><a name="other"></a></p>
+<h3>Other Issues?</h3>
+<p>Having other issues? Anki has put together some good tutorials taking you through a lot of the basic stuff, including building your own decks!</p>
+<ul>
+<li><a href="http://www.youtube.com/watch?v=c0dI2VyLDWw&amp;feature=PlayList&amp;p=4221D2E6B440D79B&amp;playnext_from=PL&amp;index=0&amp;playnext=1">Anki Tutorial Videos</a></li>
+<li><a href="http://ankisrs.net/docs/manual.html">Anki User Manual</a></li>
+<li><a href="http://ankisrs.net/docs/FrequentlyAskedQuestions.html">Anki&#8217;s FAQ</a></li>
+</ul>
+<p>If you&#8217;re having trouble with anything else, definitely take a look at the FAQ and the user manual. There&#8217;s a lot of problems solved in there. If you&#8217;re <em>reallly</em> having trouble, just shoot us an email and we&#8217;ll help you out the best we can!</p>
+<p>&nbsp;</p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

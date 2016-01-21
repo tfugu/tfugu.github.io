@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  8. Is It Easy Or Is It Difficult?</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 8. Is It Easy Or Is It Difficult? Comments Feed" href="http://www.textfugu.com/season-4/difficult-easy/6-8/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='6. Using Yasui' href='../6-6/index.html' />
+<link rel='next' title='Season 4 Review' href='../../season-4-review/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-9093 page-child parent-pageid-9025 page-template page-template-template-page-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-9093 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>Is It Easy Or Is It Difficult?</h1>
+<h4>“They say the world has become too complex for simple answers. They are wrong.” <span style="color: #888888;">- Ronald Reagan</span></h4>
+<p>Now it&#8217;s time to practice everything you&#8217;ve learned. To sum it up for you, here&#8217;s what you&#8217;ll need to learn to get through this page:</p>
+<ol>
+<li>にくい, and how to use it with verbs</li>
+<li>やすい, and how to use it with verbs</li>
+<li>い adjective conjugation</li>
+</ol>
+<p>If you know those three things, then you&#8217;re right on track and shouldn&#8217;t have any trouble.</p>
+<p>In the following exercises, I&#8217;m going to show you a picture and ask you a question. Your job is to come up with an answer using either にくい or やすい (sometimes it will just depend on your opinion). Practice by writing out the answers or saying them out loud. The main thing is that you&#8217;re processing and coming up with your own answers, knowing why the grammar works (rather than just running copypasta from previous examples). Let&#8217;s get started:</p>
+<p><img class="alignnone size-full wp-image-9103" title="rocks" src="../../../wp-content/uploads/2011/04/rocks.jpg" alt="" width="600" height="445" /></p>
+<p>These are rocks (いし). What do you think about eating rocks?</p>
+<p><a style="display:none;" id="ddetlink1763920771" href="javascript:expand(document.getElementById('ddet1763920771'))">Answer →</a>
+<div class="ddet_div" id="ddet1763920771"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1763920771'));expand(document.getElementById('ddetlink1763920771'))</script></p>
+<p style="padding-left: 30px;">いし　は　たべにくい　です</div></p>
+<p>What about holding these particular rocks?</p>
+<p><a style="display:none;" id="ddetlink1037322254" href="javascript:expand(document.getElementById('ddet1037322254'))">Answer →</a>
+<div class="ddet_div" id="ddet1037322254"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1037322254'));expand(document.getElementById('ddetlink1037322254'))</script></p>
+<p style="padding-left: 30px;">いし　は　もちやすい　です</p>
+<p style="padding-left: 30px;">いし　は　もちにくい　です</div></p>
+<p><img class="alignnone size-full wp-image-9104" title="birthday" src="../../../wp-content/uploads/2011/04/birthday.jpg" alt="" width="600" height="415" /></p>
+<p>Now let&#8217;s talk about birthdays. Is it easy or difficult for you to sing the song &#8220;Happy Birthday&#8221; (ハッピーバースディ)?</p>
+<p><a style="display:none;" id="ddetlink1035428023" href="javascript:expand(document.getElementById('ddet1035428023'))">Answer →</a>
+<div class="ddet_div" id="ddet1035428023"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1035428023'));expand(document.getElementById('ddetlink1035428023'))</script></p>
+<p style="padding-left: 30px;">ハッピーバースディ　は　うたいやすい　です</p>
+<p style="padding-left: 30px;">ハッピーバースディ　は　うたいにくい　です</div></p>
+<p>What about eating the cake (ケーキ)?</p>
+<p><a style="display:none;" id="ddetlink604949658" href="javascript:expand(document.getElementById('ddet604949658'))">Answer →</a>
+<div class="ddet_div" id="ddet604949658"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet604949658'));expand(document.getElementById('ddetlink604949658'))</script></p>
+<p style="padding-left: 30px;">ケーキ　は　たべやすい　です</p>
+<p style="padding-left: 30px;">ケーキ　は　たべにくい　です</div></p>
+<p>What about listening to all the うるさい children (こども), screaming and causing a fuss?</p>
+<p><a style="display:none;" id="ddetlink2014257061" href="javascript:expand(document.getElementById('ddet2014257061'))">Answer →</a>
+<div class="ddet_div" id="ddet2014257061"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet2014257061'));expand(document.getElementById('ddetlink2014257061'))</script></p>
+<p style="padding-left: 30px;">こども　は　ききにくい　です</div></p>
+<p><em>Was</em> it easy or difficult to buy the present (プレゼント)?</p>
+<p><a style="display:none;" id="ddetlink1480003797" href="javascript:expand(document.getElementById('ddet1480003797'))">Answer →</a>
+<div class="ddet_div" id="ddet1480003797"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1480003797'));expand(document.getElementById('ddetlink1480003797'))</script></p>
+<p style="padding-left: 30px;">プレゼント　は　かいやすかった　です</p>
+<p style="padding-left: 30px;">プレゼント　は　かいにくかった　です</div></p>
+<p><img class="alignnone size-full wp-image-9106" title="milk" src="../../../wp-content/uploads/2011/04/milk.jpg" alt="" width="600" height="499" /></p>
+<p>Let&#8217;s take a look at the next picture. What about milk  (ぎゅうにゅう)? Is it easy for you to drink, or difficult?</p>
+<p><a style="display:none;" id="ddetlink54414851" href="javascript:expand(document.getElementById('ddet54414851'))">Answer →</a>
+<div class="ddet_div" id="ddet54414851"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet54414851'));expand(document.getElementById('ddetlink54414851'))</script></p>
+<p style="padding-left: 30px;">ぎゅうにゅう　は　のみやすい　です</p>
+<p style="padding-left: 30px;">ぎゅうにゅう　は　のみにくい　です</div></p>
+<p>What happened when you tried to pick up and hold the dog? Was she easy to hold? Or difficult to hold?</p>
+<p><a style="display:none;" id="ddetlink1113824532" href="javascript:expand(document.getElementById('ddet1113824532'))">Answer →</a>
+<div class="ddet_div" id="ddet1113824532"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1113824532'));expand(document.getElementById('ddetlink1113824532'))</script></p>
+<p style="padding-left: 30px;">犬　は　もちやすかった　です</p>
+<p style="padding-left: 30px;">犬　は　もちにくかった　です</div></p>
+<p>Now, before we end, how about the Japanese language? Is it hard to learn or easy to learn?</p>
+<p><a style="display:none;" id="ddetlink805857" href="javascript:expand(document.getElementById('ddet805857'))">Answer →</a>
+<div class="ddet_div" id="ddet805857"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet805857'));expand(document.getElementById('ddetlink805857'))</script></p>
+<p style="padding-left: 30px;">にほんご　は　ならいやすい　です　(good!)</p>
+<p style="padding-left: 30px;">にほんご　は　ならいにくい　です　(keep studying, it&#8217;ll get better!)</div></p>
+<hr class="d4pbbc-hr" />
+<p>Hopefully by the end of all that, you have a better idea of how to use にくい and やすい. There are other ways to say whether or not a verb / subject is easy or difficult (we&#8217;ll get into that after you learn casual form in Season 5), but this should give you a really good start, and plus you got to learn a really useful grammar point (and practice stem form, as well as い adjective conjugations).</p>
+<p>Before you move on to the next chapter (second to last of this season!) make sure you keep studying your vocab &#8211; it&#8217;ll be so important you know them all by Season 5, and I just want to make sure you&#8217;ve had enough time to practice (and not wait to the last minute!). If you don&#8217;t study your vocab, well, then you might start saying that にほんご　は　ならいにくい　です!</p>
+<p>Oh, before you move on, add these two words (にくい and やすい) to your &#8220;TextFugu Vocab&#8221; deck. It&#8217;ll be good to know these words, even though they&#8217;re kind of like grammar, too.</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/vocab/nikuiyasui.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">やすい and にくい</a></span> on Anki</p>
+<div class="woo-sc-box tick   ">By finishing this page, you&#8217;ve finished the やすい・にくい chapter and learned a couple of new grammar points! We&#8217;ll continue to work these in to future lessons too, so you can keep practicing</div>
+<p style="text-align: center;"><a class="btn large" href="../6-7/index.html#top">← 後</a> <a class="btn large primary" href="../6-9/index.html#top">前 →</a></p>
+<p style="text-align: left;">[Images <a href="http://www.flickr.com/photos/starmist1/958176525/">1</a> <a href="http://www.flickr.com/photos/shandilee/5390444509/">2</a> <a href="http://www.flickr.com/photos/_tar0_/5031998865/">3</a>]</p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

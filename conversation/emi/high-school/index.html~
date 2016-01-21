@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  High School</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; High School Comments Feed" href="http://www.textfugu.com/advanced/emi/high-school/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='1. Emi&#8217;s Self Introduction' href='../emi-self-intro/index.html' />
+<link rel='next' title='Japanese Food' href='../japanese-food/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-13981 page-child parent-pageid-8065 page-template page-template-template-lesson-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-13981 page type-page status-publish hentry">
+
+	                <h1>High School</h1>
+					
+                    
+                    <section class="entry">
+	                	<h4>&#8220;True terror is to wake up one morning and discover that your high school class is running the country.&#8221; &#8211; Kurt Vonnegut</h4>
+<p>High school is a rough time for some people&#8230; I think Japanese high school is some of the roughest in the world, though. Test test test test test you will.</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="download" href="../../../audio/alesson/emi-high-school/emi-high-school-all.mp3">Download Entire Audio MP3</a></span> (Right Click + Save As)</p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-all.mp3">a </a>Play All</p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-1.mp3">a</a>日本では、高校に入るために試験を受けなければいけません。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-2.mp3">a</a>日本では、この事を受験と呼びます。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-3.mp3">a</a>公立の学校に行く人も、私立に行く人も皆受けるのです。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-4.mp3">a</a>ですから、日本の学生は、早い人は小学生のころから、準備を始めます。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-5.mp3">a</a>日本では、どの高校に入るかがとても重要なのです。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-6.mp3">a</a>多くの日本人は、良い高校に入れば、良い大学へ行けて、将来良い会社につとめる事ができると考えるのです。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-7.mp3">a</a>日本の学生は、学校以外に塾に通ったり、家庭教師を持って日々勉強にはげむのです。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-8.mp3">a</a>高校へ入ると、今度は大学受験のために皆必死で勉強をします。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-9.mp3">a</a>日本の学生は勉強ばかりで大変なのです。</p>
+<h2>Vocabulary</h2>
+<table>
+<tbody>
+<tr>
+<th><strong>日本語</strong></th>
+<th><strong>かな<br />
+</strong></th>
+<th><strong>English<br />
+</strong></th>
+</tr>
+<tr>
+<td>日本</td>
+<td>にほん</td>
+<td>Japan</td>
+</tr>
+<tr>
+<td>高校</td>
+<td>こうこう</td>
+<td>High School</td>
+</tr>
+<tr>
+<td>入る</td>
+<td>はいる</td>
+<td>To Enter / Enroll</td>
+</tr>
+<tr>
+<td>ために</td>
+<td>ために</td>
+<td>For the Sake of, Because</td>
+</tr>
+<tr>
+<td>試験</td>
+<td>しけん</td>
+<td>Examination</td>
+</tr>
+<tr>
+<td>受ける</td>
+<td>うける</td>
+<td>To Take (a Test)</td>
+</tr>
+<tr>
+<td>この</td>
+<td>この</td>
+<td>This</td>
+</tr>
+<tr>
+<td>事</td>
+<td>こと</td>
+<td>Thing, Matter</td>
+</tr>
+<tr>
+<td>受験</td>
+<td>じゅけん</td>
+<td>Taking an Examination</td>
+</tr>
+<tr>
+<td>呼ぶ</td>
+<td>よぶ</td>
+<td>To Designate / Name</td>
+</tr>
+<tr>
+<td>公立</td>
+<td>こうりつ</td>
+<td>Public (Institution)</td>
+</tr>
+<tr>
+<td>学校</td>
+<td>がっこう</td>
+<td>School</td>
+</tr>
+<tr>
+<td>行く</td>
+<td>いく</td>
+<td>To Go</td>
+</tr>
+<tr>
+<td>人</td>
+<td>ひと</td>
+<td>Person</td>
+</tr>
+<tr>
+<td>私立</td>
+<td>しりつ</td>
+<td>Private (Establishment)</td>
+</tr>
+<tr>
+<td>皆</td>
+<td>みんな</td>
+<td>Everyone</td>
+</tr>
+<tr>
+<td>学生</td>
+<td>がくせい</td>
+<td>Student</td>
+</tr>
+<tr>
+<td>早い</td>
+<td>はやい</td>
+<td>Fast / Early</td>
+</tr>
+<tr>
+<td>小学生</td>
+<td>しょうがくせい</td>
+<td>Elementary School Student</td>
+</tr>
+<tr>
+<td>準備</td>
+<td>じゅんび</td>
+<td>Preparation, Setup</td>
+</tr>
+<tr>
+<td>始める</td>
+<td>はじめる</td>
+<td>To Start / Begin</td>
+</tr>
+<tr>
+<td>どの</td>
+<td>どの</td>
+<td>Which, What (Way)</td>
+</tr>
+<tr>
+<td>重要</td>
+<td>じゅうよう</td>
+<td>Important</td>
+</tr>
+<tr>
+<td>多く</td>
+<td>おおく</td>
+<td>Many</td>
+</tr>
+<tr>
+<td>日本人</td>
+<td>にほんじん</td>
+<td>Japanese Person</td>
+</tr>
+<tr>
+<td>良い</td>
+<td>いい</td>
+<td>Good</td>
+</tr>
+<tr>
+<td>大学</td>
+<td>だいがく</td>
+<td>College</td>
+</tr>
+<tr>
+<td>将来</td>
+<td>しょうらい</td>
+<td>Future (Usually Near)</td>
+</tr>
+<tr>
+<td>会社</td>
+<td>かいしゃ</td>
+<td>Company</td>
+</tr>
+<tr>
+<td>つとめる</td>
+<td>つとめる</td>
+<td>To Work (For) / Be Employed (At)</td>
+</tr>
+<tr>
+<td>できる</td>
+<td>できる</td>
+<td>To Be Able</td>
+</tr>
+<tr>
+<td>考える</td>
+<td>かんがえる</td>
+<td>To Consider / Think About</td>
+</tr>
+<tr>
+<td>以外</td>
+<td>いがい</td>
+<td>With the Exception of</td>
+</tr>
+<tr>
+<td>塾</td>
+<td>じゅく</td>
+<td>Cram School</td>
+</tr>
+<tr>
+<td>家庭教師</td>
+<td>かていきょうし</td>
+<td>Tutor</td>
+</tr>
+<tr>
+<td>持つ</td>
+<td>もつ</td>
+<td>To Hold / Possess</td>
+</tr>
+<tr>
+<td>日々</td>
+<td>ひび</td>
+<td>Every Day</td>
+</tr>
+<tr>
+<td>勉強</td>
+<td>べんきょう</td>
+<td>Study</td>
+</tr>
+<tr>
+<td>はげむ</td>
+<td>はげむ</td>
+<td>To Make an Effort</td>
+</tr>
+<tr>
+<td>今度</td>
+<td>こんど</td>
+<td>Now, This Time</td>
+</tr>
+<tr>
+<td>必死</td>
+<td>ひっし</td>
+<td>Frantic, Desperate</td>
+</tr>
+<tr>
+<td>ばかり</td>
+<td>ばかり</td>
+<td>Only, Nothing But</td>
+</tr>
+<tr>
+<td>大変</td>
+<td>たいへん</td>
+<td>Very, Greatly</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Download: <a href="http://cdn.textfugu.com/advanced/emi/anki/emi4.zip">Anki Deck For These Words</a></p>
+<h2 style="text-align: left;">Line-By-Line Translation</h2>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-1.mp3">a</a>日本では、高校に入るために試験を受けなければいけません。<br />
+<em>In Japan, you have to take an exam in order to get into high school.</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-2.mp3">a</a>日本では、この事を受験と呼びます。<br />
+<em> In Japan,</em> <em>we call this test </em>jyuken<em>.</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-3.mp3">a</a>公立の学校に行く人も、私立に行く人も皆受けるのです。<br />
+<em>Students in both public and private schools have to take the test.</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-4.mp3">a</a>ですから、日本の学生は、早い人は小学生のころから、準備を始めます。<br />
+<em>Therefore, some students in Japan start preparing for it in elementary school.</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-5.mp3">a</a>日本では、どの高校に入るかがとても重要なのです。<br />
+<em>In Japan, it&#8217;s very important which high school you attend.</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-6.mp3">a</a>多くの日本人は、良い高校に入れば、良い大学へ行けて、将来良い会社につとめる事ができると考えるのです。<br />
+<em> A lot of Japanese think that if you get into a good high school, you will be able to attend a good college, then work for a prestigious company.</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-7.mp3">a</a>日本の学生は、学校以外に塾に通ったり、家庭教師を持って日々勉強にはげむのです。<br />
+<em> Japanese students attend cram school after school or have private tutor and study very hard everyday.</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-8.mp3">a</a>高校へ入ると、今度は大学受験のために皆必死で勉強をします。<br />
+<em> When they enter high school, they start preparing for college entrance examination.</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-high-school/emi-high-school-9.mp3">a</a>日本の学生は勉強ばかりで大変なのです。<br />
+<em>Japanese students are very busy with studying all the time.</em></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto; text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

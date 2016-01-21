@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Time In Hours</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Time In Hours Comments Feed" href="http://www.textfugu.com/season-8/hours/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Time' href='../time/index.html' />
+<link rel='next' title='Time In Minutes' href='../minutes/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-36276 page-parent page-child parent-pageid-36259 page-template page-template-template-lesson-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-36276 page type-page status-publish hentry">
+
+	                <h1>Time In Hours</h1>
+					
+                    
+                    <section class="entry">
+	                	<h4>&#8220;I’m on a government watch list. But I’m not interested, because government watches only work twenty minutes out of every hour.&#8221; &#8211; Jarod Kintz</h4>
+<p>Hours! They&#8217;re so little! But, they&#8217;re way more countable and imaginable. It&#8217;s hard to really imagine weeks, and definitely hard to imagine years (ever think &#8220;I&#8217;m going to learn Japanese!&#8221; then realize a year has gone by and you haven&#8217;t done anything? Get to it!). Hours are great, though. If you spend only one of them every day doing something productive, you&#8217;ll have made a lot of progress.</p>
+<p>Speaking of progress, do you know how important the hour is in terms of progress? You can say &#8220;I want to get a lot of studying done today!&#8221; but a day is a long time. The &#8220;hour&#8221; is where all the magic really happens. Go ahead and take a moment to read <a href="http://blog.idonethis.com/post/33892676864/the-science-behind-why-better-energy-management-is-the">this article about energy management</a>. It&#8217;s quite fascinating! The basic idea is that we have a sort of rhythm that repeats throughout the day. We have moments where we are extremely productive that you should take advantage of as well as times where you aren&#8217;t going to be productive, so you should rest and recharge. Instead of working at 25% efficiency all day, you should work at 90% efficiency multiple times a day. Does this sound a little like the <a href="../../season-3/finding-time/1-2/index.html">30-30 schedule</a>? It should. If you&#8217;ve been using it, there&#8217;s some neat things you can apply to it using the article above.</p>
+<h2>時 = Time = Hours</h2>
+<p>First let&#8217;s look at some top-level concepts. You should know about 時 already to a certain extent via studying the kanji. But there&#8217;s a little bit more than that to this kanji / word.</p>
+<p>First, there&#8217;s a couple of words worth learning:</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours1.mp3">a</a> 何時？　＝　What time?<br />
+example: 何時ですか？ / What time is it?</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours2.mp3">a</a> 時間　＝　Time<br />
+This is the big concept of &#8220;time&#8221; so you wouldn&#8217;t use this to say &#8220;3 o&#8217;clock&#8221; or something.</p>
+<p style="padding-left: 30px;">〜時　＝　o&#8217;clock<br />
+example: ７時 / 7:00 / 7 o&#8217;clock</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours3.mp3">a</a> 午後　＝　Afternoon / PM<br />
+example: 午後７時 / 7:00 pm</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours4.mp3">a</a> 午前　＝　Morning / AM<br />
+example: 午前７時 / 7:00pm</p>
+<p>These are some of the basics you&#8217;ll need for the next sections of this lesson. You&#8217;ll see why in a moment, so make sure you understand these three words okay.</p>
+<h2>____ O&#8217; Clock</h2>
+<p>So, what time is it? Time is one of the most important time-based concepts. What time you want to meet? How about 5 o&#8217;clock?</p>
+<p>As long as you follow the counter rules at the end of the <a href="http://www.tofugu.com/guides/japanese-counters-guide/">Counter&#8217;s Guide</a> (these should be getting familiar by now) you should be able to tell time. Because time is both told in 24-hour time and 12-hour time, we&#8217;re going to go over all 24 of the hours. For now just read through these. It should be familiar.</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours5.mp3">a</a> １時（いちじ）＝　1:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours6.mp3">a</a> ２時（にじ）＝　2:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours7.mp3">a</a> ３時（さんじ）＝　3:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours8.mp3">a</a> ４時（よじ）＝　4:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours9.mp3">a</a> ５時（ごじ）＝　5:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours10.mp3">a</a> ６時（ろくじ）＝　6:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours11.mp3">a</a> ７時（しちじ）＝　7:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours12.mp3">a</a> ８時（はちじ）＝　8:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours13.mp3">a</a> ９時（くじ）＝　9:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours14.mp3">a</a> １０時（じゅうじ）＝　10:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours15.mp3">a</a> １１時（じゅういちじ）＝　11:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours16.mp3">a</a> １２時（じゅうにじ）＝　12:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours17.mp3">a</a> １３時（じゅうさんじ）＝　13:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours18.mp3">a</a> １４時（じゅうよじ）＝　14:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours19.mp3">a</a> １５時（じゅうごじ）＝　15:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours20.mp3">a</a> １６時（じゅうろくじ）＝　16:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours21.mp3">a</a> １７時（じゅうしちじ）＝　17:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours22.mp3">a</a> １８時（じゅうはちじ）＝　18:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours23.mp3">a</a> １９時（じゅうくじ）＝　19:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours24.mp3">a</a> ２０時（にじゅうじ）＝　20:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours25.mp3">a</a> ２１時（にじゅういちじ）＝　21:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours26.mp3">a</a> ２２時（にじゅうにじ）＝　22:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours27.mp3">a</a> ２３時（にじゅうさんじ）＝　23:00<br />
+<a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours28.mp3">a</a> ２４時（にじゅうよじ）＝　24:00</p>
+<p>The only weird thing about time is the 4&#8242;s. Instead of よんじ it&#8217;s よじ, but I bet you guessed that from the start! Oh four, you&#8217;re so silly.</p>
+<p>Of course, if you&#8217;re working with only 12-hour time, you&#8217;d stop at 12. But how do you know if it&#8217;s AM or PM? Well, you&#8217;ve already seen the answer:</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours29.mp3">a</a> 午後１２時（ごごじゅうにじ）＝　12:00pm</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours30.mp3">a</a> 午前１時（ごぜんいちじ）＝　1:00am</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours31.mp3">a</a> 午後５時（ごごごじ）＝　5:00pm</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours32.mp3">a</a> 午前７時（ごぜんしちじ）＝　7:00am</p>
+<p>Go ahead and try to say all the hours out loud without looking, 1-24. Pay attention to the fours, though! It&#8217;s pretty straight forward, so when you&#8217;re done move on to number of hours.</p>
+<h2>Number Of Hours</h2>
+<p>Unlike time, counting a number of hours isn&#8217;t limited to 12 or 24. If you see 間 on the end of an hour (they look just like the above section) you know it&#8217;s a count of numbers since 間 represents an interval of some kind, in this case an interval of hours.</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours33.mp3">a</a> ５時間（ごじかん）＝　For five hours</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours34.mp3">a</a> ８時間（はちじかん）＝　For eight hours</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours35.mp3">a</a> ２４時間（にじゅうよじかん）＝　For 24 hours</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours36.mp3">a</a> １００時間（ひゃくじかん）＝　For 100 hours</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours37.mp3">a</a> １時間（いちじかん）＝　For one hour</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours38.mp3">a</a> １０時間（じゅうじかん）＝　For ten hours</p>
+<p>So, now that you know how hours work it&#8217;s time to see how they relates to dates, because dates and times go nicely together!</p>
+<h2>Days And Time</h2>
+<p>Guess what? You can combine dates and time. This is good for specifying when you want to meet or do something on what day. For example, with what you know up until now, you could say things like &#8220;Let&#8217;s meet at 4&#8242;clock on Wednesday&#8221; or &#8220;Let&#8217;s watch a movie on September 5 at 3pm.&#8221; You have all the tools to do that, and in Japanese it&#8217;s quite simple. Let&#8217;s start with the dates and times themselves.</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours39.mp3">a</a> 明日５時（あしたごじ）<br />
+Tomorrow 5 o&#8217;clock</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours40.mp3">a</a> 月曜日の３時（げつようびのさんじ）<br />
+3 o&#8217;clock on Monday</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours41.mp3">a</a> 毎日６時（まいにちろくじ）<br />
+Every day at 6 o&#8217;clock</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours42.mp3">a</a> ６月７日の午後１０時（ろくがつなのかのじゅうじ）<br />
+10:00pm on June 7</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours43.mp3">a</a> 今日の午前９時（きょうのごぜんくじ）<br />
+Today at 9:00am</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/hours44.mp3">a</a> 朝７時（あさしちじ）<br />
+Seven o&#8217;clock in the morning</p>
+<p>For now your focus is to understand how all these work. There&#8217;s a lot of different examples using previous concepts you&#8217;ve looked at in this season. Many of them work subtly differently. So long as you understand <em>how</em> these work, you can move onto the practice page where we&#8217;ll take a look at all of this at once and of course get you some practice.</p>
+<p style="text-align: center;"><a class="btn btn-large" href="../days-of-the-week/practice.1.html">←</a> <a class="btn btn-primary btn-large" href="practice.1.html">Practice →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto; text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

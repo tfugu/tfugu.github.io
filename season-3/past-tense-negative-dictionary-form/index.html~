@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Past Tense Negative Dictionary Form</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Past Tense Negative Dictionary Form Comments Feed" href="http://www.textfugu.com/season-3/past-tense-negative-dictionary-form/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Negative Dictionary Form Verbs' href='../negative-dictionary-form-verbs/index.html' />
+<link rel='next' title='TextFugu Kanji (Four-Stokes Part 1)' href='http://www.textfugu.com/kanji-2/textfugu-kanji-four-strokes-part-1/' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-3402 page-child parent-pageid-3108 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-3402 page type-page status-publish hentry">
+
+	                <h1>Past Tense Negative Dictionary Form</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1 style="text-align: center;">PAST TENSE NEGATIVE DICTIONARY FORM VERBS</h1>
+<p style="text-align: center;"><em>“If you realized how powerful your thoughts are, you would never think a negative  thought.”</em> &#8211; <strong>Peace Pilgrim</strong></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-3403" title="negative-film2" src="../../wp-content/uploads/2010/03/negative-film2.png" alt="" width="820" height="229" /></p>
+<h3 style="text-align: left;"><span style="color: #ff0000;">This type of verb</span> may have a really, really long name, but as long as you understood the concepts from the previous chapter, you won&#8217;t have any trouble with this one at all. That being said, this chapter will go by very quickly, and although what you are learning in this chapter is important, you won&#8217;t be wracking your brains too hard.</h3>
+<p style="text-align: left;">Past tense negative dictionary form verbs go like this:</p>
+<ol>
+<li>Figure out what the verb is in <em>regular</em> negative dictionary form. Take the example 行かない.</li>
+<li>Replace the ない with なかった.</li>
+<li>Stick it back onto your verb. 行かない becomes 行かなかった.</li>
+<li>Enjoy the simplicity of this&#8230; while you can.</li>
+</ol>
+<p>In the previous chapter, we learned negative dictionary form verbs. We also learned that each type of verb (Group 1, Group 2, or irregular) had to be conjugated in a slightly different way. With past tense negative, all of that work has already been done for you, which makes this a simple case of find (ない) and replace (なかった).</p>
+<p>Take a look at the table below to see how it&#8217;s done, step by step. You probably won&#8217;t have to go through all of them to figure out how it works (I doubt you&#8217;ll have to go through more than a couple to understand the concept taught in this chapter). It is good practice to look at the verbs in their different forms though, which will get you closer to conjugating them naturally without having to think. Cover the right three columns and see if you can conjugate them correctly on your own.</p>
+<table>
+<tbody>
+<tr class="yellow">
+<td><strong>Dictionary Form</strong></td>
+<td><strong>Negative Dict.<br />
+</strong></td>
+<td><strong>Past Negative Dict.<br />
+</strong></td>
+<td><strong>Meaning<br />
+</strong></td>
+</tr>
+<tr>
+<td>読む（よむ）</td>
+<td>読まない</td>
+<td>読まなかった</td>
+<td>didn&#8217;t read</td>
+</tr>
+<tr>
+<td>死ぬ（しぬ）</td>
+<td>死なない</td>
+<td>死ななかった</td>
+<td>didn&#8217;t die</td>
+</tr>
+<tr>
+<td>買う（かう）</td>
+<td>買わない</td>
+<td>買わなかった</td>
+<td>didn&#8217;t buy</td>
+</tr>
+<tr>
+<td>習う（ならう）</td>
+<td>習わない</td>
+<td>習わなかった</td>
+<td>didn&#8217;t learn</td>
+</tr>
+<tr>
+<td>送る（おくる）</td>
+<td>送らない</td>
+<td>送らなかった</td>
+<td>didn&#8217;t send</td>
+</tr>
+<tr>
+<td>知る（しる）</td>
+<td>知らない</td>
+<td>知らなかった</td>
+<td>didn&#8217;t know</td>
+</tr>
+<tr>
+<td>止まる（とまる）</td>
+<td>止まらない</td>
+<td>止まらなかった</td>
+<td>didn&#8217;t stop</td>
+</tr>
+<tr>
+<td>分かる（わかる）</td>
+<td>分からない</td>
+<td>分からなかった</td>
+<td>didn&#8217;t understand</td>
+</tr>
+<tr>
+<td>食べる（たべる）</td>
+<td>食べない</td>
+<td>食べなかった</td>
+<td>didn&#8217;t eat</td>
+</tr>
+<tr>
+<td>忘れる（わすれる）</td>
+<td>忘れない</td>
+<td>忘れなかった</td>
+<td>didn&#8217;t forget</td>
+</tr>
+<tr>
+<td>見る（みる）</td>
+<td>見ない</td>
+<td>見なかった</td>
+<td>didn&#8217;t see</td>
+</tr>
+<tr>
+<td>する</td>
+<td>しない</td>
+<td>しなかった</td>
+<td>didn&#8217;t do</td>
+</tr>
+<tr>
+<td>来る（くる）</td>
+<td>来ない（こない）</td>
+<td>来なかった（こなかった）</td>
+<td>didn&#8217;t come</td>
+</tr>
+<tr>
+<td>ある</td>
+<td>ない</td>
+<td>なかった</td>
+<td>didn&#8217;t have / possess</td>
+</tr>
+<tr>
+<td>勉強する（べんきょうする）</td>
+<td>勉強しない</td>
+<td>勉強しなかった</td>
+<td>didn&#8217;t study</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;">In the above table, Group 1, Group 2, and irregular verbs are all mixed in with each other. As you can see by now, as long as you know how to turn them into <em>regular</em> negative dictionary form verbs (and you should be able to!), then it&#8217;s as simple as replacing the ない with a なかった.</p>
+<p style="text-align: left;">As short and simple as this chapter may be, it&#8217;s time to move on to past tense dictionary form verbs, which are probably the most difficult of the bunch (and lucky for you, the last!). No homework or worksheet for this chapter either. If you feel like you need extra practice feel free to take the list of verbs from any of the previous chapters and practice conjugate them into past negative form to your heart&#8217;s content.</p>
+<p style="text-align: left;"><strong>Before You Move On:</strong></p>
+<ul>
+<li>Simply remember&#8230; Change ない to なかった.</li>
+<li>Know how to make past tense negative dictionary form verbs</li>
+</ul>
+<p style="text-align: right;"><a href="../past-tense-dictionary-form-verbs/index.html">Past Tense Dictionary Form Verbs →</a></p>
+<p style="text-align: left;"><a style="display:none;" id="ddetlink510988116" href="javascript:expand(document.getElementById('ddet510988116'))">Image Source:</a>
+<div class="ddet_div" id="ddet510988116"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet510988116'));expand(document.getElementById('ddetlink510988116'))</script></p>
+<ul>
+<li><a href="http://www.flickr.com/photos/tncowart/756042389/in/photostream/">http://www.flickr.com/photos/tncowart/756042389/in/photostream/</a> </div></li>
+</ul>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

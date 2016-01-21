@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  1-2 Stroke Kanji</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 1-2 Stroke Kanji Comments Feed" href="http://www.textfugu.com/kanji/1-2-stroke/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='5: TextFugu&#8217;s Kanji Methodology' href='../before-you-begin-your-kanji/4-5/index.html' />
+<link rel='next' title='4: When To Use On&#8217;yomi &amp; Kun&#8217;yomi' href='../before-you-begin-your-kanji/4-4/index.html' />
+<link rel='canonical' href='../../radicals/1-2-stroke/index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-5880 page-parent page-child parent-pageid-2313 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-5880 page type-page status-publish hentry">
+
+	                <h1>1-2 Stroke Kanji</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1>TextFugu Kanji, 1-2 Strokes</h1>
+<h4>&ldquo;You must do the thing you think you cannot do.&rdquo; &#8211; Eleanor Roosevelt</h4>
+<p><img class="alignnone size-full wp-image-6218" title="matsuri" src="../../wp-content/uploads/2010/10/matsuri.png" alt="" width="900" height="300" /></p>
+<p>By this point, you&#8217;ve learned the 1 and 2 stroke radicals. You&#8217;ll notice that a lot of radicals are going to be exactly the same as a lot of the kanji you&#8217;ll be learning down below. That&#8217;s okay, and it won&#8217;t be like that for too long, especially when you start hitting 4, 5, 6+ stroke kanji. Sure, there are 4, 5, 6+ stroke radicals to learn as well, but that&#8217;s about when the amount of kanji becomes so much greater than the amount of radicals, so the overlap will seem less noticeable.</p>
+<p>For now, though, enjoy it while you can. When a kanji is the same as a radical, that&#8217;s one less thing you have to learn and remember. That means you actually know a lot of kanji without actually knowing it. Anyways, we should get started!</p>
+<h1>Learning The Kanji</h1>
+<h4>&#8220;Never confuse motion with action.&#8221; &#8211; Benjamin Franklin</h4>
+<p>All the kanji is on one page, but that doesn&#8217;t mean I won&#8217;t break it up for you. Don&#8217;t be overwhelmed by all the kanji, just take it one kanji at a time, and you&#8217;ll be just fine. I&#8217;ll break the kanji into smaller chunks / groups so that you can break your studying up into smaller sections.</p>
+<p>Basically, here&#8217;s how we&#8217;ll do things (you can follow along with the lessons below, too, and it will do the same thing).</p>
+<ol>
+<li>Learn the kanji (includes meaning of the kanji and on&#8217;yomi reading of the kanji).</li>
+<li>Use study lists to review and solidify your knowledge of the kanji&#8217;s meaning and on&#8217;yomi.</li>
+<li>Study Common words associated with the kanji. Each kanji has words that use the kanji you just learned, and by learning these common words you&#8217;ll be able to study the kanji and learn something new at the same time.</li>
+</ol>
+<p>One thing to know about the vocab / common words section, though, is that even though there will be a decent number of words listed in each kanji narrative, you won&#8217;t be learning <em>all</em> of them. Because of the common words contain kanji you don&#8217;t know, I&#8217;m going to &#8220;postpone&#8221; them until later, so that way you&#8217;re only learning words that contain only kanji you&#8217;ve already learned. That&#8217;ll make the lists easier to study, and will really simplify the process for you too. Your experience will be better because of it, and you&#8217;ll end up making a lot more progress (instead of spending time hitting your head trying to remember and learn kanji you haven&#8217;t learned yet, you&#8217;ll be able to move on and learn new things that you are actually able to process).</p>
+<p>All that being said, it&#8217;s time to get started. Basically, just follow along with the directions provided in each kanji narrative, and you&#8217;ll be okay. One important thing to note is that you should be practicing the act of learning kanji itself. The more you practice learning kanji, the better you&#8217;ll get at learning kanji too. Funny how that works. So, even if you&#8217;re bad at learning kanji now, <em>you can get better at learning kanji</em>. You can make that choice, and I&#8217;ll make it as simple as possible along the way.</p>
+<p>So go ahead, start with the first kanji, 一. Give it a click and follow the directions on the other side.<br />
+<a name="1"></a></p>
+<table>
+<thead>
+<tr>
+<th>Kanji</th>
+<th>Meaning</th>
+<th>音 (on)</th>
+<th>訓 (kun)</th>
+<th>Strokes</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="一/index.html">一</a></td>
+<td>one</td>
+<td>いち</td>
+<td>ひと.つ, ひと</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="二/index.html">二</a></td>
+<td>two</td>
+<td>に</td>
+<td>ふた.つ, ふた</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="七/index.html">七</a></td>
+<td>seven</td>
+<td>しち</td>
+<td>なな, なな.つ</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/1-2-stroke/九/">九</a></td>
+<td>nine</td>
+<td>きゅう, く</td>
+<td>ここの. ここの.つ</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p><span class="woo-sc-ilink"><a class="info" href="../../downloads/anki/vocab/kanji/kanjivocab1-1.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji Vocab 1.1</a></span> ← <a href="../../anki/index.html#import">Import</a> To Your Vocab Deck<br />
+<span class="woo-sc-ilink"><a class="info" href="../../downloads/anki/kanji/01-01.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji 1.1</a></span> ← <a href="../../anki/index.html#import">Import</a> To Your Kanji Meanings Deck</p>
+<p>Well done, so you&#8217;ve made it through the first four kanji. Not too bad, right? You&#8217;ll want to import both Kanji Vocab 1.1 and Kanji 1.1 into your &#8220;TextFugu Kanji&#8221; and &#8220;TextFugu Vocab&#8221; decks on Anki. There&#8217;s more directions on the lesson for this page, but you can also check out the <a href="../../anki/index.html">Anki guide</a> here on TextFugu for more info.</p>
+<p>After you&#8217;ve added the decks, you should study them (that&#8217;s what you should do every time) until Anki tells you to stop. Then, keep reviewing as you move forward so you can keep adding new imports to add to your deck. That way you&#8217;ll never feel too overwhelmed (that is, as long as you keep reviewing!).</p>
+<p><a name="2"></a></p>
+<table>
+<thead>
+<tr>
+<th>Kanji</th>
+<th>Meaning</th>
+<th>音 (on)</th>
+<th>訓 (kun)</th>
+<th>Strokes</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/1-2-stroke/人/">人</a></td>
+<td>person</td>
+<td>じん, にん</td>
+<td>ひと</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/1-2-stroke/入/">入</a></td>
+<td>enter</td>
+<td>にゅう</td>
+<td>い.る, はい.る</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/1-2-stroke/八/">八</a></td>
+<td>eight</td>
+<td>はち</td>
+<td>や, や.つ</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/1-2-stroke/力/">力</a></td>
+<td>power</td>
+<td>りょく, りき</td>
+<td>ちから</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p><span class="woo-sc-ilink"><a class="info" href="../../downloads/anki/vocab/kanji/kanjivocab2-1.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji Vocab 2.1</a></span> ← Import To Your Vocab Deck<br />
+<span class="woo-sc-ilink"><a class="info" href="../../downloads/anki/kanji/02-01.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji 2.1</a></span> ← Import To Your Kanji Meanings Deck</p>
+<p>Alright, now that you&#8217;ve gone through those four, can you go back and remember the last eight kanji (the last two sets)? Try to recall the meaning of all the kanji as well as the on&#8217;yomi and stories that go along with them.</p>
+<p>Okay, one more set. This one contains five kanji (gasp!) but you&#8217;ll be able to tackle it just fine, I&#8217;m sure.</p>
+<p><a name="3"></a></p>
+<table>
+<thead>
+<tr>
+<th>Kanji</th>
+<th>Meaning</th>
+<th>音 (on)</th>
+<th>訓 (kun)</th>
+<th>Strokes</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/1-2-stroke/十/">十</a></td>
+<td>ten</td>
+<td>じゅう</td>
+<td>とお, と</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/1-2-stroke/刀/">刀</a></td>
+<td>sword</td>
+<td>とう</td>
+<td>かたな</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/1-2-stroke/丁/">丁</a></td>
+<td>street</td>
+<td>ちょう</td>
+<td>n/a</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/1-2-stroke/了/">了</a></td>
+<td>finish</td>
+<td>りょう</td>
+<td>n/a</td>
+<td>2</td>
+<td>S</td>
+</tr>
+<tr>
+<td><a href="http://www.textfugu.com/kanji/1-2-stroke/又/">又</a></td>
+<td>again</td>
+<td>n/a</td>
+<td>また</td>
+<td>2</td>
+<td>S</td>
+</tr>
+</tbody>
+</table>
+<p><span class="woo-sc-ilink"><a class="info" href="../../downloads/anki/vocab/kanji/kanjivocab2-2.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji Vocab 2.2</a></span> ← Import To Your Vocab Deck<br />
+<span class="woo-sc-ilink"><a class="info" href="../../downloads/anki/kanji/02-02.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Kanji 2.2</a></span> ← Import To Your Kanji Meanings Deck</p>
+<p>Great job. Now that you&#8217;re done with the one and two stroke kanji, make sure you review them all using your Anki decks. Just practice when Anki tells you to practice. If you do this, you should be fine (in the long run). It&#8217;s not something that will happen overnight, so keep thinking forward and you&#8217;ll be alright.</p>
+<p>You don&#8217;t have to know 100% of them right now, but hopefully you&#8217;ve gone through them all at least once (and several of them multiple times). When you&#8217;re all ready, move on to the next section (or head back to the lesson you were working on before you got sent here!).</p>
+<p>So how was that? Everything starts off simple and just builds upon things you already know, which means you&#8217;re always learning things you mostly know already. Great way to study and learn new, abstract information, right?</p>
+<p>When you&#8217;re ready, and when you&#8217;ve finished both the 1-2 stroke study lists, it&#8217;s time to move on to the next section. We&#8217;re going to continue with the pattern that&#8217;s been set and you&#8217;ll study the next set of radicals before moving on to the next set of kanji. Ready? Here we go!</p>
+<p style="text-align: center;"><a class="btn primary large" href="http://textfugu.com/kanji/radicals-3">3-Stroke Radicals →</a></p>
+<p><a href="http://www.flickr.com/photos/richardwest/1019492895/">Image Source</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

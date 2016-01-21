@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Japanese Food</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Japanese Food Comments Feed" href="http://www.textfugu.com/advanced/emi/japanese-food/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='High School' href='../high-school/index.html' />
+<link rel='next' title='What I Wanted to be When I Grew Up' href='../what-i-wanted-to-be-when-i-grew-up/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-13995 page-child parent-pageid-8065 page-template page-template-template-lesson-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-13995 page type-page status-publish hentry">
+
+	                <h1>Japanese Food</h1>
+					
+                    
+                    <section class="entry">
+	                	<h4>&#8220;I will not eat oysters. I want my food dead. Not sick, not wounded: dead.&#8221; &#8211; Woody Allen</h4>
+<p>In this lesson, Emi talks about Japanese food and why it&#8217;s sooo good!</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="download" href="../../../audio/alesson/emi-food/emi-food-all.mp3">Download Entire Audio MP3</a></span> (Right Click + Save As)</p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-all.mp3">a</a>Play All</p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-1.mp3">a</a> 皆さん、日本食は好きですか？<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-2.mp3">a</a> どんな日本食が好きですか？<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-3.mp3">a</a> 日本食は寿司以外にもたくさんのおいしい食べ物があります。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-4.mp3">a</a> 日本人はかならず、お米、お味噌汁を食事の時に食べます。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-5.mp3">a</a> それと一緒に、お魚、煮物、炒めもの、揚げ物などたくさんのおかずをとります。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-6.mp3">a</a> 日本食はとてもヘルシーで栄養がいっぱいです。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-7.mp3">a</a> 日本人は毎日たくさんの野菜とカルシウムをとるので、とても健康なのです。<br />
+<a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-8.mp3">a</a> みなさんも、日本人のようにバランスのいい食事をとるといいですよ！</p>
+<h2>Vocabulary</h2>
+<table>
+<tbody>
+<tr>
+<th><strong>日本語</strong></th>
+<th><strong>かな<br />
+</strong></th>
+<th><strong>English<br />
+</strong></th>
+</tr>
+<tr>
+<td>皆さん</td>
+<td>みなさん</td>
+<td>Everyone</td>
+</tr>
+<tr>
+<td>日本食</td>
+<td>にほんしょく</td>
+<td>Japanese Food</td>
+</tr>
+<tr>
+<td>好き</td>
+<td>すき</td>
+<td>Liking, Fondness</td>
+</tr>
+<tr>
+<td>どんな</td>
+<td>どんな</td>
+<td>What Kind of</td>
+</tr>
+<tr>
+<td>寿司</td>
+<td>すし</td>
+<td>Sushi</td>
+</tr>
+<tr>
+<td>以外</td>
+<td>いがい</td>
+<td>With the Exception of</td>
+</tr>
+<tr>
+<td>おいしい</td>
+<td>おいしい</td>
+<td>Good Tasting</td>
+</tr>
+<tr>
+<td>食べ物</td>
+<td>たべもの</td>
+<td>Food</td>
+</tr>
+<tr>
+<td>日本人</td>
+<td>にほんじん</td>
+<td>Japanese Person</td>
+</tr>
+<tr>
+<td>かならず</td>
+<td>かならず</td>
+<td>Always, Without Exception</td>
+</tr>
+<tr>
+<td>お米</td>
+<td>おこめ</td>
+<td>Rice</td>
+</tr>
+<tr>
+<td>お味噌汁</td>
+<td>おみそしる</td>
+<td>Miso Soup</td>
+</tr>
+<tr>
+<td>食事</td>
+<td>しょくじ</td>
+<td>Meal</td>
+</tr>
+<tr>
+<td>時</td>
+<td>とき</td>
+<td>Occasion</td>
+</tr>
+<tr>
+<td>食べる</td>
+<td>たべる</td>
+<td>To Eat</td>
+</tr>
+<tr>
+<td>それと</td>
+<td>それと</td>
+<td>And Then, Even So</td>
+</tr>
+<tr>
+<td>一緒に</td>
+<td>いっしょに</td>
+<td>Together (With), At the Same Time</td>
+</tr>
+<tr>
+<td>魚</td>
+<td>さかな</td>
+<td>Fish</td>
+</tr>
+<tr>
+<td>煮物</td>
+<td>にもの</td>
+<td>Food Cooked by Boiling or Stewing</td>
+</tr>
+<tr>
+<td>炒めもの</td>
+<td>いためもの</td>
+<td>Stir-Fry / Fried Food</td>
+</tr>
+<tr>
+<td>揚げ物</td>
+<td>あげもの</td>
+<td>Deep-Fried Food</td>
+</tr>
+<tr>
+<td>など</td>
+<td>など</td>
+<td>And the Like, And so Forth</td>
+</tr>
+<tr>
+<td>たくさん</td>
+<td>たくさん</td>
+<td>Many</td>
+</tr>
+<tr>
+<td>おかず</td>
+<td>おかず</td>
+<td>Side Dish</td>
+</tr>
+<tr>
+<td>とる</td>
+<td>とる</td>
+<td>To Have (a Meal)</td>
+</tr>
+<tr>
+<td>ヘルシー</td>
+<td>ヘルシー</td>
+<td>Healthy</td>
+</tr>
+<tr>
+<td>栄養</td>
+<td>えいよう</td>
+<td>Nutrition</td>
+</tr>
+<tr>
+<td>いっぱい</td>
+<td>いっぱい</td>
+<td>Full</td>
+</tr>
+<tr>
+<td>毎日</td>
+<td>まいにち</td>
+<td>Every Day</td>
+</tr>
+<tr>
+<td>野菜</td>
+<td>やさい</td>
+<td>Vegetable</td>
+</tr>
+<tr>
+<td>カルシウム</td>
+<td>カルシウム</td>
+<td>Calcium</td>
+</tr>
+<tr>
+<td>とても</td>
+<td>とても</td>
+<td>Very</td>
+</tr>
+<tr>
+<td>健康</td>
+<td>けんこう</td>
+<td>Health</td>
+</tr>
+<tr>
+<td>ように</td>
+<td>ように</td>
+<td>In Order to (e.g. Meet a Goal)</td>
+</tr>
+<tr>
+<td>バランス</td>
+<td>バランス</td>
+<td>Balance</td>
+</tr>
+<tr>
+<td>いい</td>
+<td>いい</td>
+<td>Good</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Download: <a href="http://cdn.textfugu.com/advanced/emi/anki/emi6.zip">Anki Deck For These Words</a></p>
+<h2>Line-By-Line Translation</h2>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-1.mp3">a</a>皆さん、日本食は好きですか？<br />
+<em> Do you all like Japanese food?</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-1.mp3">a</a>どんな日本食が好きですか？<br />
+<em> What type of Japanese food do you like?</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-1.mp3">a</a>日本食は寿司以外にもたくさんのおいしい食べ物があります。<br />
+<em> Besides sushi, there&#8217;s lots of types of good food.</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-1.mp3">a</a>日本人はかならず、お米、お味噌汁を食事の時に食べます。<br />
+<em> Japanese people eat rice and miso soup for every meal.</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-1.mp3">a</a>それと一緒に、お魚、煮物、炒めもの、揚げ物などたくさんのおかずをとります。<br />
+<em>Along with that, we eat a lot of side dishes such as fish, boiled vegetables, stir fry, deep fried food etc..</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-1.mp3">a</a>日本食はとてもヘルシーで栄養がいっぱいです。<br />
+<em> Japanese food is very healthy and very nutritious.</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-1.mp3">a</a>日本人は毎日たくさんの野菜とカルシウムをとるので、とても健康なのです。<br />
+<em> Since Japanese people eat a lot of veggies and take a lot of calcium everyday, they are very healthy.</em></p>
+<p><a class="sm2_button" href="../../../audio/alesson/emi-food/emi-food-1.mp3">a</a>みなさんも、日本人のようにバランスのいい食事をとるといいですよ！<br />
+<em>You should all eat a balanced meal like Japanese people do!</em></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto; text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

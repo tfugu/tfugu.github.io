@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  4. I Expect You Will Study Japanese</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 4. I Expect You Will Study Japanese Comments Feed" href="http://www.textfugu.com/season-5/expected/5-4/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='3. Hazu Rules' href='../5-3/index.html' />
+<link rel='next' title='5. I Expect You To Be Fine' href='../5-5/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-12274 page-child parent-pageid-12244 page-template page-template-template-page-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-12274 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>I Expect You Will Study Japanese&#8230;</h1>
+<h4>日本語を勉強するはずだ！ <span style="color: #888888;">- Koichi</span></h4>
+<p>For this grammar point, it&#8217;s mostly just about the rules and using it enough in order to remember said rules. The focus is going to be on verbs for this page, but there&#8217;ll be enough of the others to get your feet wet, I think. Let&#8217;s start with some simple examples, then you&#8217;ll try too:</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/3-7-1.mp3">a</a>すし　を　たべるはず　です。<br />
+I expect to eat sushi.</p>
+<p>First we have すしをたべる (I will eat sushi). Then, by adding はずです onto that, you&#8217;re changing the meaning of the whole sentence. Instead of saying &#8220;I will eat sushi&#8221; you&#8217;re saying &#8220;I expect to eat sushi&#8221; Maybe you&#8217;re going to go to a party later and they&#8217;re going to have sushi (and you&#8217;ve heard they&#8217;re going to have sushi, so you&#8217;re expecting it).</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/3-7-2.mp3">a</a>あたらしい　iPod　を　はっぴょうする　はずだ。<br />
+I expect the new iPod to be announced.</p>
+<p>For this, you have [あたらしい iPod を はっぴょうする] as one block, and then when you add はずです to it, it becomes your expectation. You&#8217;ve heard some pretty solid rumors on the new iPod, and you&#8217;ve been reading all the blogs. You&#8217;re pretty sure you&#8217;re right on this one&#8230; therefor, you can expect it to be announced.</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/3-7-3.mp3">a</a>アメリカ　に　いく　はずだ。<br />
+I expect to go to America.</p>
+<p>How about you? Where do you expect to go?</p>
+<p style="padding-left: 30px;">________________________________ <a style="display:none;" id="ddetlink1908493246" href="javascript:expand(document.getElementById('ddet1908493246'))">Hint →</a>
+<div class="ddet_div" id="ddet1908493246"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1908493246'));expand(document.getElementById('ddetlink1908493246'))</script></p>
+<p style="padding-left: 30px;">Location　に　いく　はずだ。</div></p>
+<p>Oh, and what do you expect to eat, tonight/today?</p>
+<p style="padding-left: 30px;">________________________________ <a style="display:none;" id="ddetlink1732434196" href="javascript:expand(document.getElementById('ddet1732434196'))">Hint →</a>
+<div class="ddet_div" id="ddet1732434196"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1732434196'));expand(document.getElementById('ddetlink1732434196'))</script></p>
+<p style="padding-left: 30px;">Food　を　たべる　はずだ。</div></p>
+<p>You can&#8217;t just eat things&#8230; what do you expect to drink?</p>
+<p style="padding-left: 30px;">________________________________ <a style="display:none;" id="ddetlink1492369270" href="javascript:expand(document.getElementById('ddet1492369270'))">Hint →</a>
+<div class="ddet_div" id="ddet1492369270"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1492369270'));expand(document.getElementById('ddetlink1492369270'))</script></p>
+<p style="padding-left: 30px;">Drink　を　のむ　はずだ。</div></p>
+<p>Now, let me tell you about &#8220;Freddy.&#8221; He&#8217;s a made up person, but here&#8217;s some information about him:</p>
+<ul>
+<li>Freddy is 30 years old (30さい).</li>
+<li>Freddy is a doctor (いしゃ).</li>
+<li>His name is Freddy (フレディさん)</li>
+<li>He will play Starcraft (スタークラフト)</li>
+<li>Freddy is pretty (きれい)</li>
+<li>Freddy is tall (たかい) but he used to be short (みじかい)</li>
+</ul>
+<p>Now, using the information above (and mind you, this is just information I told you, so you&#8217;re pretty sure, but not 100% sure) how would you say the following things about him?</p>
+<p style="padding-left: 30px;">I expect that Freddy&#8217;s name is Freddy. <a style="display:none;" id="ddetlink561637955" href="javascript:expand(document.getElementById('ddet561637955'))">Answer →</a>
+<div class="ddet_div" id="ddet561637955"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet561637955'));expand(document.getElementById('ddetlink561637955'))</script></p>
+<p style="padding-left: 60px;"><a class="sm2_button" href="../../../audio/3-7-4.mp3">a</a>フレディさん　の　なまえ　は　「フレディ」の　はずだ。</div></p>
+<p style="padding-left: 30px;">I expect Freddy is 30 years old <a style="display:none;" id="ddetlink1834329009" href="javascript:expand(document.getElementById('ddet1834329009'))">Answer →</a>
+<div class="ddet_div" id="ddet1834329009"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1834329009'));expand(document.getElementById('ddetlink1834329009'))</script></p>
+<p style="padding-left: 60px;"><a class="sm2_button" href="../../../audio/3-7-5.mp3">a</a>フレディさん　は　３０さい　の　はずだ。</div></p>
+<p style="padding-left: 30px;">I expect Freddy is a doctor <a style="display:none;" id="ddetlink1561848617" href="javascript:expand(document.getElementById('ddet1561848617'))">Answer →</a>
+<div class="ddet_div" id="ddet1561848617"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1561848617'));expand(document.getElementById('ddetlink1561848617'))</script></p>
+<p style="padding-left: 60px;"><a class="sm2_button" href="../../../audio/3-7-6.mp3">a</a>フレディさん　は　いしゃ　の　はずだ。</div></p>
+<p style="padding-left: 30px;">I expect Freddy was a student <a style="display:none;" id="ddetlink1290433017" href="javascript:expand(document.getElementById('ddet1290433017'))">Answer →</a>
+<div class="ddet_div" id="ddet1290433017"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1290433017'));expand(document.getElementById('ddetlink1290433017'))</script></p>
+<p style="padding-left: 60px;"><a class="sm2_button" href="../../../audio/3-7-7.mp3">a</a>フレディさん　は　がくせい　だった　はず　だ。</div></p>
+<p style="padding-left: 30px;">I expect he will play Starcraft <a style="display:none;" id="ddetlink70154039" href="javascript:expand(document.getElementById('ddet70154039'))">Answer →</a>
+<div class="ddet_div" id="ddet70154039"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet70154039'));expand(document.getElementById('ddetlink70154039'))</script></p>
+<p style="padding-left: 60px;"><a class="sm2_button" href="../../../audio/3-7-8.mp3">a</a>フレディさん　は　スタークラフト　を　する　はずだ。</div></p>
+<p style="padding-left: 30px;">I expect Freddy  is pretty <a style="display:none;" id="ddetlink1577935481" href="javascript:expand(document.getElementById('ddet1577935481'))">Answer →</a>
+<div class="ddet_div" id="ddet1577935481"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1577935481'));expand(document.getElementById('ddetlink1577935481'))</script></p>
+<p style="padding-left: 60px;"><a class="sm2_button" href="../../../audio/3-7-9.mp3">a</a>フレディさん　は　きれいな　はずだ。</div></p>
+<p style="padding-left: 30px;">I expect Freddy is tall <a style="display:none;" id="ddetlink471388306" href="javascript:expand(document.getElementById('ddet471388306'))">Answer →</a>
+<div class="ddet_div" id="ddet471388306"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet471388306'));expand(document.getElementById('ddetlink471388306'))</script></p>
+<p style="padding-left: 60px;"><a class="sm2_button" href="../../../audio/3-7-10.mp3">a</a>フレディさん　は　たかい　はずだ。</div></p>
+<p style="padding-left: 30px;">I expect Freddy was short <a style="display:none;" id="ddetlink837262811" href="javascript:expand(document.getElementById('ddet837262811'))">Answer →</a>
+<div class="ddet_div" id="ddet837262811"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet837262811'));expand(document.getElementById('ddetlink837262811'))</script></p>
+<p style="padding-left: 60px;"><a class="sm2_button" href="../../../audio/3-7-11.mp3">a</a>フレディさん　は　みじかかった　はずだ。</div></p>
+<p>Let&#8217;s dive even farther into creating your own sentences using はず (and dictionary form verbs!). Once you feel pretty good about the stuff on this page, move on. If you had trouble, go over everything again &#8211; this is one of those grammar points where experience means quite a bit, despite being pretty straight forward!</p>
+<div class="woo-sc-box tick   ">By finishing this page, you&#8217;ve practiced and used はず using verbs, adjectives, and nouns. Now you&#8217;re ready to make some of your own sentences up!</div>
+<p style="text-align: center;"><a class="btn large" style="margin-right: 5px;" href="../5-3/index.html#top">← 後</a><a class="btn large primary" href="../5-5/index.html#top">前 →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

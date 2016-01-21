@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  PRACTICE: Japanese Grammar With Yoda</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; PRACTICE: Japanese Grammar With Yoda Comments Feed" href="http://www.textfugu.com/season-1/japanese-grammar-with-yoda/practice/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='再' href='../../kanji/6-stroke/再/index.html' />
+<link rel='next' title='Practice: The Japanese Alphabets' href='../the-japanese-alphabets/practice.html' />
+<link rel='canonical' href='practice.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-17502 page-child parent-pageid-326 page-template page-template-template-practice-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-17502 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1 style="text-align: center;">Practice</h1>
+<h4 style="text-align: center;">&#8220;An ounce of practice is worth more than tons of preaching.&#8221; &#8211; Mohandas Gandhi</h4>
+<p>Welcome to your first &#8220;regular lesson&#8221; practice page. Within these pages, you should get all the resources, review, and (future) practice you need in order to learn the concept you just went over as well as concepts that came before it. You may even (unknowingly!) start learning future concepts as well. The practice pages are going to be pretty cool that way. This practice page has a bit of housecleaning to do, though, so it&#8217;s a little different from other practice pages. Shall we get started?</p>
+<h2>&#8220;Sentences&#8221; Anki Deck</h2>
+<p>TextFugu Anki decks are broken up into a few main sections:</p>
+<ul>
+<li>Sentences (what you&#8217;ll be creating now)</li>
+<li>Vocab (we&#8217;ll start adding to that soon)</li>
+<li>Kanji (we&#8217;ll also be getting that soon)</li>
+</ul>
+<p>There are a couple exceptions (like kana) which you&#8217;ll only study for a little while and then hide from your decks list, but these are the main ones you&#8217;ll have. As you go through lessons, you&#8217;ll be importing deck pieces (which you&#8217;ll be able to download) into your main decks so you never have more than a few things going at once. I&#8217;ll be sure to let you know when you need to do any of these things.</p>
+<p>So for now, just go ahead and download your first &#8220;sentences&#8221; deck &#8211; you won&#8217;t open it quite yet, but you will pretty soon:</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="info" href="../../downloads/anki/sentences/sentences.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Sentences Deck</a></span></p>
+<p>There really is almost nothing in this deck (yet), but eventually it&#8217;ll contain thousands of sentences that you&#8217;ll learn and know. The idea is to get you in front of as much Japanese as possible so that you start absorbing the things you&#8217;ve learned into your long term memory. No longer will it be &#8220;something you learned&#8221; &#8230; it&#8217;ll instead become &#8220;something you know.&#8221; Sentences will help you to do that and we&#8217;ll very slowly build up sentences with things you&#8217;ve learned so you can achieve fluency sooner rather than later. Go ahead and put that aside for now &#8211; we&#8217;re going to look at the sentences themselves, first.</p>
+<h2>1-6 Sentences</h2>
+<p>There are only ten sentences in this chapter (this will grow exponentially as you learn more), and the words in the sentences are either words from this chapter or words you probably already know (sumo&#8230; karate&#8230; etc). Start by going through the sentences right here, <span style="text-decoration: underline;">making sure you can say and read them all</span>. Try to shadow and mimic the audio provided here to start developing your (awesome) accent (or lack-thereof). This exercise will be difficult at first. Take your time, there&#8217;s no rush! In fact, make sure you spend some quality time on this, because the better you do now, the more likely you are to get faster and faster at this (and better, as well). A little time spent now will make a big difference later.</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../audio/s1/c6-1.mp3">a</a> ぶどう　です</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../audio/s1/c6-2.mp3">a</a> さる　です</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../audio/s1/c6-3.mp3">a</a> いちご　です</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../audio/s1/c6-4.mp3">a</a> かぼちゃ　です</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../audio/s1/c6-5.mp3">a</a> つなみ　です</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../audio/s1/c6-6.mp3">a</a> すし　です</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../audio/s1/c6-7.mp3">a</a> からて　です</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../audio/s1/c6-8.mp3">a</a> すもう　です</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../audio/s1/c6-9.mp3">a</a> さけ　です</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../audio/s1/c6-10.mp3">a</a> さしみ　です</p>
+<p>The meanings of the above sentences aren&#8217;t here on purpose. I want you to practice reading hiragana (so you get better at reading it) and I want you to get better at speaking like Emi (with a deeper voice, if you&#8217;re a dude). The above sentences are nice and short, and a great way to get started. Once again, take your time!</p>
+<p>When you can read and say all the above sentences, crack open Anki. It&#8217;s time to import this bad boy. Even though this is the very first deck to make up your &#8216;TextFugu Sentences&#8217; deck, you still need to <em>import</em> it into Anki (rather than just opening it) because this prevents any media/audio issues from coming up later. So, you&#8217;ll want to open up Anki, and click File &gt;&gt; Import then import the &#8216;TextFugu Sentences&#8217; that you downloaded earlier. Make sure you unzip it first, though. Lots more <a href="../../anki/index.html">info on Anki and how to use it can be found here</a>.</p>
+<p><span class="label important">Important!</span> Make sure you have the J<a href="../../anki/index.html#plugin" target="_blank">apanese Language Support Plugin installed on Anki</a> as well. This deck uses that plugin, and really, if you&#8217;re learning Japanese you ought to have this plugin installed. It&#8217;s <em>great</em> and gives you lots of features to really help you learn. This deck requires this plugin as well, so make sure you have it before you begin!</p>
+<p>This deck has a few data points in it that will be displayed to you (don&#8217;t worry, it&#8217;s not too complicated once you get the hang of it!).</p>
+<ol>
+<li>Expression: This is the sentence in Japanese</li>
+<li>Reading: This is the sentence in Japanese, with hiragana (to tell you the reading of kanji, when you get to that point)</li>
+<li>Meaning: This is the English meaning of the sentence. It&#8217;s the translation.</li>
+<li>Audio: This is an audio file that plays so you can practice listening and speaking. Repeat after it for better practice!</li>
+</ol>
+<p>Now, there&#8217;s also a certain way I want you to study. It&#8217;s set up like this already, so you shouldn&#8217;t have to change anything, but it&#8217;s probably interesting to know the background of this.</p>
+<p>Right now, the &#8216;TextFugu Sentences&#8217; deck is set up so you learn &#8220;Recognition&#8221; rather than &#8220;Recall&#8221; (or both). Recognition means you look at the Japanese word and then have to recognize it and its meaning. This is a lot easier than seeing the English word and then <em>recalling</em> the Japanese for it. I&#8217;m not saying <em>recalling</em> isn&#8217;t important, but for now, it isn&#8217;t <em>as</em> important. We will circle around to recall later, but for now I want you to focus on recognition. The decks are all ready for you to add the <em>recall</em> cards in if need be, but they&#8217;re currently hidden so you can focus on what&#8217;s most important right now.</p>
+<p>Alright, let&#8217;s get to studying this deck!</p>
+<h2>Studying Sentences On Anki</h2>
+<p>Not all practice pages will be so informational! Promise! This&#8217;ll just get you started with everything so the next practice pages can get right to the point :)</p>
+<p>But, that being said, let&#8217;s get started with Anki. Make sure you&#8217;ve gone to File&gt;&gt;Import to import your first TextFugu Sentences deck (it&#8217;ll ask you to name it, and I&#8217;d recommend &#8220;TextFugu Sentences&#8221; because that&#8217;s what I&#8217;m going to call it, but you&#8217;re free to name it whatever you want). Then, select TextFugu Sentences from your list of decks on Anki (it might be the only one) and then click review to get started. You should see something like this come up.</p>
+<p style="text-align: center;"><img class="size-large wp-image-19739 aligncenter" title="budou" src="../../wp-content/uploads/2011/09/budou-600x420.png" alt="" width="600" height="420" /></p>
+<p>Now, your job is to come up with the answer in your head. Say it out loud, too. Know what it is? Can&#8217;t figure it out? Doesn&#8217;t matter &#8211; hit the &#8220;Show Answer&#8221; button.</p>
+<p><img class="aligncenter size-large wp-image-19740" title="budou-answer" src="../../wp-content/uploads/2011/09/budou-answer-600x421.png" alt="" width="600" height="421" /></p>
+<p>Now you get the answer. You need to be honest as to how you felt about it and then click the button that best matches your feelings. I&#8217;d say they go something like this, but this is my own opinion!</p>
+<p style="padding-left: 30px;"><strong>Again:</strong> Didn&#8217;t get it right or made a mistake (I&#8217;m strict with myself, usually)</p>
+<p style="padding-left: 30px;"><strong>Good:</strong> Got it right &#8211; wasn&#8217;t easy or anything, but got it all right.</p>
+<p style="padding-left: 30px;"><strong>Easy:</strong> Not a problem.</p>
+<p style="padding-left: 30px;"><strong>Very Easy:</strong> Knew it too well. Why is this card even in my deck?</p>
+<p>You&#8217;ll see other things come up too &#8211; for example &#8220;Hard&#8221; will be in there sometimes, which you can click when you got it right but it was difficult. Just be honest, because if you&#8217;re not then Anki stops working properly. If you are honest, you get the cards when you need to see them and you don&#8217;t see the cards when you don&#8217;t. It&#8217;s really quite magical that way.</p>
+<p>When you&#8217;ve gone through your sentences deck, move on to the next section. Congrats! You&#8217;re learning some sentences, and you probably got pretty good at ＿＿＿です while you were at it (and learned some words, too). Much more learning to come, this is only the beginning :)</p>
+<h2>Hiragana Practice Sheet</h2>
+<p>I also want to make sure you&#8217;re getting lots of hiragana practice in (even more!). Why? Because the moment you&#8217;re good at hiragana, you can start learning kanji. Also, I want to make sure you can focus on kanji when it comes (soon!) because kanji&#8217;s way harder than hiragana is. I don&#8217;t expect you to be fluent or perfect at hiragana yet, but I do want to make sure I give you plenty of opportunity to practice until you are fluent and perfect at it!</p>
+<p>Download the following worksheet. You can print it out and write on the page or you can write the answers down on your own piece of paper. If you&#8217;re particularly printerless or tree-friendly, you can even just answer them all in your head, just make sure you check if you&#8217;re not sure about something!</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="download" href="../../downloads/worksheets/ssn1/hiragana-practice-1.pdf">Practicing Hiragana Sheet</a></span></p>
+<p>When you get through this worksheet, you should be ready to move on to the next chapter. Just in case, though &#8211; here&#8217;s a &#8220;before you move on&#8221; to help you out.</p>
+<h2>Before You Move On</h2>
+<ul>
+<li>Make sure you can read all the hiragana characters. You don&#8217;t have to be perfect at it&#8230; or even particularly fast at reading&#8230; but make sure you can read <em>everything</em> one way or another.</li>
+<li>Make sure you can read the ten sentences for this chapter.</li>
+<li>Make sure you&#8217;ve downloaded and gone through the sentences for this chapter on Anki (go until it tells you to stop). Also make sure you can set the tags up right (<a href="../../anki/index.html" target="_blank">more info here on using Anki</a>, if you need it)</li>
+<li>Go through the Hiragana Practice Sheet to get better at hiragana (it&#8217;s a big deal in terms of building a good foundation!).</li>
+<li>Make sure you understood all the です concepts from this chapter.</li>
+</ul>
+<p>All ready for the next chapter? It&#8217;s a review making sure you know everything as well as telling you what to expect from here on out. You&#8217;re just getting started, and there&#8217;s so many more cool things to learn (and some particularly great ways to learn them!). I hope you&#8217;re ready!</p>
+<p style="text-align: center;">(*ﾟ▽ﾟ)/ﾟ･:*【祝】*:･ﾟ＼(ﾟ▽ﾟ*)</p>
+<p style="text-align: center;"><a class="btn large" style="margin-right: 5px;" href="6-8/index.html#top">← 後</a><a class="btn large primary" href="../../kanji/kanji-intro/why/index.html#top">An Intro To Kanji →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

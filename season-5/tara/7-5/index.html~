@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  5. Adjectives + たら</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 5. Adjectives + たら Comments Feed" href="http://www.textfugu.com/season-5/tara/7-5/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='18+ Stroke Kanji' href='../../../kanji/18plus-stroke/index.html' />
+<link rel='next' title='7. If You Practice' href='../7-7/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-13184 page-child parent-pageid-12929 page-template page-template-template-page-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-13184 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>Adjectives + たら</h1>
+<h4>“Education is a progressive discovery of our own ignorance.” <span style="color: #888888;">- Will Durant</span></h4>
+<p>For this page, we&#8217;re going to start with い-adjectives because they are treated very similarly to verbs. い-adjectives have a た-form just like verbs do.</p>
+<p style="padding-left: 30px;">たかい　→　たかかっ<span style="color: #008000;"><strong>た</strong></span></p>
+<p style="padding-left: 30px;">おもしろい　→　おもしろかっ<span style="color: #008000;"><strong>た</strong></span></p>
+<p style="padding-left: 30px;">たのしい　→　たのしかっ<span style="color: #008000;"><strong>た</strong></span></p>
+<p>Just like verbs, たら form only involves adding a ら to the end to make it &#8220;if it&#8217;s _______.&#8221;</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-19.mp3">a</a>たかかったら　＝　If it&#8217;s tall</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-20.mp3">a</a>おもしろかったら　＝　If it&#8217;s interesting</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-21.mp3">a</a>たのしかったら　＝　If it&#8217;s fun</p>
+<p>Also like verbs, the pattern is [if it's _____] + [then something else].</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-22.mp3">a</a>たかかったら　にげます<br />
+If (he&#8217;s) tall, I will run away</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-23.mp3">a</a>おもしろかったら　本　を　よみます<br />
+If it&#8217;s interesting I&#8217;ll read the book</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-24.mp3">a</a>たのしかったら　シカゴ　に　いきます<br />
+If it&#8217;s fun I will go to Chicago</p>
+<p>It&#8217;s essentially an if/then statement, but now we&#8217;re using adjectives.</p>
+<p>With な adjectives, things are only a little bit different. What&#8217;s the &#8220;た-form&#8221; of な-adjectives? For verbs and い-adjectives た form is &#8220;casual past tense&#8221; and it&#8217;s no different for な adjectives as well. So, all we have to do is figure out what casual past tense is for な adjectives (<a href="../../casual-nouns/1-7/index.html">which you should know about already</a>) and then you should be good to go.</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-25.mp3">a</a>しずか　だった　＝　It was quiet</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-26.mp3">a</a>べんり　だった　＝　It was convenient</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-27.mp3">a</a>きれい　だった　＝　It was pretty</p>
+<p>Now, if you follow all the rules and patterns from the last two things (verbs and い adjectives) how would you turn these into たら form?</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-25.mp3">a</a>しずか　だった　<a style="display:none;" id="ddetlink2147144178" href="javascript:expand(document.getElementById('ddet2147144178'))">tara? →</a>
+<div class="ddet_div" id="ddet2147144178"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet2147144178'));expand(document.getElementById('ddetlink2147144178'))</script></p>
+<p style="padding-left: 60px;"><a class="sm2_button" href="../../../audio/season-3/3-9-28.mp3">a</a>しずか　だったら　＝　If it&#8217;s quiet</div></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-26.mp3">a</a>べんり　だった　<a style="display:none;" id="ddetlink175695214" href="javascript:expand(document.getElementById('ddet175695214'))">tara? →</a>
+<div class="ddet_div" id="ddet175695214"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet175695214'));expand(document.getElementById('ddetlink175695214'))</script></p>
+<p style="padding-left: 60px;"><a class="sm2_button" href="../../../audio/season-3/3-9-29.mp3">a</a>べんり　だったら　＝　If it&#8217;s convenient</div></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-27.mp3">a</a>きれい　だった　<a style="display:none;" id="ddetlink1664858640" href="javascript:expand(document.getElementById('ddet1664858640'))">tara? →</a>
+<div class="ddet_div" id="ddet1664858640"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1664858640'));expand(document.getElementById('ddetlink1664858640'))</script></p>
+<p style="padding-left: 60px;"><a class="sm2_button" href="../../../audio/season-3/3-9-30.mp3">a</a>きれい　だったら　＝　If it&#8217;s/he&#8217;s/she&#8217;s pretty</div></p>
+<p>We can take these sentences and turn them into If/Then statements just like before.</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-31.mp3">a</a>しずか　だったら　ひるね　する<br />
+If it&#8217;s quiet, I will take a nap</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-32.mp3">a</a>べんり　だったら　いきます<br />
+If it&#8217;s  convenient, I will go</p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="../../../audio/season-3/3-9-33.mp3">a</a>ひとみさん　は　きれい　だったら　つきあいます<br />
+If Hitomi is pretty, I will go out with her</p>
+<p>So, to sum things up (so far):</p>
+<p style="padding-left: 30px;"><strong>Verbs:</strong> た　→　たら</p>
+<p style="padding-left: 30px;"><strong>い-Adjectives:</strong> 〜かった　→　かったら</p>
+<p style="padding-left: 30px;"><strong>な-Adjectives:</strong> 〜だった　→　だったら</p>
+<p>The last thing we&#8217;ll be looking at is nouns, which are pretty much exactly the same as な-adjectives. Just make sure you know how to make な adjectives into たら form and the next page will be a breeze.</p>
+<div class="woo-sc-box tick   ">By finishing this page, you&#8217;ve learned how to do たら with い-adjectives and な-adjectives. The な-adjectives have also prepared you for nouns, which means you can use that connection to learn more quickly!</div>
+<p style="text-align: center;"><a class="btn large" style="margin-right: 5px;" href="../7-4/index.html#top">← 後</a><a class="btn large primary" href="../7-6/index.html#top">前 →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

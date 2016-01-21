@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Learning Katakana</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Learning Katakana Comments Feed" href="http://www.textfugu.com/season-2/learning-katakana/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Vocabulary' href='../../vocabulary/index.html' />
+<link rel='next' title='Hiragana Chart' href='../../resources/hiragana-chart/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-1831 page-child parent-pageid-761 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-1831 page type-page status-publish hentry">
+
+	                <h1>Learning Katakana</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1 style="text-align: center;">LEARNING KATAKANA</h1>
+<p style="text-align: center;"><a href="../../wp-content/uploads/2010/01/katakana.png"><img class="aligncenter size-full wp-image-1862" title="katakana" src="../../wp-content/uploads/2010/01/katakana.png" alt="" width="765" height="200" /></a></p>
+<p style="text-align: left;">If you remember all the way back to <a href="../../season-1/the-japanese-alphabets/index.html">Season 1</a>, you&#8217;ll know that katakana is used mainly for foreign words that are adopted into the Japanese language. This means that these words kinda-sorta sound like their original versions, with a &#8220;Japanese twist.&#8221; Besides foreign words, there are some other ways katakana gets used.</p>
+<ul>
+<li>Scientific words</li>
+<li>Onomatopoeia</li>
+<li>Emphasis (like when something is <em>italicized</em> in English)</li>
+<li>Some foods</li>
+</ul>
+<p>For the most part in TextFugu, we&#8217;ll be learning katakana for the foreign words. You&#8217;ll find that when you learn katakana, and understand <em>how</em> it works, Japanese people will be able to understand you better when you are speaking English, just because you&#8217;ll be able to change non-Japanese words into non-Japanese words that now use Japanese sounds. Clever, right?</p>
+<p>Anyways, here&#8217;s how katakana works.</p>
+<p>Despite looking completely different, katakana uses the exact same sounds as hiragana. Take this example:</p>
+<blockquote><p>あいうえお　=　aiueo</p>
+<p>アイウエオ　=　aiueo</p></blockquote>
+<p>The only thing that differs between hiragana and katakana is the way they are written (and when they are used). So, the good news is that you don&#8217;t have to learn a new set of sounds. The bad news, however, is that you&#8217;ll have to associate new symbols with them, which can definitely get confusing. Luckily for you katakana isn&#8217;t nearly as important as hiragana (though it still is important), so we can take our time learning it a little bit. Because of this more &#8220;relaxed&#8221; method of learning, you&#8217;ll be given a little more leeway in terms of cheating (just a bit), and will be allowed to look at your <a href="../../cheat-sheets/katakana-chart/index.html">katakana chart</a> as katakana comes up in lessons.</p>
+<p>This chapter is going to go over expectations for your learning of katakana, and will help guide you in the right direction. Learning katakana will be similar to hiragana, except hopefully this time around it&#8217;ll be a little easier and you&#8217;ll know what you need to do more quickly and efficiently.</p>
+<h3>Expectations</h3>
+<p>For learning katakana, my best guess is that it&#8217;ll take approximately a week to learn, and a month or two to really solidify. There won&#8217;t be as much opportunity to practice katakana (as it is less common than hiragana and kanji), so a lot of the post flashcard studying will come a little more slowly. If getting comfortable with katakana is taking longer than it did with hiragana, don&#8217;t worry. This is totally normal and not a big deal. Just remember that when you&#8217;re studying you should try to use your memory before resorting to cheating. A little bit of struggle will help solidify your katakana knowledge more quickly.</p>
+<p>That being said, let&#8217;s not waste any time and get started. Since katakana has the same pronunciation as hiragana, you won&#8217;t have to go through quite as many hoops. We&#8217;re going to jump straight into reading and writing katakana, but before we get started there are a couple of &#8220;weird things&#8221; that we need to go over first.</p>
+<h1 style="text-align: center;">LONG VOWEL SOUND</h1>
+<p>Perhaps you remember the long vowel sound in hiragana. Katakana is actually easier to deal with, as a long vowel sound is shown with a long dash ー</p>
+<p>Here are some examples:</p>
+<blockquote><p>パトカー　：：　ぱとかー　：：　patokaa</p>
+<p>セーター　：：　せーたー　：：　seetaa</p>
+<p>コーイチ　：：　こーいち　：：　kouichi</p></blockquote>
+<p>The tricky part about long vowels in katakana is <em>when</em> they need to be used. With foreign words, the long vowel is used more commonly, and it&#8217;s more difficult to distinguish when to and when not to use them. Unfortunately, 90% of knowing just comes from practice and vocab learning, so I don&#8217;t want you to stress out about it too much. In fact, there are often multiple ways to write &#8220;foreign&#8221; words in Japanese, and usually a lot of the variety comes from the long vowel, and whether or not it should be included.</p>
+<p>Just remember: When there&#8217;s a long vowel, use the ー to show it.</p>
+<h1 style="text-align: center;">KATAKANA ふ</h1>
+<p>In katakana, the ふ character often has a stronger &#8220;f&#8221; sound than the hiragana counterpart. When learning new vocabulary, keep this in mind. Since there is no &#8220;F&#8221; sound in Japanese, often times the ふ is used. It is also often used in combination with other hiragana to create sounds that are closer to the original word. Take these examples for a ride:</p>
+<blockquote><p>ファイヤー　：：　ふぁいやー　：：　Fire<br />
+See how a small あ is being used to convert the ふ sound into a &#8220;fua / fa&#8221; sound? Since は has no &#8220;F&#8221; sound whatsoever, ふ is converted into other sounds using these small あいうえお kana.</p>
+<p>ファイト　：：　ふぁいと　：：　Fight</p>
+<p>フィット　：：　ふぃっと　：：　Fit</p>
+<p>フォト　：：　ふぉと　：：　Photo</p></blockquote>
+<p>As you continue to study Japanese, you&#8217;ll see more of these, and you&#8217;ll get used to them. Don&#8217;t worry about it too much right now, just know that this exists and you&#8217;ll be seeing this kind of thing around.</p>
+<h1 style="text-align: center;">&#8220;BWEE&#8221; FOR &#8220;BENDETTA&#8221;</h1>
+<p>One of the difficult sounds for Japanese to make is the &#8220;V&#8221; sound. Instead of &#8220;V,&#8221; you&#8217;ll see a couple of things being used. One alternative &#8220;V&#8221; sound is the ばびぶべぼ column. For example, the word &#8220;video&#8221; in Japanese is ビデオ (bideo). Now, there will be times when you see ウ (う) being used for a &#8220;V&#8221; sound, usually in combination with a small あ, い, え, or お. For example: ヴィ (ゔぃ) which makes a &#8220;bwee&#8221; sort of sound, instead of &#8220;Vee.&#8221; This is very similar to the way フ (ふ) is used to hack the Japanese &#8220;F&#8221; sound. Like the Japanese &#8220;F&#8221; sound, it&#8217;s only important that you keep this information in your head for a later date, when it pops up and you&#8217;re able to start using it. It won&#8217;t be too long.</p>
+<h1 style="text-align: center;">STUDYING KATAKANA</h1>
+<p>Like Hiragana, I will be providing you with a katakana chart to refer to when studying. We&#8217;ll use a combination of Smart.fm, worksheets, other websites, and more to learn Katakana as quickly as possible, then we&#8217;ll start using them in the wild soon afterwards. Before you move on from this chapter, I would like you to have gone through all the katakana on Smart.fm <em>at least</em> once (even if you still feel a little bit shaky afterwards). Feel free to grab this <a href="../../cheat-sheets/katakana-chart/index.html">katakana chart</a> as well.</p>
+<h3>Katakana on Smart.fm</h3>
+<p>Here&#8217;s your Smart.fm Katakana list. Keep it safe and take it into the shower with you.</p>
+<p style="text-align: center;"><a href="http://smart.fm/goals/24667"><img class="aligncenter size-full wp-image-1867" title="master-katakana" src="../../wp-content/uploads/2010/01/master-katakana.png" alt="" width="244" height="84" /></a></p>
+<p style="text-align: left;">As you&#8217;re going through it, do the same things as when you were studying hiragana:</p>
+<ul>
+<li>After you&#8217;ve answered a question, there will be an option to look at the stroke order of the kana you&#8217;re working on. Take a look at this and emulate. Learn the stroke order and learn it well &#8211; it&#8217;ll help with your handwriting, at least in the long run.</li>
+<li>Continue to practice pronunciation &#8211; even if you think you know the hiragana pronunciation perfectly, make sure you continue to take advantage of the audio on each flash card. You may have slipped and fallen into a bad habit. Katakana practice is a <em>perfect</em> opportunity to check on your pronunciation and make sure nothing bad has happened.</li>
+<li>If you&#8217;re feeling burned out, take a break. No point studying when you aren&#8217;t retaining anything. Studying consistently but in smaller bursts is the way to go.</li>
+</ul>
+<h3>Other Study Resources</h3>
+<p>When your brain feels fried, take a look at some of these other resources to mix things up a bit before you head back on over to <a href="http://smart.fm/goals/24667">Smart.fm</a>.</p>
+<ul>
+<li><a href="http://www.csus.edu/indiv/s/sheaa/projects/genki/katakana-timer.html">Usagi-chan’s Drag n’ Drop Katakana</a></li>
+<li><a href="http://www.realkana.com/katakana/">RealKana</a></li>
+<li><a href="http://nihongoup.com/">NihongoUp</a> – Download the trial (or buy the entire thing) and play the hiragana game. This is a fun way to learn Hiragana reading.</li>
+<li><a href="http://smart.fm/goals/24667">Katakana Brainspeed on Smart.fm</a> – Besides the normal iKnow flashcards on Smart.fm, you can also play something they call “brainspeed.” Another great way to sharpen your katakana reading skills. Just click “start” on <a href="http://smart.fm/goals/24667">Smart.fm’s Katakana page</a> and choose “brainspeed.”</li>
+</ul>
+<h3>Learning Katakana Worksheet</h3>
+<p>I&#8217;ve put together a worksheet that will help you practice reading and writing katakana. Don&#8217;t worry about the meaning of anything in here, just translating romaji to katakana / hiragana to katakana and vice versa. You&#8217;ll almost never see an entire sentence written in katakana, so enjoy it while you can! Just focus on learning the kana for now, and good things will follow.</p>
+<p style="text-align: center;"><a href="../../wp-content/uploads/2010/01/katakana-worksheet.pdf"><img class="aligncenter size-full wp-image-1869" title="katakana-practice-worksheet" src="../../wp-content/uploads/2010/01/katakana-practice-worksheet.png" alt="" width="244" height="84" /></a></p>
+<p><strong>Before You Move On</strong></p>
+<ul>
+<li>Go through the katakana <a href="http://smart.fm/goals/24667">list on Smart.fm</a> at least once.</li>
+<li>Complete the <a href="../../wp-content/uploads/2010/01/katakana-worksheet.pdf">Katakana practice sheet</a></li>
+<li>Have an overall &#8220;okay&#8221; feeling about katakana and be able to recognize / write at least 80% of the characters.</li>
+</ul>
+<p style="text-align: right;"><a href="../particle-wars-ha-vs-ga/index.html">Particle Wars: は vs. が →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

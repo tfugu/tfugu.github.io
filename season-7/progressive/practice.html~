@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Practice</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Practice Comments Feed" href="http://www.textfugu.com/season-7/progressive/practice/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Being Progressive With Your Verbs' href='index.html' />
+<link rel='next' title='Giving And Receiveing' href='../giving/index.html' />
+<link rel='canonical' href='practice.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-32121 page-child parent-pageid-32114 page-template page-template-template-lesson-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-32121 page type-page status-publish hentry">
+
+	                <h1>Practice</h1>
+					
+                    
+                    <section class="entry">
+	                	<h4>Being Progressive With Your Verbs</h4>
+<p>You&#8217;ve already begun the practice of converting a regular old dictionary form verb to a progressive verb. Now let&#8217;s use them in sentences. You&#8217;ve seen some of this before, but let&#8217;s do it again, except with <em>you</em> at the helm.</p>
+<p>Translate these sentences:</p>
+<p style="padding-left: 30px;">I will drink orange juice. <a style="display:none;" id="ddetlink189134819" href="javascript:expand(document.getElementById('ddet189134819'))">Translate →</a>
+<div class="ddet_div" id="ddet189134819"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet189134819'));expand(document.getElementById('ddetlink189134819'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/progressive3.mp3">a</a> オレンジジュースをのみます。</div></p>
+<p style="padding-left: 30px;">I am drinking orange juice. <a style="display:none;" id="ddetlink602596028" href="javascript:expand(document.getElementById('ddet602596028'))">Translate →</a>
+<div class="ddet_div" id="ddet602596028"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet602596028'));expand(document.getElementById('ddetlink602596028'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/progressive4.mp3">a</a> オレンジジュースをのんでいます。</div></p>
+<p style="padding-left: 30px;">I will go to America&#8217;s Oregon State. <a style="display:none;" id="ddetlink1150510068" href="javascript:expand(document.getElementById('ddet1150510068'))">Translate →</a>
+<div class="ddet_div" id="ddet1150510068"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1150510068'));expand(document.getElementById('ddetlink1150510068'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/progressive5.mp3">a</a> アメリカのオレゴン州に行きます。</div></p>
+<p style="padding-left: 30px;">I am going to America&#8217;s Oregon State. <a style="display:none;" id="ddetlink1135436705" href="javascript:expand(document.getElementById('ddet1135436705'))">Translate →</a>
+<div class="ddet_div" id="ddet1135436705"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1135436705'));expand(document.getElementById('ddetlink1135436705'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/progressive6.mp3">a</a> アメリカのオレゴン州に行っています。</div></p>
+<p style="padding-left: 30px;">I plan to rest <a style="display:none;" id="ddetlink449152622" href="javascript:expand(document.getElementById('ddet449152622'))">Translate →</a>
+<div class="ddet_div" id="ddet449152622"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet449152622'));expand(document.getElementById('ddetlink449152622'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/progressive7.mp3">a</a> 休むつもりです。</div></p>
+<p style="padding-left: 30px;">I am resting <a style="display:none;" id="ddetlink1041854787" href="javascript:expand(document.getElementById('ddet1041854787'))">Translate →</a>
+<div class="ddet_div" id="ddet1041854787"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet1041854787'));expand(document.getElementById('ddetlink1041854787'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/progressive8.mp3">a</a> 休んでいます。</div></p>
+<p style="padding-left: 30px;">I will eat at McDonalds <a style="display:none;" id="ddetlink325454060" href="javascript:expand(document.getElementById('ddet325454060'))">Translate →</a>
+<div class="ddet_div" id="ddet325454060"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet325454060'));expand(document.getElementById('ddetlink325454060'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/progressive9.mp3">a</a> マクドナルドで食べます。</div></p>
+<p style="padding-left: 30px;">I am eating at McDonalds <a style="display:none;" id="ddetlink369505500" href="javascript:expand(document.getElementById('ddet369505500'))">Translate →</a>
+<div class="ddet_div" id="ddet369505500"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet369505500'));expand(document.getElementById('ddetlink369505500'))</script></p>
+<p style="padding-left: 30px;"><a class="sm2_button" href="http://cdn.textfugu.com/audio/lessons/progressive10.mp3">a</a> マクドナルドで食べています。</div></p>
+<p>Make sure you can translate all of these sentences. Say them out loud, too, it will help you to learn progressive form better. What I really want you to focus on, though, is the difference between the progressive and non-progressive sentences. Studying that difference is what will help you the most.</p>
+<h2>What Are You Doing Right Now?</h2>
+<p>Walk around your home. It&#8217;s time to do different things. For example, you could walk up to your refrigerator, open it, and grab some food. Put it in your mouth and say &#8220;ベーグルを食べています.&#8221;</p>
+<p>Of course, don&#8217;t stop there (and don&#8217;t just gorge yourself so you can say you&#8217;re eating something). I want you to go all around your house and do all kinds of different things. Make it interesting and do things you don&#8217;t normally do so that you can say things like &#8220;I am drinking a cat&#8221; (warning: DO NOT attempt to drink your cat, it ends badly). The most important thing here is that you throw in a lot of variety so you can try different things.</p>
+<p>Also try to come across actions that you don&#8217;t know how to say. Take note of these actions, come back to your computer (after you&#8217;ve done as much practice as you can), and start looking up the words you need. Try to memorize a couple of those things and actions and go back out to do them. Don&#8217;t bring notes with you &#8211; if you forget, come back, study again, and go back out. This is an exercise in recalling the Japanese from your brain without cheating. This is how it is in the real world, so you should start getting used to it.</p>
+<p>After you&#8217;ve said out loud 15-20 actions, you&#8217;re all done and I bet you&#8217;re a step better at Japanese than you were just a half hour or hour ago.</p>
+<p>When you&#8217;re ready, move on to the next chapter. We&#8217;ll be using progressive form from now on, so be sure to look out for it and high five yourself when you notice it!</p>
+<p style="text-align: center;"><a class="btn btn-large large" href="index.html">←</a> <a class="btn btn-primary primary large btn-large" href="../from/index.html">From から →</a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto; text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  MOVE: Using The Ultimate Verbs Vocab List</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; MOVE: Using The Ultimate Verbs Vocab List Comments Feed" href="http://www.textfugu.com/season-5/dict-verbs/move3/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='MOVE: The &#8220;Ultimate&#8221; Vocab Lists' href='../move/index.html' />
+<link rel='next' title='Move: Some Additional Vocab Studying Hacks' href='../move4/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-9364 page-child parent-pageid-9642 page-template page-template-template-page-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-9364 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>Using The Ultimate Verbs Vocab List</h1>
+<h4>“Let no feeling of discouragement prey upon you, and in the end you are sure to succeed.” <span style="color: #888888;">- Abraham Lincoln</span></h4>
+<p>The first &#8220;Ultimate&#8221; vocab list you&#8217;ll be looking at is the verbs one. Verbs are awesome and one of the most useful things you can know (out of nouns, adjectives, and verbs). Verbs are where all the action takes place, meaning if you don&#8217;t know the verbs, you don&#8217;t know what&#8217;s going on.</p>
+<p>Now, because this list is so long (it has 260 items to learn), we&#8217;ll need to add a few tricks to our arsenals in order to make it a lot more manageable.</p>
+<p>First of all (and this should make things better already), you should know around 50 of these (this list contains verbs you&#8217;ve learned in the past as well). Secondly, it&#8217;s only expected of you to get through and learn the vocab words in these &#8220;Ultimate&#8221; lists by the end of Season 3. You don&#8217;t have to know everything immediately / by the end of this chapter. You have quite a bit of time to get things done. Of course, you won&#8217;t be able to wait until the last minute. You&#8217;ll have to learn these verbs little by little as you go through Season 3. Season 3 lessons will use the verbs from this list, which should help you to learn them and I&#8217;ll be recommending to you what parts of the deck you should be learning before moving on to the next chapters. If you keep up and you are consistent, you shouldn&#8217;t have any problem. If you wait to the last minute and don&#8217;t study a little bit every day, it&#8217;s going to be difficult. I&#8217;ll do the best I can to tell you exactly what you need to do, but it&#8217;s your job to actually do it!</p>
+<h3>How To Use This List</h3>
+<p>In the past, I&#8217;ve just given you Anki decks and you&#8217;ve studied them. I never told you about tags, and I never broke up my lists so they could be studied a little at a time (though, technically you can do this to any of the Anki decks on your own, if you want).</p>
+<p>This list is a lot different. Each vocab word has a lot of information associated with it which can be used to make a card. Also, I&#8217;ve tagged each card with tags that you can pick and choose from. If you pick the &#8220;Transitive&#8221; tag, for example, you&#8217;ll be able to only study &#8220;Transitive&#8221; verbs if you want (don&#8217;t worry if you don&#8217;t know what &#8220;Transitive&#8221; means yet, we&#8217;ll get there). Also, you can choose to study the verbs in ます (which is what you&#8217;ll do now) or Dictionary Form (what you&#8217;ll do later). There are <em>many many</em> combinations that you can do with this deck, but I&#8217;m going to start off by telling you which combinations are going to be best for you at this particular level. Here&#8217;s what you&#8217;ll do.</p>
+<h3>1. Download The List / Vocab Sheets</h3>
+<p>There are a couple of things to download. First, you should download the Anki deck so you can follow along with the instructions on how to use it. Hopefully this will blow your mind.</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="info" href="../../../downloads/anki/ultimateverbs.zip" style="background: url( http://www.textfugu.com/img/anki.png) no-repeat left 40%;">Ultimate Verbs</a></span> on Anki</p>
+<p style="text-align: center;"><code></code> <code></code> </p>
+<p>Along with that, you&#8217;ll want the list of words so you can look them up as you go through lessons (you&#8217;re not going to know all the words yet when you get to them in a lesson). You have two choices with this deck. Because this deck has so much information in it, I&#8217;ve made it available in Excel (which you can always upload to <a href="http://www.google.com/url?sa=t&amp;source=web&amp;cd=1&amp;ved=0CCgQFjAA&amp;url=http%3A%2F%2Fdocs.google.com%2F&amp;rct=j&amp;q=google%20docs&amp;ei=fdy1TfK3M5TEsAOzwuGfDQ&amp;usg=AFQjCNHj75Au5kt8svXmuNkhBD_DjnPhNQ&amp;cad=rja">Google Docs</a> if you don&#8217;t have it &#8211; that&#8217;s what I do) or PDF format. There are quite a few columns, and you&#8217;ll learn about them over time. The only ones that are important to you right now should be &#8220;v.masu reading&#8221; (the verb written in kana), &#8220;romaji&#8221; (not for learning the word, just for looking up the word), and &#8220;meaning&#8221; (to know what the word means, and also to look words up if you sort by this column).</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="download" href="../../../downloads/worksheets/ultimate-verbs-list.pdf">Ultimate Verbs Vocab List</a></span> (PDF)</p>
+<p style="text-align: center;"><span class="woo-sc-ilink"><a class="download" href="../../../downloads/worksheets/ultimate-verbs-list.xls">Ultimate Verbs Vocab List</a></span> (Excel)</p>
+<p style="text-align: center;"></p>
+<p>Other columns, like tran/intran, verb-type, either column with the words in kanji, and dictionary form (v.dict) can be ignored for now. You&#8217;ll learn about transitive / intransitive verbs, dictionary form, and of course the kanji later on, some much sooner than others. I just wanted to make sure it was all there in one place so you&#8217;d be able to use the same sheet for all those different things.</p>
+<h3>2. Selecting Tags</h3>
+<p>The next step you&#8217;ll want to take on Anki is to open the deck up and get yourself to the study options page (depending on your operating system, this may look a little different, but should be similar enough).</p>
+<p><img class="alignnone size-full wp-image-9372" title="studyoptions" src="../../../wp-content/uploads/2011/04/studyoptions.png" alt="" width="600" height="400" /></p>
+<p>From here, you&#8217;ll want to click &#8220;change&#8221; next to &#8220;Show All Due Cards.&#8221; We&#8217;re going to take this 260 vocab words (and 2000+ cards that were created to study these words) down to a much more manageable size.</p>
+<p><img class="alignnone size-full wp-image-9373" title="tags" src="../../../wp-content/uploads/2011/04/tags.png" alt="" width="600" height="370" /></p>
+<p>This&#8217;ll take a little bit of clicking at first, but once you have it all set up, things will be beautiful. Go down to the text that says &#8220;Hide cards with any of these tags:&#8221; and check that box.</p>
+<p>You&#8217;ll want to check <em>everything except</em> the following tags:</p>
+<ol>
+<li>TextFugu</li>
+<li>EnglishToJapaneseます</li>
+<li>Kanaます</li>
+<li>group01</li>
+<li>suru</li>
+<li>type1</li>
+<li>type2</li>
+<li>type3</li>
+<li>vi</li>
+<li>vt</li>
+</ol>
+<p>It&#8217;ll look something like this &#8211; also make sure you click the &#8220;Hide Cards with any of these tags&#8221; button that&#8217;s right above it.</p>
+<p><img class="alignnone size-full wp-image-9520" title="ultimateverbs-tags" src="../../../wp-content/uploads/2011/04/ultimateverbs-tags.png" alt="" width="475" height="538" /></p>
+<p>By doing this, Anki will only show you the &#8220;group 1&#8243; words (limits it to ten words) in kana (not kanji) and test you on kana→English and English→kana. It basically just takes something unmanageable all at once and breaks it up into smaller chunks that will make this list a lot easier to get through.</p>
+<p>After choosing everything except these tags, you should be ready to go.</p>
+<div class="woo-sc-box alert   ">Make sure you &#8220;Hide Cards&#8221; rather than &#8220;Show Cards.&#8221; Although it seems like using &#8220;Show Cards&#8221; would work, you have to do &#8220;Hide Cards&#8221; to achieve what we&#8217;re trying to do here.</div>
+<h3>3. Start Studying!</h3>
+<p>You&#8217;ll want to get started right away and try to learn as many new group01 verbs as you can before moving on to the actual lesson. If you tend to have trouble with vocab words, you can jump to the next page right now before starting (it has some tips of learning vocab). Either way is fine with me as long as you start studying this list either now or after you read the next page.</p>
+<hr class="d4pbbc-hr" />
+<p>We&#8217;ll break the Ultimate Verbs List up in other ways as the season progresses, and through that you&#8217;ll become both a master in Anki and a master in vocabulary. For now, keep it simple and stick with these tags.</p>
+<div class="woo-sc-box tick   ">By finishing this page, you&#8217;ve gotten your Anki deck and learned how to use it (for your current level, anyways). Also, you may have gotten started on your verbs deck!</div>
+<p style="text-align: center;"><a href="../8-2/index.html#top" class="woo-sc-button  silver" ><span class="woo-">← 後</span></a> <a href="../8-4/index.html#top" class="woo-sc-button  silver" ><span class="woo-">前→</span></a></p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

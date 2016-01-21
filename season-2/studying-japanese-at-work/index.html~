@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  Studying Japanese At Work</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Studying Japanese At Work Comments Feed" href="http://www.textfugu.com/season-2/studying-japanese-at-work/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Japanese The Hard Way' href='../../season-1/hard-way/index.html' />
+<link rel='next' title='Worksheets' href='../../worksheets/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-463 page-child parent-pageid-761 page-template page-template-template-fullwidth-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-463 page type-page status-publish hentry">
+
+	                <h1>Studying Japanese At Work</h1>
+					
+                    
+                    <section class="entry">
+	                	<h1 style="text-align: center;">STUDYING JAPANESE AT WORK<span style="color: #ff0000;"><br />
+</span></h1>
+<p style="text-align: center;"><em>&#8220;Most inputs are useless and time is wasted in proportion to the amount of time that is available&#8221; </em>- <strong>Timothy Ferris</strong></p>
+<p style="text-align: center;"><img class="aligncenter" title="studying-at-work" src="../../wp-content/uploads/2009/12/studying-at-work.png" alt="" width="765" height="200" /></p>
+<p>No matter who you are, you&#8217;re probably busy (and if you aren&#8217;t, you should read this chapter anyways for all the time saving, learning, and efficiency tips to really supercharge your rate of Japanese learning). Although this chapter is titled &#8220;Studying Japanese at work&#8221; you can replace the &#8220;work&#8221; part with anything else that demands a large amount of your time. The goals of this chapter sound ominous, but take things a step at a time (and refer back to this chapter often) and you&#8217;ll be making progress in no time. Here&#8217;s what we&#8217;ll cover, in a nutshell.</p>
+<ul>
+<li><strong>Help you cut down on actual &#8220;work&#8221; time:</strong> We&#8217;ll use the 80-20 rule, reduce distractions, and more to cut out 50-80% of the time you spend &#8220;working&#8221; so you can use it to focus on something else, like learning Japanese. All of this will be done without losing the quality of your work.</li>
+<li><strong>Teach you how to avoid getting in trouble so you can study more:</strong> I really don&#8217;t want you to get in trouble for studying Japanese while you&#8217;re at work, so we&#8217;ll be going over some tips and tricks to avoid problems with the boss so you can study throughout the day.</li>
+<li><strong>Learn how to become an early riser:</strong> It&#8217;s amazing how much more you can get done if you wake up early. We&#8217;ll go over some tips and tricks to help you wake up really early, not feel tired, and get ahead before anyone else even thinks about rolling out of bed.</li>
+</ul>
+<p>The contents of this chapter won&#8217;t happen overnight. I recommend that you come back to this chapter often, read it for inspiration, and take things a step at a time. The content will always be here, so you don&#8217;t need to go too gung-ho and burn yourself out. It&#8217;s much more important that you do things <em>right</em>. Although the content here <em>will</em> get you quite far, I&#8217;d also like to recommend two really great books where a lot of these concepts have come from. Take a look if you get the chance and have some extra time (and you will, after taking action on the below lesson): <a href="http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1262141264&amp;sr=1-1">Four Hour Workweek</a> &amp; <a href="http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1262141231&amp;sr=8-1">Getting Things Done</a>.</p>
+<p>Alright, let&#8217;s get started!</p>
+<h1 style="text-align: center;">CUT DOWN ON &#8220;WORK TIME&#8221;<br />
+AND BE AN <span style="color: #008000;">EFFICIENCY NINJA</span></h1>
+<p style="text-align: center;"><em>&#8220;Options—the ability to choose—is real power.&#8221;</em> - <strong>Timothy Ferriss</strong></p>
+<p style="text-align: center;"><strong><a href="http://www.flickr.com/photos/jbhill/2546096667/"><img class="aligncenter size-full wp-image-1497" title="ninja" src="../../wp-content/uploads/2009/12/ninja.png" alt="" width="800" height="237" /></a></strong></p>
+<p>Think about your work day. How much do you <em>really</em> get done most of the time? Be honest with yourself. I imagine some of you are saying &#8220;I work 24/7. I can never stop working otherwise everything will fall apart!,&#8221; etc., etc&#8230; but would things <em>really</em> fall apart? How many really important things do you do every day? How often do you check your e-mail? How much time do you spend in meetings? If you looked back on today, how much did you really <em>accomplish</em>?</p>
+<p>Believe it or not, it&#8217;s a lot easier than you think to cut down on work time while getting <em>more</em> done in the process. Here&#8217;s the thing about &#8220;most people:&#8221; You probably only get 1-2 hours of real work in during the day (even though you&#8217;re expected to work 8-10 hours, because it&#8217;s the social norm), and your attention span probably only lets you work 30-60 minutes at a time, which means you&#8217;re just keeping yourself busy for the sake of being busy the other 6-8 hours you <em>should</em> be working.</p>
+<p>Now, be careful with these tips. They <em>could</em> get you fired, because even if you are able to do 8 hours of work in 2 hours, and at the same time you are getting twice as much done as everyone else, you&#8217;ll still be expected to scale that up to 8 hours a day while doing 8 times the work as your co-workers. This just doesn&#8217;t work, so you&#8217;ll have to keep your new efficiency skills secret from your superiors.</p>
+<h2>Working from home</h2>
+<p>When you&#8217;re always at the office, it&#8217;s <em>always</em> expected that you work 8-5 (or something similar), and whatever you get done during that time is a &#8220;good (or at least adequate) job.&#8221; When you work at home, it suddenly becomes all about the results, not how much or from where you work. If you don&#8217;t have to work from the office, you could work two hours (using efficiency techniques explained below), and then spend the rest of your free time studying Japanese. By freeing up this extra time, you will be able to move more quickly on your goals, have more time to relax (a very important thing to do if you want to make progress!), and reach fluency much<em>,</em> <em>much</em> faster. If you already have the ability to work from home 3, 4, 5 days a week, then that&#8217;s great. Skip to the efficiency steps below to cover your tracks and get more done with less effort. If you don&#8217;t know if you&#8217;re able to work from home, keep reading. There&#8217;s a pretty specific way to pull it off.</p>
+<ol>
+<li>Take a sick day or two. Instead of being sick, use the efficiency techniques below to double your work results. Come back to work with solid results and real numbers so that you can show how much more you get done away from the office (you know, without all those distractions).</li>
+<li>Go to your boss and say something like &#8220;Even though I was sick, I worked from home, and truth be told, I got <em>a lot</em> more done at home than I thought. There aren&#8217;t distractions, and it was just <em>really</em> easy to focus. I did ____, _____, and _____ from home, was able to access everything I needed (you may need to install an application like <a href="http://www.gotomypc.com/">GoToMyPC</a> to access your work computer), and really felt distraction free. I could focus!&#8221;</li>
+<li>Ask to be able to work from home <strong>1 day a week</strong>. Make sure to mention it would just be a trial-period, and that it&#8217;s reversible (very important). Most reasonable bosses will okay this, as long as they know that they have the power to make it a no-go if it doesn&#8217;t work out (which you better not let happen!). Be sure you showed up with solid examples of how at-home work differed from at-work work in terms of what you got done.</li>
+<li>After a few weeks of this, ask to extend your at-home work to 2 or 3 days a week. Be sure you have solid results and data on what you&#8217;ve been doing so far (1 day a week from home).</li>
+<li>After another couple of weeks, take the leap and ask for permission to do it 5 days a week. Once again, cite better performance from at home, and even prepare a Power Point if you have to. Most importantly, make sure that you&#8217;re showing real results from working at home so that there&#8217;s real benefit for the boss and company as well. You want to make sure you can help them make a good decision :)</li>
+</ol>
+<p>If you follow these steps, there&#8217;s a good chance you&#8217;ll be able to switch from 9-5 to something more like 9-11 (or 6-9am, if you follow the &#8220;waking up early&#8221; tips coming up) all from the comfort of your PJs. Now&#8217;s the fun part, though&#8230; <em>actually</em> getting things done.</p>
+<h2>Pick ONLY 1-2 important actions to do each day</h2>
+<p>I used to have a huge long to-do list consisting of <em>hundreds</em> of things to do. To be honest, it was very helpful, but overwhelming. Sure, it had literally <em>everything</em> that I need to do on it, and it was organized well, but in the end, it was just too much and I didn&#8217;t quite know what to do next. Being overwhelmed with tasks you need to do is almost as bad as not knowing what you need to do next. When you have too much to do, you just shut down, become confused, and create &#8220;busy work&#8221; in order to put things off. In the end, how much do most people get done in a day anyways?</p>
+<p>Luckily, that&#8217;s not a rhetorical question. If you can get 1-2 <em>important</em> tasks done per day, you&#8217;ll be doing more than 90% of the rest of your office. It may sound harsh, but normal people love filling their days with unimportant (or at the most, moderately important) tasks, like &#8220;checking your e-mail&#8221; or &#8220;reorganizing your calendar.&#8221; Now, when I say &#8220;important tasks,&#8221; I mean <em>actionable tasks</em> that move something forward <em>visibly</em>. If you&#8217;re going to be sneaky, you have to do things that your co-workers and boss can see. If people (including yourself) can&#8217;t see results from it, or what you&#8217;ve done, then it probably wasn&#8217;t all that important to begin with. <strong>It&#8217;s all about setting priorities</strong>, and tasks that don&#8217;t visibly move something forward probably aren&#8217;t high on the priority list.</p>
+<p>At the beginning of the day, I want you to do this: Get a piece of paper (small is good, keep it in your pocket) and write down 1 or 2 <em>important</em> things that you will do that day AND THEN DO THEM. Reduce distracting tasks, and zoom in on what you&#8217;re doing. If you do this right, most &#8220;important&#8221; tasks won&#8217;t take more than an hour to complete (even though your old self would take all day). Do this once or twice a day, and you&#8217;re golden (as long as you&#8217;re working from home, otherwise you have to pretend like you&#8217;re keeping busy the other 6 hours of the day).</p>
+<p>Now, it&#8217;s really important that you don&#8217;t pick more than 1-2 things to do. If you get them done (and you will), then train yourself to relax (this will take some work if you&#8217;re a workaholic like me) and do the things you <em>want</em> to do. Plus, you can always add another to-do if you <em>really want to</em>. Remember, it&#8217;s all about freedom!</p>
+<h2>Batching Your Email, Social Networking, and Other Distracting Tasks</h2>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/webtreatsetc/4130981555/"><img class="aligncenter size-full wp-image-1514" title="socialmedia" src="../../wp-content/uploads/2009/12/socialmedia.png" alt="" width="800" height="177" /></a></p>
+<p>Once you start a task, you should continue doing that task, and not let anything interrupt you. A lot of people think they get more done by multi-tasking. This is 100% BS. Studies have disproven this over and over again. Even listening to music will slow people down and break focus (despite what many of you will think). People who focus on one thing, and only one thing, get more done than 20 self-proclaimed &#8220;multi-taskers&#8221; combined. I hate to break it to you, but if you&#8217;re a multi-tasker, it&#8217;s time to bat for the other team.</p>
+<p>With the Internet, there are so many &#8220;fun&#8221; distractions. Email, Twitter, Facebook, Farmville, Scrabble, YouTube, and so much more take up little bits of our time over and over and over and over and over again all throughout the day. Once we get distracted by one of these things, our focus has been broken, and it takes valuable energy to <strong>re-</strong>focus on your original task. Every time you switch from one thing to another (and then back, as the case may be), you&#8217;re spending time re-adjusting your focus back to something else. It is estimated that distractions big and small (just the distraction part), wastes approximately 2 hours of every day. That&#8217;s two hours you could have to do something else if you cut out those distractions.</p>
+<p>Here&#8217;s what we&#8217;re going to do. Instead of jumping from one thing to another (or even eliminating things), we&#8217;re going to <em>batch and schedule</em>. For example, I check my e-mail once a day, from 11:00am &#8211; 11:30am. Before I switched to this method, I&#8217;d check my e-mail all throughout the day in 10 minute increments, possibly spending two hours on e-mail <em>alone</em>. Now that I batch, I spend 30 minutes a day on email, and get the same amount done. 1/4 the time spent with the same results (perhaps even better results). One thing I found was that the world didn&#8217;t end when I didn&#8217;t check my e-mail. If I wanted, I could set up a vacation autoresponder actually telling people my e-mail schedule so that way they could contact me via telephone if it was an emergency. The thing is, it&#8217;s <em>never</em> an emergency, so checking e-mail once a day is no problem. If you&#8217;re addicted to social media sites like Facebook or Twitter as well, batch those too. Make a schedule and stick to it. If you give yourself 15 minutes, miraculously you&#8217;ll see all you need to see in that time period. It&#8217;s like magic!</p>
+<p>Once you &#8220;batch&#8221; distracting, repetitive tasks, try to slowly spread them farther and farther apart. Right now I do e-mail once a day, but I&#8217;m hoping to eventually do it every other day, or even just once a week. Take it slow and experiment. You&#8217;ll find that it&#8217;s not so bad, and you&#8217;re able to focus on what&#8217;s really important. Email, Facebook, Twitter, and the like are all very addictive, I know first hand. It might take some effort to cut yourself off, but once you do it for a week or two, you&#8217;ll feel relief. It&#8217;s like quitting the cigs. You just have to get past the shakes!</p>
+<p>Besides Email and social media, what other things can you batch? Even outside of the office there&#8217;s a lot you can do to make life more efficient. Here are some things that I try and batch, and you can do the same. The more you batch, the more efficient you will be, and the more time you will have. Remember, once something feels comfortable, try spreading the schedules out even more to see how much you can get away with. It&#8217;ll be more than you think!</p>
+<ul>
+<li>Laundry</li>
+<li>Bills</li>
+<li>Cooking</li>
+<li>Exercising</li>
+<li>Cleaning</li>
+<li>Telephone calls</li>
+<li>Calling friends, family</li>
+<li>Shopping</li>
+<li>What about you? $0.25 <a href="../../rewards/index.html">bounties</a> for more recommendations to this list.</li>
+</ul>
+<h2>Avoiding Time Wasters</h2>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/mobilestreetlife/2682157559/"><img class="size-full wp-image-1515 aligncenter" title="drain" src="../../wp-content/uploads/2009/12/drain.png" alt="" width="800" height="283" /></a></p>
+<p>People, I think, are the biggest time wasters. Now, I&#8217;m not saying you shouldn&#8217;t enjoy the company of others, far from it! Avoid the ones that waste your time, though. That way you can spend more time with the people you care about, or do the things you enjoy most. Offices are very social places (which is nice, because otherwise they would be worse than they already are), which means people like to do small talk. If you&#8217;re working on something important, don&#8217;t let someone distract you. Even more importantly, start <em>training</em> your colleagues to avoid wasting your time. Here are some tips.</p>
+<ul>
+<li>Whenever someone comes to your workspace to ask you something, cut right to the point. Come up with an excuse that makes your time seem urgent. &#8220;I have a call in 5 minutes, what can I do for you?&#8221; This way, they can&#8217;t do any small talk and it will force them to get right to the point. It will also slowly train them over time to treat your time with more importance.</li>
+<li>Try to get people to <em>email</em> you information. When someone comes into your office, use the tactic above, and instead of having them tell you what&#8217;s happening, just ask them to email you the information. Email is more concise, anyways, and a lot easier to deal with.</li>
+<li>Avoid meetings if you can (or at least try to set time limits). If you can get out of a meeting and get the info on it afterwards, do it. Meetings are one of the biggest time wasters in any office, and are usually too drawn out and nothing really important ever gets done.</li>
+<li>Wear a headset and use it to pretend like you&#8217;re talking to someone on the phone whenever someone comes in to ask you something.</li>
+<li>Go to work in the conference room if it&#8217;s available. If you&#8217;re working in the conference room, people will think you&#8217;re up to some serious business and cannot be distracted.</li>
+</ul>
+<h2>Setting Calendar Reminders</h2>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/28481088@N00/315671189/"><img class="aligncenter size-full wp-image-1516" title="calendars" src="../../wp-content/uploads/2009/12/calendars.png" alt="" width="800" height="240" /></a></p>
+<p>This, perhaps, is the single most useful tip in terms of the results you can get from almost no effort at all. <strong>Do this right now</strong>.</p>
+<p>Set up a calendaring system (<a href="http://calendar.google.com">Google Calendar</a> is my favorite, but Outlook, iCal, or anything with an &#8220;alert&#8221; feature will work), and add alarms / alerts that go off every two hours during your work day. These alarms are there to ask you one thing: &#8220;<em>Am I <strong>inventing</strong> work for myself?&#8221;</em></p>
+<p>If the answer is &#8220;yes,&#8221; then it&#8217;s time to refocus on one of those &#8220;important tasks&#8221; we talked about earlier. If the answer is &#8220;no,&#8221; then you can keep doing whatever you&#8217;re doing. By &#8220;inventing work&#8221; you&#8217;re just wasting a whole lot of time.</p>
+<p>It&#8217;s so easy to lapse back into &#8220;work for work&#8217;s sake,&#8221; and having simple reminders will help you stay on track, and even train you stay focused. Seriously, one of the best things I&#8217;ve done for myself in a long time, and I suggest you do the same.</p>
+<h2>Setting Strict Time Limits</h2>
+<p>Do you remember Parkinson&#8217;s Law from Season 1?</p>
+<blockquote><p><em>&#8220;A task will swell in (perceived) importance and complexity in relation to the time allotted for its completion.&#8221;</em></p></blockquote>
+<p>In college, I&#8217;d get my papers and research done whether I started 12 hours before they were due, or 12 weeks before they were due. To be honest, it almost didn&#8217;t matter when I started, and usually the end product was better if I waited until there was no time left. Why? Because when you wait until the last minute, and when you don&#8217;t have time to get something done, you focus on <em>what&#8217;s important </em>and only what&#8217;s important. When you have more time you&#8217;ll do a lot more, much of which isn&#8217;t all that necessary, and certainly not <em>important</em>. By setting strict time limits with yourself (and I really do mean strict), you&#8217;ll be getting a lot more done in a lot less time, mostly because you have no choice. I know every single one of you knows what this is like, getting a paper done at the last minute. It works, right?</p>
+<ul>
+<li>Give yourself <em>aggressive</em> timelines for getting a project done. Don&#8217;t be easy on yourself, otherwise you&#8217;re just wasting time. 72 hours for big projects is usually a pretty good timeline.</li>
+<li>Setting strict time limits will help you focus on what&#8217;s important and what really needs to get done. Use this energy to plow through projects that should normally take days and get it done in a matter of hours. Sure, you could spend a <em>whole week</em> getting something 99% perfect, but really, why not spend <em>a couple hours</em> and get it 95% perfect instead? They&#8217;re both pretty darn <em>good</em>.</li>
+<li>Break your workday up into 60-90 minute increments. Use a stopwatch. Once the timer runs out, you can&#8217;t work on whatever you&#8217;re working on until tomorrow. The timer will help push you to stay focused, as long as you&#8217;re actually serious about postponing work to the next day if you don&#8217;t get it done.</li>
+<li>If you do have something that actually does take a lot of time <em>and</em> requires daily work (and this should be pretty rare), stop working on something when you&#8217;re feeling like you&#8217;re doing really well (and enjoying it). Why stop when things are going swell? Because then you&#8217;ll be easily motivated to start working on it the next day. If you stop at a point where you&#8217;re not feeling good about the project, you won&#8217;t want to continue.</li>
+</ul>
+<h1 style="text-align: center;">STUDYING AT WORK<br />
+WITHOUT GETTING CAUGHT</h1>
+<p style="text-align: center;"><em>“Intelligence is the ability to avoid doing work, yet getting the work done”</em> &#8211; <strong>Linus Torvalds</strong></p>
+<p style="text-align: left;">The easiest way to study Japanese at work without getting caught, of course, is by negotiating for the ability to work from home. As long as you get those 1-2 important actionable tasks done per day, nobody will ask questions and you&#8217;ll be able to spend 3/4 of your normal work hours doing what you want (in theory, that would be studying Japanese, but you get the picture). Unfortunately, the world doesn&#8217;t always work the way we want it to, and there&#8217;s a good chance that your job (or whatever it is you spend a lot of time doing during the day) doesn&#8217;t have this kind of flexibility, or your job requires you to be publicly visible at all times. This section, my friend, is for you.</p>
+<h2>Translating The Things You Work With</h2>
+<p>When you do something that definitely won&#8217;t let you work at home (like working at McDonalds, maybe?), you&#8217;ll have to get a little bit creative with your at-work studying. One thing you can do is make a list of all the things in your work-area. Hamburgers, fries, spatulas, etc., bring that home, and then find the translations for all of those words using something like <a href="http://jisho.org">jisho</a>. Then, the next day when you&#8217;re at work, try to actually think in Japanese (at least with the vocab). Whenever you look at a spatula think &#8220;spatula&#8221; in Japanese. Whenever you look at a hamburger think &#8220;hamburger&#8221; in Japanese. Create your own special &#8220;at-work&#8221; list on <a href="http://smart.fm">Smart.fm</a> and study it at home and at work (when you have &#8220;real-life&#8221; flashcards to work with).</p>
+<p>Then, when you feel comfortable with the vocabulary on its own, start utilizing the grammar you&#8217;ve learned: これ　は　spatula　です, etc. Figure out ways to integrate and practice the grammar with the new vocabulary words whenever possible. By the end of the day, you&#8217;ll be a master of all grammar types, local nouns, and you&#8217;ll have spent 8 hours studying Japanese (and get paid for it!).</p>
+<p>The main thing to be careful of is not weirding out your co-workers, though. It&#8217;s one thing to practice, it&#8217;s another thing to be &#8220;that guy.&#8221; That&#8217;s not the goal here.</p>
+<h2>Passive Study Through Osmosis</h2>
+<p>When all else fails, study through osmosis is the way to go. If you have an iPod, you&#8217;re set (and if you don&#8217;t, then go grab yourself a Shuffle or something inexpensive&#8230; or expensive if you really want). Japanese Podcasts are 100% free on iTunes, and they&#8217;re a deep deep resource of the Japanese language being spoken. To be honest, it doesn&#8217;t matter much <em>what</em> you listen to, just make sure it&#8217;s a podcast and it&#8217;s free. Here are the steps to access Japanese podcasts:</p>
+<ol>
+<li>Download <a href="http://itunes.com">iTunes</a></li>
+<li>Go to the iTunes store.</li>
+<li>Create an account.</li>
+<li>Scroll to the very bottom of the store, and click the flag symbol. Switch it to Japan / 日本</li>
+<li>Click on &#8220;Podcasts&#8221;</li>
+<li>Download a ton of them.</li>
+</ol>
+<p>Studying through osmosis can be very effective&#8230; in VERY LARGE DOSES. You&#8217;ll have to do this every day for as much time as possible if you want this to have an effect on you. Couple this with the rest of TextFugu and you&#8217;ll have a very powerful Japanese learning force to be reckoned with. Some things to keep in mind about this style of study, though:</p>
+<ul>
+<li>It can be very <em>very distracting</em>. Never listen to anything while you&#8217;re working on something important, and that includes study. Focus, remember?</li>
+<li>Passive listening will be slow going, but if you actively try to listen (even if you don&#8217;t understand what&#8217;s going on), it will be a lot more effective and you&#8217;ll start recognizing things as your brain adjusts.</li>
+<li>Listening to the same show over and over is good. You&#8217;ll start to pick things up after you get some repetition going.</li>
+</ul>
+<p>For most people, I don&#8217;t necessarily recommend this, but there are definitely certain jobs which lend themselves perfectly to this kind of &#8220;study,&#8221; when all else fails. Things like delivery, construction, local retail, etc., are perfect.</p>
+<h2>Privatizing Your Computer</h2>
+<p>If you <em>do</em> have an office, and you can study at work (<a href="http://smart.fm">Smart.fm</a>, anyone?), then there are ways to avoid getting caught. Now, if you <em>do</em> get caught, that&#8217;s not my fault. You&#8217;ll have to figure your own way out of that one, so I&#8217;d recommend coming up with an excuse, like: &#8220;oh, I was just taking my break. I started learning Japanese recently and have been using my breaks to get better, want to see?&#8221; is a good one to avoid taking any blame. If you don&#8217;t sound guilty, it&#8217;s hard to blame you for being guilty.</p>
+<p>There are some other things you can do to prevent getting caught however:</p>
+<ol>
+<li>Get a privacy screen for your computer. This way, only people who are at the exact right angle can see it.</li>
+<li>Learn the shortcut keys for closing / minimizing windows, or switching between applications. If you&#8217;re quick enough, you&#8217;ll be able to hear someone coming and then switch back to &#8220;work&#8221; before anyone notices.</li>
+<li>Make sure you find out if your office tracks computer / internet use. This varies from place to place, so you&#8217;ll have to ask your &#8220;tech&#8221; person. If this is a problem, consider bringing another laptop to work if you have one, or even an iPod Touch / iPhone / other smart phone will work too.</li>
+</ol>
+<p>Remember, don&#8217;t get caught, and if you do, have a great excuse ready. In reality, studying Japanese at work isn&#8217;t the worst thing you could be doing, if you know what I mean. Wink wink, nudge nudge, saynomore saynomore.</p>
+<h1 style="text-align: center;">WAKING UP EARLY</h1>
+<p style="text-align: center;"><em>“Some people dream of success while others wake up and work hard at it.”</em></p>
+<p style="text-align: center;"><em><a href="http://www.flickr.com/photos/striatic/2440296/"><img class="aligncenter size-full wp-image-1518" title="alarmclock" src="../../wp-content/uploads/2009/12/alarmclock.png" alt="" width="800" height="215" /></a></em></p>
+<p>Waking up early has to be one of the worst things in the world, but if you think about it, there are so many benefits to do so, even beyond creating more time for yourself.</p>
+<ul>
+<li>Most people get more done in the morning.</li>
+<li>You have some extra time to clear your head and prepare for the day.</li>
+<li>There are fewer interruptions because nobody&#8217;s awake to interrupt you.</li>
+<li>You spend more time awake (on average).</li>
+</ul>
+<p>The hard part of this section, though, is <em>actually waking up early</em>. I&#8217;ll be honest, I&#8217;m not all that good at it, but I have done a lot of research on the matter. The best way to do it, apparently, is the following.</p>
+<ol>
+<li>Decide when you want to wake up, and wake up at this time <em>every</em> morning. I&#8217;d recommend something like 5:00am.</li>
+<li>Don&#8217;t have a set time to go to sleep. Your body will tell you this. When your brain starts to release hormones telling you it&#8217;s sleepy time, don&#8217;t fight it and go to bed. In the long run, you&#8217;ll sleep a lot less, even if you end up going to bed a bit earlier (my guess is that it&#8217;ll probably average out at about 11pm). If you&#8217;re not tired, don&#8217;t go to sleep, because your body knows how much sleep you need, especially as your body has gotten used to your new schedule.</li>
+<li>Set your alarm, and make sure it&#8217;s across the room. Once you&#8217;re up, go somewhere else (besides your bedroom). Go to the bathroom, stumble to the kitchen, whatever. Just <em>get away from the bed</em>. It&#8217;s too tempting.</li>
+<li>Train yourself to avoid the voices in your head saying &#8220;Oh, but it would feel soooo good to sleep some more.&#8221; This is the one I have trouble with. Don&#8217;t even start.</li>
+<li>After a week or two, you&#8217;ll get used to this. The important thing is to follow the signs your body gives, and go to sleep when you need to (and don&#8217;t fight it). Avoid games, television, etc., too soon before you go to sleep as well. Reading fiction is great.</li>
+<li>This is a good one for coffee-addicts: &#8220;Smell the coffee and wake up!&#8221; There are coffee makers that you can set to make coffee for you automatically in the morning when it&#8217;s time to wake up. The smell of coffee is a good way to get you out of bed. (Submitted by TextFugu Member <span style="color: #008000;">Sumi</span>)</li>
+<li>If you have a pet, train it to be fed or need to go out at a certain time (preferably sometime early). Either they will bug you so much that you get up, or you&#8217;ll have to get up (before they pee on the carpet), which will get you up, moving, and ready to start the day (Submitted by TextFugu Member <span style="color: #008000;">kaxxina</span>).</li>
+<li>The problem with alarm clocks is that it is so easy to just fall back asleep. Doing something will help you wake up, and I personally can&#8217;t go to sleep with my clothes on. Leaving your alarm clock going while getting dressed is a huge plus. If it&#8217;s one of those clocks that just keeps ringing and ringing, it will annoy the hell out of you. I think it&#8217;s important that your alarm not be pleasant. I use an Ultraman alarm clock from back when I was a little tadpole. The bed is even more attractive in the morning during the winter with all those warm covers. Have something warm ready to put on too! (Submitted by TextFugu Member <span style="color: #008000;">FeelYourUFO</span>)</li>
+<li>Try taking a shower and brushing you teeth immediately after getting out of bed.  It removes almost all desires to sleep (Submitted by <span style="color: #008000;">Justin</span>)</li>
+<li>If you happen to have someone sleeping with you regularly, get that person to &#8220;kick you out of bed&#8221;. When I have my alarm set for 5 am and I snooze for an extra hour, my alarm goes off about 3 times in that hour. When my partner does not need to be awake that early, she&#8217;ll make sure I get up the first time my alarm goes off so she can keep sleeping. Also, it&#8217;s basically the same thing as when you were suggesting to have people keep you accountable for your learning (Telling people about your intentions &#8211; how to start to learn Japanese &#8211; Season 1) but now it&#8217;s about having your partner keeping you accountable for getting up early. (Submitted by <span style="color: #008000;">JD</span>)</li>
+<li>Set-up two alarm clocks. One is the standard alarm clock you have and the other one could be your cellphone. Set the alarm time around 5-10 minutes apart. When your first alarm clock goes off and you&#8217;re up, good. The second alarm would just be a little reminder or an extra boost. On the other hand, should you turn off the first one and you end up going back to bed, the second alarm serves as a back-up / an insurance policy of sorts. That&#8217;s how I get by everyday (Submitted by <span style="color: #008000;">arashikat</span>)</li>
+<li>This is what I currently use; I put something I REALLY like to do in the morning (computer, gaming, drawing, TV) and make it the first thing I do. This makes waking up so much easier (and enjoyable!), thus changing your outlook of waking up from chore to highlight of the day. (Submitted by <span style="color: #008000;">Jdkce</span>)</li>
+<li>To accompany the previous method (#12), which wakes up your mind&#8217;s eagerness, this trick helps your BODY to get out of bed. By drinking lots of water the minute you get up (I keep a 1.5 liter bottle at my bedside and I drink about .5 to 1 litre in the morning). Your stomach will get accustomed to being filled at that time, thus hunger will wake you up. It may sound a little gruesome, but this type of hunger is a feeling of emptiness in your stomach, not a dinnertime gastric hunger. This is based on what competitive eaters do before the day of a competition, drink LOTS of water. This is of course, not recommended for everyone. (Submitted by <span style="color: #008000;">Jdkce</span>)</li>
+</ol>
+<p>There you have it&#8230; that sounds kind of &#8230; hard, right? Well, hopefully waking up early is the most difficult thing in this textbook. Waking up early is optional, of course, but still highly recommended if you can do it. Waking up early will give you so much more time, and if you do it right, you&#8217;ll be done with your &#8220;work&#8221; day by 11am, leaving the rest of the day to do whatever you want.</p>
+<p><strong>Before You Move On:</strong></p>
+<ul>
+<li>Figure out the time wasters and distractions in your life and write them down. What can you do about each one to snuff it at its source? What things aren&#8217;t <em>important</em>? What can you cut completely?</li>
+<li>What regular tasks can you batch to save time? Figure out what they are and set an aggressive schedule. If batching them into daily tasks works with no problem, try every other day. Keep pushing the envelope, and adjust when necessary.</li>
+<li>Would it be possible to do your job from home? If so, take the first actionable step towards making that happen. Talk to your boss about doing it once a week, preferably a Monday or a Friday, so you can have a 3 day weekend.</li>
+<li>Set up calendar reminders to ask yourself if you&#8217;re &#8220;inventing work&#8221; or if you&#8217;re actually doing something important (there&#8217;s only a couple things to choose from!)</li>
+<li>Start a daily to-do list (a scratch paper will work perfectly), and only focus on the <em>now</em>. Write 1-2 things to do today, and do them. By now you should have removed all distractions.</li>
+<li>Get used to setting aggressive timelines and time limits for everything you do. Be strict so you actually feel the need to get your projects done in the short amount of time allotted.</li>
+<li>Figure out how you can integrate Japanese study in with your work, whether that&#8217;s listening to Podcasts, translating the things you commonly work with, or setting up more privacy screens on your work area computer.</li>
+<li>Give waking up early a shot. It&#8217;s not easy, I can tell you from experience, but you get <em>so much</em> done early in the morning, and strangely enough you feel more energized once you get used to it (and once you get out of bed).</li>
+</ul>
+<p style="text-align: right;"><a href="../learning-katakana/index.html">Learning Katakana →</a></p>
+<p style="text-align: left;"><a style="display:none;" id="ddetlink790227749" href="javascript:expand(document.getElementById('ddet790227749'))">Photo Sources: </a>
+<div class="ddet_div" id="ddet790227749"><script language="JavaScript" type="text/javascript">expand(document.getElementById('ddet790227749'));expand(document.getElementById('ddetlink790227749'))</script></p>
+<ul>
+<li><a href="http://www.flickr.com/photos/herval/406295610/">http://www.flickr.com/photos/herval/406295610/</a></li>
+<li><a href="http://www.flickr.com/photos/herval/378224416/">http://www.flickr.com/photos/herval/378224416/</a></li>
+<li><a href="http://www.flickr.com/photos/herval/424009328/">http://www.flickr.com/photos/herval/424009328/</a> </div></li>
+</ul>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                                                    
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>

@@ -1,0 +1,1958 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>TextFugu  |  8 Stroke Kanji</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/beveled/bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../../soundmanager/css/mp3-player-button.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Feed" href="http://feeds.feedburner.com/Textfugu" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; Comments Feed" href="http://www.textfugu.com/comments/feed/?wpmfeedkey=14849;b7f3c6975d29684b7165865443335085" />
+<link rel="alternate" type="application/rss+xml" title="TextFugu &raquo; 8 Stroke Kanji Comments Feed" href="http://www.textfugu.com/kanji/8-stroke/feed/" />
+<link rel='stylesheet' id='furigana_css-css'  href='../../wp-content/plugins/wp-furigana/ruby.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='http://www.textfugu.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='../../wp-content/themes/beveled/css/layout.css%3Fver=3.5.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='http://www.textfugu.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.3.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js%3Fver=1.8.3'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-furigana/wpfurigana.js%3Fver%255B0%255D=1.7.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/comment-reply.min.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/third-party.js%3Fver=3.5.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/beveled/includes/js/general.js%3Fver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php%3Frsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='4. Actions And Consequences' href='../../season-5/tara/7-4/index.html' />
+<link rel='next' title='9 Stroke Kanji' href='../9-stroke/index.html' />
+<link rel='canonical' href='index.html' />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/plugins/ban-user-by-ip/css/style.css" />
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+	
+<script language="JavaScript" type="text/javascript"><!-- 
+function expand(param) { 
+param.style.display=(param.style.display=="none") ? "" : "none"; 
+} 
+//--></script>
+
+<!-- Running WishList Member v2.71.1440 -->
+<style type='text/css'>
+/* The Main Widget Enclosure */
+.WishListMember_Widget {
+
+	color:#000000;
+        background-color: #fffbcc;
+	font-family:georgia,times;
+	font-size:12px;
+	font-weight:normal;
+	letter-spacing:normal;
+	line-height:1.2em;
+	margin:0 0 30px;
+	padding:0;
+	text-align:left;
+        border: #e6db55 solid 2px;
+        padding: 10px;
+        width: 380px;
+
+ }
+
+
+/* The Main Login Merge Code Enclosure */
+.WishListMember_LoginMergeCode{ }
+</style>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=no" name="viewport"/>
+
+        <style type="text/css">
+            #wpadminbar .ab-top-menu > li.menupop.icon-gdbb-toolbar > .ab-item {
+                background-image: url('http://www.textfugu.com/wp-content/plugins/gd-bbpress-tools/gfx/menu.png');
+                background-repeat: no-repeat;
+                background-position: 0.85em 50%;
+                padding-left: 32px;
+            }
+        </style>
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:r,b,i,bi|Lobster|Droid+Serif:r,b,i,bi|Ubuntu:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="../../wp-content/themes/beveled/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="../../wp-content/themes/beveled/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="../../wp-content/themes/beveled/custom.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page page-id-13097 page-parent page-child parent-pageid-2313 page-template page-template-template-page-wide-php logged-in safari layout-left-content">
+
+<div id="wrapper">
+
+    
+    <div id="header-wrap">
+
+			    
+	    
+
+		<header id="header" class="col-full">
+		
+								
+			<a id="logo" href="../../wishlist-member/index.html">
+				<img src="http://cdn.textfugu.com/images/logo.png" />
+			</a>
+			
+						
+
+			<nav id="navigation" role="navigation">
+				
+								
+			<ul id="main-nav" class="nav"><li id="menu-item-33821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33821"><a href="../../lessons/index.html">Lessons</a>
+<ul class="sub-menu">
+	<li id="menu-item-33822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33822"><a href="../../lessons/index.html#s1">Season 1</a></li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823"><a href="../../lessons/index.html#s">Season 2</a></li>
+	<li id="menu-item-33827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33827"><a href="../../lessons/index.html#s3">Season 3</a></li>
+	<li id="menu-item-33828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33828"><a href="../../lessons/index.html#s4">Season 4</a></li>
+	<li id="menu-item-33829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33829"><a href="../../lessons/index.html#s5">Season 5</a></li>
+	<li id="menu-item-33830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33830"><a href="../../lessons/index.html#s6">Season 6</a></li>
+	<li id="menu-item-33831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33831"><a href="../../lessons/index.html#s7">Season 7</a></li>
+	<li id="menu-item-37168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37168"><a href="../../lessons/index.html#s8">Season 8</a></li>
+</ul>
+</li>
+<li id="menu-item-33836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33836"><a href="../../testing/kanji/index.html">Kanji</a></li>
+<li id="menu-item-33832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33832"><a href="http://www.textfugu.com/bb/">Forum</a></li>
+<li id="menu-item-33834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33834"><a href="http://www.textfugu.com/wp-admin/profile.php">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-34145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34145"><a href="../../dl/index.html">Downloads</a></li>
+	<li id="menu-item-33835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33835"><a href="http://www.textfugu.com/login/?action=logout&amp;_wpnonce=35bd7317a3&amp;redirect_to=http%3A%2F%2Fwww.textfugu.com%2Flessons%2F%3Floggedout%3Dtrue">Log Out</a></li>
+</ul>
+</li>
+<li id="menu-item-33833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33833"><a href="../../contact/index.html">Contact</a></li>
+</ul>			
+	
+	
+						
+			</nav><!-- /#navigation -->
+	
+		</header><!-- /#header -->
+		
+	</div><!-- /#header-wrap -->
+		       
+<div id="content-wrap">
+       
+    <div id="content" class="page col-full">
+		<section id="main" class="fullwidth lesson">
+            
+		                                                                     
+                <article class="post-13097 page type-page status-publish hentry">
+
+                    <section class="entry">
+	                	<h1>8 Stroke Kanji</h1>
+<h4>&#8220;If your actions create a legacy that inspires others to dream more, learn more, do more, and become more, than you are an excellent leader.&#8221; &#8211; Dolly Parton</h4>
+<p>Eight is great.</p>
+<p><a name="1"></a></p>
+<table>
+<tbody>
+<tr class="yellow">
+<td><strong>Kanji</strong></td>
+<td><strong>Meaning<br />
+</strong></td>
+<td><strong>音 (on)<br />
+</strong></td>
+<td><strong>訓 (kun)<br />
+</strong></td>
+<td><strong>Strokes<br />
+</strong></td>
+<td><strong>Level<br />
+</strong></td>
+</tr>
+<tr>
+<td>学</td>
+<td>Study</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>1</td>
+</tr>
+<tr>
+<td>林</td>
+<td>Woods</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>1</td>
+</tr>
+<tr>
+<td>空</td>
+<td>Sky</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>1</td>
+</tr>
+<tr>
+<td>金</td>
+<td>Gold</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>1</td>
+</tr>
+<tr>
+<td>雨</td>
+<td>Rain</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>1</td>
+</tr>
+<tr>
+<td>青</td>
+<td>Blue</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>1</td>
+</tr>
+<tr>
+<td>京</td>
+<td>Capital</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>国</td>
+<td>Country</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>夜</td>
+<td>Night</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>妹</td>
+<td>Younger Sister</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>姉</td>
+<td>Older Sister</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>岩</td>
+<td>Boulder</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>店</td>
+<td>Shop</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>明</td>
+<td>Bright</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>東</td>
+<td>East</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>歩</td>
+<td>Walk</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>画</td>
+<td>Tableau</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>直</td>
+<td>Straight</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>知</td>
+<td>Know</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>長</td>
+<td>Long</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>門</td>
+<td>Gates</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>事</td>
+<td>Abstract Thing</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>使</td>
+<td>Use</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>具</td>
+<td>Tool</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>取</td>
+<td>Take</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>受</td>
+<td>Accept</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>味</td>
+<td>Flavor</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>命</td>
+<td>Fate</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>和</td>
+<td>Peace</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>始</td>
+<td>Begin</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>委</td>
+<td>Committee</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>定</td>
+<td>Decide</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>実</td>
+<td>Truth</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>岸</td>
+<td>Beach</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>幸</td>
+<td>Happiness</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>所</td>
+<td>Place</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>放</td>
+<td>Release</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>昔</td>
+<td>Long Ago</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>服</td>
+<td>Clothes</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>板</td>
+<td>Board</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>油</td>
+<td>Oil</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>波</td>
+<td>Wave</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>注</td>
+<td>Pour</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>泳</td>
+<td>Swim</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>物</td>
+<td>Thing</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>者</td>
+<td>Someone</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>育</td>
+<td>Nurture</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>苦</td>
+<td>Suffer</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>表</td>
+<td>Express</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>3</td>
+</tr>
+<tr>
+<td>例</td>
+<td>Example</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>典</td>
+<td>Code</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>刷</td>
+<td>Printing</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>卒</td>
+<td>Graduate</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>協</td>
+<td>Cooperation</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>参</td>
+<td>Participate</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>周</td>
+<td>Circumference</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>固</td>
+<td>Hard</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>季</td>
+<td>Seasons</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>官</td>
+<td>Government Official</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>底</td>
+<td>Bottom</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>府</td>
+<td>Urban Prefecture</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>径</td>
+<td>Diameter</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>念</td>
+<td>Thought</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>松</td>
+<td>Pine</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>果</td>
+<td>Fruit</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>毒</td>
+<td>Poison</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>治</td>
+<td>Govern</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>法</td>
+<td>Method</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>泣</td>
+<td>Cry</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>牧</td>
+<td>Breed</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>的</td>
+<td>Target</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>芽</td>
+<td>Bud</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>英</td>
+<td>England</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>価</td>
+<td>Value</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>制</td>
+<td>Control</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>券</td>
+<td>Ticket</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>効</td>
+<td>Effect</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>妻</td>
+<td>Wife</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>居</td>
+<td>Reside</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>往</td>
+<td>Outward Journey</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>性</td>
+<td>Gender</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>承</td>
+<td>Acquiesce</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>招</td>
+<td>Beckon</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>易</td>
+<td>Easy</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>枝</td>
+<td>Branch</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>武</td>
+<td>Military</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>河</td>
+<td>River</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>版</td>
+<td>Printing Block</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>肥</td>
+<td>Fertilizer</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>舎</td>
+<td>Cottage</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>述</td>
+<td>Mention</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>非</td>
+<td>Negative</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>並</td>
+<td>Line Up</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>乳</td>
+<td>Milk</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>供</td>
+<td>Offer</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>刻</td>
+<td>Engrave</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>呼</td>
+<td>Call</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>垂</td>
+<td>Droop</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>宗</td>
+<td>Religion</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>宙</td>
+<td>Mid-Air</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>宝</td>
+<td>Treasure</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>届</td>
+<td>Deliver</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>延</td>
+<td>Prolong</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>忠</td>
+<td>Loyalty</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>担</td>
+<td>Shouldering</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>拝</td>
+<td>Worship</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>拡</td>
+<td>Broaden</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>枚</td>
+<td>Sheet Of&#8230;</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>沿</td>
+<td>Run Alongside</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>若</td>
+<td>Young</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>享</td>
+<td>Receive</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>佳</td>
+<td>Excellent</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>併</td>
+<td>Join</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>侍</td>
+<td>Waiter</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>依</td>
+<td>Reliant</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>侮</td>
+<td>Scorn</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>免</td>
+<td>Excuse</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>到</td>
+<td>Arrival</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>刺</td>
+<td>Thorn</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>劾</td>
+<td>Censure</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>卓</td>
+<td>Eminent</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>叔</td>
+<td>Uncle</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>坪</td>
+<td>Two-Mat Area</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>奇</td>
+<td>Strange</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>奉</td>
+<td>Observance</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>奔</td>
+<td>Bustle</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>姓</td>
+<td>Surname</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>孤</td>
+<td>Orphan</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>宜</td>
+<td>Best Regards</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>尚</td>
+<td>Esteem</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>屈</td>
+<td>Yield</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>岬</td>
+<td>Headland</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>岳</td>
+<td>Point</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>弦</td>
+<td>Bowstring</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>弧</td>
+<td>Arc</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>彼</td>
+<td>He</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>征</td>
+<td>Subjugate</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>怖</td>
+<td>Dreadful</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>怪</td>
+<td>Suspicious</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>房</td>
+<td>Tassel</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>披</td>
+<td>Expose</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>抱</td>
+<td>Embrace</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>抵</td>
+<td>Resist</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>抹</td>
+<td>Rub</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>押</td>
+<td>Push</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>抽</td>
+<td>Pluck</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>拍</td>
+<td>Clap</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>拐</td>
+<td>Kidnap</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>拒</td>
+<td>Repel</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>拓</td>
+<td>Clear (the land)</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>拘</td>
+<td>Arrest</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>拙</td>
+<td>Bungling</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>拠</td>
+<td>Foothold</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>斉</td>
+<td>Adjusted</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>昆</td>
+<td>Descendants</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>昇</td>
+<td>Rise Up</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>杯</td>
+<td>Counter For Cupfuls</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>析</td>
+<td>Chop</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>枠</td>
+<td>Frame</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>枢</td>
+<td>Hinge</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>欧</td>
+<td>Europe</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>殴</td>
+<td>Assault</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>沸</td>
+<td>Seethe</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>沼</td>
+<td>Marsh</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>況</td>
+<td>Condition</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>泊</td>
+<td>Overnight</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>泌</td>
+<td>Ooze</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>泡</td>
+<td>Bubbles</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>泥</td>
+<td>Mud</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>炉</td>
+<td>Hearth</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>炊</td>
+<td>Cook</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>炎</td>
+<td>Inflamation</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>盲</td>
+<td>Blind</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>祈</td>
+<td>Pray</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>祉</td>
+<td>Welfare</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>突</td>
+<td>Stab</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>肢</td>
+<td>Limb</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>肩</td>
+<td>Shoulder</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>肪</td>
+<td>Obese</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>肯</td>
+<td>Agreement</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>苗</td>
+<td>Seedling</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>茂</td>
+<td>Overgrown</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>茎</td>
+<td>Stalk</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>迫</td>
+<td>Urge</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>迭</td>
+<td>Transfer</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>邪</td>
+<td>Wicked</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>邸</td>
+<td>Residence</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>阻</td>
+<td>Thwart</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>附</td>
+<td>Affixed</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>刹</td>
+<td>Temple</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>呪</td>
+<td>Charm</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>奈</td>
+<td>What</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>妬</td>
+<td>Jealousy</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>宛</td>
+<td>Allocate</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>岡</td>
+<td>Hill</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>弥</td>
+<td>All The More</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>拉</td>
+<td>Crush</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>旺</td>
+<td>Flourishing</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>枕</td>
+<td>Pillow</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>狙</td>
+<td>Aim At</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>玩</td>
+<td>Trifle With</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>股</td>
+<td>Crotch</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>苛</td>
+<td>Torment</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>虎</td>
+<td>Tiger</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>采</td>
+<td>Form</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+<tr>
+<td>阜</td>
+<td>Mound</td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>S</td>
+</tr>
+</tbody>
+</table>
+<p>asdfSS</p>
+	               	</section><!-- /.entry -->
+
+					
+                </article><!-- /.post -->
+                
+                <div class="aligncenter"> 
+         		<a href="http://goo.gl/FQBCM" onclick="window.open(this.href,  null, 'height=910, width=680, toolbar=0, location=0, status=1, scrollbars=1, resizable=1'); return false"><div style="width: 100px;background-color:#fff; padding:5px; margin:-20px auto 0 auto;text-align:center;">Bounty?</div></a>
+	        </div>                                      
+			  
+        
+		</section><!-- /#main -->
+		
+    </div><!-- /#content -->
+		
+
+	</div><!-- /#content-wrap -->
+
+    <div id="footer-wrap">
+    
+	<section id="footer-widgets" class="col-full col-4 fix">
+
+																				
+		<div class="block footer-widget-4">
+        	<div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
+		</div>		</div>
+
+	        		
+	</section><!-- /#footer-widgets  -->
+
+	<footer id="footer" class="col-full">
+
+		<div id="copyright" class="col-left">
+					<p>TextFugu &copy; Tofugu LLC. All Rights Reserved, よ</p>
+				</div>
+
+		<div id="credit" class="col-right">
+        			<p><a href="http://youtu.be/TbiedguhyvM" target="_blank">Do Not Click Me</a></p>
+				</div>
+
+	</footer><!-- /#footer  -->
+
+	</div><!-- /#footer-wrap -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("null");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--[if lt IE 9]>
+<script src="http://www.textfugu.com/wp-content/themes/beveled/includes/js/respond.js"></script>
+<![endif]-->
+
+<!-- Woo Tabs Widget -->
+<script type="text/javascript">jQuery(document).ready(function(){var a="#tagcloud";var b=jQuery("#tagcloud").height();jQuery(".inside ul li:last-child").css("border-bottom","0px");jQuery(".wooTabs").each(function(){jQuery(this).children("li").children("a:first").addClass("selected")});jQuery(".inside > *").hide();jQuery(".inside > *:first-child").show();jQuery(".wooTabs li a").click(function(a){var b=jQuery(this).attr("href");jQuery(this).parent().parent().children("li").children("a").removeClass("selected");jQuery(this).addClass("selected");jQuery(this).parent().parent().parent().children(".inside").children("*").hide();jQuery(".inside "+b).fadeIn(500);a.preventDefault()})})</script>
+
+
+	<script type="text/javascript" src="../../soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
+	<script type="text/javascript" src="../../soundmanager/script/mp3-player-button.js"></script>
+	<script>
+	soundManager.setup({
+	  // required: path to directory containing SM2 SWF files
+	  url: '/soundmanager/swf/'
+	});
+	</script>
+	
+	<script>
+	$(document).ready(function() {
+	  $('.entry img').removeAttr('height');
+	});
+	</script>
+
+</body>
+</html>
